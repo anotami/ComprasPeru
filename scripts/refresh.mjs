@@ -23,6 +23,7 @@
  *   LINK_MODE            deeplink (def.) | raw | manual
  *   ANTHROPIC_API_KEY    para redactar el copy
  *   ANTHROPIC_MODEL      def. claude-haiku-4-5
+ *   ANTHROPIC_WORKSPACE_ID  si tu key es de workspace (error 400 "workspace-id required")
  *   PEN_USD              tipo de cambio para el precio de referencia (def. 3.75)
  */
 
@@ -49,6 +50,18 @@ const AFF_KEY = process.env.ALIEXPRESS_AFF_KEY || "";
 const LINK_MODE = process.env.LINK_MODE || "deeplink";
 const ANTHROPIC_KEY = process.env.ANTHROPIC_API_KEY || "";
 const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL || "claude-haiku-4-5";
+// Requerido si tu API key está ligada a un workspace ("identity-linked").
+const ANTHROPIC_WS = process.env.ANTHROPIC_WORKSPACE_ID || "";
+
+function anthropicHeaders() {
+  const h = {
+    "content-type": "application/json",
+    "x-api-key": ANTHROPIC_KEY,
+    "anthropic-version": "2023-06-01",
+  };
+  if (ANTHROPIC_WS) h["anthropic-workspace-id"] = ANTHROPIC_WS;
+  return h;
+}
 const PEN_USD = Number(process.env.PEN_USD || "3.75");
 
 // Pacing anti-rate-limit. AliExpress empieza a tirar captcha tras ~15-20
@@ -375,11 +388,7 @@ ${JSON.stringify(payload, null, 1)}`;
 
   const res = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
-    headers: {
-      "content-type": "application/json",
-      "x-api-key": ANTHROPIC_KEY,
-      "anthropic-version": "2023-06-01",
-    },
+    headers: anthropicHeaders(),
     body: JSON.stringify({
       model: ANTHROPIC_MODEL,
       max_tokens: 8000,
@@ -406,11 +415,7 @@ async function anthropicPreflight() {
   try {
     const res = await fetch("https://api.anthropic.com/v1/messages", {
       method: "POST",
-      headers: {
-        "content-type": "application/json",
-        "x-api-key": ANTHROPIC_KEY,
-        "anthropic-version": "2023-06-01",
-      },
+      headers: anthropicHeaders(),
       body: JSON.stringify({
         model: ANTHROPIC_MODEL,
         max_tokens: 8,

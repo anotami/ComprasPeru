@@ -43,6 +43,7 @@ jobs:
           LINK_MODE: ${{ vars.LINK_MODE || 'deeplink' }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || '' }}
+          ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID || '' }}
           PEN_USD: ${{ vars.PEN_USD || '' }}
 
       - name: Verificar que el sitio compila
