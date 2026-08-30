@@ -460,6 +460,63 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
   display: inline-flex; align-items: center; gap: .4rem;
 }
 
+/* ---------- Subcategorías ---------- */
+.crumbs {
+  font-family: var(--font-mono);
+  font-size: .74rem;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  display: flex; flex-wrap: wrap; align-items: center; gap: .5rem;
+  margin-bottom: .6rem;
+}
+.crumbs a { color: var(--ink-3); text-decoration: none; }
+.crumbs a:hover { color: var(--accent); }
+.crumbs [aria-current="page"] { color: var(--accent); }
+
+.subcat-grid { display: grid; gap: 1rem; grid-template-columns: 1fr; margin-top: 1.25rem; }
+.subcat-card {
+  display: grid; gap: .35rem; align-content: start;
+  padding: 1.25rem;
+  border: 1px solid var(--line-2);
+  border-left: 5px solid var(--accent);
+  border-radius: 10px;
+  background: var(--card);
+  text-decoration: none; color: inherit;
+  box-shadow: var(--shadow);
+  transition: transform .14s ease, box-shadow .14s ease;
+}
+.subcat-card:hover { transform: translateY(-3px); box-shadow: 0 1px 0 var(--line-2), 0 20px 36px -22px rgba(23,20,15,.5); }
+.subcat-card strong { font-family: var(--font-display); font-size: 1.15rem; font-weight: 800; letter-spacing: -.01em; }
+.subcat-kicker {
+  font-family: var(--font-mono);
+  font-size: .68rem; font-weight: 700;
+  letter-spacing: .1em; text-transform: uppercase;
+  color: var(--accent);
+}
+.subcat-card .go {
+  margin-top: .2rem;
+  font-family: var(--font-mono);
+  font-size: .72rem; font-weight: 700;
+  letter-spacing: .06em; text-transform: uppercase;
+  color: var(--ink-2);
+  display: inline-flex; align-items: center; gap: .4rem;
+}
+
+.chip-row { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 1rem; }
+.chip {
+  font-family: var(--font-mono);
+  font-size: .78rem; font-weight: 600;
+  text-decoration: none;
+  padding: .5rem .9rem;
+  border: 1.5px solid var(--line-2);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--ink-2);
+  transition: border-color .12s ease, color .12s ease;
+}
+.chip:hover { border-color: var(--accent); color: var(--accent); }
+
 .howto { display: grid; gap: 1rem; margin-top: 1.5rem; grid-template-columns: 1fr; counter-reset: step; }
 .howto li {
   list-style: none;
@@ -556,6 +613,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 /* ---------- Breakpoints ---------- */
 @media (min-width: 640px) {
   .niche-grid { grid-template-columns: repeat(3, 1fr); }
+  .subcat-grid { grid-template-columns: repeat(3, 1fr); }
   .howto { grid-template-columns: repeat(2, 1fr); }
   .midcta { grid-template-columns: 1fr auto; align-items: center; }
   .midcta .btn-cta { align-self: center; }

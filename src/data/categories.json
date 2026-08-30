@@ -25,6 +25,50 @@
         "funda cubre moto impermeable exterior",
         "kit reparacion llanta tubeless moto mechas",
         "candado disco moto alarma antirrobo"
+      ],
+      "subcategorias": [
+        {
+          "slug": "comunicacion",
+          "nombre": "Comunicación en el casco",
+          "kicker": "Intercomunicadores y audio",
+          "intro": "Hablar con tu acompañante o el grupo sin soltar el manubrio, y escuchar el GPS o música sin aislarte del tráfico.",
+          "queries": [
+            "intercomunicador casco moto bluetooth",
+            "manos libres bluetooth casco moto",
+            "auriculares finos planos casco moto",
+            "adaptador audio casco moto jack 3.5",
+            "microfono boom casco moto repuesto",
+            "antena intercomunicador moto repuesto"
+          ]
+        },
+        {
+          "slug": "iluminacion",
+          "nombre": "Iluminación y visibilidad",
+          "kicker": "Luces y reflectivos",
+          "intro": "Ver mejor de noche y con neblina, y sobre todo que los autos te vean a tiempo en cruces y vías sin alumbrado.",
+          "queries": [
+            "luces led auxiliares moto neblineros",
+            "faros led moto proyector lente",
+            "luz freno led adicional moto",
+            "tiras led contorno moto",
+            "luces intermitentes led secuenciales moto",
+            "cinta reflectante casco moto"
+          ]
+        },
+        {
+          "slug": "seguridad",
+          "nombre": "Seguridad y antirrobo",
+          "kicker": "Candados, alarmas, GPS",
+          "intro": "Que no se la lleven: trabas de disco con alarma, rastreadores ocultos y protección para cuando la moto duerme en la calle.",
+          "queries": [
+            "candado disco moto alarma antirrobo",
+            "alarma moto control remoto universal",
+            "rastreador gps moto mini oculto",
+            "cable candado moto acero",
+            "funda cubre moto impermeable exterior",
+            "kit reparacion pinchazo moto tubeless co2"
+          ]
+        }
       ]
     },
     {
@@ -51,6 +95,50 @@
         "filtro de agua portatil camping supervivencia",
         "bastones trekking plegables aluminio senderismo",
         "power bank solar impermeable camping 20000mah"
+      ],
+      "subcategorias": [
+        {
+          "slug": "dormir",
+          "nombre": "Dormir a gusto",
+          "kicker": "Carpa, sleeping, colchoneta",
+          "intro": "El equipo que decide si duermes o pasas frío: carpa que aguante viento y lluvia, sleeping para la temperatura real y aislante del suelo.",
+          "queries": [
+            "carpa naturehike ultraligera 2 personas",
+            "saco de dormir momia camping",
+            "colchoneta inflable aislante camping",
+            "almohada inflable ultraligera camping",
+            "liner saco de dormir seda",
+            "hamaca camping nylon mosquitero"
+          ]
+        },
+        {
+          "slug": "cocina",
+          "nombre": "Cocina en la ruta",
+          "kicker": "Quemador, ollas, agua",
+          "intro": "Hervir agua rápido gastando poco gas, comer con utensilios que pesen nada y poder beber de un río sin enfermarte.",
+          "queries": [
+            "cocina camping gas fire maple quemador",
+            "set ollas titanio camping",
+            "cartucho gas adaptador camping valvula",
+            "taza vaso plegable silicona camping",
+            "filtro de agua portatil camping",
+            "cubiertos titanio plegables camping"
+          ]
+        },
+        {
+          "slug": "luz-energia",
+          "nombre": "Luz y energía",
+          "kicker": "Linternas y power banks",
+          "intro": "Manos libres para armar campamento en la oscuridad, luz para la mesa y batería para mantener el celular con GPS varios días.",
+          "queries": [
+            "linterna frontal recargable usb c",
+            "farol led camping recargable colgante",
+            "power bank solar impermeable camping",
+            "panel solar plegable usb camping",
+            "bomba aire electrica camping flextail",
+            "tira led usb carpa camping"
+          ]
+        }
       ]
     },
     {
@@ -77,6 +165,50 @@
         "soft flask plegable 500ml running hidratacion",
         "mini pistola masaje muscular percusion",
         "luz led clip correr noche running seguridad"
+      ],
+      "subcategorias": [
+        {
+          "slug": "hidratacion-carga",
+          "nombre": "Hidratación y carga",
+          "kicker": "Chalecos, cinturones, flasks",
+          "intro": "Llevar agua, geles y celular en tiradas largas sin que nada rebote ni te roce.",
+          "queries": [
+            "chaleco hidratacion aonijie running trail",
+            "cinturon running porta celular",
+            "soft flask plegable 500ml running",
+            "bolsa vejiga hidratacion 2l running",
+            "porta geles running elastico cinturon",
+            "brazalete porta celular running deportivo"
+          ]
+        },
+        {
+          "slug": "medir-ver",
+          "nombre": "Medir y ser visto",
+          "kicker": "Reloj GPS, luces, audio",
+          "intro": "Ritmo y distancia sin sacar el celular, correr escuchando el tráfico y que te vean de noche.",
+          "queries": [
+            "reloj gps deportivo running amazfit",
+            "audifonos conduccion osea deporte",
+            "lentes deportivos fotocromaticos rockbros",
+            "luz led clip correr noche",
+            "chaleco reflectante running seguridad",
+            "banda pecho frecuencia cardiaca bluetooth"
+          ]
+        },
+        {
+          "slug": "recuperacion",
+          "nombre": "Recuperación y confort",
+          "kicker": "Masaje, compresión, apoyo",
+          "intro": "Bajar la rigidez del día siguiente y sostener el músculo y las articulaciones en el volumen alto.",
+          "queries": [
+            "mini pistola masaje muscular percusion",
+            "rodillo espuma foam roller",
+            "medias de compresion running",
+            "rodillera deportiva running rotula",
+            "tape kinesiologico rollo deportivo",
+            "gorra quick dry running transpirable"
+          ]
+        }
       ]
     },
     {
@@ -103,6 +235,50 @@
         "correa gt2 6mm cerrada impresora 3d",
         "ventilador turbina 5015 24v impresora 3d",
         "kit agujas limpieza boquilla impresora 3d"
+      ],
+      "subcategorias": [
+        {
+          "slug": "materiales",
+          "nombre": "Filamento y resina",
+          "kicker": "Lo que se gasta",
+          "intro": "El consumible: PLA y PETG que salgan buenos, flexible TPU y resina para impresoras LCD.",
+          "queries": [
+            "filamento pla 1.75mm impresora 3d 1kg",
+            "filamento petg 1.75mm impresora 3d",
+            "filamento tpu flexible 1.75mm impresora 3d",
+            "resina impresora 3d lcd uv 1kg",
+            "filamento pla plus 1.75mm impresora 3d",
+            "filamento madera pla impresora 3d"
+          ]
+        },
+        {
+          "slug": "extrusion-hotend",
+          "nombre": "Extrusión y hotend",
+          "kicker": "Boquillas y fusor",
+          "intro": "Las piezas que sufren calor y desgaste y hay que tener de repuesto: boquillas, hotend, extrusor y tubo PTFE.",
+          "queries": [
+            "boquilla nozzle laton 0.4mm mk8 impresora 3d",
+            "hotend all metal v6 impresora 3d",
+            "extrusor metalico dual gear impresora 3d",
+            "tubo ptfe capricorn impresora 3d",
+            "termistor cartucho calentador impresora 3d",
+            "garganta throat impresora 3d"
+          ]
+        },
+        {
+          "slug": "cama-mecanica",
+          "nombre": "Cama y mecánica",
+          "kicker": "Superficie y movimiento",
+          "intro": "Que la primera capa pegue y que los ejes se muevan suave: láminas PEI, correas, poleas y rodamientos.",
+          "queries": [
+            "placa cama flexible pei magnetica impresora 3d",
+            "correa gt2 6mm cerrada impresora 3d",
+            "polea gt2 20 dientes impresora 3d",
+            "rodamiento lineal lm8uu impresora 3d",
+            "husillo t8 tuerca antibacklash impresora 3d",
+            "resorte cama nivelacion impresora 3d"
+          ]
+        }
       ]
     },
     {
@@ -129,6 +305,50 @@
         "lilygo t-deck teclado lora",
         "panel solar 5v 6v mini usb",
         "caja estanca ip67 proyecto electronica"
+      ],
+      "subcategorias": [
+        {
+          "slug": "nodos",
+          "nombre": "Placas y nodos",
+          "kicker": "El corazón del nodo",
+          "intro": "Las placas LoRa que hacen de nodo: LILYGO T-Beam y T-Echo, Heltec V3, RAK y kits nRF52840.",
+          "queries": [
+            "lilygo t-beam meshtastic lora 915mhz",
+            "heltec lora32 v3 915mhz",
+            "lilygo t-echo meshtastic",
+            "lilygo t-deck lora teclado",
+            "xiao nrf52840 wio sx1262 meshtastic",
+            "rak wireless wisblock meshtastic"
+          ]
+        },
+        {
+          "slug": "antenas-rf",
+          "nombre": "Antenas y RF",
+          "kicker": "Alcance",
+          "intro": "Lo que define cuánto llega la malla: antenas 915 MHz, pigtails U.FL a SMA y módulos SX1262.",
+          "queries": [
+            "antena lora 915mhz sma exterior",
+            "antena lora 915mhz flexible sma",
+            "cable pigtail u.fl ipex a sma",
+            "modulo lora sx1262 ebyte 915mhz",
+            "adaptador conector sma rp-sma",
+            "antena fibra vidrio 915mhz exterior"
+          ]
+        },
+        {
+          "slug": "energia-montaje",
+          "nombre": "Energía y montaje",
+          "kicker": "Que aguante afuera",
+          "intro": "Para dejar un nodo a la intemperie: baterías 18650, carga solar, módulos TP4056 y cajas estancas.",
+          "queries": [
+            "bateria 18650 3.7v recargable protegida",
+            "portapilas 18650 con cables",
+            "panel solar 5v 6v mini usb",
+            "cargador tp4056 usb c litio",
+            "caja estanca ip67 proyecto electronica",
+            "soporte antena mastil exterior"
+          ]
+        }
       ]
     }
   ]

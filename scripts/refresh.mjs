@@ -456,15 +456,20 @@ async function tryQuery(q, rank, usedIds, picked) {
   return true;
 }
 
-async function buildCategory(cat) {
-  log(`\n▶ ${cat.slug} — ${cat.queries.length} búsquedas`);
-  const prev = loadPrev(cat.slug);
+async function buildCategory(cat, sub = null) {
+  // Identidad: categoría padre o subcategoría (slug con doble guión bajo).
+  const fileSlug = sub ? `${cat.slug}__${sub.slug}` : cat.slug;
+  const queries = sub ? sub.queries : cat.queries;
+  const nombreCtx = sub ? `${cat.nombre} — ${sub.nombre}` : cat.nombre;
+
+  log(`\n▶ ${fileSlug} — ${queries.length} búsquedas`);
+  const prev = loadPrev(fileSlug);
   const usedIds = new Set();
   const picked = [];
   const failed = [];
 
-  for (let i = 0; i < cat.queries.length; i++) {
-    const q = cat.queries[i];
+  for (let i = 0; i < queries.length; i++) {
+    const q = queries[i];
     const rank = i + 1;
     try {
       await tryQuery(q, rank, usedIds, picked);
@@ -475,7 +480,7 @@ async function buildCategory(cat) {
         warn(e.message);
         if (consecutiveBlocks >= MAX_BLOCKS_ABORT) {
           throw new BlockedError(
-            `${consecutiveBlocks} bloqueos seguidos: la IP está quemada, abortando ${cat.slug}`,
+            `${consecutiveBlocks} bloqueos seguidos: la IP está quemada, abortando ${fileSlug}`,
           );
         }
       } else {
@@ -501,12 +506,12 @@ async function buildCategory(cat) {
 
   if (!picked.length) {
     hadFailure = true;
-    warn(`${cat.slug}: 0 productos, dejo el archivo anterior intacto`);
+    warn(`${fileSlug}: 0 productos, dejo el archivo anterior intacto`);
     return;
   }
-  if (picked.length < cat.queries.length) {
+  if (picked.length < queries.length) {
     hadFailure = true;
-    warn(`${cat.slug}: solo ${picked.length}/${cat.queries.length} puestos (los que faltan conservan lo anterior si existe)`);
+    warn(`${fileSlug}: solo ${picked.length}/${queries.length} puestos (los que faltan conservan lo anterior si existe)`);
   }
   picked.sort((a, b) => a.rank - b.rank);
 
@@ -517,8 +522,8 @@ async function buildCategory(cat) {
   const items = [];
   for (const p of picked) {
     const precio_referencia = usdBand(p.pricePEN);
-    const imagen = await downloadImage(p.img, cat.slug, p.rank);
-    const link_afiliado = affiliateLink(p.url, cat.slug, p.rank);
+    const imagen = await downloadImage(p.img, fileSlug, p.rank);
+    const link_afiliado = affiliateLink(p.url, fileSlug, p.rank);
     items.push({ ...p, precio_referencia, imagen, link_afiliado });
   }
 
@@ -528,12 +533,12 @@ async function buildCategory(cat) {
   if (needCopy.length && !NO_COPY && copyEnabled) {
     try {
       log(`  redactando ${needCopy.length} con ${ANTHROPIC_MODEL}…`);
-      copyByRank = await claudeCopy(cat.nombre, needCopy);
+      copyByRank = await claudeCopy(nombreCtx, needCopy);
       log(`  ✓ Claude redactó ${copyByRank.size}`);
     } catch (e) {
       copyFailures++;
       log(`  ✗✗ COPY CON CLAUDE FALLÓ: ${e.message}`);
-      log(`     -> se usa texto de plantilla para ${cat.slug}`);
+      log(`     -> se usa texto de plantilla para ${fileSlug}`);
     }
   }
 
@@ -573,7 +578,7 @@ async function buildCategory(cat) {
   const prevByRank = new Map();
   for (const p of prev.values()) prevByRank.set(p.rank, p);
   const gotRanks = new Set(products.map((p) => p.rank));
-  for (let r = 1; r <= cat.queries.length; r++) {
+  for (let r = 1; r <= queries.length; r++) {
     if (!gotRanks.has(r) && prevByRank.has(r)) {
       products.push(prevByRank.get(r));
       log(`  #${r}  (sin scrapear — conservo el del mes pasado)`);
@@ -581,12 +586,12 @@ async function buildCategory(cat) {
   }
   products.sort((a, b) => a.rank - b.rank);
 
-  const outFile = P("src/data/products", `${cat.slug}.json`);
+  const outFile = P("src/data/products", `${fileSlug}.json`);
   if (DRY) {
     log(`  (dry-run) escribiría ${products.length} productos en ${outFile}`);
   } else {
     writeFileSync(outFile, JSON.stringify(products, null, 2) + "\n");
-    log(`  ✓ ${products.length} productos → src/data/products/${cat.slug}.json`);
+    log(`  ✓ ${products.length} productos → src/data/products/${fileSlug}.json`);
   }
 }
 
@@ -610,12 +615,25 @@ async function main() {
     }
   }
 
+  const SUBS_ONLY = has("--no-subs") ? false : true;
+
   for (let i = 0; i < cats.length; i++) {
+    const cat = cats[i];
     try {
-      await buildCategory(cats[i]);
+      await buildCategory(cat);
     } catch (e) {
       hadFailure = true;
-      warn(`${cats[i].slug} falló entero: ${e.message}`);
+      warn(`${cat.slug} falló entero: ${e.message}`);
+    }
+    // Subcategorías de esta categoría
+    for (const sub of SUBS_ONLY ? cat.subcategorias ?? [] : []) {
+      await sleep(jitter(DELAY_MS * 2));
+      try {
+        await buildCategory(cat, sub);
+      } catch (e) {
+        hadFailure = true;
+        warn(`${cat.slug}/${sub.slug} falló entero: ${e.message}`);
+      }
     }
     if (i < cats.length - 1) await sleep(jitter(DELAY_MS * 2));
   }

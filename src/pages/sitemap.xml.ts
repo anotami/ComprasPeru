@@ -7,7 +7,13 @@ export const GET: APIRoute = ({ site: astroSite }) => {
   const origin = astroSite ?? new URL(site.url);
   const routes = [
     { path: "/", priority: "1.0" },
-    ...categories.categorias.map((c) => ({ path: `/${c.slug}`, priority: "0.8" })),
+    ...categories.categorias.flatMap((c) => [
+      { path: `/${c.slug}`, priority: "0.8" },
+      ...(c.subcategorias ?? []).map((s) => ({
+        path: `/${c.slug}/${s.slug}`,
+        priority: "0.6",
+      })),
+    ]),
     { path: "/aviso-afiliados", priority: "0.3" },
   ];
 

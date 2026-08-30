@@ -1,0 +1,51 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import NicheTemplate from "../../components/NicheTemplate.astro";
+import type { Category, Subcat } from "../../components/NicheTemplate.astro";
+import type { Product } from "../../components/ProductCard.astro";
+import categories from "../../data/categories.json";
+
+const productFiles = import.meta.glob<{ default: Product[] }>(
+  "../../data/products/*.json",
+  { eager: true },
+);
+
+export function getStaticPaths() {
+  const paths = [];
+  for (const cat of categories.categorias as Category[]) {
+    for (const sub of cat.subcategorias ?? []) {
+      paths.push({
+        params: { categoria: cat.slug, subcategoria: sub.slug },
+        props: { cat, sub },
+      });
+    }
+  }
+  return paths;
+}
+
+interface Props {
+  cat: Category;
+  sub: Subcat;
+}
+
+const { cat, sub } = Astro.props;
+const mod = productFiles[`../../data/products/${cat.slug}__${sub.slug}.json`];
+const products: Product[] = (mod?.default ?? []).slice().sort((a, b) => a.rank - b.rank);
+const n = products.length || sub.queries.length;
+
+const title = `Top ${n} de ${sub.nombre.toLowerCase()} (${cat.nombre}) en AliExpress | Hallazgos AliExpress`;
+const description = `${sub.intro} Los ${n} más vendidos, con precio de referencia y enlace directo a AliExpress.`;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  path={`/${cat.slug}/${sub.slug}`}
+  niche={cat.slug}
+  accent={cat.accent}
+  accentWash={cat.accentWash}
+  ogImage={`/og/${cat.slug}.svg`}
+  ogType="article"
+>
+  <NicheTemplate cat={cat} sub={sub} products={products} />
+</BaseLayout>

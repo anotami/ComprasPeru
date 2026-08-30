@@ -116,6 +116,35 @@ Todo vive en **`src/data/categories.json`**. Agregar un objeto = una página nue
 > Mientras una categoría nueva no tenga productos, su página muestra un aviso de
 > “estamos actualizando”.
 
+### Subcategorías (opcional)
+
+Cada categoría puede tener un array `subcategorias` (recomendado: 3). Cada una es
+su propia página en `/<categoria>/<subcategoria>` con su mini-ranking, y aparece
+en la sección **“Explora por tema”** de la página padre.
+
+```jsonc
+{
+  "slug": "moto",
+  "...": "...campos normales de la categoría...",
+  "queries": [ "...10 búsquedas del top general..." ],
+  "subcategorias": [
+    {
+      "slug": "comunicacion",                 // URL: /moto/comunicacion
+      "nombre": "Comunicación en el casco",
+      "kicker": "Intercomunicadores y audio", // etiqueta corta
+      "intro": "Frase de 1–2 líneas que explica el tema.",
+      "queries": [ "...6 búsquedas...", "..." ]   // 1 búsqueda = 1 puesto
+    }
+    // hasta 3
+  ]
+}
+```
+
+El robot mensual llena el padre **y** cada subcategoría. Los datos van a
+`src/data/products/<categoria>__<subcategoria>.json` y las fotos a
+`public/img/<categoria>__<subcategoria>/`. Ojo: más subcategorías = corrida
+mensual más larga (cada una son ~6 búsquedas extra).
+
 ---
 
 ## Parte 3 · Probar y ajustar en tu PC

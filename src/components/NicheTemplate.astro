@@ -9,6 +9,14 @@ import type { Product } from "./ProductCard.astro";
 import MidCta from "./MidCta.astro";
 import Faq from "./Faq.astro";
 
+export interface Subcat {
+  slug: string;
+  nombre: string;
+  kicker: string;
+  intro: string;
+  queries: string[];
+}
+
 export interface Category {
   slug: string;
   nombre: string;
@@ -23,23 +31,36 @@ export interface Category {
   meta: string;
   intro: string;
   queries: string[];
+  subcategorias?: Subcat[];
 }
 
 interface Props {
   cat: Category;
   products: Product[];
+  /** si viene, la página es de subcategoría */
+  sub?: Subcat | null;
 }
 
-const { cat, products } = Astro.props;
+const { cat, products, sub = null } = Astro.props;
+const origin = Astro.site ?? new URL(site.url);
 const hasProducts = products.length > 0;
-// Para textos: conteo real, o nº de búsquedas si el ranking aún no se generó.
-const n = products.length || cat.queries.length;
-
-const canonical = new URL(withBase(`/${cat.slug}`), Astro.site ?? site.url).href;
+const src = sub ?? cat;
+const n = products.length || src.queries.length;
 const updatedLong = fechaLarga(site.actualizado);
-const h1 = tpl(cat.h1, { n });
 
-// CTA intermedios: después del puesto 4 y del 8 (si hay suficientes productos).
+const path = sub ? `/${cat.slug}/${sub.slug}` : `/${cat.slug}`;
+const canonical = new URL(withBase(path), origin).href;
+const catUrl = new URL(withBase(`/${cat.slug}`), origin).href;
+
+const h1 = sub
+  ? `${sub.nombre}: los ${n} más vendidos en AliExpress`
+  : tpl(cat.h1, { n });
+const kicker = sub ? `${cat.nombre} · ${sub.kicker}` : cat.kicker;
+const lede = sub ? sub.intro : cat.subtitulo;
+const intro = sub ? "" : cat.intro;
+const siblings = sub ? (cat.subcategorias ?? []).filter((s) => s.slug !== sub.slug) : [];
+
+// CTA intermedios: después del puesto 4 y del 8.
 const midCtas: Record<number, { text: string; cta: string; href: string }> = {
   4: {
     text: `¿Vas ganando? Estos son los <strong>3 primeros</strong> del ranking, los que más se llevan los lectores.`,
@@ -58,7 +79,6 @@ const itemList = {
   "@context": "https://schema.org",
   "@type": "ItemList",
   name: h1,
-  description: tpl(cat.meta, { n }),
   numberOfItems: n,
   itemListOrder: "https://schema.org/ItemListOrderAscending",
   itemListElement: products.map((p) => ({
@@ -83,34 +103,72 @@ const breadcrumb = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   itemListElement: [
-    { "@type": "ListItem", position: 1, name: "Inicio", item: new URL(withBase("/"), Astro.site ?? site.url).href },
-    { "@type": "ListItem", position: 2, name: cat.nombre, item: canonical },
+    { "@type": "ListItem", position: 1, name: "Inicio", item: new URL(withBase("/"), origin).href },
+    { "@type": "ListItem", position: 2, name: cat.nombre, item: catUrl },
+    ...(sub ? [{ "@type": "ListItem", position: 3, name: sub.nombre, item: canonical }] : []),
   ],
 };
 ---
 
 <article data-niche={cat.slug} style={`--accent:${cat.accent};--accent-wash:${cat.accentWash}`}>
   <header class="hero container">
-    <span class="kicker">{cat.kicker}</span>
+    {
+      sub && (
+        <nav class="crumbs" aria-label="Ruta">
+          <a href={withBase("/")}>Inicio</a>
+          <span aria-hidden="true">/</span>
+          <a href={withBase(`/${cat.slug}`)}>{cat.nombre}</a>
+          <span aria-hidden="true">/</span>
+          <span aria-current="page">{sub.nombre}</span>
+        </nav>
+      )
+    }
+    <span class="kicker">{kicker}</span>
     <h1>{h1}</h1>
-    <p class="lede">{cat.subtitulo}</p>
+    <p class="lede">{lede}</p>
     <p class="updated">
       <time datetime={site.actualizado}>Actualizado el {updatedLong}</time>
     </p>
   </header>
 
   <div class="container">
-    <section class="section" aria-labelledby="intro-title" style="padding-top:0">
-      <h2 id="intro-title" class="sr-only">Sobre esta selección</h2>
-      <p class="measure" style="color:var(--ink-2)">{cat.intro}</p>
-    </section>
+    {
+      intro && (
+        <section class="section" aria-labelledby="intro-title" style="padding-top:0">
+          <h2 id="intro-title" class="sr-only">Sobre esta selección</h2>
+          <p class="measure" style="color:var(--ink-2)">{intro}</p>
+        </section>
+      )
+    }
+
+    {
+      !sub && cat.subcategorias && cat.subcategorias.length > 0 && (
+        <section class="section" aria-labelledby="temas-title" style="padding-top:0">
+          <div class="section-head">
+            <span class="kicker">Explora por tema</span>
+            <h2 id="temas-title">Rankings más específicos</h2>
+          </div>
+          <div class="subcat-grid">
+            {cat.subcategorias.map((s) => (
+              <a class="subcat-card" href={withBase(`/${cat.slug}/${s.slug}`)}>
+                <span class="subcat-kicker">{s.kicker}</span>
+                <strong>{s.nombre}</strong>
+                <span class="go">Ver ranking <span aria-hidden="true">→</span></span>
+              </a>
+            ))}
+          </div>
+        </section>
+      )
+    }
 
     {
       !hasProducts && (
         <section class="section" style="padding-top:0">
           <div class="midcta">
-            <p>Estamos actualizando este ranking. Vuelve en un rato — la próxima corrida automática lo completa.</p>
-            <a class="btn-cta" href={withBase("/")}>Ver otras categorías <span class="arrow" aria-hidden="true">→</span></a>
+            <p>Estamos armando este ranking. Vuelve en un rato — la próxima corrida automática lo completa.</p>
+            <a class="btn-cta" href={withBase(sub ? `/${cat.slug}` : "/")}>
+              {sub ? `Ver ${cat.nombre}` : "Ver otras categorías"} <span class="arrow" aria-hidden="true">→</span>
+            </a>
           </div>
         </section>
       )
@@ -146,6 +204,23 @@ const breadcrumb = {
             </div>
           </section>
         </>
+      )
+    }
+
+    {
+      siblings.length > 0 && (
+        <section class="section" aria-labelledby="hermanas-title" style="padding-top:0">
+          <div class="section-head">
+            <span class="kicker">Más de {cat.nombre}</span>
+            <h2 id="hermanas-title">Otros temas</h2>
+          </div>
+          <div class="chip-row">
+            {siblings.map((s) => (
+              <a class="chip" href={withBase(`/${cat.slug}/${s.slug}`)}>{s.nombre}</a>
+            ))}
+            <a class="chip" href={withBase(`/${cat.slug}`)}>Todo {cat.nombre} ↑</a>
+          </div>
+        </section>
       )
     }
 
