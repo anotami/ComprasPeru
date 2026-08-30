@@ -34,16 +34,16 @@ jobs:
 
       - name: Ejecutar refresh.mjs
         id: refresh
-        run: |
-          node scripts/refresh.mjs \
-            ${{ github.event.inputs.only && format('--only={0}', github.event.inputs.only) || '' }} \
-            ${{ github.event.inputs.refresh_copy == 'true' && '--refresh-copy' || '' }}
+        run: node scripts/refresh.mjs $ARGS
         env:
+          ARGS: >-
+            ${{ inputs.only && format('--only={0}', inputs.only) || '' }}
+            ${{ inputs.refresh_copy && '--refresh-copy' || '' }}
           ALIEXPRESS_AFF_KEY: ${{ secrets.ALIEXPRESS_AFF_KEY }}
           LINK_MODE: ${{ vars.LINK_MODE || 'deeplink' }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
-          PEN_USD: ${{ vars.PEN_USD }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || '' }}
+          PEN_USD: ${{ vars.PEN_USD || '' }}
 
       - name: Verificar que el sitio compila
         run: npm run build
