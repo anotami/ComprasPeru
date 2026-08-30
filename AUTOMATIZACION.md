@@ -151,19 +151,40 @@ editaste a mano una descripción y quieres que se respete, no toques su `_src.id
 
 ---
 
-## Parte 4 · Si algo falla
+## Parte 4 · El captcha de AliExpress (léelo)
 
-- **El workflow “Refrescar rankings” sale en rojo** → abre un *issue* automático
-  con el enlace al log. Causa más común: AliExpress le mostró un captcha a la IP
-  del servidor. Suele bastar con **relanzar** el workflow (Actions → Run workflow).
-- **Falla seguido** → corre el refresh desde tu PC (tu IP casera casi nunca se
-  bloquea) y haz push, **o** configura un *self-hosted runner* (Settings →
-  Actions → Runners) en una máquina tuya que esté encendida el día 1.
-- **Un producto quedó feo o fuera de tema** → ajusta su `query` en
-  `categories.json` para que sea más específica, y relanza.
+AliExpress empieza a mostrar **captcha tras ~15–20 búsquedas rápidas desde la
+misma IP**. `refresh.mjs` lo maneja: espacia las requests (`REQUEST_DELAY_MS`,
+4 s por defecto), **enfría 90 s y reintenta** lo que bloqueó, rota el
+`User-Agent`, y si una IP queda quemada **conserva los rankings del mes anterior**
+en los puestos que no pudo actualizar (no rompe el sitio).
+
+Aun así, **desde los servidores de GitHub (IP de datacenter) es más probable que
+lo bloqueen** que desde tu casa. En orden de fiabilidad:
+
+| Opción | Fiabilidad | Esfuerzo |
+|---|---|---|
+| **A. Self-hosted runner en tu PC** | alta (tu IP casera) | 10 min, y el PC encendido el día 1 |
+| **B. Correr `npm run refresh` en tu PC y `git push`** | alta | manual, 1 vez al mes |
+| **C. Dejar el cron en GitHub tal cual** | media — algunos meses refresca parcial | cero; si falla, relanzas con 1 clic |
+| **D. API oficial de afiliados** | máxima, sin captcha | solicitud única (te lo dejo montado si la consigues) |
+
+### A. Self-hosted runner (recomendado si quieres cero intervención)
+
+1. Repo → **Settings → Actions → Runners → New self-hosted runner** y sigue los
+   pasos para tu SO (descarga + `./config` + `./run` o instalar como servicio).
+2. En `.github/workflows/refresh.yml` cambia `runs-on: ubuntu-latest` por
+   `runs-on: self-hosted`.
+3. Listo: el cron mensual corre en tu máquina, con tu IP. El deploy sigue en los
+   servidores de GitHub (no necesita runner propio).
+
+### Ajustes finos
+
+- Subir la tolerancia: variable `REQUEST_DELAY_MS` a `8000`, `COOLDOWN_MS` a `120000`.
+- **Un producto quedó feo o fuera de tema** → haz la `query` de `categories.json`
+  más específica y relanza (`Run workflow` con `only=esa-categoria`).
 - **AliExpress cambió el HTML y ya no parsea** → el arreglo está acotado a la
-  función `search()` de `scripts/refresh.mjs` (cómo se extrae el JSON incrustado).
-  Es el momento de pasar a la API oficial.
-- **El scraping de la búsqueda de AliExpress es zona gris de sus términos.** Es
-  bajo volumen (una vez al mes, tu propio sitio de afiliado), pero tenlo presente.
-  La API oficial es la vía sancionada si quieres cero riesgo.
+  función `search()` de `scripts/refresh.mjs`. Buen momento para pasar a la API.
+- **El scraping de la búsqueda es zona gris de los términos de AliExpress.** Bajo
+  volumen (1 vez al mes, tu propio sitio de afiliado), pero tenlo presente. La API
+  oficial es la vía sancionada si quieres cero riesgo.

@@ -51,16 +51,31 @@ const ANTHROPIC_KEY = process.env.ANTHROPIC_API_KEY || "";
 const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL || "claude-haiku-4-5-20251001";
 const PEN_USD = Number(process.env.PEN_USD || "3.75");
 
-const UA =
-  process.env.USER_AGENT ||
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
+// Pacing anti-rate-limit. AliExpress empieza a tirar captcha tras ~15-20
+// requests rápidos desde la misma IP. Espaciar + enfriar cuando bloquea.
+const DELAY_MS = Number(process.env.REQUEST_DELAY_MS || "4000"); // entre búsquedas
+const COOLDOWN_MS = Number(process.env.COOLDOWN_MS || "90000"); // tras un bloqueo
+const MAX_BLOCKS_ABORT = Number(process.env.MAX_BLOCKS_ABORT || "10"); // corta si la IP está quemada
+
+const UAS = [
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+];
+const pickUA = () => process.env.USER_AGENT || UAS[Math.floor(Math.random() * UAS.length)];
+const UA = pickUA();
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const jitter = (base) => base + Math.floor(Math.random() * 1500);
+
+class BlockedError extends Error {}
+let consecutiveBlocks = 0;
 const log = (...a) => console.log(...a);
 const warn = (...a) => console.warn("  ⚠ ", ...a);
 
 const manualList = [];
 let hadFailure = false;
+let affKeyWarned = false;
 
 /* ───────────────────────── scraping ───────────────────────── */
 
@@ -152,36 +167,47 @@ async function search(query, attempt = 1) {
   try {
     const res = await fetch(url, {
       headers: {
-        "User-Agent": UA,
+        "User-Agent": pickUA(),
         "Accept-Language": "es-419,es;q=0.9,en;q=0.6",
-        Accept: "text/html,application/xhtml+xml",
+        Accept:
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "same-origin",
+        Referer: "https://www.aliexpress.com/",
       },
     });
     html = await res.text();
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    if (!res.ok && res.status !== 200) throw new Error(`HTTP ${res.status}`);
   } catch (e) {
-    if (attempt < 3) {
-      await sleep(2000 * attempt);
+    if (attempt <= 3) {
+      await sleep(jitter(2500 * attempt));
       return search(query, attempt + 1);
     }
     throw new Error(`fetch falló para "${query}": ${e.message}`);
   }
-  if (PUNISH.test(html.slice(0, 40000)) && !html.includes("_init_data_=")) {
-    if (attempt < 3) {
-      await sleep(4000 * attempt);
+
+  const blocked = PUNISH.test(html.slice(0, 40000)) && !html.includes("_init_data_=");
+  if (blocked) {
+    if (attempt <= 2) {
+      await sleep(jitter(COOLDOWN_MS)); // enfría antes de reintentar
       return search(query, attempt + 1);
     }
-    throw new Error(`AliExpress bloqueó la búsqueda "${query}" (captcha/punish)`);
+    throw new BlockedError(`AliExpress bloqueó la búsqueda "${query}" (captcha/punish)`);
   }
+
   const data = extractInitData(html);
   const list = data && findItemList(data);
   if (!list || !list.length) {
-    if (attempt < 3) {
-      await sleep(3000 * attempt);
+    if (attempt <= 2) {
+      await sleep(jitter(3500 * attempt));
       return search(query, attempt + 1);
     }
     throw new Error(`sin resultados parseables para "${query}"`);
   }
+  consecutiveBlocks = 0;
   return list.map(normalize).filter(Boolean);
 }
 
@@ -218,7 +244,10 @@ function affiliateLink(productUrl, file, rank) {
   }
   // deeplink
   if (!AFF_KEY) {
-    warn(`ALIEXPRESS_AFF_KEY vacío → uso la URL del producto sin rastreo para ${file} #${rank}`);
+    if (!affKeyWarned) {
+      warn("ALIEXPRESS_AFF_KEY vacío → los botones usan la URL del producto SIN rastreo (no hay comisión)");
+      affKeyWarned = true;
+    }
     return productUrl;
   }
   return `https://s.click.aliexpress.com/deep_link.htm?aff_short_key=${encodeURIComponent(
@@ -232,6 +261,7 @@ function fullResImage(imgUrl) {
 
 async function downloadImage(imgUrl, slug, rank) {
   const nn = String(rank).padStart(2, "0");
+  if (DRY) return `/img/${slug}/${nn}.webp`;
   const dir = P("public/img", slug);
   mkdirSync(dir, { recursive: true });
   const url = fullResImage(imgUrl);
@@ -342,28 +372,59 @@ function loadPrev(slug) {
   }
 }
 
+async function tryQuery(q, rank, usedIds, picked) {
+  const cands = await search(q); // puede lanzar BlockedError
+  const best = pickBest(cands, usedIds);
+  if (!best) {
+    warn(`"${q}": ningún candidato válido, salto el puesto ${rank}`);
+    return false;
+  }
+  usedIds.add(best.id);
+  picked.push({ ...best, rank });
+  log(`  #${rank}  ${best.orders} ped · ${best.rating || "s/r"} · ${best.title.slice(0, 55)}`);
+  return true;
+}
+
 async function buildCategory(cat) {
   log(`\n▶ ${cat.slug} — ${cat.queries.length} búsquedas`);
   const prev = loadPrev(cat.slug);
   const usedIds = new Set();
   const picked = [];
+  const failed = [];
 
   for (let i = 0; i < cat.queries.length; i++) {
     const q = cat.queries[i];
     const rank = i + 1;
     try {
-      const cands = await search(q);
-      const best = pickBest(cands, usedIds);
-      if (!best) {
-        warn(`"${q}": ningún candidato válido, salto el puesto ${rank}`);
-        continue;
-      }
-      usedIds.add(best.id);
-      picked.push({ ...best, rank });
-      log(`  #${rank}  ${best.orders} ped · ${best.rating || "s/r"} · ${best.title.slice(0, 55)}`);
-      await sleep(900); // gentileza
+      await tryQuery(q, rank, usedIds, picked);
     } catch (e) {
-      warn(e.message);
+      if (e instanceof BlockedError) {
+        consecutiveBlocks++;
+        failed.push({ q, rank });
+        warn(e.message);
+        if (consecutiveBlocks >= MAX_BLOCKS_ABORT) {
+          throw new BlockedError(
+            `${consecutiveBlocks} bloqueos seguidos: la IP está quemada, abortando ${cat.slug}`,
+          );
+        }
+      } else {
+        warn(e.message);
+      }
+    }
+    await sleep(jitter(DELAY_MS));
+  }
+
+  // Segunda pasada para lo que bloqueó: enfría y reintenta una vez.
+  if (failed.length) {
+    log(`  enfriando ${Math.round(COOLDOWN_MS / 1000)}s y reintentando ${failed.length}…`);
+    await sleep(COOLDOWN_MS);
+    for (const { q, rank } of failed) {
+      try {
+        await tryQuery(q, rank, usedIds, picked);
+      } catch (e) {
+        warn(`reintento falló: ${e.message}`);
+      }
+      await sleep(jitter(DELAY_MS));
     }
   }
 
@@ -372,6 +433,11 @@ async function buildCategory(cat) {
     warn(`${cat.slug}: 0 productos, dejo el archivo anterior intacto`);
     return;
   }
+  if (picked.length < cat.queries.length) {
+    hadFailure = true;
+    warn(`${cat.slug}: solo ${picked.length}/${cat.queries.length} puestos (los que faltan conservan lo anterior si existe)`);
+  }
+  picked.sort((a, b) => a.rank - b.rank);
 
   const topSellerRank = picked.slice().sort((a, b) => b.orders - a.orders)[0].rank;
   const priciestRank = picked.slice().sort((a, b) => b.pricePEN - a.pricePEN)[0].rank;
@@ -431,6 +497,18 @@ async function buildCategory(cat) {
     };
   });
 
+  // Rellena los puestos que no se pudieron scrapear con lo del mes anterior.
+  const prevByRank = new Map();
+  for (const p of prev.values()) prevByRank.set(p.rank, p);
+  const gotRanks = new Set(products.map((p) => p.rank));
+  for (let r = 1; r <= cat.queries.length; r++) {
+    if (!gotRanks.has(r) && prevByRank.has(r)) {
+      products.push(prevByRank.get(r));
+      log(`  #${r}  (sin scrapear — conservo el del mes pasado)`);
+    }
+  }
+  products.sort((a, b) => a.rank - b.rank);
+
   const outFile = P("src/data/products", `${cat.slug}.json`);
   if (DRY) {
     log(`  (dry-run) escribiría ${products.length} productos en ${outFile}`);
@@ -447,16 +525,17 @@ async function main() {
   const cats = categorias.filter((c) => !ONLY.length || ONLY.includes(c.slug));
   log(`refresh — ${cats.length} categoría(s) · link-mode=${LINK_MODE}${DRY ? " · DRY-RUN" : ""}`);
 
-  for (const cat of cats) {
+  for (let i = 0; i < cats.length; i++) {
     try {
-      await buildCategory(cat);
+      await buildCategory(cats[i]);
     } catch (e) {
       hadFailure = true;
-      warn(`${cat.slug} falló entero: ${e.message}`);
+      warn(`${cats[i].slug} falló entero: ${e.message}`);
     }
+    if (i < cats.length - 1) await sleep(jitter(DELAY_MS * 2));
   }
 
-  if (!DRY && !hadFailure) {
+  if (!DRY) {
     const site = JSON.parse(readFileSync(P("src/data/site.json"), "utf8"));
     site.actualizado = new Date().toISOString().slice(0, 10);
     writeFileSync(P("src/data/site.json"), JSON.stringify(site, null, 2) + "\n");
