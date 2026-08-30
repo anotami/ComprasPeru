@@ -76,6 +76,8 @@ const warn = (...a) => console.warn("  ⚠ ", ...a);
 const manualList = [];
 let hadFailure = false;
 let affKeyWarned = false;
+let copyEnabled = false;
+let copyFailures = 0;
 
 /* ───────────────────────── scraping ───────────────────────── */
 
@@ -384,12 +386,43 @@ ${JSON.stringify(payload, null, 1)}`;
       messages: [{ role: "user", content: prompt }],
     }),
   });
-  if (!res.ok) throw new Error(`Anthropic HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
+  if (!res.ok) {
+    throw new Error(`Anthropic HTTP ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  }
   const j = await res.json();
+  if (j.stop_reason === "max_tokens") {
+    throw new Error("respuesta cortada por max_tokens (subir max_tokens)");
+  }
   const text = (j.content || []).map((c) => c.text || "").join("");
-  const arr = JSON.parse(text.slice(text.indexOf("["), text.lastIndexOf("]") + 1));
-  const byRank = new Map(arr.map((o) => [Number(o.rank), o]));
-  return byRank;
+  const a = text.indexOf("["), b = text.lastIndexOf("]");
+  if (a < 0 || b < 0) throw new Error(`sin JSON en la respuesta: ${text.slice(0, 200)}`);
+  const arr = JSON.parse(text.slice(a, b + 1));
+  return new Map(arr.map((o) => [Number(o.rank), o]));
+}
+
+/** Ping mínimo para confirmar que la API key sirve, con mensaje claro. */
+async function anthropicPreflight() {
+  if (!ANTHROPIC_KEY) return { ok: false, why: "ANTHROPIC_API_KEY no está definido (revisa el secreto del repo)" };
+  try {
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "content-type": "application/json",
+        "x-api-key": ANTHROPIC_KEY,
+        "anthropic-version": "2023-06-01",
+      },
+      body: JSON.stringify({
+        model: ANTHROPIC_MODEL,
+        max_tokens: 8,
+        messages: [{ role: "user", content: "di ok" }],
+      }),
+    });
+    if (res.ok) return { ok: true };
+    const body = (await res.text()).slice(0, 300);
+    return { ok: false, why: `HTTP ${res.status} — ${body}` };
+  } catch (e) {
+    return { ok: false, why: e.message };
+  }
 }
 
 /* ───────────────────────── por categoría ───────────────────────── */
@@ -487,15 +520,16 @@ async function buildCategory(cat) {
   // copy: reusa el del mes pasado si el id no cambió (salvo --refresh-copy)
   const needCopy = items.filter((it) => REFRESH_COPY || !prev.has(it.id));
   let copyByRank = new Map();
-  if (needCopy.length && !NO_COPY && ANTHROPIC_KEY) {
+  if (needCopy.length && !NO_COPY && copyEnabled) {
     try {
       log(`  redactando ${needCopy.length} con ${ANTHROPIC_MODEL}…`);
       copyByRank = await claudeCopy(cat.nombre, needCopy);
+      log(`  ✓ Claude redactó ${copyByRank.size}`);
     } catch (e) {
-      warn(`copy con Claude falló (${e.message}); uso plantilla`);
+      copyFailures++;
+      log(`  ✗✗ COPY CON CLAUDE FALLÓ: ${e.message}`);
+      log(`     -> se usa texto de plantilla para ${cat.slug}`);
     }
-  } else if (needCopy.length && !ANTHROPIC_KEY && !NO_COPY) {
-    warn("ANTHROPIC_API_KEY vacío → copy de plantilla para los productos nuevos");
   }
 
   const products = items.map((it) => {
@@ -558,6 +592,19 @@ async function main() {
   const cats = categorias.filter((c) => !ONLY.length || ONLY.includes(c.slug));
   log(`refresh — ${cats.length} categoría(s) · link-mode=${LINK_MODE}${DRY ? " · DRY-RUN" : ""}`);
 
+  // Preflight de la API de redacción: deja claro en el log si el secreto sirve.
+  if (!NO_COPY) {
+    const pf = await anthropicPreflight();
+    if (pf.ok) {
+      copyEnabled = true;
+      log(`✓ Anthropic OK (modelo ${ANTHROPIC_MODEL}) — se redactará el copy`);
+    } else {
+      log(`✗✗ Anthropic NO disponible → copy de plantilla en todo.`);
+      log(`   motivo: ${pf.why}`);
+      log(`   arregla el secreto ANTHROPIC_API_KEY (y saldo en console.anthropic.com) y relanza.`);
+    }
+  }
+
   for (let i = 0; i < cats.length; i++) {
     try {
       await buildCategory(cats[i]);
@@ -579,7 +626,12 @@ async function main() {
     log(`\nLINK_MODE=manual → ${manualList.length} URLs en refresh-manual-links.json`);
   }
 
-  log(hadFailure ? "\n✗ terminó con errores (revisa arriba)" : "\n✓ listo");
+  if (!NO_COPY && !copyEnabled) {
+    log("\n⚠ RESUMEN: el copy salió de PLANTILLA (Anthropic no disponible). Revisa el secreto ANTHROPIC_API_KEY.");
+  } else if (copyFailures > 0) {
+    log(`\n⚠ RESUMEN: Claude falló en ${copyFailures} categoría(s); ahí se usó plantilla.`);
+  }
+  log(hadFailure ? "\n✗ terminó con errores de scraping (revisa arriba)" : "\n✓ listo");
   process.exit(hadFailure ? 1 : 0);
 }
 
