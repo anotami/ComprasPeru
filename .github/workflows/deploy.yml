@@ -4,6 +4,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # GitHub no dispara workflows por commits que hace el bot con GITHUB_TOKEN,
+  # así que encadenamos: cuando "Refrescar rankings" termina, deployamos.
+  workflow_run:
+    workflows: ["Refrescar rankings"]
+    types: [completed]
 
 # Permite un solo despliegue a la vez
 concurrency:

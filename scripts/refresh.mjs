@@ -22,7 +22,7 @@
  *   ALIEXPRESS_AFF_KEY   aff_short_key de tu cuenta Portals (para el deeplink)
  *   LINK_MODE            deeplink (def.) | raw | manual
  *   ANTHROPIC_API_KEY    para redactar el copy
- *   ANTHROPIC_MODEL      def. claude-haiku-4-5-20251001
+ *   ANTHROPIC_MODEL      def. claude-haiku-4-5
  *   PEN_USD              tipo de cambio para el precio de referencia (def. 3.75)
  */
 
@@ -48,7 +48,7 @@ const ONLY = (val("--only", "") || "").split(",").map((s) => s.trim()).filter(Bo
 const AFF_KEY = process.env.ALIEXPRESS_AFF_KEY || "";
 const LINK_MODE = process.env.LINK_MODE || "deeplink";
 const ANTHROPIC_KEY = process.env.ANTHROPIC_API_KEY || "";
-const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL || "claude-haiku-4-5-20251001";
+const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL || "claude-haiku-4-5";
 const PEN_USD = Number(process.env.PEN_USD || "3.75");
 
 // Pacing anti-rate-limit. AliExpress empieza a tirar captcha tras ~15-20
@@ -159,16 +159,20 @@ function normalize(raw) {
 
 const PUNISH = /punish|ca_baxia|_____tmd_____|nc_wrapper|x5referer|slider|geetest/i;
 
+// Fuerza resultados en español y precios en soles aunque el servidor esté en EE.UU.
+const AE_LOCALE_COOKIE =
+  "aep_usuc_f=site=esp&c_tp=PEN&region=PE&b_locale=es_ES; intl_locale=es_ES";
+
 async function search(query, attempt = 1) {
-  const url = `https://www.aliexpress.com/w/wholesale-${slugifyQuery(
+  const url = `https://es.aliexpress.com/w/wholesale-${slugifyQuery(
     query,
-  )}.html?SortType=total_tranpro_desc`;
+  )}.html?SortType=total_tranpro_desc&g=y&SearchText=${encodeURIComponent(query)}`;
   let html;
   try {
     const res = await fetch(url, {
       headers: {
         "User-Agent": pickUA(),
-        "Accept-Language": "es-419,es;q=0.9,en;q=0.6",
+        "Accept-Language": "es-PE,es-419,es;q=0.9",
         Accept:
           "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
         "Accept-Encoding": "gzip, deflate, br",
@@ -176,7 +180,8 @@ async function search(query, attempt = 1) {
         "Sec-Fetch-Dest": "document",
         "Sec-Fetch-Mode": "navigate",
         "Sec-Fetch-Site": "same-origin",
-        Referer: "https://www.aliexpress.com/",
+        Referer: "https://es.aliexpress.com/",
+        Cookie: AE_LOCALE_COOKIE,
       },
     });
     html = await res.text();
@@ -211,18 +216,40 @@ async function search(query, attempt = 1) {
   return list.map(normalize).filter(Boolean);
 }
 
-function pickBest(cands, usedIds) {
-  const ok = (min) =>
-    cands
-      .filter(
-        (c) =>
-          c.img &&
-          c.img.startsWith("http") &&
-          !usedIds.has(c.id) &&
-          (c.rating === 0 || c.rating >= min),
-      )
-      .sort((a, b) => b.orders - a.orders || b.rating - a.rating);
-  return ok(4.3)[0] || ok(4.0)[0] || ok(0)[0] || null;
+const STOP = new Set(
+  "de la el los las para con sin y o a en un una por que del al es tipo".split(" "),
+);
+
+function relevance(query, title) {
+  const kw = query
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase()
+    .split(/[^a-z0-9]+/)
+    .filter((w) => w.length > 2 && !STOP.has(w));
+  const t = title
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase();
+  return kw.filter((w) => t.includes(w)).length;
+}
+
+function pickBest(cands, usedIds, query) {
+  const base = (c) => c.img && c.img.startsWith("http") && !usedIds.has(c.id);
+  // Ordena por: relevancia en tramos (2+, 1, 0) → pedidos → rating.
+  // Así un producto que coincide con 2 palabras clave gana aunque venda menos,
+  // pero entre igual de relevantes manda el más vendido.
+  const rank = (list) =>
+    list
+      .map((c) => ({ ...c, rel: Math.min(2, relevance(query, c.title)) }))
+      .sort((a, b) => b.rel - a.rel || b.orders - a.orders || b.rating - a.rating);
+
+  let pool = rank(cands.filter((c) => base(c) && relevance(query, c.title) >= 1));
+  const good = pool.filter((c) => c.rating === 0 || c.rating >= 4.3);
+  if (good.length) return good[0];
+  if (pool.length) return pool[0];
+  pool = rank(cands.filter(base));
+  return pool.filter((c) => c.rating >= 4.0)[0] || pool[0] || null;
 }
 
 /* ───────────────────────── precio / link / imagen ───────────────────────── */
@@ -347,7 +374,7 @@ ${JSON.stringify(payload, null, 1)}`;
     },
     body: JSON.stringify({
       model: ANTHROPIC_MODEL,
-      max_tokens: 2500,
+      max_tokens: 8000,
       messages: [{ role: "user", content: prompt }],
     }),
   });
@@ -374,7 +401,7 @@ function loadPrev(slug) {
 
 async function tryQuery(q, rank, usedIds, picked) {
   const cands = await search(q); // puede lanzar BlockedError
-  const best = pickBest(cands, usedIds);
+  const best = pickBest(cands, usedIds, q);
   if (!best) {
     warn(`"${q}": ningún candidato válido, salto el puesto ${rank}`);
     return false;
