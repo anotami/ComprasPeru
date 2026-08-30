@@ -25,7 +25,8 @@ interface Props {
 const { cat } = Astro.props;
 const mod = productFiles[`../data/products/${cat.slug}.json`];
 const products: Product[] = (mod?.default ?? []).slice().sort((a, b) => a.rank - b.rank);
-const n = products.length;
+// Para títulos/meta: usa el conteo real, o el nº de búsquedas si aún no hay datos.
+const n = products.length || cat.queries.length;
 ---
 
 <BaseLayout

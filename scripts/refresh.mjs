@@ -254,12 +254,18 @@ function pickBest(cands, usedIds, query) {
 
 /* ───────────────────────── precio / link / imagen ───────────────────────── */
 
+// Banda de precio ajustada al valor real (aprox. -6% / +10%).
+// Tuneable con PRICE_LO / PRICE_HI (ej. PRICE_LO=0.95 PRICE_HI=1.06 para más ceñido).
+const PRICE_LO = Number(process.env.PRICE_LO || "0.94");
+const PRICE_HI = Number(process.env.PRICE_HI || "1.1");
+
 function usdBand(pen) {
   const usd = pen / PEN_USD;
-  if (!usd || usd < 1) return "$3–10";
-  const r = (x) => (x < 20 ? Math.round(x) : Math.round(x / 5) * 5);
-  const lo = Math.max(1, r(usd * 0.8));
-  const hi = Math.max(lo + 1, r(usd * 1.3));
+  if (!usd || usd < 1) return "$2–4";
+  const r = (x) => (x < 30 ? Math.round(x) : x < 120 ? Math.round(x / 5) * 5 : Math.round(x / 10) * 10);
+  let lo = Math.max(1, r(usd * PRICE_LO));
+  let hi = r(usd * PRICE_HI);
+  if (hi <= lo) hi = lo + (lo < 25 ? 2 : 5);
   return `$${lo}–${hi}`;
 }
 

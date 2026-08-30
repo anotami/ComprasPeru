@@ -31,8 +31,9 @@ interface Props {
 }
 
 const { cat, products } = Astro.props;
-const n = products.length;
-const hasProducts = n > 0;
+const hasProducts = products.length > 0;
+// Para textos: conteo real, o nº de búsquedas si el ranking aún no se generó.
+const n = products.length || cat.queries.length;
 
 const canonical = new URL(withBase(`/${cat.slug}`), Astro.site ?? site.url).href;
 const updatedLong = fechaLarga(site.actualizado);

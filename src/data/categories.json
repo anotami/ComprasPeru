@@ -78,6 +78,58 @@
         "mini pistola masaje muscular percusion",
         "luz led clip correr noche running seguridad"
       ]
+    },
+    {
+      "slug": "impresion-3d",
+      "nombre": "Impresión 3D",
+      "nav": "Impresión 3D",
+      "emoji": "🖨️",
+      "accent": "#0F766E",
+      "accentWash": "#DBEDEA",
+      "kicker": "Impresión 3D",
+      "h1": "Los {n} más vendidos de impresión 3D en AliExpress ({year})",
+      "subtitulo": "Filamento, resina, boquillas, hotends y mejoras. Los consumibles y repuestos que más compran los que imprimen todas las semanas.",
+      "title": "Top {n} de impresión 3D en AliExpress ({year}) | Hallazgos AliExpress",
+      "meta": "Top {n} de impresión 3D en AliExpress {year}: filamento PLA y PETG, resina, boquillas, hotends, camas PEI y repuestos, con precios de referencia.",
+      "intro": "Priorizamos lo que se gasta y se cambia seguido: filamento y resina que salen buenos, boquillas y hotends de repuesto, y mejoras baratas que de verdad se notan. Los precios son de referencia y cambian con las ofertas de AliExpress; toca el botón para ver el precio del día.",
+      "queries": [
+        "filamento pla 1.75mm impresora 3d 1kg",
+        "filamento petg 1.75mm impresora 3d 1kg",
+        "resina impresora 3d lcd uv 1kg",
+        "boquilla nozzle laton 0.4mm mk8 impresora 3d",
+        "hotend all metal v6 impresora 3d",
+        "placa cama flexible pei magnetica impresora 3d",
+        "extrusor metalico dual gear impresora 3d",
+        "correa gt2 6mm cerrada impresora 3d",
+        "ventilador turbina 5015 24v impresora 3d",
+        "kit agujas limpieza boquilla impresora 3d"
+      ]
+    },
+    {
+      "slug": "meshtastic",
+      "nombre": "Meshtastic",
+      "nav": "Meshtastic",
+      "emoji": "📡",
+      "accent": "#7E22CE",
+      "accentWash": "#F0E4FA",
+      "kicker": "Meshtastic y LoRa",
+      "h1": "Los {n} más vendidos para Meshtastic en AliExpress ({year})",
+      "subtitulo": "Placas LoRa, antenas 915 MHz, baterías y cajas estancas. Todo para armar nodos Meshtastic que aguanten a la intemperie.",
+      "title": "Top {n} para Meshtastic en AliExpress ({year}) | Hallazgos AliExpress",
+      "meta": "Top {n} para Meshtastic en AliExpress {year}: LILYGO T-Beam, Heltec V3, antenas LoRa 915 MHz, módulos SX1262, baterías 18650 y cajas IP67.",
+      "intro": "Meshtastic usa radios LoRa de bajo consumo para armar una malla sin internet ni celular. En Perú y gran parte de LatAm la banda es 915 MHz (US915): ojo con eso al elegir antena y módulo. Los precios son de referencia y cambian con las ofertas de AliExpress; toca el botón para ver el precio del día.",
+      "queries": [
+        "lilygo t-beam meshtastic lora 915mhz",
+        "heltec wifi lora 32 v3 915mhz",
+        "lilygo t-echo meshtastic",
+        "antena lora 915mhz sma exterior",
+        "modulo lora sx1262 ebyte 915mhz",
+        "bateria 18650 3.7v recargable protegida",
+        "cable pigtail u.fl ipex a sma",
+        "lilygo t-deck teclado lora",
+        "panel solar 5v 6v mini usb",
+        "caja estanca ip67 proyecto electronica"
+      ]
     }
   ]
 }
