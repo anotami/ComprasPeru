@@ -44,6 +44,9 @@ const val = (k, d) => {
 const DRY = has("--dry-run");
 const REFRESH_COPY = has("--refresh-copy");
 const NO_COPY = has("--no-copy");
+// Solo reescribe el copy (nombre/descripción/bullets/badge) de los JSON que YA
+// existen, con Claude. No toca AliExpress. Seguro y rápido.
+const COPY_ONLY = has("--copy-only");
 const ONLY = (val("--only", "") || "").split(",").map((s) => s.trim()).filter(Boolean);
 
 const AFF_KEY = process.env.ALIEXPRESS_AFF_KEY || "";
@@ -443,6 +446,65 @@ function loadPrev(slug) {
   }
 }
 
+/** Reescribe el copy de un JSON existente con Claude, sin scrapear. */
+async function copyOnlyFile(fileSlug, nombreCtx) {
+  const f = P("src/data/products", `${fileSlug}.json`);
+  if (!existsSync(f)) return;
+  let arr;
+  try {
+    arr = JSON.parse(readFileSync(f, "utf8"));
+  } catch {
+    warn(`${fileSlug}: JSON ilegible, salto`);
+    return;
+  }
+  if (!Array.isArray(arr) || !arr.length) return;
+
+  const items = arr.map((p) => ({
+    rank: p.rank,
+    title: p.nombre || p.descripcion_corta || "",
+    precio_referencia: p.precio_referencia,
+    rating: p._src?.rating || 0,
+    ordersTxt: p._src?.orders ? `${p._src.orders}+ vendidos` : "",
+  }));
+
+  let byRank;
+  try {
+    log(`  ${fileSlug}: redactando ${items.length}…`);
+    byRank = await claudeCopy(nombreCtx, items);
+  } catch (e) {
+    copyFailures++;
+    log(`  ✗✗ ${fileSlug}: Claude falló (${e.message})`);
+    return;
+  }
+
+  const top = arr.slice().sort((a, b) => (b._src?.orders || 0) - (a._src?.orders || 0))[0]?.rank;
+  const out = arr.map((p) => {
+    const g = byRank.get(p.rank);
+    if (!g) return p;
+    return {
+      ...p,
+      nombre: g.nombre || p.nombre,
+      descripcion_corta: g.descripcion_corta || p.descripcion_corta,
+      por_que_comprarlo:
+        Array.isArray(g.por_que_comprarlo) && g.por_que_comprarlo.length === 3
+          ? g.por_que_comprarlo
+          : p.por_que_comprarlo,
+      badge: "badge" in g ? (g.badge ?? null) : p.badge,
+    };
+  });
+  if (!DRY) writeFileSync(f, JSON.stringify(out, null, 2) + "\n");
+  log(`  ✓ ${fileSlug}: copy actualizado`);
+}
+
+async function copyOnlyPass(cats) {
+  for (const cat of cats) {
+    await copyOnlyFile(cat.slug, cat.nombre);
+    for (const sub of cat.subcategorias ?? []) {
+      await copyOnlyFile(`${cat.slug}__${sub.slug}`, `${cat.nombre} — ${sub.nombre}`);
+    }
+  }
+}
+
 async function tryQuery(q, rank, usedIds, picked) {
   const cands = await search(q); // puede lanzar BlockedError
   const best = pickBest(cands, usedIds, q);
@@ -613,6 +675,17 @@ async function main() {
       log(`   motivo: ${pf.why}`);
       log(`   arregla el secreto ANTHROPIC_API_KEY (y saldo en console.anthropic.com) y relanza.`);
     }
+  }
+
+  if (COPY_ONLY) {
+    if (!copyEnabled) {
+      log("✗ --copy-only necesita Anthropic. Aborto.");
+      process.exit(1);
+    }
+    log("modo --copy-only: reescribo textos de los JSON existentes, sin tocar AliExpress");
+    await copyOnlyPass(cats);
+    log(copyFailures ? `\n⚠ Claude falló en ${copyFailures} archivo(s)` : "\n✓ listo");
+    process.exit(copyFailures ? 1 : 0);
   }
 
   const SUBS_ONLY = has("--no-subs") ? false : true;

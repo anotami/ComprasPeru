@@ -14,6 +14,10 @@ on:
         description: "Re-redactar también el texto que no cambió"
         type: boolean
         default: false
+      copy_only:
+        description: "Solo reescribir textos (NO scrapea AliExpress)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -39,6 +43,7 @@ jobs:
           ARGS: >-
             ${{ inputs.only && format('--only={0}', inputs.only) || '' }}
             ${{ inputs.refresh_copy && '--refresh-copy' || '' }}
+            ${{ inputs.copy_only && '--copy-only' || '' }}
           ALIEXPRESS_AFF_KEY: ${{ secrets.ALIEXPRESS_AFF_KEY }}
           LINK_MODE: ${{ vars.LINK_MODE || 'deeplink' }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
