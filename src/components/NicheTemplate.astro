@@ -1,0 +1,180 @@
+---
+import site from "../data/site.json";
+import faq from "../data/faq.json";
+import { fechaLarga } from "../lib/format";
+import { withBase, tpl } from "../lib/site";
+import CompareTable from "./CompareTable.astro";
+import ProductCard from "./ProductCard.astro";
+import type { Product } from "./ProductCard.astro";
+import MidCta from "./MidCta.astro";
+import Faq from "./Faq.astro";
+
+export interface Category {
+  slug: string;
+  nombre: string;
+  nav: string;
+  emoji: string;
+  accent: string;
+  accentWash: string;
+  kicker: string;
+  h1: string;
+  subtitulo: string;
+  title: string;
+  meta: string;
+  intro: string;
+  queries: string[];
+}
+
+interface Props {
+  cat: Category;
+  products: Product[];
+}
+
+const { cat, products } = Astro.props;
+const n = products.length;
+const hasProducts = n > 0;
+
+const canonical = new URL(withBase(`/${cat.slug}`), Astro.site ?? site.url).href;
+const updatedLong = fechaLarga(site.actualizado);
+const h1 = tpl(cat.h1, { n });
+
+// CTA intermedios: después del puesto 4 y del 8 (si hay suficientes productos).
+const midCtas: Record<number, { text: string; cta: string; href: string }> = {
+  4: {
+    text: `¿Vas ganando? Estos son los <strong>3 primeros</strong> del ranking, los que más se llevan los lectores.`,
+    cta: "Volver al top 3",
+    href: "#producto-1",
+  },
+  8: {
+    text: `Recuerda: el precio real lo ves al tocar el botón naranja. Los valores de la lista son solo <strong>referencia</strong>.`,
+    cta: "Ver la comparativa",
+    href: "#tabla",
+  },
+};
+
+// JSON-LD
+const itemList = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: h1,
+  description: tpl(cat.meta, { n }),
+  numberOfItems: n,
+  itemListOrder: "https://schema.org/ItemListOrderAscending",
+  itemListElement: products.map((p) => ({
+    "@type": "ListItem",
+    position: p.rank,
+    name: p.nombre,
+    url: `${canonical}#producto-${p.rank}`,
+  })),
+};
+
+const faqPage = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faq.map((f) => ({
+    "@type": "Question",
+    name: f.q,
+    acceptedAnswer: { "@type": "Answer", text: f.a },
+  })),
+};
+
+const breadcrumb = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Inicio", item: new URL(withBase("/"), Astro.site ?? site.url).href },
+    { "@type": "ListItem", position: 2, name: cat.nombre, item: canonical },
+  ],
+};
+---
+
+<article data-niche={cat.slug} style={`--accent:${cat.accent};--accent-wash:${cat.accentWash}`}>
+  <header class="hero container">
+    <span class="kicker">{cat.kicker}</span>
+    <h1>{h1}</h1>
+    <p class="lede">{cat.subtitulo}</p>
+    <p class="updated">
+      <time datetime={site.actualizado}>Actualizado el {updatedLong}</time>
+    </p>
+  </header>
+
+  <div class="container">
+    <section class="section" aria-labelledby="intro-title" style="padding-top:0">
+      <h2 id="intro-title" class="sr-only">Sobre esta selección</h2>
+      <p class="measure" style="color:var(--ink-2)">{cat.intro}</p>
+    </section>
+
+    {
+      !hasProducts && (
+        <section class="section" style="padding-top:0">
+          <div class="midcta">
+            <p>Estamos actualizando este ranking. Vuelve en un rato — la próxima corrida automática lo completa.</p>
+            <a class="btn-cta" href={withBase("/")}>Ver otras categorías <span class="arrow" aria-hidden="true">→</span></a>
+          </div>
+        </section>
+      )
+    }
+
+    {
+      hasProducts && (
+        <>
+          <section class="section" aria-labelledby="tabla-title" style="padding-top:0">
+            <div class="section-head">
+              <span class="kicker">De un vistazo</span>
+              <h2 id="tabla-title">Los {n}, comparados</h2>
+              <p>Toca <strong>“Ver precio”</strong> para saltar a la reseña de ese producto y abrir el enlace a AliExpress.</p>
+            </div>
+            <CompareTable products={products} updated={updatedLong} />
+          </section>
+
+          <section class="section" aria-labelledby="reviews-title" style="padding-top:0">
+            <div class="section-head">
+              <span class="kicker">El ranking</span>
+              <h2 id="reviews-title">Reseña de cada producto</h2>
+            </div>
+
+            <div class="reviews">
+              {products.map((p) => (
+                <>
+                  <ProductCard product={p} />
+                  {midCtas[p.rank] && (
+                    <MidCta text={midCtas[p.rank].text} cta={midCtas[p.rank].cta} href={midCtas[p.rank].href} />
+                  )}
+                </>
+              ))}
+            </div>
+          </section>
+        </>
+      )
+    }
+
+    <Faq items={faq} heading="Comprar en AliExpress desde Perú: dudas frecuentes" />
+
+    {
+      hasProducts && (
+        <section class="section" style="padding-top:0">
+          <div class="midcta">
+            <p>
+              Cada botón naranja lleva al comprador directo a la ficha del producto
+              en AliExpress con el enlace de afiliado.
+            </p>
+            <a class="btn-cta" href="#tabla">Volver arriba <span class="arrow" aria-hidden="true">↑</span></a>
+          </div>
+        </section>
+      )
+    }
+  </div>
+</article>
+
+<script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} />
+{hasProducts && <script type="application/ld+json" set:html={JSON.stringify(itemList)} />}
+<script type="application/ld+json" set:html={JSON.stringify(faqPage)} />
+
+<style>
+  .sr-only {
+    position: absolute; width: 1px; height: 1px;
+    padding: 0; margin: -1px; overflow: hidden;
+    clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+  }
+  .reviews > :global(*) { min-width: 0; }
+</style>

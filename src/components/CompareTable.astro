@@ -1,0 +1,54 @@
+---
+import type { Product } from "./ProductCard.astro";
+
+interface Props {
+  products: Product[];
+  updated: string;
+}
+
+const { products, updated } = Astro.props;
+---
+
+<div class="compare" id="tabla">
+  <div class="scroll-x">
+    <table>
+      <caption>Comparativa rápida · actualizado {updated}</caption>
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Producto</th>
+          <th scope="col">Precio ref.</th>
+          <th scope="col">Distinción</th>
+          <th scope="col"><span class="sr-only">Ir a la reseña</span></th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          products.map((p) => (
+            <tr>
+              <td class="c-rank">{p.rank}</td>
+              <td class="c-name">{p.nombre}</td>
+              <td class="c-price">{p.precio_referencia}</td>
+              <td class="c-badge">
+                {p.badge ? <span class="pill" data-b={p.badge}>{p.badge}</span> : <span aria-hidden="true">—</span>}
+              </td>
+              <td class="c-cta">
+                <a class="link-btn" href={`#producto-${p.rank}`}>Ver precio</a>
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<style>
+  .sr-only {
+    position: absolute;
+    width: 1px; height: 1px;
+    padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0 0 0 0);
+    white-space: nowrap; border: 0;
+  }
+</style>

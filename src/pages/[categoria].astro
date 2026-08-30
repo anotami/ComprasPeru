@@ -1,0 +1,42 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import NicheTemplate from "../components/NicheTemplate.astro";
+import type { Category } from "../components/NicheTemplate.astro";
+import type { Product } from "../components/ProductCard.astro";
+import categories from "../data/categories.json";
+import { tpl } from "../lib/site";
+
+const productFiles = import.meta.glob<{ default: Product[] }>(
+  "../data/products/*.json",
+  { eager: true },
+);
+
+export function getStaticPaths() {
+  return (categories.categorias as Category[]).map((cat) => ({
+    params: { categoria: cat.slug },
+    props: { cat },
+  }));
+}
+
+interface Props {
+  cat: Category;
+}
+
+const { cat } = Astro.props;
+const mod = productFiles[`../data/products/${cat.slug}.json`];
+const products: Product[] = (mod?.default ?? []).slice().sort((a, b) => a.rank - b.rank);
+const n = products.length;
+---
+
+<BaseLayout
+  title={tpl(cat.title, { n })}
+  description={tpl(cat.meta, { n })}
+  path={`/${cat.slug}`}
+  niche={cat.slug}
+  accent={cat.accent}
+  accentWash={cat.accentWash}
+  ogImage={`/og/${cat.slug}.svg`}
+  ogType="article"
+>
+  <NicheTemplate cat={cat} products={products} />
+</BaseLayout>

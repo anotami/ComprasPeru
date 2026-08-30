@@ -1,0 +1,27 @@
+# build
+dist/
+.output/
+
+# deps
+node_modules/
+
+# astro
+.astro/
+
+# env
+.env
+.env.production
+.env.local
+
+# os / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# vercel / netlify
+.vercel/
+.netlify/
+
+# artefactos del refresh
+refresh-manual-links.json

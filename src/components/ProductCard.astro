@@ -1,0 +1,62 @@
+---
+export interface Product {
+  rank: number;
+  nombre: string;
+  descripcion_corta: string;
+  por_que_comprarlo: string[];
+  precio_referencia: string;
+  imagen: string;
+  link_afiliado: string;
+  badge: string | null;
+}
+
+import { withBase } from "../lib/site";
+
+interface Props {
+  product: Product;
+}
+
+const { product } = Astro.props;
+const p = product;
+// Las imágenes locales empiezan con "/"; las remotas (http) se dejan tal cual.
+const imgSrc = /^https?:\/\//.test(p.imagen) ? p.imagen : withBase(p.imagen);
+---
+
+<article class="product" id={`producto-${p.rank}`}>
+  <div class="product__media">
+    <span class="product__rank"><small>Puesto</small><b>{p.rank}</b></span>
+    {p.badge && <span class="stamp" data-b={p.badge}>{p.badge}</span>}
+    <img
+      src={imgSrc}
+      alt={`Foto de ${p.nombre}`}
+      width="800"
+      height="600"
+      loading="lazy"
+      decoding="async"
+    />
+  </div>
+
+  <div class="product__body">
+    <h3 class="product__name">{p.nombre}</h3>
+    <p class="product__desc">{p.descripcion_corta}</p>
+
+    <ul class="why">
+      {p.por_que_comprarlo.map((b) => <li>{b}</li>)}
+    </ul>
+
+    <div class="buyrow">
+      <span class="price">
+        {p.precio_referencia}
+        <small>Precio de referencia</small>
+      </span>
+      <a
+        class="btn-cta"
+        href={p.link_afiliado}
+        target="_blank"
+        rel="nofollow sponsored noopener"
+      >
+        Ver en AliExpress <span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
+  </div>
+</article>

@@ -1,0 +1,47 @@
+---
+import site from "../data/site.json";
+import categories from "../data/categories.json";
+import { withBase } from "../lib/site";
+
+const year = new Date().getFullYear();
+const cats = categories.categorias;
+---
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="cols">
+      <div>
+        <span class="brand">
+          <span class="dot" aria-hidden="true"></span>
+          {site.nombre}
+        </span>
+        <p>{site.descripcion}</p>
+      </div>
+
+      <div>
+        <h4>Rankings</h4>
+        <ul>
+          {cats.map((c) => <li><a href={withBase(`/${c.slug}`)}>{c.nav}</a></li>)}
+          <li><a href={withBase("/")}>Inicio</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4>Información</h4>
+        <ul>
+          <li><a href={withBase("/aviso-afiliados")}>Aviso de afiliados</a></li>
+          <li><a href={withBase("/#como-comprar")}>Cómo comprar desde Perú</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <p class="disclosure">
+      <strong>Aviso de afiliados:</strong> este sitio participa en el programa de
+      afiliados de AliExpress y puede recibir una comisión por las compras que
+      hagas a través de nuestros enlaces, <strong>sin ningún costo extra para ti</strong>.
+      Los precios y la disponibilidad se muestran a título referencial y pueden
+      cambiar. <a href={withBase("/aviso-afiliados")}>Leer el aviso completo</a>.
+    </p>
+    <p class="legal">© {year} {site.nombre}. AliExpress es una marca de sus respectivos titulares; este sitio no está afiliado ni patrocinado oficialmente por AliExpress más allá de su programa de afiliados.</p>
+  </div>
+</footer>

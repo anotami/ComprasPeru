@@ -1,0 +1,142 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import site from "../data/site.json";
+import categories from "../data/categories.json";
+import type { Product } from "../components/ProductCard.astro";
+import { fechaLarga } from "../lib/format";
+import { withBase, absUrl, tpl } from "../lib/site";
+
+const cats = categories.categorias;
+const updatedLong = fechaLarga(site.actualizado);
+
+const productFiles = import.meta.glob<{ default: Product[] }>(
+  "../data/products/*.json",
+  { eager: true },
+);
+const countFor = (slug: string) =>
+  productFiles[`../data/products/${slug}.json`]?.default?.length ?? 0;
+const totalProductos = cats.reduce((s, c) => s + countFor(c.slug), 0);
+
+const title = `${site.nombre} — Los mejores hallazgos de AliExpress, probados y curados`;
+const description =
+  "Rankings de los mejores productos de AliExpress por categoría, con precios de referencia y guía para comprar desde Perú y Latinoamérica.";
+
+const website = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: site.nombre,
+  url: absUrl("/", Astro.site ?? undefined),
+  description: site.descripcion,
+  inLanguage: "es",
+};
+
+const guides = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "Rankings de AliExpress",
+  itemListElement: cats.map((c, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    name: tpl(c.h1, { n: countFor(c.slug) }),
+    url: absUrl(`/${c.slug}`, Astro.site ?? undefined),
+  })),
+};
+
+const pasos = [
+  {
+    t: "Elige un vendedor con historial",
+    d: "Fíjate en el número de ventas y que la calificación esté por encima de 95%. Lee reseñas con foto de compradores reales.",
+  },
+  {
+    t: "Paga siempre dentro de AliExpress",
+    d: "Nunca por fuera de la plataforma. AliExpress retiene el dinero hasta que confirmas que recibiste el producto y abre disputa si algo falla.",
+  },
+  {
+    t: "Revisa el envío a tu distrito",
+    d: "Antes de pagar verás la fecha estimada y el método. El envío estándar a Perú suele tardar de 2 a 5 semanas; el premium, de 1 a 2.",
+  },
+  {
+    t: "Ten presente la aduana en compras grandes",
+    d: "Las compras personales de bajo valor por courier normalmente entran sin trámite. Sobre el umbral vigente (referencialmente ~USD 200) puede haber tributos. Consulta SUNAT y tu courier.",
+  },
+  {
+    t: "Guarda todo hasta confirmar",
+    d: "No confirmes la recepción hasta abrir el paquete y probar el producto. Si llega fallado o no llega, abre disputa con fotos dentro del plazo de protección.",
+  },
+];
+---
+
+<BaseLayout title={title} description={description} path="/" ogImage="/og/default.svg">
+  <section class="hero hero-home container">
+    <span class="kicker">Perú · Latinoamérica</span>
+    <h1>Los mejores hallazgos de AliExpress, probados y curados.</h1>
+    <p class="lede">
+      Revisamos cientos de productos y armamos rankings honestos: qué comprar, por
+      qué, cuánto cuesta y qué esperar cuando llega a tu casa. Sin humo y sin
+      listas infinitas.
+    </p>
+    <ul class="value-props" role="list">
+      <li>Rankings por categoría, ordenados con criterio claro.</li>
+      <li>Precios de referencia en dólares y qué distingue a cada opción.</li>
+      <li>Guía de compra desde Perú: envíos, tiempos, aduana y disputas.</li>
+    </ul>
+    <p class="updated"><time datetime={site.actualizado}>Actualizado el {updatedLong}</time></p>
+  </section>
+
+  <section class="section container" aria-labelledby="nichos-title">
+    <div class="section-head">
+      <span class="kicker">Empieza por tu tema</span>
+      <h2 id="nichos-title">{cats.length} rankings, {totalProductos} productos</h2>
+      <p>Elige el que te interesa. Cada página tiene tabla comparativa, reseña producto por producto y preguntas frecuentes.</p>
+    </div>
+
+    <div class="niche-grid">
+      {
+        cats.map((c) => (
+          <a
+            class="niche-card"
+            href={withBase(`/${c.slug}`)}
+            style={`--accent:${c.accent};--accent-wash:${c.accentWash}`}
+          >
+            <span class="emoji" aria-hidden="true">{c.emoji}</span>
+            <h3>{c.nav}</h3>
+            <p style="color:var(--ink-2)">{c.subtitulo}</p>
+            <span class="go">Ver el ranking <span aria-hidden="true">→</span></span>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="section container" id="como-comprar" aria-labelledby="comprar-title">
+    <div class="section-head">
+      <span class="kicker">Guía rápida</span>
+      <h2 id="comprar-title">Cómo comprar en AliExpress desde Perú</h2>
+      <p>Lo esencial para que tu pedido llegue bien y sin sustos. Aplica igual para el resto de Latinoamérica, cambiando la aduana de cada país.</p>
+    </div>
+
+    <ol class="howto">
+      {
+        pasos.map((p) => (
+          <li>
+            <strong>{p.t}</strong>
+            <span>{p.d}</span>
+          </li>
+        ))
+      }
+    </ol>
+
+    <div class="callout" style="margin-top:2rem">
+      <p>
+        <strong>Nota:</strong> este sitio participa en el programa de afiliados
+        de AliExpress y puede recibir una comisión por tus compras, sin costo
+        extra para ti. No damos asesoría tributaria; verifica las reglas
+        aduaneras vigentes antes de compras de ticket alto.
+        <a href={withBase("/aviso-afiliados")}>Leer el aviso completo</a>.
+      </p>
+    </div>
+  </section>
+
+  <script type="application/ld+json" set:html={JSON.stringify(website)} />
+  <script type="application/ld+json" set:html={JSON.stringify(guides)} />
+</BaseLayout>

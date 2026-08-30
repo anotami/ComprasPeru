@@ -1,0 +1,83 @@
+{
+  "_comment": "Fuente única de las categorías del sitio. Agregar un objeto aquí = una página nueva (/slug), su tarjeta en el home, su entrada en el nav y en el sitemap. 'queries' son las búsquedas de AliExpress que el robot mensual usa para elegir el producto más vendido de cada puesto (1 query = 1 puesto). Placeholders admitidos en h1/title/meta: {n} (nº de productos) y {year} (año actual).",
+  "categorias": [
+    {
+      "slug": "moto",
+      "nombre": "Moto",
+      "nav": "Moto",
+      "emoji": "🏍️",
+      "accent": "#B26A00",
+      "accentWash": "#F3E7CF",
+      "kicker": "Accesorios para moteros",
+      "h1": "Los {n} mejores accesorios de moto de AliExpress ({year})",
+      "subtitulo": "Intercomunicadores, soportes antivibración, luces y seguridad. Lo que de verdad usan los moteros que ruedan todos los días, sin relleno.",
+      "title": "Top {n} accesorios de moto en AliExpress ({year}) | Hallazgos AliExpress",
+      "meta": "Top {n} de accesorios de moto en AliExpress {year}: intercomunicadores, soportes antivibración, compresores, luces LED y seguridad, con precios de referencia.",
+      "intro": "Elegimos accesorios que resuelven un problema real sobre la moto: comunicarte sin soltar el manubrio, usar el GPS del celular sin dañar la cámara, verte y que te vean de noche, y salir de un pinchazo en carretera. Nada de adornos. Los precios son de referencia y cambian con las ofertas de AliExpress; toca el botón para ver el precio del día.",
+      "queries": [
+        "intercomunicador casco moto bluetooth",
+        "soporte celular moto antivibracion manillar",
+        "guantes moto proteccion nudillos pantalla tactil",
+        "mini inflador aire portatil recargable moto",
+        "luces led auxiliares moto neblineros",
+        "balaclava moto termica casco",
+        "rhinowalk bolsa tanque moto impermeable",
+        "funda cubre moto impermeable exterior",
+        "kit reparacion llanta tubeless moto mechas",
+        "candado disco moto alarma antirrobo"
+      ]
+    },
+    {
+      "slug": "camping",
+      "nombre": "Camping",
+      "nav": "Camping",
+      "emoji": "⛺",
+      "accent": "#2C6A4A",
+      "accentWash": "#DFEBE1",
+      "kicker": "Camping y trekking",
+      "h1": "Los {n} mejores equipos de camping y trekking de AliExpress ({year})",
+      "subtitulo": "Carpas ultralivianas, sleeping, cocina portátil y filtros de agua. Equipo liviano para salir el finde a la montaña sin gastar una fortuna.",
+      "title": "Top {n} camping y trekking en AliExpress ({year}) | Hallazgos AliExpress",
+      "meta": "Top {n} de camping y trekking en AliExpress {year}: carpas Naturehike, bolsas de dormir, cocinas portátiles, filtros de agua y más, con precios de referencia.",
+      "intro": "Priorizamos peso, packing y que aguante lluvia y frío de altura, que es lo que se siente de verdad en la sierra del Perú. Marcas conocidas del ecosistema outdoor de AliExpress (Naturehike, Fire-Maple, Widesea) y básicos que cumplen. Los precios son de referencia y cambian con las ofertas; toca el botón para ver el precio del día.",
+      "queries": [
+        "carpa naturehike cloud up 2 personas",
+        "colchoneta inflable camping ultraligera aislante",
+        "saco de dormir naturehike momia camping",
+        "cocina camping gas fire maple set ollas",
+        "linterna frontal recargable usb c led",
+        "silla plegable camping ultraligera aluminio",
+        "flextail mini bomba aire camping inflable",
+        "filtro de agua portatil camping supervivencia",
+        "bastones trekking plegables aluminio senderismo",
+        "power bank solar impermeable camping 20000mah"
+      ]
+    },
+    {
+      "slug": "running",
+      "nombre": "Running",
+      "nav": "Running",
+      "emoji": "🏃",
+      "accent": "#2B51C9",
+      "accentWash": "#E1E6F7",
+      "kicker": "Equipo para runners",
+      "h1": "Los {n} mejores accesorios para runners de AliExpress ({year})",
+      "subtitulo": "Chalecos de hidratación, audífonos open-ear, relojes GPS y luces para correr de noche. Para entrenar de calle y de trail sin gastar de más.",
+      "title": "Top {n} para runners en AliExpress ({year}) | Hallazgos AliExpress",
+      "meta": "Top {n} para runners en AliExpress {year}: chalecos Aonijie, audífonos open-ear, relojes GPS, soft flasks y luces para correr de noche, con precios de referencia.",
+      "intro": "Elegimos cosas que sí mueven la aguja cuando entrenas en serio: llevar agua y geles sin que reboten, correr seguro escuchando el tráfico, medir ritmo y distancia sin sacar el celular, y que te vean de noche. Los precios son de referencia y cambian con las ofertas de AliExpress; toca el botón para ver el precio del día.",
+      "queries": [
+        "chaleco hidratacion aonijie running trail",
+        "audifonos conduccion osea deporte open ear",
+        "cinturon running porta celular correr",
+        "amazfit reloj gps running smartwatch",
+        "pantorrilleras compresion running medias",
+        "rockbros lentes deportivos fotocromaticos ciclismo",
+        "gorra running quick dry transpirable deporte",
+        "soft flask plegable 500ml running hidratacion",
+        "mini pistola masaje muscular percusion",
+        "luz led clip correr noche running seguridad"
+      ]
+    }
+  ]
+}

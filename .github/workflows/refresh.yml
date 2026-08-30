@@ -1,0 +1,95 @@
+name: Refrescar rankings
+
+on:
+  schedule:
+    # Día 1 de cada mes, 06:10 UTC (~01:10 en Perú)
+    - cron: "10 6 1 * *"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Categorías separadas por coma (vacío = todas)"
+        required: false
+        default: ""
+      refresh_copy:
+        description: "Re-redactar también el texto que no cambió"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Ejecutar refresh.mjs
+        id: refresh
+        run: |
+          node scripts/refresh.mjs \
+            ${{ github.event.inputs.only && format('--only={0}', github.event.inputs.only) || '' }} \
+            ${{ github.event.inputs.refresh_copy == 'true' && '--refresh-copy' || '' }}
+        env:
+          ALIEXPRESS_AFF_KEY: ${{ secrets.ALIEXPRESS_AFF_KEY }}
+          LINK_MODE: ${{ vars.LINK_MODE || 'deeplink' }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          PEN_USD: ${{ vars.PEN_USD }}
+
+      - name: Verificar que el sitio compila
+        run: npm run build
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          BASE_PATH: ${{ vars.BASE_PATH }}
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name  "hallazgos-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/data public/img
+          if git diff --cached --quiet; then
+            echo "Sin cambios este mes."
+          else
+            git commit -m "chore: refresco mensual de rankings"
+            git push
+          fi
+
+      - name: Abrir issue si falló
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = "El refresco mensual de rankings falló";
+            const body = [
+              `La corrida automática del ${new Date().toISOString().slice(0,10)} falló.`,
+              "",
+              `Revisa el log: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+              "",
+              "Causas típicas: AliExpress bloqueó la IP del runner (captcha) o cambió el HTML.",
+              "Suele arreglarse volviendo a lanzar el workflow (Actions -> Refrescar rankings -> Run workflow).",
+              "Si insiste, revisar `scripts/refresh.mjs` (función `search`).",
+            ].join("\n");
+            const {data: existing} = await github.rest.issues.listForRepo({
+              owner: context.repo.owner, repo: context.repo.repo,
+              state: "open", labels: "refresh-fallido",
+            });
+            if (existing.length) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner, repo: context.repo.repo,
+                issue_number: existing[0].number, body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner, repo: context.repo.repo,
+                title, body, labels: ["refresh-fallido"],
+              });
+            }

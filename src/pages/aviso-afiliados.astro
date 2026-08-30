@@ -1,0 +1,74 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import site from "../data/site.json";
+import { fechaLarga } from "../lib/format";
+
+const title = `Aviso de afiliados | ${site.nombre}`;
+const description =
+  "Divulgación: este sitio participa en el programa de afiliados de AliExpress y recibe una comisión por las compras hechas a través de sus enlaces, sin costo extra para el comprador.";
+const updatedLong = fechaLarga(site.actualizado);
+---
+
+<BaseLayout title={title} description={description} path="/aviso-afiliados">
+  <section class="hero container">
+    <span class="kicker">Transparencia</span>
+    <h1>Aviso de afiliados</h1>
+    <p class="updated"><time datetime={site.actualizado}>Última actualización: {updatedLong}</time></p>
+  </section>
+
+  <div class="container">
+    <div class="prose section" style="padding-top:0">
+      <div class="callout">
+        <p>
+          <strong>{site.nombre} participa en el programa de afiliados de
+          AliExpress.</strong> Esto significa que, cuando compras un producto a
+          través de los enlaces de este sitio, podemos recibir una comisión de
+          AliExpress. <strong>Tú pagas exactamente lo mismo</strong>: la comisión
+          la asume el vendedor o la plataforma, no se te agrega ningún costo.
+        </p>
+      </div>
+
+      <h2>Cómo funciona</h2>
+      <p>
+        Los botones y enlaces que llevan a productos de AliExpress son enlaces de
+        afiliado. Cuando haces clic, AliExpress registra que llegaste desde este
+        sitio y, si concretas una compra dentro de su ventana de seguimiento, nos
+        acredita una comisión sobre esa venta. Ese ingreso es lo que nos permite
+        dedicar tiempo a investigar productos y mantener el sitio en línea.
+      </p>
+
+      <h2>Nuestro compromiso con el contenido</h2>
+      <ul>
+        <li>El orden de los rankings responde a criterio editorial (utilidad real, relación calidad-precio, reputación del producto), no a cuánto paga una comisión.</li>
+        <li>Recomendamos productos que consideramos que valen la pena; no todo lo que existe en AliExpress entra a una lista.</li>
+        <li>Si un producto nos parece malo, no lo incluimos, aunque tenga comisión alta.</li>
+        <li>Marcamos los enlaces salientes como <code>sponsored</code> y <code>nofollow</code>, siguiendo las recomendaciones de buscadores para enlaces de afiliado.</li>
+      </ul>
+
+      <h2>Precios y disponibilidad</h2>
+      <p>
+        Los precios que aparecen en el sitio son <strong>de referencia</strong> y
+        pueden estar desactualizados. AliExpress cambia precios de forma
+        constante con cupones, ofertas flash y campañas. El precio válido es
+        siempre el que ves en la página del producto en AliExpress al momento de
+        comprar. Tampoco garantizamos stock ni tiempos de envío: eso depende de
+        cada vendedor.
+      </p>
+
+      <h2>Sin asesoría profesional</h2>
+      <p>
+        La información sobre aduanas, impuestos y tiempos de entrega es
+        orientativa y puede cambiar. No constituye asesoría legal ni tributaria.
+        Para compras de valor alto, verifica las reglas vigentes de la SUNAT y de
+        tu empresa de courier antes de pagar.
+      </p>
+
+      <h2>Contacto</h2>
+      <p>
+        ¿Dudas sobre esta divulgación o sobre algún contenido? Escríbenos a
+        través del correo que figura en la ficha de contacto del sitio y lo
+        revisamos.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,32 @@
+---
+import site from "../data/site.json";
+import categories from "../data/categories.json";
+import { withBase } from "../lib/site";
+
+const current = Astro.url.pathname.replace(/\/$/, "") || "/";
+const links = categories.categorias.map((c) => ({
+  href: withBase(`/${c.slug}`),
+  label: c.nav,
+}));
+---
+
+<header class="site-header">
+  <div class="container bar">
+    <a class="brand" href={withBase("/")}>
+      <span class="dot" aria-hidden="true"></span>
+      {site.nombre}
+    </a>
+    <nav class="site-nav" aria-label="Categorías">
+      {
+        links.map((l) => (
+          <a
+            href={l.href}
+            aria-current={current === l.href.replace(/\/$/, "") ? "page" : undefined}
+          >
+            {l.label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>
