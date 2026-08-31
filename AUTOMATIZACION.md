@@ -50,6 +50,13 @@ Misma pantalla, pestaña **_Secrets_ → New repository secret**:
 | `ALIEXPRESS_AFF_KEY` | Tu `aff_short_key` de AliExpress Portals (ver 1.5) |
 | `ANTHROPIC_API_KEY` | [console.anthropic.com](https://console.anthropic.com) → **API Keys → Create Key**. Cárgale ~$5 de saldo; cada corrida mensual cuesta centavos. |
 
+Y como **Variable** (no secreto), solo si tu API key está ligada a un workspace
+(la corrida falla con `HTTP 400 … anthropic-workspace-id is required`):
+
+| Variable | De dónde sale |
+|---|---|
+| `ANTHROPIC_WORKSPACE_ID` | [console.anthropic.com/settings/workspaces](https://console.anthropic.com/settings/workspaces) → tu workspace → el `wrkspc_…` de la URL |
+
 ### 1.5 Tu `aff_short_key` de AliExpress (para los links, sin API)
 
 1. Entra a [portals.aliexpress.com](https://portals.aliexpress.com) con tu cuenta de afiliado.
@@ -173,6 +180,15 @@ Flags de `refresh.mjs`:
 | `--only=moto,camping` | limita a esas categorías |
 | `--refresh-copy` | vuelve a redactar también lo que no cambió (por defecto reusa el texto si el producto es el mismo del mes pasado) |
 | `--no-copy` | nunca llama a Anthropic; usa texto de plantilla |
+| `--copy-only` | **solo reescribe los textos** de los JSON que ya existen, con Claude. NO toca AliExpress (cero riesgo de captcha). Útil si el scraping se hizo con `--no-copy` o si quieres regenerar toda la redacción. |
+| `--no-subs` | ignora las subcategorías (solo padres) |
+
+Variables de entorno / pacing: `REQUEST_DELAY_MS` (ms entre búsquedas, def. 4000),
+`COOLDOWN_MS` (tras un bloqueo, def. 90000), `MAX_BLOCKS_ABORT` (def. 10),
+`PRICE_LO` / `PRICE_HI` (banda de precio, def. 0.94 / 1.10).
+
+En el **workflow** (Actions → Refrescar rankings → Run workflow) las mismas
+opciones están como casillas: `only`, `refresh_copy`, `copy_only`.
 
 `refresh.mjs` **conserva tu texto** de un producto si su id de AliExpress no
 cambió respecto al mes anterior (así solo paga redacción por lo nuevo). Si
@@ -217,3 +233,31 @@ lo bloqueen** que desde tu casa. En orden de fiabilidad:
 - **El scraping de la búsqueda es zona gris de los términos de AliExpress.** Bajo
   volumen (1 vez al mes, tu propio sitio de afiliado), pero tenlo presente. La API
   oficial es la vía sancionada si quieres cero riesgo.
+- **Con subcategorías la corrida es más larga** (cada subcategoría son ~6
+  búsquedas extra). Si desde GitHub bloquea mucho, usa el self-hosted runner o
+  corre `--only=categoria` por partes y haz push entre medias.
+
+---
+
+## Parte 5 · Analíticas (opcional pero recomendado)
+
+Sin analíticas no sabes qué categorías ni qué productos generan clics. Elige una
+—todas son sin cookies, sin banner y sin impacto de rendimiento— y pega los
+datos en `src/data/site.json` → `analytics`. Lo que dejes vacío no carga nada.
+
+**Opción más simple — Cloudflare Web Analytics (gratis):**
+
+1. [dash.cloudflare.com](https://dash.cloudflare.com) → **Analytics & Logs → Web Analytics → Add a site**.
+2. Pon tu dominio (o el `usuario.github.io`). Te da un **token** (una cadena larga).
+3. En `src/data/site.json`:
+   ```json
+   "analytics": { "plausible": "", "umami": { "src": "", "id": "" }, "cloudflare": "TU_TOKEN" }
+   ```
+4. `git commit` + `git push`.
+
+**Alternativas:** Plausible (`"plausible": "tudominio.com"`, de pago o self-host)
+o Umami (`"umami": { "src": "https://…/script.js", "id": "…" }`, self-host).
+
+El sitio ya dispara un evento **“Clic afiliado”** con el nombre del producto en
+cada clic saliente, si hay Plausible o Umami cargado — así ves qué se lleva la
+gente.
