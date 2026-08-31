@@ -195,7 +195,7 @@ const breadcrumb = {
             <div class="reviews">
               {products.map((p) => (
                 <>
-                  <ProductCard product={p} />
+                  <ProductCard product={p} featured={p.rank === 1} />
                   {midCtas[p.rank] && (
                     <MidCta text={midCtas[p.rank].text} cta={midCtas[p.rank].cta} href={midCtas[p.rank].href} />
                   )}

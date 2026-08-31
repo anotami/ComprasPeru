@@ -8,36 +8,80 @@ export interface Product {
   imagen: string;
   link_afiliado: string;
   badge: string | null;
+  _src?: {
+    id?: string;
+    orders?: number;
+    rating?: number;
+    url?: string;
+    capturado?: string;
+    prevRank?: number | null;
+  };
 }
 
 import { withBase } from "../lib/site";
 
 interface Props {
   product: Product;
+  featured?: boolean;
 }
 
-const { product } = Astro.props;
+const { product, featured = false } = Astro.props;
 const p = product;
-// Las imágenes locales empiezan con "/"; las remotas (http) se dejan tal cual.
 const imgSrc = /^https?:\/\//.test(p.imagen) ? p.imagen : withBase(p.imagen);
+
+// Señales de confianza
+const orders = p._src?.orders;
+const rating = p._src?.rating;
+const ordersLabel =
+  typeof orders === "number" && orders > 0
+    ? `${orders.toLocaleString("es")}+ vendidos`
+    : null;
+
+// Cambio de puesto vs. el mes pasado
+const prev = p._src?.prevRank;
+let move: { cls: string; txt: string } | null = null;
+if (prev === null) move = { cls: "is-new", txt: "NUEVO" };
+else if (typeof prev === "number" && prev > p.rank)
+  move = { cls: "is-up", txt: `▲ ${prev - p.rank}` };
+else if (typeof prev === "number" && prev < p.rank)
+  move = { cls: "is-down", txt: `▼ ${p.rank - prev}` };
 ---
 
-<article class="product" id={`producto-${p.rank}`}>
+<article class={`product${featured ? " is-featured" : ""}`} id={`producto-${p.rank}`}>
+  {featured && <span class="ribbon" aria-hidden="true">Nº1</span>}
   <div class="product__media">
-    <span class="product__rank"><small>Puesto</small><b>{p.rank}</b></span>
+    <span class="product__rank">
+      <small>Puesto</small><b>{p.rank}</b>
+      {move && <span class={`rank-move ${move.cls}`}>{move.txt}</span>}
+    </span>
     {p.badge && <span class="stamp" data-b={p.badge}>{p.badge}</span>}
     <img
       src={imgSrc}
       alt={`Foto de ${p.nombre}`}
       width="800"
       height="600"
-      loading="lazy"
+      loading={featured ? "eager" : "lazy"}
+      fetchpriority={featured ? "high" : undefined}
       decoding="async"
     />
   </div>
 
   <div class="product__body">
     <h3 class="product__name">{p.nombre}</h3>
+
+    {
+      (ordersLabel || rating) && (
+        <p class="trust-row">
+          {rating && (
+            <span class="trust-rating">
+              <span aria-hidden="true">★</span> {rating.toFixed(1)}
+            </span>
+          )}
+          {ordersLabel && <span class="trust-orders">{ordersLabel}</span>}
+        </p>
+      )
+    }
+
     <p class="product__desc">{p.descripcion_corta}</p>
 
     <ul class="why">
@@ -54,6 +98,7 @@ const imgSrc = /^https?:\/\//.test(p.imagen) ? p.imagen : withBase(p.imagen);
         href={p.link_afiliado}
         target="_blank"
         rel="nofollow sponsored noopener"
+        data-cta={p.nombre}
       >
         Ver en AliExpress <span class="arrow" aria-hidden="true">→</span>
       </a>

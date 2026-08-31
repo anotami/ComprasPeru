@@ -632,6 +632,8 @@ async function buildCategory(cat, sub = null) {
         rating: it.rating,
         url: it.url,
         capturado: new Date().toISOString().slice(0, 10),
+        // puesto del mismo producto el mes pasado (null = nuevo en la lista)
+        prevRank: typeof old?.rank === "number" ? old.rank : null,
       },
     };
   });
