@@ -1,0 +1,326 @@
+[
+  {
+    "rank": 1,
+    "nombre": "Radiomaster Pocket EdgeTX 2.4G transmisor",
+    "descripcion_corta": "Controlador de radio compacto con EdgeTX, gimbal Hall y soporte ELRS para drones FPV.",
+    "por_que_comprarlo": [
+      "Gimbal Hall sin desgaste mecánico, durabilidad superior",
+      "EdgeTX firmware abierto con miles de personalizaciones",
+      "Compatible con múltiples protocolos (CC2500, ELRS)"
+    ],
+    "precio_referencia": "$50–60",
+    "imagen": "/img/fpv__radio-energia/01.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005975423127.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Frecuencia",
+        "v": "2.4 GHz"
+      },
+      {
+        "k": "Protocolo",
+        "v": "ELRS / CC2500"
+      },
+      {
+        "k": "Precio ref.",
+        "v": "$50–60"
+      }
+    ],
+    "_src": {
+      "id": "1005005975423127",
+      "orders": 3000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005005975423127.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 2,
+    "nombre": "BETAFPV ELRS 2.4GHz Nano receptor",
+    "descripcion_corta": "Receptor ultra compacto ExpressLRS con antena integrada y actualización WiFi.",
+    "por_que_comprarlo": [
+      "Alcance excepcional y latencia ultra baja con ELRS",
+      "Tamaño Nano ideal para drones micro y competición",
+      "Actualización firmware por WiFi sin hardware adicional"
+    ],
+    "precio_referencia": "$5–6",
+    "imagen": "/img/fpv__radio-energia/02.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010228737836.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Frecuencia",
+        "v": "2.4 GHz"
+      },
+      {
+        "k": "Protocolo",
+        "v": "ExpressLRS"
+      },
+      {
+        "k": "Peso",
+        "v": "Según modelo"
+      }
+    ],
+    "_src": {
+      "id": "1005010228737836",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010228737836.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 3,
+    "nombre": "Tattu R-Line 5.0 batería LiPo",
+    "descripcion_corta": "Batería LiPo de alta descarga (150C) para drones de carrera FPV con múltiples capacidades.",
+    "por_que_comprarlo": [
+      "Tasa de descarga 150C soporta aceleraciones extremas",
+      "Disponible en capacidades 850–1550 mAh para variedad",
+      "Conectores XT30/XT60 compatible con equipos estándar"
+    ],
+    "precio_referencia": "$20–23",
+    "imagen": "/img/fpv__radio-energia/03.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010503326388.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Química",
+        "v": "LiPo"
+      },
+      {
+        "k": "Descarga máx.",
+        "v": "150C"
+      },
+      {
+        "k": "Capacidad",
+        "v": "850–1550 mAh"
+      }
+    ],
+    "_src": {
+      "id": "1005010503326388",
+      "orders": 500,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010503326388.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 4,
+    "nombre": "VIFLY WhoopStor 3 cargador 6 puertos",
+    "descripcion_corta": "Cargador inteligente 6 puertos para baterías 1S LiPo/LiHV con almacenamiento seguro.",
+    "por_que_comprarlo": [
+      "Carga y descarga simultánea de 6 baterías 1S",
+      "Función almacenamiento automático a voltaje óptimo",
+      "Puerto USB-C y pantalla LCD para control preciso"
+    ],
+    "precio_referencia": "$29–35",
+    "imagen": "/img/fpv__radio-energia/04.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007823488859.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Puertos",
+        "v": "6 simultáneos"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "1S LiPo/LiHV"
+      },
+      {
+        "k": "Entrada",
+        "v": "USB-C / DC"
+      }
+    ],
+    "_src": {
+      "id": "1005007823488859",
+      "orders": 3000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007823488859.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 5,
+    "nombre": "TERANTY batería LiPo 2S/3S/4S 1500mAh",
+    "descripcion_corta": "Batería LiPo versátil 45C para drones FPV, autos y helicópteros con 3 opciones de voltaje.",
+    "por_que_comprarlo": [
+      "Múltiples configuraciones (2S/3S/4S) en un mismo modelo",
+      "Tasa descarga 45C adecuada para vehículos RC y drones",
+      "Conectores variados (T, XT30, XT60) máxima compatibilidad"
+    ],
+    "precio_referencia": "$5–6",
+    "imagen": "/img/fpv__radio-energia/05.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009646549499.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Química",
+        "v": "LiPo"
+      },
+      {
+        "k": "Celdas",
+        "v": "2S / 3S / 4S"
+      },
+      {
+        "k": "Capacidad",
+        "v": "1500 mAh"
+      }
+    ],
+    "_src": {
+      "id": "1005009646549499",
+      "orders": 500,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005009646549499.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 6,
+    "nombre": "Radiomaster Nomad Gemini módulo ELRS",
+    "descripcion_corta": "Módulo de transmisión dual-band ExpressLRS con LED RGB para controladores compatibles.",
+    "por_que_comprarlo": [
+      "Banda dual permite frecuencias alternativas sin reemplazo",
+      "LED RGB integrado para feedback visual en tiempo real",
+      "Adaptadores Nano/Micro incluidos para compatibilidad"
+    ],
+    "precio_referencia": "$45–50",
+    "imagen": "/img/fpv__radio-energia/06.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008089279744.html",
+    "badge": "Ticket alto",
+    "specs": [
+      {
+        "k": "Protocolo",
+        "v": "ExpressLRS dual-band"
+      },
+      {
+        "k": "Frecuencia",
+        "v": "Múltiple"
+      },
+      {
+        "k": "Conectividad",
+        "v": "Nano / Micro"
+      }
+    ],
+    "_src": {
+      "id": "1005008089279744",
+      "orders": 3000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005008089279744.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "BBX1-8S probador voltaje batería",
+    "descripcion_corta": "Medidor de voltaje 1-8S con alarma sonora dual para monitoreo rápido de baterías.",
+    "por_que_comprarlo": [
+      "Detecta bajo voltaje con alarma audible dual para seguridad",
+      "Rango 1-8S celdas cubre todas las configuraciones comunes",
+      "Compacto y portátil, esencial para mantenimiento preventivo"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/fpv__radio-energia/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006997630374.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Rango celdas",
+        "v": "1–8S"
+      },
+      {
+        "k": "Función",
+        "v": "Voltímetro + alarma"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "LiPo / Li-ion"
+      }
+    ],
+    "_src": {
+      "id": "1005006997630374",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006997630374.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Lipo Guard bolsa seguridad ignífuga",
+    "descripcion_corta": "Bolsa aislante ignífuga portátil para almacenamiento seguro de baterías LiPo.",
+    "por_que_comprarlo": [
+      "Material ignífugo aislante contiene incendios de baterías",
+      "Portátil para transporte seguro en competencias y vuelos",
+      "Previene accidentes por cortocircuito o sobrecalentamiento"
+    ],
+    "precio_referencia": "$3–5",
+    "imagen": "/img/fpv__radio-energia/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966322607.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Ignífugo aislante"
+      },
+      {
+        "k": "Función",
+        "v": "Almacenamiento seguro"
+      },
+      {
+        "k": "Portabilidad",
+        "v": "Compacta"
+      }
+    ],
+    "_src": {
+      "id": "1005006966322607",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006966322607.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "IMAX B6 cargador balanceador 80W",
+    "descripcion_corta": "Cargador inteligente profesional 80W con balanceo para baterías 1-6 celdas.",
+    "por_que_comprarlo": [
+      "Balanceo automático extiende vida útil de baterías",
+      "Potencia 80W permite carga rápida eficiente",
+      "Interfaz LCD clara con múltiples modos de carga/descarga"
+    ],
+    "precio_referencia": "$22–25",
+    "imagen": "/img/fpv__radio-energia/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009609686432.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Potencia",
+        "v": "80W"
+      },
+      {
+        "k": "Celdas",
+        "v": "1–6S"
+      },
+      {
+        "k": "Función",
+        "v": "Carga / balanceo"
+      }
+    ],
+    "_src": {
+      "id": "1005009609686432",
+      "orders": 1000,
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005009609686432.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  }
+]

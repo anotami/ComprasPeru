@@ -1,0 +1,362 @@
+[
+  {
+    "rank": 1,
+    "nombre": "Controlador Betaflight Diatone MAMBA F405MK2",
+    "descripcion_corta": "Controlador de vuelo integrado con ESC 55A para drones FPV de carreras, soporta baterías 3-6S.",
+    "por_que_comprarlo": [
+      "Stack completo F405 + ESC 55A en una sola placa",
+      "Rating 4.9 con más de 1.000 ventas verificadas",
+      "Compatible con Betaflight y soporta lipo 3-6S"
+    ],
+    "precio_referencia": "$50–60",
+    "imagen": "/img/fpv__fc-pila/01.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007476671684.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Controlador",
+        "v": "F405MK2"
+      },
+      {
+        "k": "ESC integrado",
+        "v": "55A 3-6S"
+      },
+      {
+        "k": "Voltaje entrada",
+        "v": "3-6S Lipo"
+      }
+    ],
+    "_src": {
+      "id": "1005007476671684",
+      "orders": 1000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007476671684.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 2,
+    "nombre": "Stack F405 F722 BLS 4 en 1 60-80A",
+    "descripcion_corta": "Placa de control integrada con ESC 60-80A para drones de carreras, compatible con F405 y F722.",
+    "por_que_comprarlo": [
+      "2.000+ ventas con rating 4.9 consistente",
+      "Opción económica entre $23-27 USD",
+      "ESC dual 60A/80A adaptable a diferentes necesidades"
+    ],
+    "precio_referencia": "$23–27",
+    "imagen": "/img/fpv__fc-pila/02.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009054933892.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Controlador",
+        "v": "F405 o F722"
+      },
+      {
+        "k": "ESC integrado",
+        "v": "60-80A"
+      },
+      {
+        "k": "Voltaje entrada",
+        "v": "2-6S Lipo"
+      }
+    ],
+    "_src": {
+      "id": "1005009054933892",
+      "orders": 2000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009054933892.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 3,
+    "nombre": "Angeltoy F4DC Control de Vuelo INAV",
+    "descripcion_corta": "Controlador F4 compacto con barómetro integrado, ideal para drones FPV de bajo costo.",
+    "por_que_comprarlo": [
+      "Precio ultra accesible entre $10-12 USD",
+      "Incluye barómetro para estabilidad mejorada",
+      "Compatible con Betaflight e INAV"
+    ],
+    "precio_referencia": "$10–12",
+    "imagen": "/img/fpv__fc-pila/03.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009249412738.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Controlador",
+        "v": "F4"
+      },
+      {
+        "k": "Barómetro",
+        "v": "Incluido"
+      },
+      {
+        "k": "Firmware",
+        "v": "Betaflight/INAV"
+      }
+    ],
+    "_src": {
+      "id": "1005009249412738",
+      "orders": 312,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005009249412738.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 4,
+    "nombre": "Matek Mini Power Hub Placa PDB",
+    "descripcion_corta": "Distribuidor de energía compacto con reguladores 5V y 12V para FPV multirrotores.",
+    "por_que_comprarlo": [
+      "Solución de distribución completa y confiable",
+      "BEC dual 5V y 12V para accesorios",
+      "Compatible con todos los frames FPV populares"
+    ],
+    "precio_referencia": "$3–4",
+    "imagen": "/img/fpv__fc-pila/04.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006253894970.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "BEC 5V",
+        "v": "Regulado"
+      },
+      {
+        "k": "BEC 12V",
+        "v": "Regulado"
+      },
+      {
+        "k": "Aplicación",
+        "v": "QAV250/ZMR250"
+      }
+    ],
+    "_src": {
+      "id": "1005006253894970",
+      "orders": 1000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006253894970.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 5,
+    "nombre": "Controlador F722 F745 H743 45-60A VTX",
+    "descripcion_corta": "Stack F722 con ESC 45-60A e integración VTX con cámara 1080P para FPV avanzado.",
+    "por_que_comprarlo": [
+      "VTX y cámara integrados en una placa",
+      "Procesador F7/F745 de último rendimiento",
+      "Soporte para video en tiempo real 1080P"
+    ],
+    "precio_referencia": "$20–24",
+    "imagen": "/img/fpv__fc-pila/05.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008279741542.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Controlador",
+        "v": "F722/F745/H743"
+      },
+      {
+        "k": "ESC integrado",
+        "v": "45-60A"
+      },
+      {
+        "k": "Cámara",
+        "v": "1080P integrada"
+      }
+    ],
+    "_src": {
+      "id": "1005008279741542",
+      "orders": 103,
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005008279741542.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 6,
+    "nombre": "Condensadores electrolíticos 1000UF 25-50V",
+    "descripcion_corta": "Pack de 10 condensadores de baja ESR para filtrado de potencia en sistemas FPV.",
+    "por_que_comprarlo": [
+      "10.000+ ventas demuestran confiabilidad",
+      "Especificación de baja ESR para RF limpia",
+      "Precio accesible entre $2-4 USD"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/fpv__fc-pila/06.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007791605536.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Capacitancia",
+        "v": "1000UF"
+      },
+      {
+        "k": "Voltaje",
+        "v": "25-50V"
+      },
+      {
+        "k": "Características",
+        "v": "Baja ESR"
+      }
+    ],
+    "_src": {
+      "id": "1005007791605536",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007791605536.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Stack F405 F722 BLS 60-80A Flytower",
+    "descripcion_corta": "Placa integrada F405/F722 con ESC 4 en 1, stack completo para drones de carreras.",
+    "por_que_comprarlo": [
+      "2.000+ ventas verificadas con rating 4.9",
+      "Solución todo en uno lista para instalar",
+      "Precio competitivo en rango $24-29 USD"
+    ],
+    "precio_referencia": "$24–29",
+    "imagen": "/img/fpv__fc-pila/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008710524456.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Controlador",
+        "v": "F405 o F722"
+      },
+      {
+        "k": "ESC integrado",
+        "v": "60-80A"
+      },
+      {
+        "k": "Voltaje entrada",
+        "v": "2-6S Lipo"
+      }
+    ],
+    "_src": {
+      "id": "1005008710524456",
+      "orders": 2000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008710524456.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Receptor ELRS BETAFPV NANO 2.4GHz",
+    "descripcion_corta": "Receptor ExpressLRS 2.4GHz ultra compacto con actualización WiFi para drones FPV.",
+    "por_que_comprarlo": [
+      "10.000+ ventas, protocolo ELRS de baja latencia",
+      "Actualización por WiFi sin cables",
+      "Antena tipo T integrada, tamaño NANO"
+    ],
+    "precio_referencia": "$5–6",
+    "imagen": "/img/fpv__fc-pila/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010228737836.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Protocolo",
+        "v": "ExpressLRS 2.4GHz"
+      },
+      {
+        "k": "Actualización",
+        "v": "WiFi"
+      },
+      {
+        "k": "Tamaño",
+        "v": "NANO compacto"
+      }
+    ],
+    "_src": {
+      "id": "1005010228737836",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010228737836.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "IFlight YR50B_S Localizador con Alarma",
+    "descripcion_corta": "Buscador de drones con zumbador 100dB y luz LED, programable por Betaflight.",
+    "por_que_comprarlo": [
+      "5.000+ ventas para recuperación confiable",
+      "Alarma 100dB audible en búsqueda",
+      "LED integrado y programación por F7"
+    ],
+    "precio_referencia": "$5–6",
+    "imagen": "/img/fpv__fc-pila/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966191746.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Alarma sonora",
+        "v": "100 dB"
+      },
+      {
+        "k": "Indicador visual",
+        "v": "LED programable"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "BF F7 configurable"
+      }
+    ],
+    "_src": {
+      "id": "1005006966191746",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006966191746.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Conector XT60 Divisor Paralelo Y",
+    "descripcion_corta": "Cable de distribución XT60 macho/hembra con 3 vías y cable silicona 14AWG.",
+    "por_que_comprarlo": [
+      "10.000+ ventas, estándar de la industria FPV",
+      "Cable grueso 14AWG reduce pérdidas",
+      "Conexión paralela para múltiples baterías"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/fpv__fc-pila/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006853589194.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Conector",
+        "v": "XT60 macho/hembra"
+      },
+      {
+        "k": "Calibre cable",
+        "v": "14AWG silicona"
+      },
+      {
+        "k": "Configuración",
+        "v": "3 vías paralelo"
+      }
+    ],
+    "_src": {
+      "id": "1005006853589194",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006853589194.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  }
+]

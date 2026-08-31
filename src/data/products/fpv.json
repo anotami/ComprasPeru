@@ -1,0 +1,362 @@
+[
+  {
+    "rank": 1,
+    "nombre": "Marco de quadcopter fibra de carbono 225/295mm",
+    "descripcion_corta": "Estructura de fibra de carbono para drones FPV freestyle y racing, disponible en dos tamaños con brazos reforzados.",
+    "por_que_comprarlo": [
+      "Material de fibra de carbono resiste impactos y caídas en vuelos de carreras",
+      "Compatible con múltiples modelos APEX para versatilidad de uso",
+      "Brazos de 5.5mm proporcionan rigidez sin exceso de peso"
+    ],
+    "precio_referencia": "$16–19",
+    "imagen": "/img/fpv/01.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006863865311.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Tamaño",
+        "v": "225mm / 295mm"
+      },
+      {
+        "k": "Material",
+        "v": "Fibra de carbono"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "APEX FPV, freestyle, racing"
+      }
+    ],
+    "_src": {
+      "id": "1005006863865311",
+      "orders": 1000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006863865311.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 2,
+    "nombre": "Motor iFlight XING E Pro 2207 sin escobillas",
+    "descripcion_corta": "Pack de 4 motores brushless de alto rendimiento para drones FPV racing y freestyle con configuración multi-voltaje.",
+    "por_que_comprarlo": [
+      "Disponible en 1800KV, 2450KV y 2750KV para diferentes configuraciones de vuelo",
+      "Motores profesionales iFlight con rating 4.9 de confiabilidad comprobada",
+      "Compatible con baterías 4S y 6S según variante seleccionada"
+    ],
+    "precio_referencia": "$50–55",
+    "imagen": "/img/fpv/02.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009524110745.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "KV disponibles",
+        "v": "1800 / 2450 / 2750 KV"
+      },
+      {
+        "k": "Voltaje",
+        "v": "4S / 6S Lipo"
+      },
+      {
+        "k": "Cantidad",
+        "v": "4 unidades"
+      }
+    ],
+    "_src": {
+      "id": "1005009524110745",
+      "orders": 1000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009524110745.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 3,
+    "nombre": "Controlador de vuelo F405/F722 con ESC 4 en 1",
+    "descripcion_corta": "Stack integrado de controlador de vuelo y ESC brushless todo en uno para drones FPV racing con voltaje 2-6S.",
+    "por_que_comprarlo": [
+      "Opción 60A y 80A cubre diferentes potencias de motor sin cambiar equipamiento",
+      "Integración 4 en 1 simplifica cableado y reduce peso total del dron",
+      "Rating 4.9 con 2000+ pedidos confirma confiabilidad en competencia"
+    ],
+    "precio_referencia": "$24–29",
+    "imagen": "/img/fpv/03.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008710524456.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Controlador",
+        "v": "F405 / F722"
+      },
+      {
+        "k": "ESC",
+        "v": "60A / 80A brushless"
+      },
+      {
+        "k": "Voltaje",
+        "v": "2-6S Lipo"
+      }
+    ],
+    "_src": {
+      "id": "1005008710524456",
+      "orders": 2000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008710524456.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 4,
+    "nombre": "Controlador F4V3S Plus con ESC 4 en 1",
+    "descripcion_corta": "Flytower compacta con controlador F4V3S y ESC integrado para drones FPV de carreras con Betaflight.",
+    "por_que_comprarlo": [
+      "Stack optimizado F4V3S Plus con opciones ESC 45A y 60A según necesidad",
+      "Compatible con firmware Betaflight para ajuste avanzado de vuelo",
+      "Diseñado específicamente para modelos APEX con probada integración"
+    ],
+    "precio_referencia": "$40–45",
+    "imagen": "/img/fpv/04.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007038225919.html",
+    "badge": "Ticket alto",
+    "specs": [
+      {
+        "k": "Controlador",
+        "v": "F4V3S Plus"
+      },
+      {
+        "k": "ESC",
+        "v": "45A / 60A brushless"
+      },
+      {
+        "k": "Firmware",
+        "v": "Betaflight compatible"
+      }
+    ],
+    "_src": {
+      "id": "1005007038225919",
+      "orders": 1000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007038225919.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 5,
+    "nombre": "Cámara CADDX ANT Nano 1200TVL",
+    "descripcion_corta": "Cámara FPV ultraligera con 1200TVL, Global WDR y OSD integrado, ideal para tinywhoop y cinewhoop.",
+    "por_que_comprarlo": [
+      "Peso ultra reducido con lente de 1.8mm sin sacrificar imagen clara",
+      "Soporte Global WDR para mejor visión en condiciones de luz variable",
+      "5000+ pedidos en versiones relacionadas demuestran popularidad en category"
+    ],
+    "precio_referencia": "$11–13",
+    "imagen": "/img/fpv/05.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006863927036.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Resolución",
+        "v": "1200 TVL"
+      },
+      {
+        "k": "Lente",
+        "v": "1.8mm"
+      },
+      {
+        "k": "Ratio",
+        "v": "16:9 / 4:3 seleccionable"
+      }
+    ],
+    "_src": {
+      "id": "1005006863927036",
+      "orders": 3000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005006863927036.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 6,
+    "nombre": "Transmisor de video RUSH TANK MAX SOLO",
+    "descripcion_corta": "VTX de 2.5W de alta potencia en 5.8GHz con 48 canales y carcasa CNC mecanizada para drones FPV.",
+    "por_que_comprarlo": [
+      "Potencia 2.5W ofrece alcance máximo en competiciones FPV racing",
+      "Carcasa CNC garantiza durabilidad en caídas y aterrizajes forzados",
+      "Rating 5 estrellas con 5000+ pedidos respalda fiabilidad del componente"
+    ],
+    "precio_referencia": "$40–45",
+    "imagen": "/img/fpv/06.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860597689.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Frecuencia",
+        "v": "5.8 GHz"
+      },
+      {
+        "k": "Potencia",
+        "v": "2.5W máxima"
+      },
+      {
+        "k": "Canales",
+        "v": "48 canales"
+      }
+    ],
+    "_src": {
+      "id": "1005006860597689",
+      "orders": 5000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005006860597689.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Receptor ELRS 2.4GHz ExpressLRS Nano",
+    "descripcion_corta": "Receptor de 2.4GHz ultra compacto con protocolo ExpressLRS, antena tipo T y actualización por WiFi.",
+    "por_que_comprarlo": [
+      "Protocolo ExpressLRS ofrece latencia mínima y conexión de largo alcance",
+      "Precio muy accesible con 10000+ pedidos confirma mejor valor del mercado",
+      "Compatibilidad WiFi permite actualizar firmware sin equipo adicional"
+    ],
+    "precio_referencia": "$5–6",
+    "imagen": "/img/fpv/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010228737836.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Frecuencia",
+        "v": "2.4 GHz ELRS"
+      },
+      {
+        "k": "Tamaño",
+        "v": "Nano compacto"
+      },
+      {
+        "k": "Antena",
+        "v": "Tipo T integrada"
+      }
+    ],
+    "_src": {
+      "id": "1005010228737836",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010228737836.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Hélices Gemfan Hurricane 51499 5 pulgadas",
+    "descripcion_corta": "Pack de 4 hélices 3 aspas PC para motores 2207/2306 en configuración CW/CCW para drones FPV racing.",
+    "por_que_comprarlo": [
+      "Material PC flexible absorbe impactos sin rotura en carreras de obstáculos",
+      "4000+ pedidos de producto relacionado indican confiabilidad de marca Gemfan",
+      "Compatible con múltiples motores estándar de la categoría racing"
+    ],
+    "precio_referencia": "$3–5",
+    "imagen": "/img/fpv/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007792190596.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tamaño",
+        "v": "5 pulgadas"
+      },
+      {
+        "k": "Aspas",
+        "v": "3 aspas por hélice"
+      },
+      {
+        "k": "Material",
+        "v": "PC resistente"
+      }
+    ],
+    "_src": {
+      "id": "1005007792190596",
+      "orders": 4000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007792190596.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Batería Lipo Tattu R-Line 150C",
+    "descripcion_corta": "Paquete de baterías de alto desempeño en múltiples capacidades y voltajes con conectores XT30/XT60.",
+    "por_que_comprarlo": [
+      "Descarga 150C permite potencia máxima sostenida en drones de carrera exigentes",
+      "Múltiples opciones 3S/4S/6S adapta a diferentes configuraciones de dron",
+      "Conectores XT30 y XT60 cubre compatibilidad con casi todos los drones FPV"
+    ],
+    "precio_referencia": "$20–23",
+    "imagen": "/img/fpv/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010503326388.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Celdas",
+        "v": "3S / 4S / 6S seleccionable"
+      },
+      {
+        "k": "Capacidad",
+        "v": "850-1550 mAh"
+      },
+      {
+        "k": "Descarga",
+        "v": "150C máxima"
+      }
+    ],
+    "_src": {
+      "id": "1005010503326388",
+      "orders": 500,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010503326388.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Hélices Gemfan Hurricane 51466 MCK V2",
+    "descripcion_corta": "2 pares de hélices 3 aspas de 5 pulgadas en configuración 2CW/2CCW para freestyle y drones FPV.",
+    "por_que_comprarlo": [
+      "Diseño MCK V2 optimizado para vuelo freestyle con mejor maniobrabilidad",
+      "Rating 5 estrellas con 5000+ pedidos confirma calidad en acrobacias aéreas",
+      "Material PC proporciona flexibilidad sin sacrificar rigidez en giros rápidos"
+    ],
+    "precio_referencia": "$3–5",
+    "imagen": "/img/fpv/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007636184200.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tamaño",
+        "v": "5 pulgadas"
+      },
+      {
+        "k": "Aspas",
+        "v": "3 aspas por hélice"
+      },
+      {
+        "k": "Material",
+        "v": "PC resistente"
+      }
+    ],
+    "_src": {
+      "id": "1005007636184200",
+      "orders": 5000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005007636184200.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  }
+]
