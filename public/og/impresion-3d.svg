@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F5F1E8"/>
+  <rect width="1200" height="630" fill="#DBEDEA" fill-opacity="0.6"/>
+  <rect x="0" y="0" width="14" height="630" fill="#0F766E"/>
+  <g fill="none" stroke="#17140F" stroke-opacity="0.05" stroke-width="3">
+    <path d="M-40 180C260 60 560 60 800 180S1140 300 1300 180"/>
+    <path d="M-40 340C260 220 560 220 800 340S1140 460 1300 340"/>
+    <path d="M-40 500C260 380 560 380 800 500S1140 620 1300 500"/>
+  </g>
+  <text x="80" y="150" font-family="'JetBrains Mono',monospace" font-size="26" font-weight="700" letter-spacing="6" fill="#0F766E">HALLAZGOS ALIEXPRESS</text>
+  <text font-family="'Syne','Trebuchet MS',sans-serif" font-size="64" font-weight="800" fill="#17140F"><tspan x="80" y="300">10 mejores de bambu lab a1 en</tspan><tspan x="80" y="374">AliExpress</tspan></text>
+  <text x="80" y="560" font-family="'Manrope',sans-serif" font-size="28" fill="#17140F" fill-opacity="0.6">Ranking con precios de referencia</text>
+</svg>
