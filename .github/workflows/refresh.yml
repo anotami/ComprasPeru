@@ -74,17 +74,29 @@ jobs:
             echo "Sin cambios este mes."
             exit 0
           fi
-          git commit -m "chore: refresco mensual de rankings"
-          # El remoto puede haber avanzado mientras corría el scrape (~6 min).
-          # Reintentar rebasando sobre lo último de origin/main antes de empujar.
+          MSG="chore: refresco mensual de rankings"
+          git commit -m "$MSG"
+          # El remoto puede haber avanzado mientras corría el scrape (~1 h).
+          # Los .json de datos y las fotos son GENERADOS: ante cualquier conflicto
+          # gana SIEMPRE lo que acaba de scrapear esta corrida. Por eso se
+          # reintegra con `-X theirs` (nunca un rebase normal, que choca en cada
+          # archivo regenerado), y si ni eso arranca, se parte de origin/main y se
+          # vuelven a poner los datos de esta corrida encima.
           for i in 1 2 3 4 5; do
             if git push origin HEAD:main; then
               echo "push ok (intento $i)"
               exit 0
             fi
-            echo "push rechazado; rebasando sobre origin/main (intento $i)"
+            echo "push rechazado; reintegrando sobre origin/main (intento $i)"
             git fetch origin main
-            git rebase origin/main || { git rebase --abort; exit 1; }
+            if ! git -c rerere.enabled=false rebase -X theirs origin/main; then
+              git rebase --abort || true
+              SNAP=$(git rev-parse HEAD)
+              git reset --hard origin/main
+              git checkout "$SNAP" -- src/data public/img
+              git add src/data public/img
+              git diff --cached --quiet || git commit -m "$MSG"
+            fi
             sleep 3
           done
           echo "no se pudo empujar tras 5 intentos"
