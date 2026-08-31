@@ -8,7 +8,7 @@
       "Pantalla integrada para visualizar mensajes y estado de la red",
       "Precio muy accesible para iniciarse en redes de malla"
     ],
-    "precio_referencia": "$14–16",
+    "precio_referencia": "$17–20",
     "imagen": "/img/meshtastic/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32872078587.html",
     "badge": "El más vendido",
@@ -17,7 +17,8 @@
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/32872078587.html",
-      "capturado": "2026-08-30"
+      "capturado": "2026-08-31",
+      "prevRank": 1
     }
   },
   {
@@ -38,7 +39,8 @@
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008430005435.html",
-      "capturado": "2026-08-30"
+      "capturado": "2026-08-31",
+      "prevRank": 2
     }
   },
   {
@@ -59,7 +61,8 @@
       "orders": 2000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005003026107533.html",
-      "capturado": "2026-08-30"
+      "capturado": "2026-08-31",
+      "prevRank": 3
     }
   },
   {
@@ -80,7 +83,8 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010572789349.html",
-      "capturado": "2026-08-30"
+      "capturado": "2026-08-31",
+      "prevRank": 4
     }
   },
   {
@@ -101,28 +105,30 @@
       "orders": 4000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005008760784706.html",
-      "capturado": "2026-08-30"
+      "capturado": "2026-08-31",
+      "prevRank": 5
     }
   },
   {
     "rank": 6,
-    "nombre": "Batería recargable 18650 de 2000 mAh con cargador",
-    "descripcion_corta": "Celda de litio 18650 de 3.7V con cargador incluido para alimentar dispositivos Meshtastic portátiles.",
+    "nombre": "Nueva batería de litio 18650 3500mAh 3",
+    "descripcion_corta": "Nueva batería de litio 18650 3500mAh 3,7 v 25A INR18650 MJ1 batería de herramienta eléctrica de alta potencia 18650 batería reca",
     "por_que_comprarlo": [
-      "Cargador incluido en el mismo paquete",
-      "Capacidad suficiente para jornadas de uso moderado",
-      "Compatible con la mayoría de enclosures y holders estándar"
+      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
+      "Calificación de 4.5/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$15–17",
+    "precio_referencia": "$6–7",
     "imagen": "/img/meshtastic/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009161667714.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008078553867.html",
     "badge": null,
     "_src": {
-      "id": "1005009161667714",
-      "orders": 2000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005009161667714.html",
-      "capturado": "2026-08-30"
+      "id": "1005008078553867",
+      "orders": 5000,
+      "rating": 4.5,
+      "url": "https://www.aliexpress.com/item/1005008078553867.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
     }
   },
   {
@@ -143,7 +149,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005005073187553.html",
-      "capturado": "2026-08-30"
+      "capturado": "2026-08-31",
+      "prevRank": 7
     }
   },
   {
@@ -164,7 +171,8 @@
       "orders": 3000,
       "rating": 4.7,
       "url": "https://www.aliexpress.com/item/1005007568074083.html",
-      "capturado": "2026-08-30"
+      "capturado": "2026-08-31",
+      "prevRank": 8
     }
   },
   {
@@ -185,7 +193,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008932865297.html",
-      "capturado": "2026-08-30"
+      "capturado": "2026-08-31",
+      "prevRank": 9
     }
   },
   {
@@ -206,7 +215,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010044061923.html",
-      "capturado": "2026-08-30"
+      "capturado": "2026-08-31",
+      "prevRank": 10
     }
   }
 ]

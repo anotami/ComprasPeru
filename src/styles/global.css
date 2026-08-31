@@ -528,6 +528,26 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .faq .faq__a { padding: .9rem 0 1.1rem; color: var(--ink-2); }
 
 /* ---------- Home ---------- */
+.hot-strip {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem .9rem;
+  margin-top: 1.4rem; margin-bottom: -.6rem;
+  padding: .85rem 1.1rem;
+  border: 1px solid var(--line-2);
+  border-left: 4px solid var(--cta);
+  border-radius: 8px;
+  background: var(--card);
+  text-decoration: none; color: inherit;
+  transition: transform .14s ease, box-shadow .14s ease;
+}
+.hot-strip:hover { transform: translateY(-2px); box-shadow: 0 14px 30px -20px rgba(23,20,15,.5); }
+.hot-strip__tag {
+  font-family: var(--font-mono); font-size: .7rem; font-weight: 700;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--cta-2);
+  white-space: nowrap;
+}
+.hot-strip__name { font-family: var(--font-display); font-weight: 700; font-size: .98rem; flex: 1 1 12rem; min-width: 0; }
+.hot-strip__meta { font-family: var(--font-mono); font-size: .74rem; color: var(--ink-3); white-space: nowrap; }
+
 .hero-home h1 { font-size: clamp(2.2rem, 9vw, 4rem); max-width: 16ch; }
 .value-props { margin-top: 1.6rem; display: grid; gap: .55rem; }
 .value-props li { position: relative; padding-left: 1.6rem; color: var(--ink-2); }

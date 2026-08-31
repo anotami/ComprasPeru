@@ -15,7 +15,22 @@ const productFiles = import.meta.glob<{ default: Product[] }>(
 );
 const countFor = (slug: string) =>
   productFiles[`../data/products/${slug}.json`]?.default?.length ?? 0;
-const totalProductos = cats.reduce((s, c) => s + countFor(c.slug), 0);
+// Cuenta padres + subcategorías
+const totalRankings = cats.reduce((s, c) => s + 1 + (c.subcategorias?.length ?? 0), 0);
+const totalProductos = Object.values(productFiles).reduce(
+  (s, m) => s + (m.default?.length ?? 0),
+  0,
+);
+
+// "Lo más pedido ahora": el producto con más ventas entre todas las categorías.
+type Hot = { p: Product; cat: (typeof cats)[number] };
+let hot: Hot | null = null;
+for (const c of cats) {
+  for (const p of productFiles[`../data/products/${c.slug}.json`]?.default ?? []) {
+    if (!hot || (p._src?.orders ?? 0) > (hot.p._src?.orders ?? 0)) hot = { p, cat: c };
+  }
+}
+const hotOrders = hot?.p._src?.orders;
 
 const title = `${site.nombre} — Los mejores hallazgos de AliExpress, probados y curados`;
 const description =
@@ -83,10 +98,23 @@ const pasos = [
     <p class="updated"><time datetime={site.actualizado}>Actualizado el {updatedLong}</time></p>
   </section>
 
+  {
+    hot && (
+      <a class="hot-strip container" href={withBase(`/${hot.cat.slug}#producto-${hot.p.rank}`)}>
+        <span class="hot-strip__tag">🔥 Lo más pedido ahora</span>
+        <span class="hot-strip__name">{hot.p.nombre}</span>
+        <span class="hot-strip__meta">
+          {hotOrders ? `${hotOrders.toLocaleString("es")}+ vendidos · ` : ""}
+          {hot.cat.nav} <span aria-hidden="true">→</span>
+        </span>
+      </a>
+    )
+  }
+
   <section class="section container" aria-labelledby="nichos-title">
     <div class="section-head">
       <span class="kicker">Empieza por tu tema</span>
-      <h2 id="nichos-title">{cats.length} rankings, {totalProductos} productos</h2>
+      <h2 id="nichos-title">{totalRankings} rankings, {totalProductos} productos</h2>
       <p>Elige el que te interesa. Cada página tiene tabla comparativa, reseña producto por producto y preguntas frecuentes.</p>
     </div>
 
