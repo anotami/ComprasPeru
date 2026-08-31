@@ -90,7 +90,11 @@ const log = (...a) => console.log(...a);
 const warn = (...a) => console.warn("  ⚠ ", ...a);
 
 const manualList = [];
-let hadFailure = false;
+// `problems` junta avisos que merecen un issue, pero NO tumban la corrida:
+// mientras se haya escrito algún archivo, se commitea lo bueno igual. Solo un
+// error total (0 archivos escritos) sale con código ≠ 0.
+const problems = [];
+let wroteAnyFile = false;
 let affKeyWarned = false;
 let copyEnabled = false;
 let copyFailures = 0;
@@ -582,12 +586,12 @@ async function buildCategory(cat, sub = null) {
   }
 
   if (!picked.length) {
-    hadFailure = true;
+    problems.push(`${fileSlug}: 0 productos nuevos (se conserva el archivo anterior si existe)`);
     warn(`${fileSlug}: 0 productos, dejo el archivo anterior intacto`);
     return;
   }
   if (picked.length < queries.length) {
-    hadFailure = true;
+    problems.push(`${fileSlug}: ${picked.length}/${queries.length} puestos (el resto conserva lo anterior)`);
     warn(`${fileSlug}: solo ${picked.length}/${queries.length} puestos (los que faltan conservan lo anterior si existe)`);
   }
   picked.sort((a, b) => a.rank - b.rank);
@@ -676,6 +680,7 @@ async function buildCategory(cat, sub = null) {
     log(`  (dry-run) escribiría ${products.length} productos en ${outFile}`);
   } else {
     writeFileSync(outFile, JSON.stringify(products, null, 2) + "\n");
+    wroteAnyFile = true;
     log(`  ✓ ${products.length} productos → src/data/products/${fileSlug}.json`);
   }
 }
@@ -718,7 +723,7 @@ async function main() {
     try {
       await buildCategory(cat);
     } catch (e) {
-      hadFailure = true;
+      problems.push(`${cat.slug}: ${e.message}`);
       warn(`${cat.slug} falló entero: ${e.message}`);
     }
     // Subcategorías de esta categoría
@@ -727,7 +732,7 @@ async function main() {
       try {
         await buildCategory(cat, sub);
       } catch (e) {
-        hadFailure = true;
+        problems.push(`${cat.slug}/${sub.slug}: ${e.message}`);
         warn(`${cat.slug}/${sub.slug} falló entero: ${e.message}`);
       }
     }
@@ -746,12 +751,28 @@ async function main() {
   }
 
   if (!NO_COPY && !copyEnabled) {
-    log("\n⚠ RESUMEN: el copy salió de PLANTILLA (Anthropic no disponible). Revisa el secreto ANTHROPIC_API_KEY.");
+    problems.push("copy de PLANTILLA en todo: Anthropic no disponible (revisa ANTHROPIC_API_KEY y saldo)");
   } else if (copyFailures > 0) {
-    log(`\n⚠ RESUMEN: Claude falló en ${copyFailures} categoría(s); ahí se usó plantilla.`);
+    problems.push(`Claude falló en ${copyFailures} archivo(s); ahí quedó texto de plantilla`);
   }
-  log(hadFailure ? "\n✗ terminó con errores de scraping (revisa arriba)" : "\n✓ listo");
-  process.exit(hadFailure ? 1 : 0);
+
+  // Deja el detalle para que el workflow abra un issue SIN tumbar la corrida.
+  if (!DRY && problems.length) {
+    writeFileSync(
+      P("refresh-problems.json"),
+      JSON.stringify({ fecha: new Date().toISOString().slice(0, 10), problemas: problems }, null, 2) + "\n",
+    );
+    log(`\n⚠ RESUMEN — ${problems.length} aviso(s), pero se escribió lo que sí se pudo:`);
+    for (const p of problems) log(`   · ${p}`);
+  }
+
+  // Solo es fallo duro si NO se escribió ningún archivo (corrida inservible).
+  if (!wroteAnyFile && !DRY) {
+    log("\n✗ no se escribió ningún archivo — corrida fallida");
+    process.exit(1);
+  }
+  log(problems.length ? "\n✓ listo (con avisos, ver arriba)" : "\n✓ listo");
+  process.exit(0);
 }
 
 main();
