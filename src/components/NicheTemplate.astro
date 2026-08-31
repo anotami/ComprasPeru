@@ -9,6 +9,7 @@ import type { Product } from "./ProductCard.astro";
 import MidCta from "./MidCta.astro";
 import Faq from "./Faq.astro";
 import StickyCta from "./StickyCta.astro";
+import ComoPagarMenos from "./ComoPagarMenos.astro";
 
 export interface Subcat {
   slug: string;
@@ -33,6 +34,8 @@ export interface Category {
   intro: string;
   queries: string[];
   subcategorias?: Subcat[];
+  guia?: { titulo: string; texto: string }[];
+  faq?: { q: string; a: string }[];
 }
 
 interface Props {
@@ -122,10 +125,12 @@ const itemList = {
   }),
 };
 
+// FAQ: primero las propias de la categoría, luego 3 comunes.
+const faqItems = [...(cat.faq ?? []), ...faq.slice(0, 3)];
 const faqPage = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  mainEntity: faq.map((f) => ({
+  mainEntity: faqItems.map((f) => ({
     "@type": "Question",
     name: f.q,
     acceptedAnswer: { "@type": "Answer", text: f.a },
@@ -245,6 +250,27 @@ const breadcrumb = {
     }
 
     {
+      cat.guia && cat.guia.length > 0 && (
+        <section class="section" aria-labelledby="guia-title" style="padding-top:0">
+          <div class="section-head">
+            <span class="kicker">Antes de decidir</span>
+            <h2 id="guia-title">Cómo elegir bien</h2>
+          </div>
+          <ol class="guia">
+            {cat.guia.map((g) => (
+              <li>
+                <strong>{g.titulo}</strong>
+                <span>{g.texto}</span>
+              </li>
+            ))}
+          </ol>
+        </section>
+      )
+    }
+
+    <ComoPagarMenos />
+
+    {
       siblings.length > 0 && (
         <section class="section" aria-labelledby="hermanas-title" style="padding-top:0">
           <div class="section-head">
@@ -261,7 +287,7 @@ const breadcrumb = {
       )
     }
 
-    <Faq items={faq} heading="Comprar en AliExpress desde Perú: dudas frecuentes" />
+    <Faq items={faqItems} heading="Preguntas frecuentes" />
 
     {
       hasProducts && (

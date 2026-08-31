@@ -69,6 +69,34 @@
             "kit reparacion pinchazo moto tubeless co2"
           ]
         }
+      ],
+      "guia": [
+        {
+          "titulo": "Alcance real, no el del anuncio",
+          "texto": "Los intercomunicadores anuncian 1000-2000 m en línea recta y campo abierto. En ciudad o con curvas cuenta con la mitad. Para grupo, fíjate en cuántos cascos conecta a la vez."
+        },
+        {
+          "titulo": "Batería según tu tipo de ruta",
+          "texto": "Para viajes largos busca 10 h o más de conversación. Para ciudad cualquier modelo aguanta el día."
+        },
+        {
+          "titulo": "Compatibilidad con tu casco",
+          "texto": "Los parlantes planos entran en casi todo casco integral. En abatibles y jet revisa el espacio para la oreja antes de comprar."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Un intercomunicador chino se conecta con uno de marca (Sena, Cardo)?",
+          "a": "A veces, por el modo “universal” Bluetooth, pero pierdes funciones y la conexión se cae más. Lo más estable es que todo el grupo use el mismo modelo."
+        },
+        {
+          "q": "¿Los guantes de AliExpress protegen de verdad en una caída?",
+          "a": "Los de gama media con nudillera rígida y palma reforzada cumplen para ciudad y velocidades bajas. Para ruta y pista busca certificación CE (EN 13594)."
+        },
+        {
+          "q": "¿Puedo poner luces LED sin dañar el sistema eléctrico?",
+          "a": "Sí, si las conectas con relé a la batería y no directo a un cable de señal. Los kits que trae esta lista ya vienen con arnés y relé."
+        }
       ]
     },
     {
@@ -138,6 +166,34 @@
             "bomba aire electrica camping flextail",
             "tira led usb carpa camping"
           ]
+        }
+      ],
+      "guia": [
+        {
+          "titulo": "Peso vs. estaciones",
+          "texto": "Una carpa 3 estaciones de 1,5-2 kg sirve para el 90% de las salidas en Perú. Las 4 estaciones pesan y sobran salvo alta montaña con nieve."
+        },
+        {
+          "titulo": "Capacidad real",
+          "texto": "A la capacidad que anuncia la carpa réstale una persona para dormir cómodo con mochilas adentro."
+        },
+        {
+          "titulo": "Impermeabilidad",
+          "texto": "Mira la columna de agua: 2000 mm en el piso y 1500 mm en el techo es el mínimo para lluvia de sierra."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Las carpas Naturehike aguantan la lluvia de la sierra?",
+          "a": "Las de la línea Cloud-Up y Mongar sí: doble capa, sobretecho siliconado y piso con costuras selladas. Igual conviene sellar las costuras del techo la primera vez."
+        },
+        {
+          "q": "¿Qué temperatura de sleeping necesito para la sierra del Perú?",
+          "a": "Para valles y quebradas (0 a 5 °C de noche) un saco de confort 0 °C alcanza. Para puna sobre 4000 m busca confort -5 °C o menos."
+        },
+        {
+          "q": "¿El filtro de agua sirve para tomar de un río?",
+          "a": "Sí para bacterias y protozoos, que es el riesgo real en montaña. No quita químicos ni virus; para eso hace falta pastillas o hervir."
         }
       ]
     },
@@ -209,6 +265,34 @@
             "gorra quick dry running transpirable"
           ]
         }
+      ],
+      "guia": [
+        {
+          "titulo": "GPS propio vs. depende del celular",
+          "texto": "Si quieres salir sin celular, el reloj tiene que traer GPS integrado, no solo “GPS conectado”."
+        },
+        {
+          "titulo": "Ajuste sin rebote",
+          "texto": "El chaleco o cinturón se prueba corriendo en el sitio: si rebota o roza al kilómetro uno, no es tu talla."
+        },
+        {
+          "titulo": "Autonomía para tus distancias",
+          "texto": "Para 10K y media, cualquier reloj GPS económico rinde. Para ultra y trail largo mira que el GPS aguante 20 h o más."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Los relojes GPS baratos miden bien la distancia?",
+          "a": "Los Amazfit y similares tienen un error de 1-3% en ruta abierta, suficiente para entrenar. En bosque cerrado o entre edificios se desvían más."
+        },
+        {
+          "q": "¿Los audífonos de conducción ósea suenan bien para correr?",
+          "a": "Para pódcast y música al trote, sí. Los graves son flojos y a volumen alto vibran. La ventaja es que escuchas el tráfico."
+        },
+        {
+          "q": "¿Qué talla de chaleco de hidratación elijo?",
+          "a": "Se mide por contorno de pecho, no por talla de ropa. Debe quedar firme sin apretar; los cordones laterales ajustan el resto."
+        }
       ]
     },
     {
@@ -279,6 +363,34 @@
             "barra luz led bambu a1 montaje"
           ]
         }
+      ],
+      "guia": [
+        {
+          "titulo": "Que diga explícitamente “A1”",
+          "texto": "La Bambu A1 (256 mm) y la A1 mini usan piezas distintas, y nada de la X1/P1. Comprueba en el anuncio que sea para A1 a secas."
+        },
+        {
+          "titulo": "Acero endurecido si imprimes abrasivos",
+          "texto": "Con PLA y PETG basta latón. Para fibra de carbono, madera o brillo metálico, boquilla y engranajes de acero endurecido sí o sí."
+        },
+        {
+          "titulo": "Bobina compatible con el AMS lite",
+          "texto": "El AMS lite quiere bobinas de cartón o plástico de medida estándar. Las bobinas anchas o de metal se atascan."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Las boquillas y hotends chinos sirven en la Bambu A1?",
+          "a": "Los clones específicos “para A1” encajan y funcionan bien; muchos son de mejor material que el original. Evita adaptar piezas genéricas V6/MK8 que no sean para A1."
+        },
+        {
+          "q": "¿El filamento genérico funciona con el AMS lite?",
+          "a": "Sí, siempre que la bobina sea de medida estándar y el filamento venga bien enrollado. Sin chip RFID pierdes el autoreconocimiento, pero imprime igual configurando el material a mano."
+        },
+        {
+          "q": "¿Vale la pena el plato PEI de AliExpress frente al original?",
+          "a": "Para PLA y PETG, sí: adherencia pareja y mitad de precio. Ten uno liso y uno texturizado. Para acabado espejo o piezas grandes, el original rinde algo más."
+        }
       ]
     },
     {
@@ -348,6 +460,34 @@
             "caja estanca ip67 proyecto electronica",
             "soporte antena mastil exterior"
           ]
+        }
+      ],
+      "guia": [
+        {
+          "titulo": "Banda 915 MHz (US915)",
+          "texto": "En Perú y gran parte de LatAm la banda libre es 915 MHz. Una placa o antena de 868 MHz (Europa) va a rendir mal y puede ser ilegal."
+        },
+        {
+          "titulo": "GPS y pantalla según uso",
+          "texto": "Para un nodo fijo en casa no necesitas GPS ni pantalla. Para llevarlo al cerro, GPS sí; pantalla es cómodo pero gasta batería."
+        },
+        {
+          "titulo": "Batería y caja para exterior",
+          "texto": "Si el nodo va a la intemperie: 18650 protegida, módulo de carga y caja IP65/IP67. Sin eso dura un aguacero."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Qué frecuencia LoRa se usa en Perú?",
+          "a": "915 MHz (región US915). Configura eso en la app de Meshtastic y compra placas y antenas de 915 MHz, no de 868."
+        },
+        {
+          "q": "¿T-Beam o Heltec V3 para empezar?",
+          "a": "La T-Beam trae GPS y portapilas 18650, ideal para nodos móviles y de exterior. La Heltec V3 es más chica y barata, buena para un nodo fijo o de escritorio."
+        },
+        {
+          "q": "¿Necesito licencia para usar Meshtastic?",
+          "a": "No. LoRa en la banda de 915 MHz es de uso libre y baja potencia. No transmitas en frecuencias de radioaficionado ni subas la potencia fuera de norma."
         }
       ]
     }

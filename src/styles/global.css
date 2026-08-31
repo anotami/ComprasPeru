@@ -681,6 +681,36 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .howto li strong { display: block; font-family: var(--font-display); font-size: 1.02rem; margin-bottom: .2rem; }
 .howto li span { color: var(--ink-2); }
 
+/* Guía "cómo elegir" — lista numerada compacta */
+.guia { display: grid; gap: .8rem; margin-top: 1.25rem; padding: 0; counter-reset: g; list-style: none; }
+.guia li {
+  position: relative;
+  padding: 1rem 1.1rem 1rem 3rem;
+  border: 1px solid var(--line-2);
+  border-left: 4px solid var(--accent);
+  border-radius: 8px;
+  background: var(--card);
+}
+.guia li::before {
+  counter-increment: g; content: counter(g);
+  position: absolute; left: .9rem; top: 1rem;
+  font-family: var(--font-mono); font-weight: 700; font-size: .8rem;
+  color: var(--accent);
+}
+.guia li strong { display: block; font-family: var(--font-display); font-weight: 800; font-size: 1rem; margin-bottom: .15rem; }
+.guia li span { color: var(--ink-2); }
+
+/* Cómo pagar menos */
+.como-pagar .pagar-list { display: grid; gap: .7rem; margin-top: 1.25rem; padding: 0; list-style: none; }
+.como-pagar .pagar-list li {
+  padding: .95rem 1.1rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--accent-wash);
+}
+.como-pagar .pagar-list strong { display: block; font-family: var(--font-display); font-weight: 800; font-size: .98rem; margin-bottom: .12rem; }
+.como-pagar .pagar-list span { color: var(--ink-2); font-size: .95rem; }
+
 /* ---------- Aviso afiliados ---------- */
 .prose { max-width: var(--measure); }
 .prose h2 { margin-top: 2rem; }

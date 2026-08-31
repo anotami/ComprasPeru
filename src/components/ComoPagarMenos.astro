@@ -1,0 +1,42 @@
+---
+const tips = [
+  {
+    t: "Junta y usa monedas",
+    d: "AliExpress regala monedas por entrar cada día y por comprar. En el carrito se canjean por descuento directo — a veces bajan el precio 10-20%.",
+  },
+  {
+    t: "Cupones de tienda + código de la plataforma",
+    d: "En la ficha del producto suele haber un cupón de la tienda. Se puede sumar al cupón general de AliExpress: aplica los dos al pagar.",
+  },
+  {
+    t: "Descuento de bienvenida",
+    d: "Si es tu primera compra o hace mucho que no compras, la app te ofrece precios de nuevo usuario en muchos productos. Revísalo antes de pagar.",
+  },
+  {
+    t: "Compra en las fechas grandes",
+    d: "Los precios más bajos del año son el 11.11 (noviembre), el aniversario (marzo) y el 618 (junio). Guarda el producto en favoritos y espera si no es urgente.",
+  },
+  {
+    t: "Elige envío “Choice” cuando aparezca",
+    d: "El envío Choice suele llegar más rápido y con menos riesgo de aduana, muchas veces sin costo extra sobre un mínimo de compra.",
+  },
+];
+---
+
+<section class="section como-pagar" aria-labelledby="pagar-title" style="padding-top:0">
+  <div class="section-head">
+    <span class="kicker">Ahorra en la compra</span>
+    <h2 id="pagar-title">Cómo pagar menos en AliExpress</h2>
+    <p>El precio de referencia baja bastante si combinas estas cosas al momento de pagar.</p>
+  </div>
+  <ul class="pagar-list">
+    {
+      tips.map((x) => (
+        <li>
+          <strong>{x.t}</strong>
+          <span>{x.d}</span>
+        </li>
+      ))
+    }
+  </ul>
+</section>

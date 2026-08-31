@@ -28,6 +28,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -64,10 +66,23 @@ jobs:
           git add src/data public/img
           if git diff --cached --quiet; then
             echo "Sin cambios este mes."
-          else
-            git commit -m "chore: refresco mensual de rankings"
-            git push
+            exit 0
           fi
+          git commit -m "chore: refresco mensual de rankings"
+          # El remoto puede haber avanzado mientras corría el scrape (~6 min).
+          # Reintentar rebasando sobre lo último de origin/main antes de empujar.
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "push ok (intento $i)"
+              exit 0
+            fi
+            echo "push rechazado; rebasando sobre origin/main (intento $i)"
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; exit 1; }
+            sleep 3
+          done
+          echo "no se pudo empujar tras 5 intentos"
+          exit 1
 
       - name: Abrir issue si falló
         if: failure()
