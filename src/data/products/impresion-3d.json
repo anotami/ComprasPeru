@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "nombre": "Kit de Luz LED Ajustable para Bambu Lab",
-    "descripcion_corta": "Kit de Luz LED Ajustable para Bambu Lab, Kit de Luz Bambulab 001, Piezas de Luz LED, Accesorios para Impresora 3D, Modelo DIY",
+    "nombre": "Kit de luz LED ajustable para Bambu Lab A1",
+    "descripcion_corta": "Sistema de iluminación LED regulable para mejorar la visibilidad del área de impresión.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Visibilidad clara durante todo el proceso de impresión",
+      "Ajuste de intensidad según necesidad de trabajo",
+      "Compatible con modelos Bambu Lab A1"
     ],
     "precio_referencia": "$35–40",
     "imagen": "/img/impresion-3d/01.webp",
@@ -19,16 +19,30 @@
       "url": "https://www.aliexpress.com/item/1005008942555693.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "LED ajustable"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1"
+      },
+      {
+        "k": "Control",
+        "v": "Regulable"
+      }
+    ]
   },
   {
     "rank": 2,
     "nombre": "Hotend 2.0 mejorado para Bambu Lab A1",
-    "descripcion_corta": "Hotend 2.0 mejorado para Bambu Lab A1, boquilla de acero endurecido para Bambu Lab A1 Mini/A2L, boquilla para Hotend Bambulab A1 A1 Mini",
+    "descripcion_corta": "Cabeza de impresión de última generación con mejoras en disipación térmica y rendimiento.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Mejor control de temperatura y estabilidad",
+      "Compatibilidad directa con Bambu Lab A1",
+      "Aumenta la precisión en impresiones complejas"
     ],
     "precio_referencia": "$8–9",
     "imagen": "/img/impresion-3d/02.webp",
@@ -41,16 +55,30 @@
       "url": "https://www.aliexpress.com/item/1005007217932479.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Hotend 2.0"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1"
+      },
+      {
+        "k": "Material",
+        "v": "Aleación resistente al calor"
+      }
+    ]
   },
   {
     "rank": 3,
-    "nombre": "Placa de Construcción de Doble Cara de Acero con Resorte de…",
-    "descripcion_corta": "Placa de Construcción de Doble Cara de Acero con Resorte de 257x257mm para Bambu Lab A1, P1P, P1S, P2S, X1, X1C, X1E, X2D; Lámina PEI para Impresora 3D Bam",
+    "nombre": "Placa de construcción de acero con resorte",
+    "descripcion_corta": "Superficie de impresión de doble cara con resortes para mejor adherencia y fácil remoción.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.7/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Doble cara maximiza la vida útil del producto",
+      "Resortes facilitan la extracción de piezas",
+      "Excelente adherencia en ambas caras"
     ],
     "precio_referencia": "$9–10",
     "imagen": "/img/impresion-3d/03.webp",
@@ -63,21 +91,35 @@
       "url": "https://www.aliexpress.com/item/1005005946908794.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Acero con resortes"
+      },
+      {
+        "k": "Caras",
+        "v": "2 superficies"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1"
+      }
+    ]
   },
   {
     "rank": 4,
-    "nombre": "Kit de Hotend para Bambu Lab A1/A1 Mini/A2L",
-    "descripcion_corta": "Kit de Hotend para Bambu Lab A1/A1 Mini/A2L, Ensamblaje de Hotend de Alta Velocidad, Boquilla de Acero Endurecido de 0.2/0.4/0.6/0.8mm, Pieza para Impresor",
+    "nombre": "Kit de hotend para Bambu Lab A1 y modelos Mini",
+    "descripcion_corta": "Conjunto de piezas de reemplazo para cabeza de impresión compatible con A1, A1 Mini y A2L.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.8/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Compatibilidad con múltiples modelos Bambu Lab",
+      "Precio accesible para mantenimiento preventivo",
+      "Componentes de calidad verificada"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006850870969.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005006850870969",
       "orders": 10000,
@@ -85,16 +127,30 @@
       "url": "https://www.aliexpress.com/item/1005006850870969.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Kit hotend completo"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "A1, A1 Mini, A2L"
+      },
+      {
+        "k": "Presentación",
+        "v": "Set de piezas"
+      }
+    ]
   },
   {
     "rank": 5,
-    "nombre": "Funda de silicona negra para el bloque de calentamiento del…",
-    "descripcion_corta": "Funda de silicona negra para el bloque de calentamiento del Hotend Bambu Lab A1 Mini, calcetín de silicona para Bambulab A1 Mini, calcetín de silicona A1 M",
+    "nombre": "Funda de silicona para bloque de calentamiento",
+    "descripcion_corta": "Protección térmica de silicona para el bloque calefactor que aísla calor y mejora seguridad.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (2.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Protección contra quemaduras accidentales",
+      "Mejor aislamiento térmico durante impresión",
+      "Precio muy económico"
     ],
     "precio_referencia": "$1–2",
     "imagen": "/img/impresion-3d/05.webp",
@@ -107,16 +163,30 @@
       "url": "https://www.aliexpress.com/item/1005008482531502.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Silicona resistente"
+      },
+      {
+        "k": "Función",
+        "v": "Aislamiento térmico"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1"
+      }
+    ]
   },
   {
     "rank": 6,
-    "nombre": "Para Bambu Lab P1P AMS A1 mini impresora 3D tubo de PTFE tubo…",
-    "descripcion_corta": "Para Bambu Lab P1P AMS A1 mini impresora 3D tubo de PTFE tubo Teflonto extrusora Bowden 1,75mm ID2.5mm OD4mm piezas de filamento Bambulab",
+    "nombre": "Tubo PTFE para Bambu Lab P1P, A1 y Mini",
+    "descripcion_corta": "Tubo de teflón de alta calidad para guiar filamento en impresoras Bambu Lab.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Compatible con múltiples modelos de Bambu Lab",
+      "Material PTFE de bajo rozamiento",
+      "Facilita cambios de filamento sin obstrucciones"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d/06.webp",
@@ -129,16 +199,30 @@
       "url": "https://www.aliexpress.com/item/1005006966620068.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "PTFE (teflón)"
+      },
+      {
+        "k": "Función",
+        "v": "Guía de filamento"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "P1P, A1, A1 Mini"
+      }
+    ]
   },
   {
     "rank": 7,
-    "nombre": "Piezas para Impresora 3D Bambu Lab A1: Dispensador de…",
-    "descripcion_corta": "Piezas para Impresora 3D Bambu Lab A1: Dispensador de Residuos Purge Wiper para Bambu Lab A1 y A1 Mini, Componente Automático de Recolección y Limpieza de ",
+    "nombre": "Dispensador de filamento para Bambu Lab A1",
+    "descripcion_corta": "Accesorio organizador para gestionar y dispensar filamento de forma ordenada.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (278 vendidos).",
-      "Calificación de 5/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Mantiene el filamento organizado y protegido",
+      "Facilita el cambio rápido de materiales",
+      "Optimiza el espacio de trabajo"
     ],
     "precio_referencia": "$4–5",
     "imagen": "/img/impresion-3d/07.webp",
@@ -151,16 +235,30 @@
       "url": "https://www.aliexpress.com/item/1005012588897317.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Dispensador filamento"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1"
+      },
+      {
+        "k": "Material",
+        "v": "Plástico resistente"
+      }
+    ]
   },
   {
     "rank": 8,
     "nombre": "Soporte de carrete de filamento estándar",
-    "descripcion_corta": "Soporte de carrete de filamento estándar, 1KG, diseño de rodamiento, estantes consumibles, suministros, asiento fijo para filamento de impresora 3D PLA/PET",
+    "descripcion_corta": "Soporte robusto para mantener carretes de filamento durante la impresión sin enredos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Previene enredos y nudos en el filamento",
+      "Mantiene tensión uniforme durante impresión",
+      "Instalación simple y universal"
     ],
     "precio_referencia": "$3–4",
     "imagen": "/img/impresion-3d/08.webp",
@@ -173,16 +271,30 @@
       "url": "https://www.aliexpress.com/item/1005006863893191.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Soporte carrete"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Carretes estándar"
+      },
+      {
+        "k": "Material",
+        "v": "Metal o plástico rígido"
+      }
+    ]
   },
   {
     "rank": 9,
-    "nombre": "Kit de limpieza de boquillas de impresora 3D",
-    "descripcion_corta": "Kit de limpieza de boquillas de impresora 3D, agujas de limpieza de boquillas de acero inoxidable de 0,2/0,3/0,4/0,5/0,6/0,8/1,0mm, limpiador de boquillas ",
+    "nombre": "Kit de limpieza de boquillas de impresora",
+    "descripcion_corta": "Conjunto de herramientas especializadas para limpiar y desbloquear boquillas de impresión.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Previene atascos y prolongar vida del hotend",
+      "Herramientas precisas para limpieza eficiente",
+      "Esencial para mantenimiento regular"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d/09.webp",
@@ -195,21 +307,35 @@
       "url": "https://www.aliexpress.com/item/1005006807029655.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Kit limpieza boquillas"
+      },
+      {
+        "k": "Contenido",
+        "v": "Múltiples herramientas"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Impresoras 3D estándar"
+      }
+    ]
   },
   {
     "rank": 10,
-    "nombre": "Piezas de impresora 3D",
-    "descripcion_corta": "Piezas de impresora 3D, caja secadora de filamentos, monitoreo hermético y resistente a la humedad en tiempo Real para herramientas de impresora 3D, soport",
+    "nombre": "Piezas de reemplazo para impresora 3D",
+    "descripcion_corta": "Kit de componentes de repuesto para mantenimiento y reparación de impresoras 3D.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.8/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Asegura disponibilidad de piezas de recambio",
+      "Extiende la vida útil de la impresora",
+      "Previene paros de producción por falta de piezas"
     ],
     "precio_referencia": "$23–27",
     "imagen": "/img/impresion-3d/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009153869969.html",
-    "badge": null,
+    "badge": "Ticket alto",
     "_src": {
       "id": "1005009153869969",
       "orders": 10000,
@@ -217,6 +343,20 @@
       "url": "https://www.aliexpress.com/item/1005009153869969.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Kit piezas reemplazo"
+      },
+      {
+        "k": "Contenido",
+        "v": "Según modelo"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Impresoras Bambu Lab"
+      }
+    ]
   }
 ]

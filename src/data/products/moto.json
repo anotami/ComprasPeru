@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "nombre": "Casco Bluetooth EJEAS V6 PRO+ para 6 motos",
-    "descripcion_corta": "Casco con sistema de comunicación Bluetooth para hasta 6 motocicletas con alcance de 800 metros e impermeable.",
+    "nombre": "Casco Bluetooth EJEAS V6 PRO+",
+    "descripcion_corta": "Casco con sistema de comunicación Bluetooth para conectar hasta 6 motos simultáneamente.",
     "por_que_comprarlo": [
-      "Comunícate con otros pilotos hasta 800 metros de distancia",
-      "Protección IP67 contra agua y polvo en cualquier clima",
-      "Compatible con 6 motos simultáneamente en grupo"
+      "Comunicación grupal en tiempo real entre motociclistas",
+      "Compatible con múltiples dispositivos y aplicaciones",
+      "Autonomía prolongada de batería para viajes largos"
     ],
     "precio_referencia": "$25–30",
     "imagen": "/img/moto/01.webp",
@@ -18,58 +18,100 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006994248146.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Conexión",
+        "v": "Bluetooth, hasta 6 motos"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Universal para cascos"
+      },
+      {
+        "k": "Autonomía",
+        "v": "Según modelo"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "Joyroom 2024 soporte Universal para teléfono de bicicleta…",
-    "descripcion_corta": "Joyroom 2024 soporte Universal para teléfono de bicicleta operación con una sola mano soporte para teléfono de motocicleta para teléfono móvil de 4,7-7 \"a ",
+    "nombre": "Soporte universal para teléfono Joyroom",
+    "descripcion_corta": "Soporte ajustable para montar el móvil en manillar de bicicleta o moto de forma segura.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (3.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Instalación rápida sin herramientas",
+      "Agarre firme que evita caídas del dispositivo",
+      "Compatible con la mayoría de tamaños de móviles"
     ],
     "precio_referencia": "$10–11",
     "imagen": "/img/moto/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005292639616.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005005292639616",
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005005292639616.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "Universal, móviles 4.5\" a 7\""
+      },
+      {
+        "k": "Material",
+        "v": "Goma y plástico resistente"
+      },
+      {
+        "k": "Instalación",
+        "v": "Sin herramientas"
+      }
+    ]
   },
   {
     "rank": 3,
     "nombre": "Guantes de moto dedo completo transpirables",
-    "descripcion_corta": "Guantes de verano con pantalla táctil, resistentes al desgarre y antideslizantes para motociclismo.",
+    "descripcion_corta": "Guantes protectores de moto con dedos completos y material transpirable para mayor confort.",
     "por_que_comprarlo": [
-      "Transpirables para conducción en clima cálido",
-      "Pantalla táctil integrada para usar el teléfono",
-      "Material antideslizante y resistente al desgarre"
+      "Protección en nudillos y palmas en caso de caída",
+      "Excelente ventilación para climas cálidos",
+      "Agarre mejorado en manillar incluso mojado"
     ],
     "precio_referencia": "$8–10",
     "imagen": "/img/moto/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006216680936.html",
-    "badge": "Mejor calidad-precio",
+    "badge": null,
     "_src": {
       "id": "1005006216680936",
       "orders": 10000,
       "rating": 4.6,
       "url": "https://www.aliexpress.com/item/1005006216680936.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Tela transpirable reforzada"
+      },
+      {
+        "k": "Cobertura",
+        "v": "Dedo completo"
+      },
+      {
+        "k": "Protección",
+        "v": "Nudillos y palmas"
+      }
+    ]
   },
   {
     "rank": 4,
     "nombre": "Compresor de aire inalámbrico para neumáticos",
-    "descripcion_corta": "Inflador eléctrico portátil inalámbrico para neumáticos de moto, bicicleta, balones y objetos inflables.",
+    "descripcion_corta": "Compresor portátil con batería recargable para inflar neumáticos de moto en cualquier lugar.",
     "por_que_comprarlo": [
-      "Funcionamiento inalámbrico sin cables ni conexión a vehículo",
-      "Compatible con neumáticos, balones y objetos inflables",
-      "Rápido y práctico para emergencias en ruta"
+      "Portabilidad sin necesidad de toma de corriente",
+      "Presión regulable según tipo de neumático",
+      "Reparación de emergencia durante el viaje"
     ],
     "precio_referencia": "$23–27",
     "imagen": "/img/moto/04.webp",
@@ -81,16 +123,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006904547542.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Alimentación",
+        "v": "Batería recargable"
+      },
+      {
+        "k": "Portabilidad",
+        "v": "Inalámbrico y compacto"
+      },
+      {
+        "k": "Presión",
+        "v": "Según modelo"
+      }
+    ]
   },
   {
     "rank": 5,
     "nombre": "Faro LED doble color para moto universal",
-    "descripcion_corta": "Luz proyectora LED con lente doble color para antiniebla y conducción en motos, ATV y scooters.",
+    "descripcion_corta": "Faro LED de doble color para mejorar visibilidad y seguridad en carretera de noche.",
     "por_que_comprarlo": [
-      "Lente de doble color para diferentes condiciones de luz",
-      "Compatible con motos, ATV, scooters y vehículos similares",
-      "Precio muy accesible para iluminación adicional"
+      "Visibilidad mejorada en condiciones de baja luz",
+      "Doble color para señalización frontal o indicadores",
+      "Bajo consumo de energía con tecnología LED"
     ],
     "precio_referencia": "$3–4",
     "imagen": "/img/moto/05.webp",
@@ -102,16 +158,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007171262229.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo de luz",
+        "v": "LED doble color"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Universal para motos"
+      },
+      {
+        "k": "Consumo",
+        "v": "Bajo (LED)"
+      }
+    ]
   },
   {
     "rank": 6,
     "nombre": "Pasamontañas térmico para invierno",
-    "descripcion_corta": "Gorro y máscara facial térmica a prueba de frío para esquí, ciclismo, caza y conducción de moto en invierno.",
+    "descripcion_corta": "Pasamontañas de material térmico que cubre cara y cuello para proteger del frío extremo.",
     "por_que_comprarlo": [
-      "Protege completamente cara y cuello del frío extremo",
-      "Compatible con casco para máxima comodidad",
-      "Versátil para múltiples deportes y actividades"
+      "Aislamiento térmico efectivo en temperaturas bajas",
+      "Cobertura completa de cara, cuello y orejas",
+      "Compatible con cascos de moto sin incomodidad"
     ],
     "precio_referencia": "$3–4",
     "imagen": "/img/moto/06.webp",
@@ -123,16 +193,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010759407779.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Tela térmica aislante"
+      },
+      {
+        "k": "Cobertura",
+        "v": "Cara, cuello y orejas"
+      },
+      {
+        "k": "Uso",
+        "v": "Invierno y climas fríos"
+      }
+    ]
   },
   {
     "rank": 7,
     "nombre": "Bolsa de depósito para moto 10L impermeable",
-    "descripcion_corta": "Conjunto de bolsa de depósito universal de 10 litros con base impermeable para viajes en moto.",
+    "descripcion_corta": "Bolsa impermeable de 10 litros que se adhiere al depósito para almacenar objetos personales.",
     "por_que_comprarlo": [
-      "Capacidad de 10 litros con material impermeable",
-      "Base universal compatible con la mayoría de motos",
-      "Ideal para viajes y transporte de equipaje"
+      "Capacidad suficiente para documentos, dinero y accesorios",
+      "Sellado impermeable protege contenido en lluvia",
+      "Adhesión firme al depósito sin necesidad de atornillar"
     ],
     "precio_referencia": "$50–60",
     "imagen": "/img/moto/07.webp",
@@ -144,16 +228,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007791320774.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "10 litros"
+      },
+      {
+        "k": "Material",
+        "v": "Impermeable (PVC o similares)"
+      },
+      {
+        "k": "Instalación",
+        "v": "Adhesión sin herramientas"
+      }
+    ]
   },
   {
     "rank": 8,
     "nombre": "Cubierta de moto impermeable todo clima",
-    "descripcion_corta": "Funda protectora de moto a prueba de agua, polvo y rayos UV para uso interior y exterior.",
+    "descripcion_corta": "Funda protectora impermeable que cubre toda la moto contra lluvia, polvo y rayos UV.",
     "por_que_comprarlo": [
-      "Protección total contra lluvia, polvo y rayos ultravioleta",
-      "Apta para todas las estaciones del año",
-      "Aplicable a motos, scooters y vehículos similares"
+      "Protección integral contra condiciones climáticas adversas",
+      "Evita daño por rayos UV que decoloran y dañan pintura",
+      "Material resistente y duradero con costuras reforzadas"
     ],
     "precio_referencia": "$19–23",
     "imagen": "/img/moto/08.webp",
@@ -165,16 +263,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006861833201.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Tela impermeable reforzada"
+      },
+      {
+        "k": "Protección",
+        "v": "Lluvia, polvo y UV"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Universal para todas las motos"
+      }
+    ]
   },
   {
     "rank": 9,
-    "nombre": "Juego de clavos de goma para reparación de neumáticos de coche",
-    "descripcion_corta": "Juego de clavos de goma para reparación de neumáticos de coche, 21-10 Uds., tornillo Universal para neumáticos, herramientas de reparación sin cámara, Kit ",
+    "nombre": "Juego de clavos de goma para reparación neumático",
+    "descripcion_corta": "Set de clavos de goma para reparar pinchazo en neumáticos de moto o vehículos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Solución rápida de emergencia para pinchazo en ruta",
+      "Material de goma proporciona sellado temporal efectivo",
+      "Precio accesible para mantener en el maletero"
     ],
     "precio_referencia": "$2–3",
     "imagen": "/img/moto/09.webp",
@@ -186,16 +298,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006995426068.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Goma vulcanizada"
+      },
+      {
+        "k": "Aplicación",
+        "v": "Reparación temporal de pinchazos"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Neumáticos de moto y auto"
+      }
+    ]
   },
   {
     "rank": 10,
     "nombre": "Candado de alarma antirrobo para moto",
-    "descripcion_corta": "Candado de disco con alarma sonora en aleación de aluminio, incluye recordatorio visual para moto y bicicleta.",
+    "descripcion_corta": "Candado con alarma sonora integrada que disuade intentos de robo de la moto.",
     "por_que_comprarlo": [
-      "Alarma sonora que detecta movimientos sospechosos",
-      "Construcción robusta en aleación de aluminio",
-      "Incluye cuerda de recordatorio y bolsa de almacenamiento"
+      "Alarma sonora alta potencia para alertar de movimiento",
+      "Estructura de acero resistente imposible de cortar",
+      "Fácil de transportar y guardar cuando la moto está en marcha"
     ],
     "precio_referencia": "$15–18",
     "imagen": "/img/moto/10.webp",
@@ -207,6 +333,20 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006860896218.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Acero reforzado"
+      },
+      {
+        "k": "Alarma",
+        "v": "Sonora integrada"
+      },
+      {
+        "k": "Peso",
+        "v": "Según modelo"
+      }
+    ]
   }
 ]

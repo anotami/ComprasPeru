@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "nombre": "Candado de Alarma para Motocicleta y Bicicleta",
-    "descripcion_corta": "Candado de Alarma para Motocicleta y Bicicleta, Protección de Seguridad, Candado de Disco de Aleación de Aluminio Antirrobo, Cuerda de Recordatorio, Bolsa ",
+    "nombre": "Candado de alarma para moto y bicicleta",
+    "descripcion_corta": "Candado con alarma integrada de alta decibeles para disuadir robos en motos y bicicletas.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Alarma sonora potente que alerta ante intentos de robo",
+      "Compatible con motos y bicicletas, uso versátil",
+      "Resistencia alta con cierre de seguridad confiable"
     ],
     "precio_referencia": "$15–18",
     "imagen": "/img/moto__seguridad/01.webp",
@@ -18,37 +18,65 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006860896218.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo de cierre",
+        "v": "Candado con alarma integrada"
+      },
+      {
+        "k": "Nivel de ruido",
+        "v": "110dB aproximadamente"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Motos y bicicletas"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "Alarma Antirrobo con Vibración YNF de 110dB",
-    "descripcion_corta": "Alarma Antirrobo con Vibración YNF de 110dB, 10 Niveles de Sensibilidad, Alarma Inalámbrica con Control Remoto para Motocicleta, Automóvil y Bicicleta Eléc",
+    "nombre": "Alarma antirrobo YNF con vibración 110dB",
+    "descripcion_corta": "Alarma independiente con sensor de vibración que se activa ante movimientos sospechosos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Sensor de vibración sensible detecta intentos de manipulación",
+      "Volumen máximo de 110dB para máxima disuasión",
+      "Instalación fácil sin herramientas complicadas"
     ],
     "precio_referencia": "$7–8",
     "imagen": "/img/moto__seguridad/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008554516771.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005008554516771",
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008554516771.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo de cierre",
+        "v": "Alarma con sensor"
+      },
+      {
+        "k": "Nivel de ruido",
+        "v": "110dB"
+      },
+      {
+        "k": "Función principal",
+        "v": "Sensor de vibración"
+      }
+    ]
   },
   {
     "rank": 3,
-    "nombre": "Dispositivo de Rastreo GPS GF07 Mini",
-    "descripcion_corta": "Dispositivo de Rastreo GPS GF07 Mini, Rastreador GPS para Auto, Posicionamiento GPS por Aplicación, Magnético, Antirrobo, Alarma, Localizador GPS para Vehí",
+    "nombre": "Rastreador GPS GF07 mini portátil",
+    "descripcion_corta": "Dispositivo GPS compacto para localizar tu moto o bicicleta en tiempo real desde el móvil.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Localización GPS en tiempo real con precisión alta",
+      "Tamaño mini discreto, fácil de ocultar",
+      "Funciona con app móvil, rastreo desde cualquier lugar"
     ],
     "precio_referencia": "$4–6",
     "imagen": "/img/moto__seguridad/03.webp",
@@ -60,16 +88,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010285446631.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tecnología",
+        "v": "GPS con app móvil"
+      },
+      {
+        "k": "Tamaño",
+        "v": "Mini portátil"
+      },
+      {
+        "k": "Alcance",
+        "v": "Cobertura GPS global"
+      }
+    ]
   },
   {
     "rank": 4,
-    "nombre": "Candado para Bicicleta con 2 Llaves",
-    "descripcion_corta": "Candado para Bicicleta con 2 Llaves - Candado de Seguridad Antirrobo de Alambre de Acero para Bicicleta de Montaña, Bicicleta de Carretera, Scooter",
+    "nombre": "Candado para bicicleta con 2 llaves",
+    "descripcion_corta": "Candado de seguridad básico para bicicleta con par de llaves de recambio.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Incluye 2 llaves para acceso práctico",
+      "Construcción robusta resistente a palancas",
+      "Precio muy accesible para seguridad diaria"
     ],
     "precio_referencia": "$4–5",
     "imagen": "/img/moto__seguridad/04.webp",
@@ -81,16 +123,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007308221764.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo de cierre",
+        "v": "Candado de llave"
+      },
+      {
+        "k": "Cantidad de llaves",
+        "v": "2 llaves incluidas"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Bicicletas"
+      }
+    ]
   },
   {
     "rank": 5,
-    "nombre": "Cubierta de motocicleta impermeable para todas las estaciones…",
-    "descripcion_corta": "Cubierta de motocicleta impermeable para todas las estaciones cubierta de motocicleta a prueba de polvo protección UV exterior interior Moto Scooter cubier",
+    "nombre": "Cubierta de moto impermeable multiestación",
+    "descripcion_corta": "Funda protectora impermeable para motos que resiste lluvia, sol y polvo en todas las estaciones.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Material impermeable protege del clima adverso",
+      "Resistencia UV evita decoloración y daño por sol",
+      "Ajuste universal para motos de diferentes tamaños"
     ],
     "precio_referencia": "$19–23",
     "imagen": "/img/moto__seguridad/05.webp",
@@ -102,16 +158,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006861833201.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Tela impermeable resistente"
+      },
+      {
+        "k": "Protección",
+        "v": "Lluvia, sol, polvo y viento"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Motos de distintos tamaños"
+      }
+    ]
   },
   {
     "rank": 6,
-    "nombre": "Juego de clavos de goma para reparación de neumáticos de coche",
-    "descripcion_corta": "Juego de clavos de goma para reparación de neumáticos de coche, 21-10 Uds., tornillo Universal para neumáticos, herramientas de reparación sin cámara, Kit ",
+    "nombre": "Clavos de goma para reparación de neumáticos",
+    "descripcion_corta": "Juego de clavos de goma para reparar pinchazo en neumáticos de autos y motos temporalmente.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Solución rápida para pinchazo de emergencia en ruta",
+      "Clavos de goma no dañan la estructura del neumático",
+      "Precio económico, práctico para llevar siempre"
     ],
     "precio_referencia": "$2–3",
     "imagen": "/img/moto__seguridad/06.webp",
@@ -123,6 +193,20 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006995426068.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Goma de calidad"
+      },
+      {
+        "k": "Uso",
+        "v": "Reparación temporal de pinchazo"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Neumáticos de auto y moto"
+      }
+    ]
   }
 ]

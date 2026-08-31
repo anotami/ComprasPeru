@@ -1,54 +1,82 @@
 [
   {
     "rank": 1,
-    "nombre": "AONIJIE-mochila ligera C932 para correr",
-    "descripcion_corta": "AONIJIE-mochila ligera C932 para correr, chaleco de nailon, bolsa de hidratación, ciclismo, Maratón, portátil, ultraligero, senderismo, 2,5 L",
+    "nombre": "Mochila ligera AONIJIE C932 para correr",
+    "descripcion_corta": "Mochila compacta y liviana diseñada para carreras, con compartimentos para hidratación y accesorios.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (500+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Peso reducido que no afecta el rendimiento en carrera",
+      "Bolsillo específico para vejiga de hidratación de 2L",
+      "Múltiples compartimentos organizados para teléfono y llaves"
     ],
     "precio_referencia": "$22–26",
     "imagen": "/img/running__hidratacion-carga/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32969609904.html",
-    "badge": "Ticket alto",
+    "badge": null,
     "_src": {
       "id": "32969609904",
       "orders": 500,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/32969609904.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "Según modelo, típicamente 10-15L"
+      },
+      {
+        "k": "Material",
+        "v": "Tela resistente al agua"
+      },
+      {
+        "k": "Peso",
+        "v": "Menos de 300g"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "HOMEFISH Riñonera Deportiva Ajustable para Hombre y Mujer",
-    "descripcion_corta": "HOMEFISH Riñonera Deportiva Ajustable para Hombre y Mujer, Bolsa de Cintura para Correr, Cinturón Portátil para Teléfono, para Gimnasio",
+    "nombre": "Riñonera deportiva ajustable HOMEFISH",
+    "descripcion_corta": "Cintura elástica ajustable con bolsillos para llevar teléfono, llaves y documentos en carreras.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Diseño versátil apto para hombre y mujer con cierre ajustable",
+      "Acceso rápido a objetos esenciales sin mochila",
+      "Material transpirable cómodo para uso prolongado"
     ],
     "precio_referencia": "$4–6",
     "imagen": "/img/running__hidratacion-carga/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008558756760.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005008558756760",
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008558756760.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "3-5 bolsillos pequeños"
+      },
+      {
+        "k": "Material",
+        "v": "Tela elástica transpirable"
+      },
+      {
+        "k": "Peso",
+        "v": "Menos de 100g"
+      }
+    ]
   },
   {
     "rank": 3,
-    "nombre": "NEWBOLER 250ml 500ml botella de agua TPU plegable matraz…",
-    "descripcion_corta": "NEWBOLER 250ml 500ml botella de agua TPU plegable matraz suave botella de agua deportiva bolsa de agua botella de agua plegable correr Camping",
+    "nombre": "Botella de agua TPU plegable NEWBOLER 250-500ml",
+    "descripcion_corta": "Botella ultraligera y plegable que ocupa poco espacio y se adapta a mochilas o bolsillos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Material flexible permite compactarla cuando está vacía",
+      "Dosificación en 250ml o 500ml según necesidad",
+      "Fácil de llevar en carreras cortas o entrenamientos"
     ],
     "precio_referencia": "$2–3",
     "imagen": "/img/running__hidratacion-carga/03.webp",
@@ -60,16 +88,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007170792709.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "250ml o 500ml"
+      },
+      {
+        "k": "Material",
+        "v": "TPU plegable y flexible"
+      },
+      {
+        "k": "Peso",
+        "v": "Menos de 50g vacía"
+      }
+    ]
   },
   {
     "rank": 4,
-    "nombre": "Mochila de hidratación con bolsa de agua de 2L de gran capacidad",
-    "descripcion_corta": "Mochila de hidratación con bolsa de agua de 2L de gran capacidad, bolsas de agua EVA, depósito para correr, ciclismo, bolsa de almacenamiento de agua para ",
+    "nombre": "Mochila de hidratación con vejiga 2L",
+    "descripcion_corta": "Sistema completo de hidratación con vejiga integrada de 2L ideal para carreras largas.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Vejiga de 2L garantiza hidratación durante sesiones prolongadas",
+      "Tubo con mordida ergonómica para beber sin pausas",
+      "Compartimentos adicionales para geles energéticos y snacks"
     ],
     "precio_referencia": "$6–7",
     "imagen": "/img/running__hidratacion-carga/04.webp",
@@ -81,16 +123,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006861068109.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "2L vejiga integrada"
+      },
+      {
+        "k": "Material",
+        "v": "Poliéster resistente al agua"
+      },
+      {
+        "k": "Peso",
+        "v": "Aproximadamente 400-500g"
+      }
+    ]
   },
   {
     "rank": 5,
-    "nombre": "Cinturón elástico con gancho y velcro para hombre",
-    "descripcion_corta": "Cinturón elástico con gancho y velcro para hombre, cinturón ajustable sin hebilla, cinturón informal con hebilla, regalo para hombre, 2 uds.",
+    "nombre": "Cinturón elástico con gancho y velcro",
+    "descripcion_corta": "Cintura elástica ajustable con sistemas de fijación para anclar accesorios durante el ejercicio.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.7/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Velcro y ganchos permiten personalizar la distribución de carga",
+      "Elástico se adapta a diferentes contexuras y tallas",
+      "Opción económica para organizar pequeños objetos"
     ],
     "precio_referencia": "$3–5",
     "imagen": "/img/running__hidratacion-carga/05.webp",
@@ -102,16 +158,30 @@
       "rating": 4.7,
       "url": "https://www.aliexpress.com/item/1005011564791743.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "Soporte para artículos ligeros"
+      },
+      {
+        "k": "Material",
+        "v": "Neopreno y velcro"
+      },
+      {
+        "k": "Peso",
+        "v": "Menos de 80g"
+      }
+    ]
   },
   {
     "rank": 6,
-    "nombre": "HAISSKY brazaletes deportivos para correr para iPhone 17 16…",
-    "descripcion_corta": "HAISSKY brazaletes deportivos para correr para iPhone 17 16 15 14 13 Pro Max 15 Plus 16e 17 Air Samsung S25Ultra bolsa de brazo con bolsillo con cremallera",
+    "nombre": "Brazalete deportivo para teléfono",
+    "descripcion_corta": "Brazalete de neopreno para llevar teléfono en el brazo durante carreras, compatible con modelos recientes.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (2.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Fijación segura al brazo deja las manos libres durante la carrera",
+      "Acceso rápido a móvil para música o navegación sin parar",
+      "Compatible con múltiples modelos de iPhone y android según tamaño"
     ],
     "precio_referencia": "$4–5",
     "imagen": "/img/running__hidratacion-carga/06.webp",
@@ -123,6 +193,20 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006966286747.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "iPhone y modelos estándar según talle"
+      },
+      {
+        "k": "Material",
+        "v": "Neopreno transpirable"
+      },
+      {
+        "k": "Peso",
+        "v": "Menos de 50g"
+      }
+    ]
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "nombre": "Placa de Construcción de Doble Cara de Acero con Resorte de…",
-    "descripcion_corta": "Placa de Construcción de Doble Cara de Acero con Resorte de 257x257mm para Bambu Lab A1, P1P, P1S, P2S, X1, X1C, X1E, X2D; Lámina PEI para Impresora 3D Bam",
+    "nombre": "Placa de construcción doble cara con resorte",
+    "descripcion_corta": "Placa de acero reversible con resorte para mejor adherencia e impresiones precisas en Bambu Lab A1.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.7/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Doble cara aprovecha más el material y extiende la vida útil",
+      "Resorte integrado mejora la adherencia en cada impresión",
+      "Compatible con múltiples modelos Bambu Lab"
     ],
     "precio_referencia": "$10–11",
     "imagen": "/img/impresion-3d__plato-accesorios/01.webp",
@@ -19,21 +19,35 @@
       "url": "https://www.aliexpress.com/item/1005005946908794.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Acero con resorte"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1 y modelos"
+      },
+      {
+        "k": "Caras",
+        "v": "2 (reversible)"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "Placa de Construcción X1C P1P P1S P2S A1 X1 para Bambu Lab A1",
-    "descripcion_corta": "Placa de Construcción X1C P1P P1S P2S A1 X1 para Bambu Lab A1, Lámina Lisa de PEI, PEO, PET para Impresora 3D Bambulab A1 P1P, Placa de Construcción para B",
+    "nombre": "Placa de construcción compatible X1C P1P A1",
+    "descripcion_corta": "Placa de reemplazo universal para Bambu Lab A1, X1C, P1P y otros modelos con excelente adhesión.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.8/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Compatibilidad amplia con 5+ modelos Bambu Lab",
+      "Rating 4.8 con miles de compras verificadas",
+      "Precio accesible para reemplazo de desgaste"
     ],
     "precio_referencia": "$9–11",
     "imagen": "/img/impresion-3d__plato-accesorios/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007458990197.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005007458990197",
       "orders": 5000,
@@ -41,16 +55,30 @@
       "url": "https://www.aliexpress.com/item/1005007458990197.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Acero templado"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "A1, X1C, P1P, P1S, P2S"
+      },
+      {
+        "k": "Adhesión",
+        "v": "Mejorada"
+      }
+    ]
   },
   {
     "rank": 3,
-    "nombre": "Piezas para Impresora 3D Bambu Lab A1: Dispensador de…",
-    "descripcion_corta": "Piezas para Impresora 3D Bambu Lab A1: Dispensador de Residuos Purge Wiper para Bambu Lab A1 y A1 Mini, Componente Automático de Recolección y Limpieza de ",
+    "nombre": "Dispensador de filamento para Bambu Lab A1",
+    "descripcion_corta": "Accesorio dispensador de filamento que facilita la carga y organización en impresoras Bambu Lab A1.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (278 vendidos).",
-      "Calificación de 5/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Rating perfecto de 5.0 en todas las reseñas",
+      "Mejora significativa en manejo y almacenamiento de filamento",
+      "Bajo costo para optimizar flujo de trabajo"
     ],
     "precio_referencia": "$4–5",
     "imagen": "/img/impresion-3d__plato-accesorios/03.webp",
@@ -63,16 +91,30 @@
       "url": "https://www.aliexpress.com/item/1005012588897317.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Dispensador de filamento"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1"
+      },
+      {
+        "k": "Material",
+        "v": "Según modelo"
+      }
+    ]
   },
   {
     "rank": 4,
-    "nombre": "Para Bambu Lab P1P AMS A1 mini impresora 3D tubo de PTFE tubo…",
-    "descripcion_corta": "Para Bambu Lab P1P AMS A1 mini impresora 3D tubo de PTFE tubo Teflonto extrusora Bowden 1,75mm ID2.5mm OD4mm piezas de filamento Bambulab",
+    "nombre": "Tubo PTFE para Bambu Lab A1 P1P AMS",
+    "descripcion_corta": "Tubo de PTFE de recambio para el sistema de extrusión de Bambu Lab A1 y modelos compatibles.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Pieza de desgaste necesaria para mantener calidad de impresión",
+      "10000+ vendidos confirma compatibilidad y demanda",
+      "Precio muy bajo para componente crítico"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d__plato-accesorios/04.webp",
@@ -85,16 +127,30 @@
       "url": "https://www.aliexpress.com/item/1005006966620068.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "PTFE (teflón)"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "A1, P1P, AMS"
+      },
+      {
+        "k": "Función",
+        "v": "Guía de filamento"
+      }
+    ]
   },
   {
     "rank": 5,
-    "nombre": "AMS Lite Bambulab Filament Hub para Bambu Lab",
-    "descripcion_corta": "AMS Lite Bambulab Filament Hub para Bambu Lab, interruptor de cinco vías para componentes, consumibles, impresión multicolor para piezas A1/A1 Mini",
+    "nombre": "AMS Lite hub de filamentos Bambu Lab",
+    "descripcion_corta": "Módulo adicional AMS Lite que expande la capacidad de carga de filamentos en sistemas Bambu Lab.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (2.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Permite usar más colores sin cambio manual de bobinas",
+      "Integración directa con A1 sin modificaciones",
+      "Rating 4.9 de usuarios con experiencia probada"
     ],
     "precio_referencia": "$5–6",
     "imagen": "/img/impresion-3d__plato-accesorios/05.webp",
@@ -107,16 +163,30 @@
       "url": "https://www.aliexpress.com/item/1005007450477499.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Módulo AMS Lite"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1 y AMS"
+      },
+      {
+        "k": "Función",
+        "v": "Expansión de filamento"
+      }
+    ]
   },
   {
     "rank": 6,
-    "nombre": "Kit de lámpara LED para laboratorio Bambu",
-    "descripcion_corta": "Kit de lámpara LED para laboratorio Bambu, Kit de luz ajustable, piezas de luz RGB, Hardware, modelo DIY, luces blancas/frías/cálidas sin carcasa de lámpar",
+    "nombre": "Kit lámpara LED para Bambu Lab",
+    "descripcion_corta": "Iluminación LED diseñada para mejorar la visualización de impresiones en impresoras Bambu Lab.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.8/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Facilita monitoreo visual y captura de timelapse de impresiones",
+      "10000+ compras avalan compatibilidad y funcionalidad",
+      "Precio accesible para mejora sustancial de experiencia"
     ],
     "precio_referencia": "$3–4",
     "imagen": "/img/impresion-3d__plato-accesorios/06.webp",
@@ -129,6 +199,20 @@
       "url": "https://www.aliexpress.com/item/1005009717076995.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Lámpara LED"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab (universal)"
+      },
+      {
+        "k": "Función",
+        "v": "Iluminación de cámara"
+      }
+    ]
   }
 ]

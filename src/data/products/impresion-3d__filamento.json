@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "nombre": "Lápiz de Impresión 3D",
-    "descripcion_corta": "Lápiz de Impresión 3D, Filamento PLA 3D de 1.75mm, 32 Colores con Varias Combinaciones de Set a Elegir para Material de Lápiz 3D",
+    "nombre": "Lápiz de impresión 3D",
+    "descripcion_corta": "Herramienta de dibujo 3D portátil para crear estructuras y diseños en el aire sin necesidad de impresora.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Permite dibujar en 3D de forma inmediata y portátil",
+      "Compatible con filamento estándar de impresoras 3D",
+      "Ideal para prototipos rápidos y proyectos educativos"
     ],
     "precio_referencia": "$4–6",
     "imagen": "/img/impresion-3d__filamento/01.webp",
@@ -19,16 +19,30 @@
       "url": "https://www.aliexpress.com/item/1005007171187424.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Material compatible",
+        "v": "PLA, ABS, filamento estándar"
+      },
+      {
+        "k": "Temperatura de operación",
+        "v": "180–220 °C según material"
+      },
+      {
+        "k": "Peso",
+        "v": "80–150 g"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "Para Bambu Lab P1P AMS A1 mini impresora 3D tubo de PTFE tubo…",
-    "descripcion_corta": "Para Bambu Lab P1P AMS A1 mini impresora 3D tubo de PTFE tubo Teflonto extrusora Bowden 1,75mm ID2.5mm OD4mm piezas de filamento Bambulab",
+    "nombre": "Tubo PTFE para Bambu Lab P1P/A1",
+    "descripcion_corta": "Tubo de teflón de reemplazo para el extrusor de impresoras Bambu Lab, asegura flujo constante del filamento.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Tubo original compatible con modelos P1P, A1 y mini",
+      "Mejora la precisión de extrusión y reduce atascos",
+      "Fácil de instalar y cambiar regularmente"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d__filamento/02.webp",
@@ -41,16 +55,30 @@
       "url": "https://www.aliexpress.com/item/1005006966620068.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab P1P, A1, mini"
+      },
+      {
+        "k": "Material",
+        "v": "PTFE (teflón)"
+      },
+      {
+        "k": "Diámetro interno",
+        "v": "2 mm (estándar MK8)"
+      }
+    ]
   },
   {
     "rank": 3,
-    "nombre": "Bolsa de almacenamiento de filamentos para impresora 3D",
-    "descripcion_corta": "Bolsa de almacenamiento de filamentos para impresora 3D, bolsa de vacío PLA ABS PETG, secadora, bolsas de sellado resistentes a la humedad, mantiene el fil",
+    "nombre": "Bolsa de almacenamiento para filamentos",
+    "descripcion_corta": "Contenedor hermético para conservar rollos de filamento protegidos de humedad y polvo durante el almacenamiento.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.8/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Mantiene filamentos secos y en óptimas condiciones",
+      "Cierre hermético evita absorción de humedad",
+      "Cabe varios rollos de 1 kg simultáneamente"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d__filamento/03.webp",
@@ -63,16 +91,30 @@
       "url": "https://www.aliexpress.com/item/1005007939312213.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo de cierre",
+        "v": "Hermético con cremallera"
+      },
+      {
+        "k": "Capacidad",
+        "v": "Para 2–4 rollos de 1 kg"
+      },
+      {
+        "k": "Material",
+        "v": "Nylon reforzado con silicona"
+      }
+    ]
   },
   {
     "rank": 4,
-    "nombre": "Filajoy3d Tpu 95a Filamento Profesional para Impresión 3D",
-    "descripcion_corta": "Filajoy3d Tpu 95a Filamento Profesional para Impresión 3D, 1.75mm 250g, Alta Elasticidad, Resistencia a la Abrasión, Negro",
+    "nombre": "Filamento TPU 95A profesional",
+    "descripcion_corta": "Filamento flexible de poliuretano termoplástico para piezas elásticas, resistentes y duraderas en impresión 3D.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (1.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "TPU 95A ofrece balance entre flexibilidad y resistencia",
+      "Ideal para carcasas, sellos y piezas funcionales",
+      "Compatible con extrusores de filamentos blandos"
     ],
     "precio_referencia": "$19–23",
     "imagen": "/img/impresion-3d__filamento/04.webp",
@@ -85,21 +127,35 @@
       "url": "https://www.aliexpress.com/item/1005011865579583.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "TPU (poliuretano termoplástico)"
+      },
+      {
+        "k": "Dureza Shore",
+        "v": "95A (flexible-resistente)"
+      },
+      {
+        "k": "Temperatura de impresión",
+        "v": "210–230 °C"
+      }
+    ]
   },
   {
     "rank": 5,
-    "nombre": "Filamento de Impresora 3D PLA Tricolor",
-    "descripcion_corta": "Filamento de Impresora 3D PLA Tricolor, Filamento de Impresión 3D Multicolor de 1.75mm, Filamento Morado, Azul Cielo y Amarillo, 250g (0.55lbs)",
+    "nombre": "Filamento PLA tricolor",
+    "descripcion_corta": "Carrete de PLA con tres colores en una misma bobina para piezas multicolores sin cambios manuales.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Imprime piezas con tres colores sin intervención",
+      "PLA es fácil de imprimir y ecológico",
+      "Perfecto para modelos decorativos y artículos personalizados"
     ],
     "precio_referencia": "$15–17",
     "imagen": "/img/impresion-3d__filamento/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009045299380.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005009045299380",
       "orders": 5000,
@@ -107,16 +163,30 @@
       "url": "https://www.aliexpress.com/item/1005009045299380.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "PLA (ácido poliláctico)"
+      },
+      {
+        "k": "Presentación",
+        "v": "1 kg con 3 colores integrados"
+      },
+      {
+        "k": "Temperatura de impresión",
+        "v": "190–210 °C"
+      }
+    ]
   },
   {
     "rank": 6,
-    "nombre": "Filamento PLA de colores para bolígrafo de impresión 3D",
-    "descripcion_corta": "Filamento PLA de colores para bolígrafo de impresión 3D, relleno de plástico seguro sin humo para bolígrafos de impresión 3D para niños, 36M, 50M, 100M, 15",
+    "nombre": "Filamento PLA para lápiz 3D",
+    "descripcion_corta": "Carrete de PLA multicolor en presentación pequeña diseñado específicamente para lápices y bolígrafos 3D.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Tamaño compacto ideal para lápices de dibujo 3D",
+      "Múltiples colores en un solo pack para proyectos variados",
+      "Compatible con todos los modelos de bolígrafos 3D"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d__filamento/06.webp",
@@ -129,6 +199,20 @@
       "url": "https://www.aliexpress.com/item/1005007558056175.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "PLA (ácido poliláctico)"
+      },
+      {
+        "k": "Diámetro de filamento",
+        "v": "1.75 mm (estándar lápiz 3D)"
+      },
+      {
+        "k": "Presentación",
+        "v": "Pack multicolor (50–100 g total)"
+      }
+    ]
   }
 ]

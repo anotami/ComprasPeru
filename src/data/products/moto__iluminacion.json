@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "nombre": "Faro proyector LED universal con lente de doble color – Luz…",
-    "descripcion_corta": "Faro proyector LED universal con lente de doble color – Luz antiniebla y de conducción para motocicletas, vehículos todoterreno y scooters",
+    "nombre": "Faro proyector LED universal doble color",
+    "descripcion_corta": "Faro delantero LED con lente proyectora y luz de doble color para mejorar visibilidad y estética.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Lente proyectora concentra la luz para mayor alcance y definición",
+      "Doble color permite uso como luz de posición y conducción",
+      "Compatible con la mayoría de motos por diseño universal"
     ],
     "precio_referencia": "$3–4",
     "imagen": "/img/moto__iluminacion/01.webp",
@@ -18,37 +18,65 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007171262229.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Faro proyector LED"
+      },
+      {
+        "k": "Colores",
+        "v": "Doble color"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Universal"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "1 Uds Mini luz de conducción lente de proyector LED faro de…",
-    "descripcion_corta": "1 Uds Mini luz de conducción lente de proyector LED faro de motocicleta ATV Scooter para lámpara de foco auxiliar",
+    "nombre": "Mini luz de conducción lente proyector LED",
+    "descripcion_corta": "Pequeño faro LED con lente de proyección para luz de conducción adicional o de repuesto.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (1.000+ vendidos).",
-      "Calificación de 4.7/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Tamaño compacto permite instalación flexible en diferentes puntos",
+      "Lente proyectora optimiza la distribución de luz",
+      "Potencia suficiente para luz de conducción o apoyo"
     ],
     "precio_referencia": "$4–6",
     "imagen": "/img/moto__iluminacion/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005367202344.html",
-    "badge": "Ticket alto",
+    "badge": null,
     "_src": {
       "id": "1005005367202344",
       "orders": 1000,
       "rating": 4.7,
       "url": "https://www.aliexpress.com/item/1005005367202344.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Mini faro proyector LED"
+      },
+      {
+        "k": "Tamaño",
+        "v": "Compacto"
+      },
+      {
+        "k": "Aplicación",
+        "v": "Conducción principal o apoyo"
+      }
+    ]
   },
   {
     "rank": 3,
-    "nombre": "Luces LED de señal de giro para motocicleta",
-    "descripcion_corta": "Luces LED de señal de giro para motocicleta, luces de circulación diurna, luz trasera DRL, tira decorativa impermeable, luz que fluye de freno, 2 uds.",
+    "nombre": "Luces LED de señal de giro para moto",
+    "descripcion_corta": "Luces indicadoras LED para giros que mejoran la visibilidad y seguridad en cambios de carril.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.6/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Mayor brillo que intermitentes convencionales para mejor visibilidad",
+      "Consumo bajo de energía con larga vida útil",
+      "Instalación rápida en soportes estándar de moto"
     ],
     "precio_referencia": "$3–4",
     "imagen": "/img/moto__iluminacion/03.webp",
@@ -60,37 +88,65 @@
       "rating": 4.6,
       "url": "https://www.aliexpress.com/item/1005006883500219.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "LED intermitentes"
+      },
+      {
+        "k": "Función",
+        "v": "Señal de giro"
+      },
+      {
+        "k": "Brillo",
+        "v": "Alto"
+      }
+    ]
   },
   {
     "rank": 4,
-    "nombre": "Barra de luz Flexible de 48 LED para motocicleta",
-    "descripcion_corta": "Barra de luz Flexible de 48 LED para motocicleta, tira de señal de giro trasera, bombilla de parada de freno, luz de freno de 12V",
+    "nombre": "Barra de luz flexible 48 LED para moto",
+    "descripcion_corta": "Barra LED flexible con 48 puntos luminosos para iluminación de acompañamiento o decorativa.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (2.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Flexibilidad permite adaptarse a formas curvas del chasis",
+      "48 LED distribuidos ofrecen iluminación uniforme",
+      "Bajo costo por cantidad de luz generada"
     ],
     "precio_referencia": "$2–3",
     "imagen": "/img/moto__iluminacion/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007038478378.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005007038478378",
       "orders": 2000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007038478378.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Barra LED flexible"
+      },
+      {
+        "k": "Cantidad de LED",
+        "v": "48 puntos"
+      },
+      {
+        "k": "Flexibilidad",
+        "v": "Adaptable a superficies curvas"
+      }
+    ]
   },
   {
     "rank": 5,
     "nombre": "Luz LED de intermitentes para motocicleta",
-    "descripcion_corta": "Luz LED de intermitentes para motocicleta, 2 uds., 12 SMD, intermitente trasero, intermitente de agua corriente IP68, luces intermitentes flexibles para mo",
+    "descripcion_corta": "Intermitentes LED de recambio que aumentan visibilidad y seguridad en maniobras de giro.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Encendido instantáneo sin tiempo de calentamiento",
+      "Mayor durabilidad que bombillas incandescentes",
+      "Consumo mínimo de batería para viajes largos"
     ],
     "precio_referencia": "$3–5",
     "imagen": "/img/moto__iluminacion/05.webp",
@@ -102,16 +158,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006966461260.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "LED intermitentes"
+      },
+      {
+        "k": "Encendido",
+        "v": "Instantáneo"
+      },
+      {
+        "k": "Durabilidad",
+        "v": "Larga vida útil"
+      }
+    ]
   },
   {
     "rank": 6,
-    "nombre": "50/10PCS Tiras Adhesivas Reflectantes de Advertencia de…",
-    "descripcion_corta": "50/10PCS Tiras Adhesivas Reflectantes de Advertencia de Seguridad para Casco, Impermeables, de Alta Visibilidad, Cinta Reflectante para Ciclismo Nocturno, ",
+    "nombre": "Tiras adhesivas reflectantes de advertencia",
+    "descripcion_corta": "Cinta reflectante adhesiva para aumentar visibilidad nocturna en chasis y accesorios de moto.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Refleja luz sin consumir energía ni baterías",
+      "Adhesivo resistente a vibraciones y clima",
+      "Aplicación sencilla en cualquier superficie limpia"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/moto__iluminacion/06.webp",
@@ -123,6 +193,20 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005009278066595.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Tira reflectante adhesiva"
+      },
+      {
+        "k": "Cantidad",
+        "v": "50 o 10 piezas"
+      },
+      {
+        "k": "Fuente de luz",
+        "v": "Reflectante pasiva"
+      }
+    ]
   }
 ]

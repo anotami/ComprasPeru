@@ -1,33 +1,47 @@
 [
   {
     "rank": 1,
-    "nombre": "Mochila de hidratación AONIJIE C932 2.5L",
-    "descripcion_corta": "Mochila ligera y compacta para correr y senderismo con compartimento para hidratación integrado.",
+    "nombre": "Mochila de hidratación AONIJIE C932",
+    "descripcion_corta": "Mochila compacta con vejiga de hidratación integrada de 2.5L para carreras y entrenamientos.",
     "por_que_comprarlo": [
-      "Peso mínimo de solo 2.5 litros de capacidad ideal para carreras largas",
-      "Material de nailon resistente con diseño ergonómico para correr sin molestias",
-      "Precio accesible entre $22 y $26 para equipamiento de calidad"
+      "Capacidad de 2.5L con sistema de hidratación integrado",
+      "Diseño ergonómico y ajustable para movimiento cómodo",
+      "Material resistente al agua y duradero"
     ],
     "precio_referencia": "$22–26",
     "imagen": "/img/running/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32969609904.html",
-    "badge": "Mejor calidad-precio",
+    "badge": null,
     "_src": {
       "id": "32969609904",
       "orders": 500,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/32969609904.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "2.5 litros"
+      },
+      {
+        "k": "Peso",
+        "v": "según modelo"
+      },
+      {
+        "k": "Material",
+        "v": "poliéster resistente al agua"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "NUEVOS Auriculares Bluetooth 5.3 de Conducción Aérea con Clip",
-    "descripcion_corta": "NUEVOS Auriculares Bluetooth 5.3 de Conducción Aérea con Clip, Cancelación de Ruido, Llamadas HD, para Deportes, Juegos y Correr",
+    "nombre": "Auriculares Bluetooth 5.3 conducción aérea",
+    "descripcion_corta": "Auriculares inalámbricos con tecnología de conducción aérea y Bluetooth 5.3.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (50.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Conducción aérea deja oídos libres para escuchar entorno",
+      "Bluetooth 5.3 garantiza conexión estable y rápida",
+      "Ideal para runners que necesitan seguridad y comodidad"
     ],
     "precio_referencia": "$5–6",
     "imagen": "/img/running/02.webp",
@@ -39,37 +53,65 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007010258794.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Conexión",
+        "v": "Bluetooth 5.3"
+      },
+      {
+        "k": "Tipo de audio",
+        "v": "Conducción aérea"
+      },
+      {
+        "k": "Autonomía",
+        "v": "según modelo"
+      }
+    ]
   },
   {
     "rank": 3,
     "nombre": "Riñonera deportiva elástica NEWBOLER",
-    "descripcion_corta": "Cinturón deportivo ajustable para llevar teléfono, llaves y documentos durante carreras y triatlones.",
+    "descripcion_corta": "Riñonera ajustable para llevar objetos pequeños durante el entrenamiento.",
     "por_que_comprarlo": [
-      "Diseño elástico y seguro que no se mueve durante el movimiento",
-      "Incluye soporte para número de carrera en maratones",
-      "Precio muy económico entre $3 y $4 con 10,000+ pedidos verificados"
+      "Material elástico se adapta a cualquier tamaño de cintura",
+      "Almacena de forma segura teléfono, llaves y documentos",
+      "Ultraligera y no interfiere con el movimiento"
     ],
     "precio_referencia": "$3–4",
     "imagen": "/img/running/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008909024210.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005008909024210",
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008909024210.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "elastano y poliéster"
+      },
+      {
+        "k": "Peso",
+        "v": "menos de 100g"
+      },
+      {
+        "k": "Capacidad",
+        "v": "según modelo"
+      }
+    ]
   },
   {
     "rank": 4,
     "nombre": "Reloj inteligente Amazfit Balance 46mm",
-    "descripcion_corta": "Smartwatch con GPS y más de 150 modos deportivos, batería de 14 días para entrenamientos diarios.",
+    "descripcion_corta": "Smartwatch con monitoreo de salud integrado, GPS y batería extendida.",
     "por_que_comprarlo": [
-      "Más de 150 modos deportivos incluyendo running, triatlón y cross-training",
-      "GPS de doble banda para rastreo preciso de rutas y distancias",
-      "Batería de 14 días de duración sin recargas frecuentes"
+      "Pantalla grande de 46mm con excelente visibilidad",
+      "GPS preciso para rastreo exacto de rutas y distancia",
+      "Monitoreo de frecuencia cardíaca y métricas de estrés"
     ],
     "precio_referencia": "$105–120",
     "imagen": "/img/running/04.webp",
@@ -81,16 +123,30 @@
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005007460154665.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tamaño pantalla",
+        "v": "46 mm"
+      },
+      {
+        "k": "GPS",
+        "v": "Integrado"
+      },
+      {
+        "k": "Autonomía",
+        "v": "hasta 14 días"
+      }
+    ]
   },
   {
     "rank": 5,
     "nombre": "Calcetines de compresión médica graduada",
-    "descripcion_corta": "Medias de compresión para pantorrillas que mejoran la circulación y previenen venas varicosas.",
+    "descripcion_corta": "Calcetines con compresión graduada para mejorar circulación durante el ejercicio.",
     "por_que_comprarlo": [
-      "Presión graduada clínicamente probada para mejorar flujo sanguíneo",
-      "Uso tanto para hombre como para mujer con múltiples opciones de ajuste",
-      "Prevención de fatiga muscular y molestias en pantorrillas después de correr"
+      "Compresión graduada mejora flujo sanguíneo y recuperación",
+      "Reduce fatiga muscular durante y después de correr",
+      "Previene lesiones y acelera proceso de recuperación"
     ],
     "precio_referencia": "$3–4",
     "imagen": "/img/running/05.webp",
@@ -102,16 +158,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005012052998168.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Compresión",
+        "v": "graduada médica"
+      },
+      {
+        "k": "Material",
+        "v": "tela elástica transpirable"
+      },
+      {
+        "k": "Altura",
+        "v": "según modelo"
+      }
+    ]
   },
   {
     "rank": 6,
     "nombre": "Gafas de sol ROCKBROS polarizadas fotocromáticas",
-    "descripcion_corta": "Lentes deportivas polarizadas que se adaptan automáticamente a diferentes condiciones de luz.",
+    "descripcion_corta": "Lentes con protección polarizada y fotocromática que se adaptan a cambios de luz.",
     "por_que_comprarlo": [
-      "Lentes fotocromáticas que oscurecen en sol y se aclaran en sombra automáticamente",
-      "Protección UV400 total contra radiación solar durante entrenamientos al aire libre",
-      "Diseño específico para ciclismo y running con ajuste seguro y estable"
+      "Polarización elimina reflejos y protege vista durante el día",
+      "Tecnología fotocromática se oscurece automáticamente",
+      "Cobertura completa contra rayos UV nocivos"
     ],
     "precio_referencia": "$16–19",
     "imagen": "/img/running/06.webp",
@@ -123,16 +193,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006904666475.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Protección UV",
+        "v": "100% UV400"
+      },
+      {
+        "k": "Tipo de lente",
+        "v": "polarizado fotocromático"
+      },
+      {
+        "k": "Material",
+        "v": "según modelo"
+      }
+    ]
   },
   {
     "rank": 7,
     "nombre": "Gorra para correr de diseño Original",
-    "descripcion_corta": "Gorra para correr de diseño Original, fina, de secado rápido, transpirable, lengua de pato, para exteriores, sol, verano, pesca, gorra de béisbol Avisor",
+    "descripcion_corta": "Gorra ligera y transpirable para proteger del sol durante entrenamientos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Transpirable y de secado rápido para máxima comodidad",
+      "Protección efectiva contra rayos solares directos",
+      "Diseño ajustable se adapta a diferentes tamaños"
     ],
     "precio_referencia": "$3–4",
     "imagen": "/img/running/07.webp",
@@ -144,16 +228,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006995309430.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "poliéster transpirable"
+      },
+      {
+        "k": "Peso",
+        "v": "menos de 100g"
+      },
+      {
+        "k": "Ajuste",
+        "v": "ajustable"
+      }
+    ]
   },
   {
     "rank": 8,
     "nombre": "Botella de agua plegable de TPU",
-    "descripcion_corta": "Botellas blandas plegables en varios tamaños para llevar agua en carreras sin peso extra.",
+    "descripcion_corta": "Botella portátil que se pliega cuando está vacía, perfecta para el running.",
     "por_que_comprarlo": [
-      "Material TPU flexible que se pliega cuando está vacía para ahorrar espacio",
-      "Disponible en tres tamaños: 150, 250 y 500 mililitros según necesidad",
-      "Perfecta para correr, senderismo y ciclismo con cierre hermético seguro"
+      "Diseño plegable ocupa mínimo espacio cuando está vacía",
+      "TPU es ligero, duradero y libre de BPA",
+      "Fácil de transportar y guardar en mochila o bolsillo"
     ],
     "precio_referencia": "$3–5",
     "imagen": "/img/running/08.webp",
@@ -165,16 +263,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010806675074.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "según modelo"
+      },
+      {
+        "k": "Material",
+        "v": "TPU flexible"
+      },
+      {
+        "k": "Peso",
+        "v": "menos de 100g"
+      }
+    ]
   },
   {
     "rank": 9,
-    "nombre": "Pistola de Fascia portátil de mano",
-    "descripcion_corta": "Pistola de Fascia portátil de mano, masajeador de roscado con carga USB para cuerpo, espalda, cuello, pierna, 6 niveles de intensidad",
+    "nombre": "Pistola de masaje fascial portátil",
+    "descripcion_corta": "Masajeador portátil para aliviar tensión muscular y acelerar recuperación.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Vibración profunda libera tensión muscular efectivamente",
+      "Tamaño compacto para llevar a cualquier lugar",
+      "Acelera recuperación después de entrenamientos intensos"
     ],
     "precio_referencia": "$19–22",
     "imagen": "/img/running/09.webp",
@@ -186,16 +298,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007171266187.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "pistola masaje fascial"
+      },
+      {
+        "k": "Potencia",
+        "v": "según modelo"
+      },
+      {
+        "k": "Autonomía",
+        "v": "batería recargable"
+      }
+    ]
   },
   {
     "rank": 10,
-    "nombre": "Mini Linterna LED Recargable 5050",
-    "descripcion_corta": "Mini Linterna LED Recargable 5050, Luz de Bolsillo con Clip para Gorra, Linterna de Llavero, Lámpara de Trabajo Portátil para Camping, Senderismo y Uso en ",
+    "nombre": "Linterna LED recargable mini 5050",
+    "descripcion_corta": "Linterna compacta recargable para visibilidad en entrenamientos nocturnos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Recargable por USB, sin necesidad de pilas constantemente",
+      "Tamaño mini se adapta a mochila o cinturón fácilmente",
+      "Luz LED de alta intensidad para seguridad en oscuridad"
     ],
     "precio_referencia": "$4–5",
     "imagen": "/img/running/10.webp",
@@ -207,6 +333,20 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008660442084.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo de carga",
+        "v": "USB recargable"
+      },
+      {
+        "k": "Peso",
+        "v": "menos de 100g"
+      },
+      {
+        "k": "Autonomía",
+        "v": "según modelo"
+      }
+    ]
   }
 ]

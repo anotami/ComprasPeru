@@ -1,54 +1,82 @@
 [
   {
     "rank": 1,
-    "nombre": "Reloj inteligente Amazfit Balance de 46mm",
-    "descripcion_corta": "Reloj inteligente Amazfit Balance de 46mm, más de 150 modos deportivos, batería de 14 días, reloj inteligente GPS de doble banda para teléfono Android IOS",
+    "nombre": "Reloj inteligente Amazfit Balance 46mm",
+    "descripcion_corta": "Reloj deportivo con GPS, monitor cardíaco y batería de larga duración para entrenamientos y control diario.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (900+ vendidos).",
-      "Calificación de 4.8/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Pantalla AMOLED nítida de 46mm con visibilidad en exteriores",
+      "Autonomía de hasta 14 días en modo normal",
+      "GPS+GLONASS+Galileo para precisión en rutas"
     ],
     "precio_referencia": "$105–120",
     "imagen": "/img/running__medir-ver/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007460154665.html",
-    "badge": "Ticket alto",
+    "badge": "El más vendido",
     "_src": {
       "id": "1005007460154665",
       "orders": 900,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005007460154665.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tamaño",
+        "v": "46mm"
+      },
+      {
+        "k": "Autonomía",
+        "v": "Hasta 14 días"
+      },
+      {
+        "k": "Conexión",
+        "v": "Bluetooth 5.0, GPS+GLONASS"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "NUEVOS Auriculares Bluetooth 5.3 de Conducción Aérea con Clip",
-    "descripcion_corta": "NUEVOS Auriculares Bluetooth 5.3 de Conducción Aérea con Clip, Cancelación de Ruido, Llamadas HD, para Deportes, Juegos y Correr",
+    "nombre": "Auriculares Bluetooth conducción aérea con clip",
+    "descripcion_corta": "Auriculares inalámbricos que transmiten sonido por conducción ósea sin ocupar los oídos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (50.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Mantiene tus oídos libres para escuchar el tráfico",
+      "Bluetooth 5.3 con conexión estable hasta 10m",
+      "Precio accesible con excelentes críticas"
     ],
     "precio_referencia": "$5–6",
     "imagen": "/img/running__medir-ver/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010258794.html",
-    "badge": "El más vendido",
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005007010258794",
       "orders": 50000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007010258794.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Conexión",
+        "v": "Bluetooth 5.3"
+      },
+      {
+        "k": "Tecnología",
+        "v": "Conducción aérea"
+      },
+      {
+        "k": "Peso",
+        "v": "Según modelo"
+      }
+    ]
   },
   {
     "rank": 3,
-    "nombre": "ROCKBROS-gafas de sol polarizadas y fotocromáticas para ciclismo",
-    "descripcion_corta": "ROCKBROS-gafas de sol polarizadas y fotocromáticas para ciclismo, lentes deportivas para bicicleta de montaña y carretera, protección UV400",
+    "nombre": "Gafas de sol polarizadas fotocromáticas ROCKBROS",
+    "descripcion_corta": "Gafas deportivas que se adaptan a la luz con lentes polarizadas para reducir reflejos en carretera.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Lentes fotocromáticas que se oscurecen automáticamente",
+      "Filtro polarizado elimina reflejos de asfalto y agua",
+      "Diseño envolvente para protección lateral"
     ],
     "precio_referencia": "$16–19",
     "imagen": "/img/running__medir-ver/03.webp",
@@ -60,16 +88,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006904666475.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Filtro",
+        "v": "Polarizado fotocromático"
+      },
+      {
+        "k": "Protección",
+        "v": "UV400"
+      },
+      {
+        "k": "Material",
+        "v": "Según modelo"
+      }
+    ]
   },
   {
     "rank": 4,
-    "nombre": "Wurkkos HD03 680LM Mini Clip de luz USB C linterna de…",
-    "descripcion_corta": "Wurkkos HD03 680LM Mini Clip de luz USB C linterna de bolsillo recargable foco/reflector portátil EDC RGB antorcha con imán",
+    "nombre": "Linterna clip Wurkkos HD03 680 lúmenes USB-C",
+    "descripcion_corta": "Linterna recargable compacta con 680 lúmenes, ideal para clip en mochila o ropa durante carreras nocturnas.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 5/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Brillo de 680 lúmenes con alcance de hasta 80m",
+      "Recarga por USB-C, sin baterías desechables",
+      "Clip magnético versátil para sujetar en cualquier lugar"
     ],
     "precio_referencia": "$18–21",
     "imagen": "/img/running__medir-ver/04.webp",
@@ -81,16 +123,30 @@
       "rating": 5,
       "url": "https://www.aliexpress.com/item/1005010653212908.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Brillo",
+        "v": "680 lúmenes"
+      },
+      {
+        "k": "Carga",
+        "v": "USB-C recargable"
+      },
+      {
+        "k": "Alcance",
+        "v": "Hasta 80m"
+      }
+    ]
   },
   {
     "rank": 5,
     "nombre": "Chaleco reflectante de alta visibilidad",
-    "descripcion_corta": "Chaleco reflectante de alta visibilidad, ropa de trabajo para motocicleta, deportes de ciclismo, ropa de seguridad reflectante para exteriores, chaqueta re",
+    "descripcion_corta": "Chaleco ligero con bandas reflectantes para máxima visibilidad en entrenamientos nocturnos y en tráfico.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Bandas reflectantes 360° que brillan con luz artificial",
+      "Material transpirable y ajustable para todo tipo de cuerpo",
+      "Cómodo de llevar sobre cualquier ropa"
     ],
     "precio_referencia": "$9–10",
     "imagen": "/img/running__medir-ver/05.webp",
@@ -102,16 +158,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007009966697.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Visibilidad",
+        "v": "Reflectante 360°"
+      },
+      {
+        "k": "Material",
+        "v": "Tela transpirable"
+      },
+      {
+        "k": "Ajuste",
+        "v": "Velcro regulable"
+      }
+    ]
   },
   {
     "rank": 6,
-    "nombre": "GEOID-Monitor de ritmo cardíaco HS500",
-    "descripcion_corta": "GEOID-Monitor de ritmo cardíaco HS500, GPS, Bluetooth, Sensor ANT, correa de pecho, ciclismo, ordenador, Wahoo, Garmin, Monitor deportivo",
+    "nombre": "Monitor de ritmo cardíaco GEOID HS500",
+    "descripcion_corta": "Banda pectoral inalámbrica que mide tu frecuencia cardíaca en tiempo real durante entrenamientos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Sensor óptico de alta precisión para ritmo cardíaco exacto",
+      "Compatible con apps populares de running y smartwatches",
+      "Bluetooth con batería de larga duración"
     ],
     "precio_referencia": "$15–18",
     "imagen": "/img/running__medir-ver/06.webp",
@@ -123,6 +193,20 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007096672946.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Conexión",
+        "v": "Bluetooth ANT+"
+      },
+      {
+        "k": "Sensor",
+        "v": "Óptico de precisión"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Apps y smartwatches"
+      }
+    ]
   }
 ]

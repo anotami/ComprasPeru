@@ -1,17 +1,17 @@
 [
   {
     "rank": 1,
-    "nombre": "Nueva batería de litio 18650 3500mAh 3",
-    "descripcion_corta": "Nueva batería de litio 18650 3500mAh 3,7 v 25A INR18650 MJ1 batería de herramienta eléctrica de alta potencia 18650 batería reca",
+    "nombre": "Batería de litio 18650 3500mAh",
+    "descripcion_corta": "Celda recargable de alta capacidad para dispositivos portátiles y sistemas de energía.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.5/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Alta capacidad de 3500mAh con ciclos de carga extendidos",
+      "Compatible con cargadores estándar 18650 y módulos de control",
+      "Voltaje estable para aplicaciones de Meshtastic y electrónica"
     ],
     "precio_referencia": "$6–7",
     "imagen": "/img/meshtastic__energia-montaje/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008078553867.html",
-    "badge": null,
+    "badge": "El más vendido",
     "_src": {
       "id": "1005008078553867",
       "orders": 5000,
@@ -19,16 +19,30 @@
       "url": "https://www.aliexpress.com/item/1005008078553867.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "3500mAh"
+      },
+      {
+        "k": "Tipo",
+        "v": "Litio 18650"
+      },
+      {
+        "k": "Voltaje nominal",
+        "v": "3.7V"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "Caja para baterías 18650",
-    "descripcion_corta": "Caja para baterías 18650, caja para 2 baterías 18650, soporte para baterías 18650 con cables/con terminales de cableado PH 2.0, conexión en paralelo de 3.7",
+    "nombre": "Caja protectora para baterías 18650",
+    "descripcion_corta": "Estuche de almacenamiento para organizar y proteger celdas 18650.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (1.000+ vendidos).",
-      "Calificación de 4.6/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Previene cortocircuitos durante transporte y almacenamiento",
+      "Organiza múltiples celdas en un solo compartimento seguro",
+      "Protege contactos de oxidación y daños mecánicos"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/meshtastic__energia-montaje/02.webp",
@@ -41,21 +55,35 @@
       "url": "https://www.aliexpress.com/item/1005007482296213.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "2-4 celdas según modelo"
+      },
+      {
+        "k": "Material",
+        "v": "Plástico reforzado"
+      },
+      {
+        "k": "Protección",
+        "v": "Aislamiento de contactos"
+      }
+    ]
   },
   {
     "rank": 3,
-    "nombre": "Cargador de células solares tipo C",
-    "descripcion_corta": "Cargador de células solares tipo C, paneles solares de 10W y 5V, Panel Solar Micro para cámara de seguridad, sistema de iluminación para el hogar pequeño, ",
+    "nombre": "Cargador solar tipo C",
+    "descripcion_corta": "Panel de carga solar con puerto USB-C para energía portátil y renovable.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Carga independiente del suministro eléctrico en campo",
+      "Conexión USB-C estándar compatible con múltiples dispositivos",
+      "Ideal para sistemas Meshtastic remotos de larga duración"
     ],
     "precio_referencia": "$7–9",
     "imagen": "/img/meshtastic__energia-montaje/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008932865297.html",
-    "badge": "El más vendido",
+    "badge": null,
     "_src": {
       "id": "1005008932865297",
       "orders": 10000,
@@ -63,21 +91,35 @@
       "url": "https://www.aliexpress.com/item/1005008932865297.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Fuente",
+        "v": "Panel solar"
+      },
+      {
+        "k": "Conexión",
+        "v": "USB-C"
+      },
+      {
+        "k": "Potencia",
+        "v": "según modelo"
+      }
+    ]
   },
   {
     "rank": 4,
-    "nombre": "Módulo de Carga para Baterías de Litio 18650 TP4056",
-    "descripcion_corta": "Módulo de Carga para Baterías de Litio 18650 TP4056, 2/5 Piezas, 5V 1A, Micro/Tipo-C/Mini, con Protección y Funciones Duales, para Baterías de Iones de Lit",
+    "nombre": "Módulo cargador TP4056 para 18650",
+    "descripcion_corta": "Controlador de carga inteligente para baterías de litio con protección integrada.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Controla carga automática y evita sobrecarga de celdas",
+      "Entrada micro-USB estándar para cualquier fuente de poder",
+      "Protección contra inversión de polaridad y cortocircuitos"
     ],
     "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__energia-montaje/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010585482772.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005010585482772",
       "orders": 10000,
@@ -85,16 +127,30 @@
       "url": "https://www.aliexpress.com/item/1005010585482772.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "Baterías 18650 1S"
+      },
+      {
+        "k": "Protección",
+        "v": "Sobrecarga, cortocircuito"
+      },
+      {
+        "k": "Entrada",
+        "v": "Micro-USB"
+      }
+    ]
   },
   {
     "rank": 5,
-    "nombre": "Caja de conexiones de proyecto para Cable eléctrico",
-    "descripcion_corta": "Caja de conexiones de proyecto para Cable eléctrico, caja de cables sellada IP67 para exteriores, cajas electrónicas impermeables de 115x90x55mm",
+    "nombre": "Caja de conexiones para proyectos eléctricos",
+    "descripcion_corta": "Carcasa plástica para organizar conexiones y cableado de sistemas de energía.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Protege conexiones de polvo, humedad y contacto accidental",
+      "Permite montaje ordenado de módulos de carga y baterías",
+      "Facilita mantenimiento y troubleshooting de circuitos"
     ],
     "precio_referencia": "$3–5",
     "imagen": "/img/meshtastic__energia-montaje/05.webp",
@@ -107,16 +163,30 @@
       "url": "https://www.aliexpress.com/item/1005003422066803.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Plástico ABS resistente"
+      },
+      {
+        "k": "Protección",
+        "v": "IP según modelo"
+      },
+      {
+        "k": "Acceso",
+        "v": "Puertos para cables"
+      }
+    ]
   },
   {
     "rank": 6,
-    "nombre": "Adaptador de Montaje en Poste para Starlink Gen 3",
-    "descripcion_corta": "Adaptador de Montaje en Poste para Starlink Gen 3, Soporte de Montaje en Poste para Techo, RV y Patio, Accesorios de Montaje Redondos para Antena Starlink ",
+    "nombre": "Adaptador de montaje en poste Starlink Gen 3",
+    "descripcion_corta": "Soporte metálico para fijar antenas Starlink Gen 3 en postes externos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (1.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Facilita instalación segura de antenas en altura para mejor cobertura",
+      "Compatible específico con Starlink Gen 3 y sistemas Meshtastic",
+      "Resistente a intemperie para uso exterior prolongado"
     ],
     "precio_referencia": "$14–16",
     "imagen": "/img/meshtastic__energia-montaje/06.webp",
@@ -129,6 +199,20 @@
       "url": "https://www.aliexpress.com/item/1005009874218578.html",
       "capturado": "2026-08-31",
       "prevRank": null
-    }
+    },
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "Starlink Gen 3"
+      },
+      {
+        "k": "Material",
+        "v": "Metal galvanizado"
+      },
+      {
+        "k": "Instalación",
+        "v": "En poste"
+      }
+    ]
   }
 ]

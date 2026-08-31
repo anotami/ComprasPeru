@@ -1,33 +1,47 @@
 [
   {
     "rank": 1,
-    "nombre": "Linterna Frontal LED USB Tipo-C",
-    "descripcion_corta": "Linterna Frontal LED USB Tipo-C, Linterna Frontal 18650 para Pesca, Caza, Camping, Linterna Frontal",
+    "nombre": "Linterna frontal LED USB Tipo-C",
+    "descripcion_corta": "Linterna LED recargable por USB para usar en la frente, ideal para camping y actividades nocturnas con las manos libres.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Recarga rápida por USB Tipo-C, compatible con cualquier cargador moderno",
+      "Deja las manos libres para trabajar o caminar en la oscuridad",
+      "Batería de larga duración con múltiples niveles de intensidad"
     ],
     "precio_referencia": "$11–13",
     "imagen": "/img/camping__luz-energia/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008506009260.html",
-    "badge": null,
+    "badge": "El más vendido",
     "_src": {
       "id": "1005008506009260",
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008506009260.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo de carga",
+        "v": "USB Tipo-C"
+      },
+      {
+        "k": "Autonomía",
+        "v": "según modelo"
+      },
+      {
+        "k": "Peso",
+        "v": "según modelo"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "Lámpara Solar COB para Camping",
-    "descripcion_corta": "Lámpara Solar COB para Camping, Portátil, Recargable, Colgante, Impermeable, para Senderismo, Pesca, Emergencias en el Hogar, con Gancho",
+    "nombre": "Lámpara solar COB para camping",
+    "descripcion_corta": "Lámpara recargable por energía solar con luz COB de alta potencia, perfecta para iluminar tiendas de campaña.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Carga gratis durante el día con energía solar, sin necesidad de electricidad",
+      "Luz COB muy brillante que ilumina amplias áreas de forma pareja",
+      "Resistente al agua y duradera para uso repetido en campings"
     ],
     "precio_referencia": "$6–8",
     "imagen": "/img/camping__luz-energia/02.webp",
@@ -39,58 +53,100 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007938146191.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Fuente de energía",
+        "v": "Solar"
+      },
+      {
+        "k": "Tipo de luz",
+        "v": "COB"
+      },
+      {
+        "k": "Resistencia",
+        "v": "Resistente al agua"
+      }
+    ]
   },
   {
     "rank": 3,
-    "nombre": "Panel Solar de 30W con USB",
-    "descripcion_corta": "Panel Solar de 30W con USB, impermeable, para exteriores, senderismo y Camping, batería portátil, Banco de carga para teléfono móvil, Panel de carga de 6,8",
+    "nombre": "Panel solar 30W con puerto USB",
+    "descripcion_corta": "Panel solar portátil de 30W con salida USB para cargar dispositivos directamente en campings o viajes.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.4/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Potencia de 30W genera energía suficiente para cargar múltiples dispositivos",
+      "Puerto USB integrado permite cargar teléfonos, tabletas y linternas sin convertidores",
+      "Tamaño compacto y plegable para transportar fácilmente en mochilas"
     ],
     "precio_referencia": "$9–10",
     "imagen": "/img/camping__luz-energia/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006157697685.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005006157697685",
       "orders": 5000,
       "rating": 4.4,
       "url": "https://www.aliexpress.com/item/1005006157697685.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Potencia",
+        "v": "30W"
+      },
+      {
+        "k": "Salida USB",
+        "v": "Sí"
+      },
+      {
+        "k": "Peso",
+        "v": "según modelo"
+      }
+    ]
   },
   {
     "rank": 4,
     "nombre": "Panel solar plegable de 6 pliegues",
-    "descripcion_corta": "Panel solar plegable de 6 pliegues, 800W, 20w/h, paneles solares portátiles, cargador rápido, USB, 5V CC, panel solar completo, fuente de alimentación móvi",
+    "descripcion_corta": "Panel solar grande y plegable con 6 secciones para cargar baterías y dispositivos en expediciones largas.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (4.000+ vendidos).",
-      "Calificación de 4.5/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Mayor área de captación solar que modelos pequeños, carga más rápido",
+      "Diseño plegable en 6 partes compacto y fácil de guardar en la mochila",
+      "Ideal para viajes prolongados donde necesitas autonomía energética total"
     ],
     "precio_referencia": "$23–26",
     "imagen": "/img/camping__luz-energia/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009265859905.html",
-    "badge": "Ticket alto",
+    "badge": null,
     "_src": {
       "id": "1005009265859905",
       "orders": 4000,
       "rating": 4.5,
       "url": "https://www.aliexpress.com/item/1005009265859905.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo de panel",
+        "v": "6 pliegues plegable"
+      },
+      {
+        "k": "Potencia",
+        "v": "según modelo"
+      },
+      {
+        "k": "Portabilidad",
+        "v": "Altamente plegable"
+      }
+    ]
   },
   {
     "rank": 5,
-    "nombre": "FLEXTAIL Bomba de aire portátil",
-    "descripcion_corta": "FLEXTAIL Bomba de aire portátil, mini bomba de camping con luz, carga USB-C, ideal para colchonetas, colchón de cama de aire, bolsas de vacío",
+    "nombre": "Bomba de aire portátil Flextail",
+    "descripcion_corta": "Bomba de aire eléctrica recargable para inflar colchones, balsas y accesorios de camping rápidamente.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (3.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Recargable por batería, no requiere pilas ni conexión eléctrica constante",
+      "Infla objetos en minutos, mucho más rápido que infladores manuales",
+      "Compacta y ligera, fácil de guardar en mochilas sin ocupar mucho espacio"
     ],
     "precio_referencia": "$19–23",
     "imagen": "/img/camping__luz-energia/05.webp",
@@ -102,27 +158,55 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006904692270.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo de energía",
+        "v": "Batería recargable"
+      },
+      {
+        "k": "Uso",
+        "v": "Inflar colchones y accesorios"
+      },
+      {
+        "k": "Portabilidad",
+        "v": "Compacta y ligera"
+      }
+    ]
   },
   {
     "rank": 6,
-    "nombre": "Luces LED de Hadas USB con Cable de Cobre",
-    "descripcion_corta": "Luces LED de Hadas USB con Cable de Cobre, Guirnalda de 1/2/3/5/10/20M y 200 LED para Decoración de Árbol de Navidad, Bodas y Fiestas",
+    "nombre": "Luces LED de hadas USB con cable de cobre",
+    "descripcion_corta": "Tira de luces LED decorativas con cable de cobre recargable por USB para ambientar campings.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (50.000+ vendidos).",
-      "Calificación de 4.4/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Precio muy accesible para decorar y iluminar espacios de camping",
+      "Cable de cobre flexible permite adaptarse a cualquier forma o superficie",
+      "Recarga por USB, funciona con powerbanks o cargadores portátiles"
     ],
     "precio_referencia": "$1–2",
     "imagen": "/img/camping__luz-energia/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005807351985.html",
-    "badge": "El más vendido",
+    "badge": null,
     "_src": {
       "id": "1005005807351985",
       "orders": 50000,
       "rating": 4.4,
       "url": "https://www.aliexpress.com/item/1005005807351985.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo de carga",
+        "v": "USB"
+      },
+      {
+        "k": "Material del cable",
+        "v": "Cobre"
+      },
+      {
+        "k": "Uso",
+        "v": "Decorativo"
+      }
+    ]
   }
 ]

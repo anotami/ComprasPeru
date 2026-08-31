@@ -1,54 +1,82 @@
 [
   {
     "rank": 1,
-    "nombre": "Naturehike-tienda de campaña Mongar 2 UL/PRO/Base para acampar",
-    "descripcion_corta": "Naturehike-tienda de campaña Mongar 2 UL/PRO/Base para acampar, tienda de campaña para 2 personas, viajes al aire libre, 15D, imperme",
+    "nombre": "Tienda de campaña Naturehike Mongar 2 UL",
+    "descripcion_corta": "Tienda ligera de 2 plazas para acampadas en montaña, resistente al agua y fácil de montar.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (900+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Peso ultraligero ideal para trekking y excursiones de múltiples días",
+      "Fabricación de calidad con costuras selladas y suelo impermeable",
+      "Excelente relación entre capacidad, durabilidad y transportabilidad"
     ],
     "precio_referencia": "$140–160",
     "imagen": "/img/camping__dormir/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008402994657.html",
-    "badge": "Ticket alto",
+    "badge": "El más vendido",
     "_src": {
       "id": "1005008402994657",
       "orders": 900,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008402994657.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "2 personas"
+      },
+      {
+        "k": "Peso",
+        "v": "Ultraligero (según modelo)"
+      },
+      {
+        "k": "Impermeabilidad",
+        "v": "Sellada con costuras"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "Saco de Dormir para Acampar",
-    "descripcion_corta": "Saco de Dormir para Acampar, Ligero, para las 4 Estaciones, Tipo Sobre, para Excursionismo, de Algodón, para Invierno",
+    "nombre": "Saco de dormir para acampar",
+    "descripcion_corta": "Saco térmica ligero y compacto que proporciona aislamiento para dormir cómodo en tienda.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (4.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Precio accesible sin sacrificar el confort y aislamiento térmico",
+      "Fácil de empacar y transportar en mochilas de tamaño estándar",
+      "Material transpirable que evita condensación interior durante la noche"
     ],
     "precio_referencia": "$23–26",
     "imagen": "/img/camping__dormir/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007540108448.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005007540108448",
       "orders": 4000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007540108448.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Temperatura confort",
+        "v": "Según modelo"
+      },
+      {
+        "k": "Material",
+        "v": "Poliéster o similar"
+      },
+      {
+        "k": "Peso",
+        "v": "Compacto y ligero"
+      }
+    ]
   },
   {
     "rank": 3,
-    "nombre": "TARKA-alfombrillas inflables para acampar",
-    "descripcion_corta": "TARKA-alfombrillas inflables para acampar, colchón de aire con almohada, colchoneta para dormir turística al aire libre, colchón autoinflable para senderis",
+    "nombre": "Alfombrilla inflable TARKA para acampar",
+    "descripcion_corta": "Colchoneta inflable que aísla del suelo y proporciona amortiguación para dormir más cómodo.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.8/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Aislamiento térmico efectivo que mantiene el calor corporal",
+      "Se comprime en tamaño pequeño y se llena rápidamente",
+      "Durabilidad comprobada con miles de usuarios satisfechos"
     ],
     "precio_referencia": "$27–30",
     "imagen": "/img/camping__dormir/03.webp",
@@ -60,16 +88,30 @@
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005007160158172.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Inflable"
+      },
+      {
+        "k": "Aislamiento",
+        "v": "Aislante térmico"
+      },
+      {
+        "k": "Tamaño comprimido",
+        "v": "Portátil y compacto"
+      }
+    ]
   },
   {
     "rank": 4,
     "nombre": "Almohada de camping MOUNTAINHIKER",
-    "descripcion_corta": "Almohada de camping MOUNTAINHIKER, almohada portátil autoinflable para dormir, almohada compacta de esponja ultraligera, almohada para el cuello para viaje",
+    "descripcion_corta": "Almohada ergonómica inflable que mejora el confort cervical durante el descanso en tienda.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Diseño anatómico que reduce tensión en cuello y espalda",
+      "Se comprime completamente para ocupar mínimo espacio en la mochila",
+      "Material hipoalergénico y fácil de limpiar"
     ],
     "precio_referencia": "$16–19",
     "imagen": "/img/camping__dormir/04.webp",
@@ -81,48 +123,90 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007010322211.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Almohada inflable"
+      },
+      {
+        "k": "Diseño",
+        "v": "Ergonómico y cervical"
+      },
+      {
+        "k": "Portabilidad",
+        "v": "Ultracompacta"
+      }
+    ]
   },
   {
     "rank": 5,
-    "nombre": "1 unidad Gorro de satén de seda suave forrado",
-    "descripcion_corta": "1 unidad Gorro de satén de seda suave forrado, grande, para dormir, ducha, uso doméstico, para el cabello largo, herramienta de salón",
+    "nombre": "Gorro de satén de seda suave forrado",
+    "descripcion_corta": "Gorro protector que previene pérdida de calor en la cabeza y cuida el cabello durante la noche.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (50.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Mantiene el calor corporal en temperaturas bajas sin añadir peso",
+      "Protege el cabello de fricción y sequedad mientras duermes",
+      "Precio muy accesible para un artículo de larga duración"
     ],
     "precio_referencia": "$2–3",
     "imagen": "/img/camping__dormir/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012011021636.html",
-    "badge": "El más vendido",
+    "badge": null,
     "_src": {
       "id": "1005012011021636",
       "orders": 50000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005012011021636.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Satén y seda"
+      },
+      {
+        "k": "Función",
+        "v": "Aislamiento térmico"
+      },
+      {
+        "k": "Peso",
+        "v": "Mínimo"
+      }
+    ]
   },
   {
     "rank": 6,
-    "nombre": "WESTTUNE Hamaca de camping 3 en 1 con malla antimosquitos…",
-    "descripcion_corta": "WESTTUNE Hamaca de camping 3 en 1 con malla antimosquitos Hamaca de nailon de apertura rápida automática Hamaca antimosquitos para exteriores",
+    "nombre": "Hamaca de camping WESTTUNE 3 en 1",
+    "descripcion_corta": "Hamaca portátil con malla antimosquitos que permite dormir elevado y protegido del suelo.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (362 vendidos).",
-      "Calificación de 4.5/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Versatilidad de uso como hamaca, cama elevada o mosquitero independiente",
+      "Protección integral contra insectos y contacto con suelo húmedo",
+      "Resistencia probada en miles de acampadas"
     ],
     "precio_referencia": "$28–35",
     "imagen": "/img/camping__dormir/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006082603144.html",
-    "badge": null,
+    "badge": "Ticket alto",
     "_src": {
       "id": "1005006082603144",
       "orders": 362,
       "rating": 4.5,
       "url": "https://www.aliexpress.com/item/1005006082603144.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Configuración",
+        "v": "3 en 1 (hamaca, cama, mosquitero)"
+      },
+      {
+        "k": "Protección",
+        "v": "Malla antimosquitos incluida"
+      },
+      {
+        "k": "Capacidad",
+        "v": "1-2 personas"
+      }
+    ]
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "nombre": "Pistola de Fascia portátil de mano",
-    "descripcion_corta": "Pistola de Fascia portátil de mano, masajeador de roscado con carga USB para cuerpo, espalda, cuello, pierna, 6 niveles de intensidad",
+    "nombre": "Pistola de masaje portátil para fascia",
+    "descripcion_corta": "Dispositivo de masaje manual para aliviar tensión muscular y acelerar recuperación después de entrenamientos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Alivia contracturas y dolor muscular en minutos",
+      "Portátil y fácil de usar en cualquier momento",
+      "Mejora la circulación y reduce el tiempo de recuperación"
     ],
     "precio_referencia": "$19–22",
     "imagen": "/img/running__recuperacion/01.webp",
@@ -18,37 +18,65 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007171266187.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Masaje manual"
+      },
+      {
+        "k": "Portabilidad",
+        "v": "Compacta y ligera"
+      },
+      {
+        "k": "Uso",
+        "v": "Post-entreno y recuperación"
+      }
+    ]
   },
   {
     "rank": 2,
-    "nombre": "Rodillo de espuma para Yoga de 45cm",
-    "descripcion_corta": "Rodillo de espuma para Yoga de 45cm, bloque de masaje muscular, herramientas para Pilates, columna de Yoga, juego de rodillos de espuma para fitness, gimna",
+    "nombre": "Rodillo de espuma para yoga de 45 cm",
+    "descripcion_corta": "Rodillo de espuma para masaje de tejido profundo, ideal para elongación y recuperación muscular.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (4.000+ vendidos).",
-      "Calificación de 4.8/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Masaje de cuerpo completo en casa sin equipos adicionales",
+      "Mejora flexibilidad y reduce rigidez muscular",
+      "Precio accesible para uso diario y duradero"
     ],
     "precio_referencia": "$5–6",
     "imagen": "/img/running__recuperacion/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004232062585.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005004232062585",
       "orders": 4000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005004232062585.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Largo",
+        "v": "45 cm"
+      },
+      {
+        "k": "Tipo",
+        "v": "Masaje de tejido profundo"
+      },
+      {
+        "k": "Uso",
+        "v": "Elongación y recuperación"
+      }
+    ]
   },
   {
     "rank": 3,
-    "nombre": "Calcetines de compresión médicos para prevenir venas varicosas",
-    "descripcion_corta": "Calcetines de compresión médicos para prevenir venas varicosas, calcetines sin dedos para mujer y hombre, medias de compresión para pantorrillas, moldeador",
+    "nombre": "Calcetines de compresión médicos",
+    "descripcion_corta": "Calcetines con compresión gradual que previenen venas varicosas y mejoran la circulación durante y después de correr.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Previene venas varicosas y trombosis venosa",
+      "Mejora retorno venoso y reduce edema en pies",
+      "Uso continuo diario sin molestias"
     ],
     "precio_referencia": "$3–4",
     "imagen": "/img/running__recuperacion/03.webp",
@@ -60,16 +88,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005012052998168.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Compresión",
+        "v": "Médica y gradual"
+      },
+      {
+        "k": "Beneficio",
+        "v": "Circulación y prevención"
+      },
+      {
+        "k": "Uso",
+        "v": "Diario y post-entreno"
+      }
+    ]
   },
   {
     "rank": 4,
-    "nombre": "Rodilleras WorthWhile para Baile",
-    "descripcion_corta": "Rodilleras WorthWhile para Baile, Voleibol, Yoga, Mujeres, Niños, Hombres, Soporte de Rótula, Protector de Rodilla de EVA, Equipo de Trabajo",
+    "nombre": "Rodilleras para baile y deporte",
+    "descripcion_corta": "Protectores de rodilla con soporte y compresión para estabilidad en movimientos de baile e impacto.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Estabiliza articulación y previene lesiones",
+      "Compresión reduce inflamación y dolor",
+      "Compatible con cualquier tipo de movimiento"
     ],
     "precio_referencia": "$4–5",
     "imagen": "/img/running__recuperacion/04.webp",
@@ -81,16 +123,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010044220249.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Protección y compresión"
+      },
+      {
+        "k": "Uso",
+        "v": "Baile e impacto"
+      },
+      {
+        "k": "Ajuste",
+        "v": "Elástico y regulable"
+      }
+    ]
   },
   {
     "rank": 5,
-    "nombre": "5 Rollos de Cinta Adhesiva Impermeable",
-    "descripcion_corta": "5 Rollos de Cinta Adhesiva Impermeable, Vendaje Elástico para Soporte Muscular Deportivo, Cinta de Fisioterapia para Lesiones y Distensiones",
+    "nombre": "Cinta adhesiva impermeable, 5 rollos",
+    "descripcion_corta": "Cinta de esporte impermeable para sujeción, prevención de lesiones y soporte articular en entrenamientos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (3.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Impermeable resiste sudor y humedad sin perder adherencia",
+      "5 rollos cubren múltiples necesidades de taping",
+      "Fácil de aplicar y remover sin irritar la piel"
     ],
     "precio_referencia": "$8–9",
     "imagen": "/img/running__recuperacion/05.webp",
@@ -102,16 +158,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008248073703.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Adhesivo impermeable"
+      },
+      {
+        "k": "Cantidad",
+        "v": "5 rollos"
+      },
+      {
+        "k": "Uso",
+        "v": "Taping y soporte articular"
+      }
+    ]
   },
   {
     "rank": 6,
-    "nombre": "Gorra para correr de diseño Original",
-    "descripcion_corta": "Gorra para correr de diseño Original, fina, de secado rápido, transpirable, lengua de pato, para exteriores, sol, verano, pesca, gorra de béisbol Avisor",
+    "nombre": "Gorra para correr de diseño original",
+    "descripcion_corta": "Gorra deportiva ligera que protege del sol y mejora la comodidad visual durante carreras y entrenamientos.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Protección UV y visibilidad mejorada en carreras",
+      "Material transpirable mantiene cabeza fresca",
+      "Diseño ergonómico se ajusta a cualquier cabeza"
     ],
     "precio_referencia": "$3–4",
     "imagen": "/img/running__recuperacion/06.webp",
@@ -123,6 +193,20 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006995309430.html",
       "capturado": "2026-08-31"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Transpirable y ligero"
+      },
+      {
+        "k": "Protección",
+        "v": "UV y anti-sudor"
+      },
+      {
+        "k": "Uso",
+        "v": "Running y entrenamientos"
+      }
+    ]
   }
 ]

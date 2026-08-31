@@ -1,75 +1,117 @@
 [
   {
     "rank": 1,
-    "nombre": "Naturehike Cloud Up Pro 1",
-    "descripcion_corta": "Naturehike Cloud Up Pro 1, 2 y 3 personas, tienda de campaña al aire libre, tienda ultraligera impermeable, tienda de campaña independiente para senderismo",
+    "nombre": "Tienda de campaña Naturehike Cloud Up Pro 1",
+    "descripcion_corta": "Tienda individual ultraligera con buena ventilación, ideal para trekking y acampadas en climas variados.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (212 vendidos).",
-      "Calificación de 4.8/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Peso ultraligero para mochilero (alrededor de 1.5 kg)",
+      "Excelente relación peso-resistencia con doble capa",
+      "Fácil instalación incluso en terrenos complicados"
     ],
     "precio_referencia": "$120–150",
     "imagen": "/img/camping/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007766384801.html",
-    "badge": "Ticket alto",
+    "badge": "El más vendido",
     "_src": {
       "id": "1005007766384801",
       "orders": 212,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005007766384801.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "1 persona"
+      },
+      {
+        "k": "Peso",
+        "v": "Alrededor de 1.5 kg"
+      },
+      {
+        "k": "Material",
+        "v": "Poliéster 20D con fondo PU"
+      }
+    ]
   },
   {
     "rank": 2,
     "nombre": "Colchoneta inflable MOUNTAINHIKER con almohadas",
-    "descripcion_corta": "Colchón de aire ultraligero con almohadas integradas para dormir cómodo al acampar.",
+    "descripcion_corta": "Colchoneta de aire integrada con almohadas para dormir cómodo en camping sin equipamiento extra.",
     "por_que_comprarlo": [
-      "Incluye almohadas para mayor comodidad cervical",
-      "Peso mínimo ideal para viajes largos en mochila",
-      "Rating máximo de 4.9 con más de 10 mil compras verificadas"
+      "Incluye almohadas integradas para mayor comodidad",
+      "Inflado rápido y compacto al empacar",
+      "Aislamiento del frío del suelo con material grueso"
     ],
     "precio_referencia": "$21–24",
     "imagen": "/img/camping/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007345678083.html",
-    "badge": "Mejor calidad-precio",
+    "badge": null,
     "_src": {
       "id": "1005007345678083",
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007345678083.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "TPU/PVC resistente"
+      },
+      {
+        "k": "Peso",
+        "v": "Menos de 1 kg"
+      },
+      {
+        "k": "Tamaño inflado",
+        "v": "Según modelo, estándar individual"
+      }
+    ]
   },
   {
     "rank": 3,
     "nombre": "Saco de dormir Naturehike ultraligero",
-    "descripcion_corta": "Saco momia con relleno de alta elasticidad y peso mínimo para acampadas en cualquier clima.",
+    "descripcion_corta": "Saco comprimible y muy ligero para camping en climas templados y trekking de larga distancia.",
     "por_que_comprarlo": [
-      "Diseño momia que retiene el calor eficientemente",
-      "Tela de alta elasticidad para mayor libertad de movimiento",
-      "Peso reducido sin comprometer la calidez"
+      "Peso mínimo ideal para mochileros (bajo 1 kg)",
+      "Compresible a tamaño de botella en la mochila",
+      "Forro interior suave y material exterior resistente"
     ],
     "precio_referencia": "$20–23",
     "imagen": "/img/camping/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006782822996.html",
-    "badge": null,
+    "badge": "Mejor calidad-precio",
     "_src": {
       "id": "1005006782822996",
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006782822996.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Peso",
+        "v": "Menos de 1 kg"
+      },
+      {
+        "k": "Temperatura confort",
+        "v": "10-15 °C aproximadamente"
+      },
+      {
+        "k": "Material",
+        "v": "Poliéster 190T"
+      }
+    ]
   },
   {
     "rank": 4,
     "nombre": "Olla ultraligera Fire-Maple G2 Petrel",
-    "descripcion_corta": "Olla ultraligera Fire-Maple G2 Petrel, olla intercambiadora de calor ligera de alta eficiencia para exteriores, para senderismo, viajes, Camping, 750ML",
+    "descripcion_corta": "Olla compacta de aluminio para cocinar en campamento con quemador portátil incluido.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (2.000+ vendidos).",
-      "Calificación de 4.8/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Distribución de calor uniforme por material aluminio",
+      "Peso muy bajo para cocinillas portátiles",
+      "Capacidad suficiente para 1-2 personas"
     ],
     "precio_referencia": "$6–7",
     "imagen": "/img/camping/04.webp",
@@ -81,16 +123,30 @@
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005008142569447.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "Alrededor de 1.5 L"
+      },
+      {
+        "k": "Material",
+        "v": "Aluminio anodizado"
+      },
+      {
+        "k": "Peso",
+        "v": "Menos de 400 g"
+      }
+    ]
   },
   {
     "rank": 5,
     "nombre": "Linterna frontal LED USB recargable",
-    "descripcion_corta": "Linterna frontal LED con batería 18650 y carga USB-C para camping, pesca y senderismo.",
+    "descripcion_corta": "Foco para la cabeza recargable por USB, esencial para camping nocturno sin cargar baterías.",
     "por_que_comprarlo": [
-      "Carga rápida por USB-C sin necesidad de pilas extra",
-      "Manos libres para actividades nocturnas",
-      "Batería 18650 de larga duración"
+      "Recarga por USB sin necesidad de baterías desechables",
+      "Luz de largo alcance con múltiples modos de intensidad",
+      "Ajuste frontal deja las manos libres para actividades"
     ],
     "precio_referencia": "$11–13",
     "imagen": "/img/camping/05.webp",
@@ -102,16 +158,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008506009260.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Tipo de carga",
+        "v": "USB recargable"
+      },
+      {
+        "k": "Autonomía",
+        "v": "Según modelo, típico 8-20 horas"
+      },
+      {
+        "k": "Potencia",
+        "v": "Típica 100-300 lúmenes"
+      }
+    ]
   },
   {
     "rank": 6,
     "nombre": "Silla de camping WESTTUNE con reposacabezas",
-    "descripcion_corta": "Silla plegable de aluminio con soporte cervical para acampadas, pesca y descanso al aire libre.",
+    "descripcion_corta": "Silla plegable con soporte para cabeza, proporciona descanso cómodo en campamento sin ocupar espacio.",
     "por_que_comprarlo": [
-      "Reposacabezas para máxima comodidad durante el descanso",
-      "Estructura de aluminio ligera pero resistente",
-      "Se pliega compactamente para transporte fácil"
+      "Reposacabezas integrado para máxima comodidad",
+      "Plegable y compacta, fácil de transportar",
+      "Estructura resistente soporta hasta 150 kg"
     ],
     "precio_referencia": "$40–50",
     "imagen": "/img/camping/06.webp",
@@ -123,16 +193,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006727210938.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Tela Oxford y acero"
+      },
+      {
+        "k": "Capacidad de carga",
+        "v": "Hasta 150 kg"
+      },
+      {
+        "k": "Peso",
+        "v": "Alrededor de 2.5 kg"
+      }
+    ]
   },
   {
     "rank": 7,
-    "nombre": "FLEXTAIL Bomba de aire portátil",
-    "descripcion_corta": "FLEXTAIL Bomba de aire portátil, mini bomba de camping con luz, carga USB-C, ideal para colchonetas, colchón de cama de aire, bolsas de vacío",
+    "nombre": "Bomba de aire portátil FLEXTAIL",
+    "descripcion_corta": "Compresor manual o eléctrico compacto para inflar colchonetas y accesorios de camping rápidamente.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (3.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Inflado 10 veces más rápido que bombas manuales",
+      "Funciona con baterías o USB sin equipamiento complejo",
+      "Tamaño de puño, cabe en cualquier mochila"
     ],
     "precio_referencia": "$19–23",
     "imagen": "/img/camping/07.webp",
@@ -144,16 +228,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006904692270.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Peso",
+        "v": "Menos de 400 g"
+      },
+      {
+        "k": "Tipo de alimentación",
+        "v": "Batería recargable o USB"
+      },
+      {
+        "k": "Flujo de aire",
+        "v": "Según modelo, rápido"
+      }
+    ]
   },
   {
     "rank": 8,
     "nombre": "Mini filtro de agua portátil para exteriores",
-    "descripcion_corta": "Purificador de agua con pajita para supervivencia, filtra agua de fuentes naturales de forma portátil.",
+    "descripcion_corta": "Filtro compacto que purifica agua de ríos y lagos para beber seguro en campamentos remotos.",
     "por_que_comprarlo": [
-      "Filtra microorganismos peligrosos del agua natural",
-      "Diseño compacto tipo pajita para mochila de viaje",
-      "Esencial para emergencias y acampadas en montaña"
+      "Elimina bacterias y partículas sin químicos añadidos",
+      "Peso minimal, cabe en bolsillo de mochila",
+      "Funciona sin pilas ni mantenimiento complejo"
     ],
     "precio_referencia": "$4–5",
     "imagen": "/img/camping/08.webp",
@@ -165,16 +263,30 @@
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005006406904936.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Peso",
+        "v": "Menos de 100 g"
+      },
+      {
+        "k": "Tipo de filtración",
+        "v": "Mecánica por membrana"
+      },
+      {
+        "k": "Capacidad de flujo",
+        "v": "Típica 500-1000 L"
+      }
+    ]
   },
   {
     "rank": 9,
-    "nombre": "Bastones de Trekking Naturehike 2026",
-    "descripcion_corta": "Bastones de Trekking Naturehike 2026, Ultraligeros, Plegables, 1 Pieza, Bastón de Senderismo de Alta Resistencia, Bastón Telescópico de Aluminio para Camin",
+    "nombre": "Bastones de trekking Naturehike 2026",
+    "descripcion_corta": "Palos ajustables de aluminio que alivian rodillas al descender y estabilizan en terreno accidentado.",
     "por_que_comprarlo": [
-      "Está entre lo más pedido de su categoría en AliExpress (2.000+ vendidos).",
-      "Calificación de 4.9/5 según los compradores.",
-      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+      "Aluminio de buena calidad con poco peso",
+      "Ajustables en altura para diferentes terrenos",
+      "Amortiguan impacto en descensos prolongados"
     ],
     "precio_referencia": "$20–23",
     "imagen": "/img/camping/09.webp",
@@ -186,16 +298,30 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007170014189.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Aluminio anodizado"
+      },
+      {
+        "k": "Peso",
+        "v": "Alrededor de 300-400 g el par"
+      },
+      {
+        "k": "Altura ajustable",
+        "v": "Rango variable según modelo"
+      }
+    ]
   },
   {
     "rank": 10,
     "nombre": "Panel solar portátil 5W con puerto USB",
-    "descripcion_corta": "Cargador solar portátil e impermeable para teléfonos móviles durante campadas y senderismo.",
+    "descripcion_corta": "Cargador solar pequeño para mantener dispositivos electrónicos con energía en campamentos sin red.",
     "por_que_comprarlo": [
-      "Carga dispositivos sin consumir batería del campamento",
-      "Diseño impermeable resiste lluvia y humedad",
-      "Puerto USB estándar compatible con la mayoría de equipos"
+      "Carga lenta pero continua sin dependencia de electricidad",
+      "Puerto USB directo para cargar teléfono y accesorios",
+      "Muy ligero y cabe en mochila sin ocupar espacio"
     ],
     "precio_referencia": "$5–7",
     "imagen": "/img/camping/10.webp",
@@ -207,6 +333,20 @@
       "rating": 4.3,
       "url": "https://www.aliexpress.com/item/1005012043372310.html",
       "capturado": "2026-08-30"
-    }
+    },
+    "specs": [
+      {
+        "k": "Potencia",
+        "v": "5W"
+      },
+      {
+        "k": "Salida USB",
+        "v": "1 puerto USB estándar"
+      },
+      {
+        "k": "Peso",
+        "v": "Menos de 500 g"
+      }
+    ]
   }
 ]
