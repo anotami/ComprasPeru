@@ -125,8 +125,9 @@ Todo vive en **`src/data/categories.json`**. Agregar un objeto = una página nue
 
 ### Subcategorías (opcional)
 
-Cada categoría puede tener un array `subcategorias` (recomendado: 3). Cada una es
-su propia página en `/<categoria>/<subcategoria>` con su mini-ranking, y aparece
+Cada categoría puede tener un array `subcategorias` (hoy son **5 por categoría**,
+tipo taxonomía de AliExpress). Cada una es su propia página en
+`/<categoria>/<subcategoria>` con su mini-ranking de **10 productos**, y aparece
 en la sección **“Explora por tema”** de la página padre.
 
 ```jsonc
@@ -140,17 +141,21 @@ en la sección **“Explora por tema”** de la página padre.
       "nombre": "Comunicación en el casco",
       "kicker": "Intercomunicadores y audio", // etiqueta corta
       "intro": "Frase de 1–2 líneas que explica el tema.",
-      "queries": [ "...6 búsquedas...", "..." ]   // 1 búsqueda = 1 puesto
+      "queries": [ "...10 búsquedas...", "..." ]   // 1 búsqueda = 1 puesto
     }
-    // hasta 3
+    // 5 en total
   ]
 }
 ```
 
 El robot mensual llena el padre **y** cada subcategoría. Los datos van a
 `src/data/products/<categoria>__<subcategoria>.json` y las fotos a
-`public/img/<categoria>__<subcategoria>/`. Ojo: más subcategorías = corrida
-mensual más larga (cada una son ~6 búsquedas extra).
+`public/img/<categoria>__<subcategoria>/`. Ojo: el catálogo completo son
+**~360 búsquedas** (6 categorías × 5 subcategorías × 10 + padres). Si la corrida
+completa se topa con captcha, lánzala **por categoría** con el input `only`
+(Actions → Refrescar rankings → Run workflow → `only: fpv`, luego `only: moto`…):
+cada categoría son ~60 búsquedas, mucho más seguro. Podés subir el espaciado con
+las Variables `REQUEST_DELAY_MS` / `COOLDOWN_MS` / `MAX_BLOCKS_ABORT`.
 
 ---
 
@@ -233,9 +238,11 @@ lo bloqueen** que desde tu casa. En orden de fiabilidad:
 - **El scraping de la búsqueda es zona gris de los términos de AliExpress.** Bajo
   volumen (1 vez al mes, tu propio sitio de afiliado), pero tenlo presente. La API
   oficial es la vía sancionada si quieres cero riesgo.
-- **Con subcategorías la corrida es más larga** (cada subcategoría son ~6
-  búsquedas extra). Si desde GitHub bloquea mucho, usa el self-hosted runner o
-  corre `--only=categoria` por partes y haz push entre medias.
+- **El catálogo completo son ~360 búsquedas** (10 por subcategoría × 5 × 6 + los
+  padres), así que la corrida completa tarda ~1 h y es la que más chance tiene de
+  toparse con captcha. Si bloquea, corré **por categoría** con `only` (o
+  `--only=categoria` en local) y hacé push entre medias, o usá un self-hosted
+  runner. El workflow ya trae espaciado alto por defecto.
 
 ---
 

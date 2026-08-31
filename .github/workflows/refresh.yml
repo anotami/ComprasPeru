@@ -52,6 +52,12 @@ jobs:
           ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || '' }}
           ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID || '' }}
           PEN_USD: ${{ vars.PEN_USD || '' }}
+          # Ritmo anti-captcha. El catálogo son ~360 búsquedas (6 categorías ×
+          # 5 subcategorías × 10 + padres). Con la IP de datacenter de Actions
+          # conviene ir lento. Si igual bloquea, lanza por categoría con `only`.
+          REQUEST_DELAY_MS: ${{ vars.REQUEST_DELAY_MS || '9000' }}
+          COOLDOWN_MS: ${{ vars.COOLDOWN_MS || '180000' }}
+          MAX_BLOCKS_ABORT: ${{ vars.MAX_BLOCKS_ABORT || '8' }}
 
       - name: Verificar que el sitio compila
         run: npm run build

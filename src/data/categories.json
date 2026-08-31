@@ -38,7 +38,11 @@
             "auriculares finos planos casco moto",
             "adaptador audio casco moto jack 3.5",
             "microfono boom casco moto repuesto",
-            "antena intercomunicador moto repuesto"
+            "antena intercomunicador moto repuesto",
+            "intercomunicador moto grupo 6 pilotos",
+            "kit bluetooth casco moto recargable",
+            "auriculares casco moto microfono repuesto",
+            "soporte clip intercomunicador casco moto"
           ]
         },
         {
@@ -52,7 +56,11 @@
             "luz freno led adicional moto",
             "tiras led contorno moto",
             "luces intermitentes led secuenciales moto",
-            "cinta reflectante casco moto"
+            "cinta reflectante casco moto",
+            "faro antiniebla led moto 12v",
+            "luz posicion led moto usb recargable",
+            "rele intermitente led moto 2 pines",
+            "chaleco reflectivo moto alta visibilidad"
           ]
         },
         {
@@ -66,7 +74,47 @@
             "rastreador gps moto mini oculto",
             "cable candado moto acero",
             "funda cubre moto impermeable exterior",
-            "kit reparacion pinchazo moto tubeless co2"
+            "kit reparacion pinchazo moto tubeless co2",
+            "cadena antirrobo moto alta resistencia",
+            "bloqueo manillar moto acero",
+            "localizador gps moto sin cuota mensual",
+            "candado u moto reforzado"
+          ]
+        },
+        {
+          "slug": "proteccion",
+          "nombre": "Protección del piloto",
+          "kicker": "Casco, guantes, armadura",
+          "intro": "Lo que te salva la piel si algo sale mal: casco homologado, guantes con protección y armadura para espalda, codos y rodillas.",
+          "queries": [
+            "casco moto integral homologado",
+            "guantes moto pantalla tactil protecciones",
+            "chaqueta moto con protecciones ce",
+            "rodilleras coderas moto set",
+            "espaldera moto armadura nivel 2",
+            "casco moto abatible modular",
+            "traje impermeable moto dos piezas",
+            "botas moto cortas urbanas proteccion",
+            "cuello braga termica moto",
+            "pechera protector torso moto"
+          ]
+        },
+        {
+          "slug": "soportes",
+          "nombre": "Soportes y manillar",
+          "kicker": "Celular, USB, espejos, maletas",
+          "intro": "Llevar el celular como GPS sin que la vibración le mate la cámara, cargarlo en ruta y sumar espejos, puños y maletas.",
+          "queries": [
+            "soporte celular moto manillar antivibracion",
+            "cargador usb moto impermeable manillar",
+            "espejos retrovisores moto universales",
+            "puños manillar moto aluminio antideslizante",
+            "maleta trasera moto baul 30l",
+            "alforjas moto laterales impermeables",
+            "cubremanos moto protector manos",
+            "soporte gps moto amortiguador vibracion",
+            "bolsa tanque moto magnetica",
+            "elevador manillar moto riser abrazadera"
           ]
         }
       ],
@@ -136,7 +184,11 @@
             "colchoneta inflable aislante camping",
             "almohada inflable ultraligera camping",
             "liner saco de dormir seda",
-            "hamaca camping nylon mosquitero"
+            "hamaca camping nylon mosquitero",
+            "carpa camping 4 estaciones antiviento",
+            "aislante foam plegable camping",
+            "manta termica camping impermeable",
+            "carpa camping 4 personas doble techo"
           ]
         },
         {
@@ -150,7 +202,11 @@
             "cartucho gas adaptador camping valvula",
             "taza vaso plegable silicona camping",
             "filtro de agua portatil camping",
-            "cubiertos titanio plegables camping"
+            "cubiertos titanio plegables camping",
+            "cocina camping gas portatil plegable",
+            "cantimplora acero inoxidable termica",
+            "bidon agua plegable camping 10l",
+            "encendedor plasma recargable resistente viento"
           ]
         },
         {
@@ -164,7 +220,47 @@
             "power bank solar impermeable camping",
             "panel solar plegable usb camping",
             "bomba aire electrica camping flextail",
-            "tira led usb carpa camping"
+            "tira led usb carpa camping",
+            "power bank 20000mah carga rapida",
+            "linterna camping tactica led potente",
+            "cargador solar plegable movil camping",
+            "linterna llavero led recargable mini"
+          ]
+        },
+        {
+          "slug": "mochilas",
+          "nombre": "Mochilas y organización",
+          "kicker": "Carga, bolsas estancas, orden",
+          "intro": "Cargar el equipo con la espalda contenta y que nada se moje: mochilas de trekking, dry bags y cubos de compresión.",
+          "queries": [
+            "mochila trekking 50l con funda lluvia",
+            "bolsa estanca impermeable dry bag 20l",
+            "organizador mochila cubos de compresion",
+            "mochila hidratacion 2l trail",
+            "funda impermeable cubremochila",
+            "mochila plegable ultraligera 20l",
+            "bolsa compresion saco de dormir",
+            "mochila tactica molle 40l",
+            "neceser colgante viaje",
+            "correa ajuste carga mochila hebilla"
+          ]
+        },
+        {
+          "slug": "herramientas",
+          "nombre": "Herramientas y supervivencia",
+          "kicker": "Navaja, multiherramienta, botiquín",
+          "intro": "El kit que resuelve imprevistos: navaja, multiherramienta, botiquín compacto, cuerda y encendido de fuego.",
+          "queries": [
+            "navaja multiusos camping acero",
+            "multiherramienta pinza plegable 15 en 1",
+            "kit primeros auxilios camping compacto",
+            "cuerda paracord 4mm 30 metros",
+            "hacha camping mango fibra pequena",
+            "sierra plegable camping poda",
+            "brujula militar con clinometro",
+            "silbato supervivencia multifuncion",
+            "manta emergencia termica aluminizada pack",
+            "kit fuego pedernal ferrocerio magnesio"
           ]
         }
       ],
@@ -234,7 +330,11 @@
             "soft flask plegable 500ml running",
             "bolsa vejiga hidratacion 2l running",
             "porta geles running elastico cinturon",
-            "brazalete porta celular running deportivo"
+            "brazalete porta celular running deportivo",
+            "mochila hidratacion running ligera trail",
+            "banana running elastica antibote",
+            "clip porta dorsal running iman",
+            "bolsa agua deposito 1.5l recambio"
           ]
         },
         {
@@ -248,7 +348,11 @@
             "lentes deportivos fotocromaticos rockbros",
             "luz led clip correr noche",
             "chaleco reflectante running seguridad",
-            "banda pecho frecuencia cardiaca bluetooth"
+            "banda pecho frecuencia cardiaca bluetooth",
+            "auriculares inalambricos deporte ip7",
+            "brazalete led running recargable usb",
+            "reloj deportivo running barato gps",
+            "podometro clip sin app"
           ]
         },
         {
@@ -262,7 +366,47 @@
             "medias de compresion running",
             "rodillera deportiva running rotula",
             "tape kinesiologico rollo deportivo",
-            "gorra quick dry running transpirable"
+            "gorra quick dry running transpirable",
+            "bola masaje pie fascitis plantar",
+            "manguito compresion pantorrilla running",
+            "banda elastica ejercicio resistencia set",
+            "calcetines compresion recuperacion running"
+          ]
+        },
+        {
+          "slug": "ropa",
+          "nombre": "Ropa técnica",
+          "kicker": "Camiseta, short, cortavientos",
+          "intro": "Prendas que secan rápido y no rozan en tiradas largas: camisetas técnicas, shorts 2 en 1, calcetines y cortavientos.",
+          "queries": [
+            "camiseta running transpirable manga corta",
+            "short running 2 en 1 con malla",
+            "calcetines running antiampollas transpirables",
+            "cortavientos running plegable impermeable",
+            "gorra running ligera transpirable",
+            "mallas running termicas",
+            "manguitos running proteccion solar uv",
+            "camiseta running manga larga compresion",
+            "guantes running tactiles finos",
+            "buff tubular running cuello"
+          ]
+        },
+        {
+          "slug": "pies",
+          "nombre": "Cuidado del pie",
+          "kicker": "Plantillas, cintas, protección",
+          "intro": "Bajar el impacto y frenar las ampollas: plantillas con amortiguación, soporte de arco, tape y protección de dedos.",
+          "queries": [
+            "plantillas deportivas amortiguacion gel",
+            "plantillas soporte arco pie running",
+            "cinta kinesiologica deportiva rollo",
+            "protector dedos pie silicona running",
+            "calcetines de dedos antiampollas running",
+            "talonera silicona gel espolon",
+            "venda adhesiva deportiva tobillo",
+            "plantillas transpirables antibacterianas corte",
+            "separadores dedos pie silicona",
+            "barra anti rozaduras deportiva"
           ]
         }
       ],
@@ -332,7 +476,11 @@
             "filamento pla mate 1.75mm ams lite",
             "filamento tpu 95a 1.75mm bambu a1",
             "filamento pla seda brillante 1.75mm bambu",
-            "filamento pla+ 1.75mm 1kg bobina cartón"
+            "filamento pla+ 1.75mm 1kg bobina cartón",
+            "filamento pla madera 1.75mm bobina",
+            "filamento abs 1.75mm 1kg bambu",
+            "filamento pla transparente 1.75mm 1kg",
+            "filamento pla fluorescente 1.75mm bambu"
           ]
         },
         {
@@ -346,7 +494,11 @@
             "boquilla 0.2 0.6 0.8 mm bambu a1",
             "calcetin silicona sock hotend bambu a1",
             "kit desatasco boquilla bambu a1 agujas",
-            "boquilla laton 0.4mm bambu a1 repuesto"
+            "boquilla laton 0.4mm bambu a1 repuesto",
+            "tubo ptfe bambu lab a1 recambio",
+            "termistor cartucho calentador bambu a1",
+            "boquilla acero endurecido a1 0.6mm",
+            "set boquillas bambu a1 0.2 0.4 0.8"
           ]
         },
         {
@@ -360,7 +512,47 @@
             "contenedor residuos poop chute bambu a1",
             "soporte bobina externo bambu a1 ams",
             "guia tubo filamento bambu a1 ams lite",
-            "barra luz led bambu a1 montaje"
+            "barra luz led bambu a1 montaje",
+            "adhesivo laca fijador impresion 3d 3dlac",
+            "espatula metalica retirar piezas 3d",
+            "placa lisa pei bambu a1 256",
+            "alcohol isopropilico limpieza impresion 3d"
+          ]
+        },
+        {
+          "slug": "ams-mantenimiento",
+          "nombre": "AMS lite y mantenimiento",
+          "kicker": "Repuestos AMS, PTFE, limpieza",
+          "intro": "Que el AMS lite siga alimentando sin fallos y la A1 no acumule desgaste: repuestos del AMS, tubos PTFE, grasa y limpieza.",
+          "queries": [
+            "repuesto ams lite bambu a1",
+            "tubo ptfe ams lite bambu a1",
+            "rueda engranaje alimentador ams lite",
+            "grasa lubricante impresora 3d ejes",
+            "cepillo limpieza boquilla laton 3d",
+            "secador de filamento impresora 3d",
+            "soporte bobina giratorio con rodamiento",
+            "sensor fin de filamento impresora 3d",
+            "kit llaves allen impresora 3d",
+            "paño limpiafilamento bambu a1"
+          ]
+        },
+        {
+          "slug": "mejoras-cerramiento",
+          "nombre": "Mejoras y cerramiento",
+          "kicker": "Guías, soportes, luz, carpa",
+          "intro": "Los upgrades que la comunidad más suma a la A1: guías de filamento, soporte de bobina externo, tira LED y cerramiento para técnicos.",
+          "queries": [
+            "guia de filamento bambu lab a1",
+            "soporte bobina externo bambu a1",
+            "tira led iluminacion impresora 3d 24v",
+            "carpa cerramiento impresora 3d",
+            "pies antivibracion impresora 3d",
+            "bandeja organizadora accesorios bambu a1",
+            "camara monitoreo impresion 3d wifi",
+            "soporte tablet bambu a1 magnetico",
+            "filtro carbon activado impresora 3d",
+            "recogedor residuos poop chute bambu a1"
           ]
         }
       ],
@@ -430,7 +622,11 @@
             "lilygo t-echo meshtastic",
             "lilygo t-deck lora teclado",
             "xiao nrf52840 wio sx1262 meshtastic",
-            "rak wireless wisblock meshtastic"
+            "rak wireless wisblock meshtastic",
+            "heltec wireless stick lite v3 lora",
+            "placa esp32 lora sx1262 915mhz",
+            "t-beam supreme meshtastic",
+            "modulo lora ra-01h sx1276"
           ]
         },
         {
@@ -444,7 +640,11 @@
             "cable pigtail u.fl ipex a sma",
             "modulo lora sx1262 ebyte 915mhz",
             "adaptador conector sma rp-sma",
-            "antena fibra vidrio 915mhz exterior"
+            "antena fibra vidrio 915mhz exterior",
+            "antena yagi 915mhz direccional",
+            "cable coaxial rf195 sma baja perdida",
+            "antena latigo 915mhz flexible sma",
+            "supresor sobretension coaxial sma"
           ]
         },
         {
@@ -458,7 +658,47 @@
             "panel solar 5v 6v mini usb",
             "cargador tp4056 usb c litio",
             "caja estanca ip67 proyecto electronica",
-            "soporte antena mastil exterior"
+            "soporte antena mastil exterior",
+            "controlador carga solar mppt mini",
+            "prensaestopas pg7 impermeable pack",
+            "bateria lipo 3.7v 2000mah ph2.0",
+            "disipador calor adhesivo chip set"
+          ]
+        },
+        {
+          "slug": "cajas-proteccion",
+          "nombre": "Cajas y protección",
+          "kicker": "Estancas IP67, montaje en mástil",
+          "intro": "Dejar un nodo a la intemperie sin que entre agua: cajas IP67, prensaestopas, juntas y kits de montaje en poste.",
+          "queries": [
+            "caja estanca abs ip67 100x68x50",
+            "caja proyecto electronica transparente tapa",
+            "kit montaje mastil nodo solar",
+            "junta silicona sellado caja estanca",
+            "soporte pared caja estanca ajustable",
+            "caja exterior resistente uv gris",
+            "brida acero inoxidable 30cm pack",
+            "pasamuros cable estanco m12",
+            "caja riel din electronica",
+            "espuma sellado adhesiva antipolvo"
+          ]
+        },
+        {
+          "slug": "accesorios-gps",
+          "nombre": "GPS, pantallas y cables",
+          "kicker": "GPS, OLED, e-ink, pigtails",
+          "intro": "Sumar posición y pantalla al nodo: módulos GPS, displays OLED y e-ink, y los cables JST y adaptadores que siempre faltan.",
+          "queries": [
+            "modulo gps ublox neo-6m con antena",
+            "pantalla oled 1.3 i2c sh1106",
+            "pantalla e-ink 2.9 spi",
+            "antena gps activa sma con iman",
+            "cable jst sh 1.0mm 4 pines",
+            "modulo gps neo-m8n alta precision",
+            "pantalla tft 1.14 st7789 spi",
+            "juego cables dupont hembra hembra",
+            "bateria rtc cr1220 con soporte",
+            "adaptador u.fl a sma pigtail"
           ]
         }
       ],
@@ -488,6 +728,152 @@
         {
           "q": "¿Necesito licencia para usar Meshtastic?",
           "a": "No. LoRa en la banda de 915 MHz es de uso libre y baja potencia. No transmitas en frecuencias de radioaficionado ni subas la potencia fuera de norma."
+        }
+      ]
+    },
+    {
+      "slug": "fpv",
+      "nombre": "FPV",
+      "nav": "FPV",
+      "emoji": "🚁",
+      "accent": "#B91C1C",
+      "accentWash": "#F7E1DF",
+      "kicker": "Armado de drones FPV",
+      "h1": "Los {n} más vendidos para armar drones FPV en AliExpress ({year})",
+      "subtitulo": "Frames de carbono, motores brushless, stacks de vuelo, sistema de video y radio. Todo lo que entra en un quad FPV de 5\", pieza por pieza.",
+      "title": "Top {n} para armar drones FPV en AliExpress ({year}) | Hallazgos AliExpress",
+      "meta": "Top {n} para armar drones FPV en AliExpress {year}: frames 5 pulgadas, motores 2207, ESC 4 en 1, controladoras F7, cámaras y VTX, receptores ELRS y baterías LiPo.",
+      "intro": "Armar un FPV de 5\" es juntar bien cinco bloques: frame, motores y ESC, controladora de vuelo, sistema de video y radio con batería. Acá van los componentes más vendidos de cada bloque, con precios de referencia. Ojo con la compatibilidad de montaje (30x30 o 20x20 mm) y con la banda de radio. Los precios cambian con las ofertas; toca el botón para ver el del día.",
+      "queries": [
+        "frame dron fpv 5 pulgadas fibra carbono",
+        "motor brushless fpv 2207 1900kv",
+        "controladora vuelo fpv f722 betaflight",
+        "esc 4 en 1 fpv 45a blheli_s",
+        "camara fpv nano 1200tvl",
+        "transmisor video vtx 5.8ghz fpv",
+        "receptor elrs 2.4ghz nano",
+        "helices fpv 5 pulgadas 5143",
+        "bateria lipo 6s 1300mah fpv xt60",
+        "kit dron fpv 5 pulgadas para armar"
+      ],
+      "subcategorias": [
+        {
+          "slug": "frames",
+          "nombre": "Frames y estructura",
+          "kicker": "Chasis 5\", brazos, TPU",
+          "intro": "El esqueleto del quad: frame de carbono de 5\", brazos de repuesto, soportes TPU para la cámara y tornillería.",
+          "queries": [
+            "frame dron fpv 5 pulgadas fibra carbono",
+            "brazos repuesto frame fpv 5mm carbono",
+            "frame fpv 5 pulgadas freestyle deadcat",
+            "soporte tpu camara fpv 20x20",
+            "frame fpv 3.5 pulgadas cinewhoop",
+            "kit tornilleria m3 aluminio frame fpv",
+            "protector arco carbono frame fpv",
+            "frame fpv 7 pulgadas long range",
+            "top plate placa carbono frame fpv 5",
+            "soft mount tpu antivibracion fc fpv"
+          ]
+        },
+        {
+          "slug": "motores-esc",
+          "nombre": "Motores y ESC",
+          "kicker": "Motores 2207, stacks 4 en 1",
+          "intro": "Lo que da empuje: motores brushless 22xx-23xx para 5\" y ESC de 4 en 1 de 45-60 A con BLHeli.",
+          "queries": [
+            "motor brushless fpv 2207 1750kv",
+            "motor fpv 2306 1900kv freestyle",
+            "esc 4 en 1 fpv 45a blheli_s",
+            "esc 4 en 1 fpv 60a 32bit bluejay",
+            "motor fpv 2205 2300kv repuesto",
+            "juego 4 motores fpv 2207 racing",
+            "cable extension motor fpv silicona",
+            "esc individual fpv 35a brushless",
+            "motor cinewhoop fpv 1404 4500kv",
+            "tuercas nylock m5 motor fpv pack"
+          ]
+        },
+        {
+          "slug": "fc-pila",
+          "nombre": "Control de vuelo y pila",
+          "kicker": "FC, stack, PDB",
+          "intro": "El cerebro del quad: controladoras F4/F7 con Betaflight, stacks 30x30, PDB con BEC y condensadores.",
+          "queries": [
+            "controladora vuelo fpv f405 betaflight",
+            "stack fpv f722 con esc 45a 4en1",
+            "controladora vuelo fpv f411 20x20",
+            "pdb placa distribucion fpv bec 5v 12v",
+            "controladora fpv f745 doble giroscopio",
+            "condensador low esr 35v 1000uf fpv",
+            "stack fpv 30x30 f7 60a",
+            "controladora fpv aio 20a elrs 20x20",
+            "buzzer alarma fpv lost model",
+            "cable silicona xt60 fpv pigtail par"
+          ]
+        },
+        {
+          "slug": "sistema-fpv",
+          "nombre": "Sistema FPV",
+          "kicker": "Cámara, VTX, antenas, VRX",
+          "intro": "Ver lo que ve el quad: cámara analógica de baja latencia, VTX 5.8 GHz, antenas RHCP y receptores de video.",
+          "queries": [
+            "camara fpv nano 1200tvl 1/3",
+            "transmisor video vtx 5.8ghz 800mw fpv",
+            "antena fpv 5.8ghz rhcp sma pagoda",
+            "gafas fpv analogicas con receptor",
+            "receptor video 5.8ghz fpv uvc otg",
+            "camara fpv micro 1500tvl starlight",
+            "antena fpv 5.8 lollipop rhcp mmcx",
+            "cable coaxial u.fl vtx antena fpv",
+            "modulo dvr grabador fpv 5.8ghz",
+            "soporte tpu antena vtx 5.8ghz"
+          ]
+        },
+        {
+          "slug": "radio-energia",
+          "nombre": "Radio, receptor y energía",
+          "kicker": "RC, ELRS, LiPo, cargador",
+          "intro": "Mandar y alimentar: emisora con ELRS, receptores nano 2.4 GHz, baterías LiPo 4S-6S, correas y cargador balanceador.",
+          "queries": [
+            "radio control fpv radiomaster elrs",
+            "receptor elrs 2.4ghz nano fpv",
+            "bateria lipo 6s 1300mah fpv xt60",
+            "cargador lipo fpv balanceador isdt",
+            "bateria lipo 4s 1500mah fpv",
+            "modulo tx elrs 2.4ghz nano",
+            "correa bateria fpv antideslizante lipo",
+            "probador bateria lipo alarma voltaje",
+            "bolsa ignifuga carga lipo seguridad",
+            "lipo 6s 1100mah fpv 100c"
+          ]
+        }
+      ],
+      "guia": [
+        {
+          "titulo": "Elige el tamaño de montaje primero",
+          "texto": "La controladora y el ESC se atornillan en patrón 30x30 mm (lo normal en 5\") o 20x20 mm (3\" y micros). Frame, stack y placa tienen que coincidir o no montan."
+        },
+        {
+          "titulo": "La banda de radio manda",
+          "texto": "En Perú y casi toda LatAm se usa 2.4 GHz para el control (ELRS es el estándar hoy) y 5.8 GHz para el video. Compra emisora, receptor y VTX en esas bandas."
+        },
+        {
+          "titulo": "KV del motor según hélice y celdas",
+          "texto": "Para 5\" con LiPo 6S apunta a motores 1750-1950 KV. Con 4S subes a 2400-2600 KV. Un KV muy alto en 6S recalienta motores y ESC."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Conviene un kit para armar o comprar pieza por pieza?",
+          "a": "Para el primer quad, un kit de la misma marca (frame + stack + motores) evita problemas de compatibilidad. Pieza por pieza sale más a cuenta y es más flexible cuando ya sabes qué quieres."
+        },
+        {
+          "q": "¿Analógico o digital (HD)?",
+          "a": "El analógico 5.8 GHz es barato, ligero y con latencia mínima: sigue siendo lo más vendido para freestyle y racing. El digital (DJI, HDZero, Walksnail) se ve mucho mejor pero cuesta y pesa más."
+        },
+        {
+          "q": "¿Necesito licencia para volar FPV en Perú?",
+          "a": "Para vuelo recreativo de bajo peso y a la vista, en general no. El VTX de 5.8 GHz de alta potencia y el vuelo con gafas tienen reglas propias del MTC/DGAC: infórmate antes de volar fuera de casa."
         }
       ]
     }
