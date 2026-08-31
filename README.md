@@ -133,6 +133,7 @@ la ruta en `src/layouts/BaseLayout.astro` (prop `ogImage`) o en cada página.
 | `imagen` | Ruta dentro de `public/` (foto `.webp` del producto). |
 | `link_afiliado` | Enlace de afiliado (o URL del producto). |
 | `badge` | `"El más vendido"`, `"Mejor calidad-precio"`, `"Ticket alto"` o `null`. |
+| `specs` | Array de hasta 3 `{ "k": etiqueta, "v": valor }` — la ficha técnica que se muestra en la tarjeta y como columnas en la tabla comparativa. Lo redacta Claude; si está vacío, la tabla usa la columna "Distinción". |
 | `_src` | Metadatos de origen (id de AliExpress, pedidos, rating). **No lo borres:** `refresh.mjs` lo usa para conservar tu texto si el producto no cambió. |
 
 **Categorías** (nav, títulos SEO, hero, intro, colores, búsquedas) —

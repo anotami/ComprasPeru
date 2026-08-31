@@ -8,6 +8,7 @@ export interface Product {
   imagen: string;
   link_afiliado: string;
   badge: string | null;
+  specs?: { k: string; v: string }[];
   _src?: {
     id?: string;
     orders?: number;
@@ -86,6 +87,19 @@ else if (typeof prev === "number" && prev < p.rank)
 
     <p class="product__desc">{p.descripcion_corta}</p>
 
+    {
+      p.specs && p.specs.length > 0 && (
+        <dl class="specs">
+          {p.specs.map((s) => (
+            <div>
+              <dt>{s.k}</dt>
+              <dd>{s.v}</dd>
+            </div>
+          ))}
+        </dl>
+      )
+    }
+
     <ul class="why">
       {p.por_que_comprarlo.map((b) => <li>{b}</li>)}
     </ul>
@@ -107,6 +121,5 @@ else if (typeof prev === "number" && prev < p.rank)
         Ver en AliExpress <span class="arrow" aria-hidden="true">→</span>
       </a>
     </div>
-    <p class="clickcount" data-clickcount={`${catPath}/${p.rank}`} hidden></p>
   </div>
 </article>

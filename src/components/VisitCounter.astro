@@ -1,8 +1,15 @@
 ---
-// Contador de visitas (usa el endpoint público de GoatCounter). Oculto si no
-// está configurado o si el número es muy chico.
+// Prueba social 100% GitHub: números reales del catálogo, calculados en el
+// build a partir de los datos que capturamos de AliExpress. Sin analítica de
+// terceros ni backend.
+import { siteStats, compacto } from "../lib/stats";
+const s = siteStats();
 ---
 
-<p class="visit-counter" data-visit-counter hidden>
-  <span data-vc-page></span><span data-vc-total></span>
+<p class="site-stats">
+  <span><b>{s.productos}</b> productos vigilados</span>
+  <span aria-hidden="true">·</span>
+  <span><b>{s.rankings}</b> rankings</span>
+  <span aria-hidden="true">·</span>
+  <span><b>+{compacto(s.ventasSumadas)}</b> de ventas sumadas en AliExpress</span>
 </p>

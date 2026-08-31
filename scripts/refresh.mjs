@@ -365,7 +365,20 @@ function templateCopy(item, isTopSeller, isPriciest) {
       "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar.",
     ],
     badge: isTopSeller ? "El más vendido" : isPriciest ? "Ticket alto" : null,
+    specs: [],
   };
+}
+
+/** Deja specs en forma [{k,v}] con textos cortos; descarta lo vacío. */
+function cleanSpecs(raw) {
+  if (!Array.isArray(raw)) return [];
+  return raw
+    .map((s) => ({
+      k: String(s?.k ?? s?.clave ?? "").replace(/\s+/g, " ").trim().slice(0, 24),
+      v: String(s?.v ?? s?.valor ?? "").replace(/\s+/g, " ").trim().slice(0, 40),
+    }))
+    .filter((s) => s.k && s.v)
+    .slice(0, 3);
 }
 
 async function claudeCopy(catName, items) {
@@ -382,6 +395,7 @@ async function claudeCopy(catName, items) {
 - "descripcion_corta": 1 frase (máx 155 caracteres), directa, qué es y para qué sirve
 - "por_que_comprarlo": array de EXACTAMENTE 3 razones concretas de compra (no repitas el nombre, nada de relleno)
 - "badge": uno de "El más vendido" | "Mejor calidad-precio" | "Ticket alto" | null
+- "specs": array de EXACTAMENTE 3 objetos {"k","v"} con la ficha técnica clave para comparar productos de esta categoría. "k" = etiqueta corta (máx 24 car., ej. "Material", "Autonomía", "Alcance", "Potencia", "Conexión", "Peso", "Compatibilidad"). "v" = valor corto y concreto (máx 40 car.). Deduce los specs del título y de lo que es típico de ESE tipo de producto; si un dato no se puede saber con certeza, pon el rango habitual o "según modelo". Usa las MISMAS etiquetas "k" para todos los productos de la lista siempre que aplique, para que la tabla compare peras con peras.
 Reglas de badge: "El más vendido" solo para el de más pedidos; "Ticket alto" para el más caro si pasa de USD 40; "Mejor calidad-precio" para uno barato con rating alto; el resto null. Máximo un badge de cada tipo.
 Tono: español neutro peruano, directo, sin exagerar, sin signos de exclamación.
 Responde SOLO con un array JSON válido, sin texto alrededor.
@@ -490,6 +504,7 @@ async function copyOnlyFile(fileSlug, nombreCtx) {
           ? g.por_que_comprarlo
           : p.por_que_comprarlo,
       badge: "badge" in g ? (g.badge ?? null) : p.badge,
+      specs: cleanSpecs(g.specs).length ? cleanSpecs(g.specs) : p.specs || [],
     };
   });
   if (!DRY) writeFileSync(f, JSON.stringify(out, null, 2) + "\n");
@@ -617,6 +632,11 @@ async function buildCategory(cat, sub = null) {
         ? gen.por_que_comprarlo
         : tmpl.por_que_comprarlo;
     const badge = reuse ? old.badge : gen && "badge" in gen ? gen.badge : tmpl.badge;
+    const specs = reuse
+      ? old.specs || []
+      : cleanSpecs(gen?.specs).length
+        ? cleanSpecs(gen.specs)
+        : old?.specs || tmpl.specs;
     return {
       rank: it.rank,
       nombre,
@@ -626,6 +646,7 @@ async function buildCategory(cat, sub = null) {
       imagen: it.imagen,
       link_afiliado: it.link_afiliado,
       badge: badge ?? null,
+      specs: specs ?? [],
       _src: {
         id: it.id,
         orders: it.orders,

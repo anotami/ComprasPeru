@@ -3,6 +3,7 @@ import site from "../data/site.json";
 import faq from "../data/faq.json";
 import { fechaLarga } from "../lib/format";
 import { withBase, tpl } from "../lib/site";
+import { listaStats, compacto } from "../lib/stats";
 import CompareTable from "./CompareTable.astro";
 import ProductCard from "./ProductCard.astro";
 import type { Product } from "./ProductCard.astro";
@@ -63,6 +64,7 @@ const kicker = sub ? `${cat.nombre} · ${sub.kicker}` : cat.kicker;
 const lede = sub ? sub.intro : cat.subtitulo;
 const intro = sub ? "" : cat.intro;
 const siblings = sub ? (cat.subcategorias ?? []).filter((s) => s.slug !== sub.slug) : [];
+const stats = listaStats(products);
 
 // CTA intermedios: después del puesto 4 y del 8.
 const midCtas: Record<number, { text: string; cta: string; href: string }> = {
@@ -112,6 +114,13 @@ const itemList = {
         highPrice: pr.high,
         availability: "https://schema.org/InStock",
       };
+    }
+    if (Array.isArray(p.specs) && p.specs.length > 0) {
+      product.additionalProperty = p.specs.map((s) => ({
+        "@type": "PropertyValue",
+        name: s.k,
+        value: s.v,
+      }));
     }
     if (typeof rating === "number" && rating > 0) {
       product.aggregateRating = {
@@ -167,6 +176,14 @@ const breadcrumb = {
     <p class="updated">
       <time datetime={site.actualizado}>Actualizado el {updatedLong}</time>
     </p>
+    {
+      hasProducts && stats.ventasSumadas > 0 && (
+        <p class="cat-stats">
+          <b>{stats.productos}</b> productos ·{" "}
+          <b>+{compacto(stats.ventasSumadas)}</b> ventas sumadas en AliExpress
+        </p>
+      )
+    }
   </header>
 
   <div class="container">

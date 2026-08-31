@@ -5,9 +5,11 @@ import categories from "../data/categories.json";
 import type { Product } from "../components/ProductCard.astro";
 import { fechaLarga } from "../lib/format";
 import { withBase, absUrl, tpl } from "../lib/site";
+import { siteStats, compacto } from "../lib/stats";
 
 const cats = categories.categorias;
 const updatedLong = fechaLarga(site.actualizado);
+const stats = siteStats();
 
 const productFiles = import.meta.glob<{ default: Product[] }>(
   "../data/products/*.json",
@@ -96,6 +98,12 @@ const pasos = [
       <li>Guía de compra desde Perú: envíos, tiempos, aduana y disputas.</li>
     </ul>
     <p class="updated"><time datetime={site.actualizado}>Actualizado el {updatedLong}</time></p>
+
+    <div class="stat-strip">
+      <div><b>{stats.productos}</b><span>productos vigilados</span></div>
+      <div><b>{stats.rankings}</b><span>rankings</span></div>
+      <div><b>+{compacto(stats.ventasSumadas)}</b><span>ventas sumadas en AliExpress</span></div>
+    </div>
   </section>
 
   {

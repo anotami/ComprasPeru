@@ -7,6 +7,18 @@ interface Props {
 }
 
 const { products, updated } = Astro.props;
+
+// Columnas de specs: las etiquetas distintas en orden de aparición (máx 3).
+// Claude usa las mismas "k" para toda la lista, así que la tabla compara parejo.
+const specKeys: string[] = [];
+for (const p of products) {
+  for (const s of p.specs ?? []) {
+    if (s.k && !specKeys.includes(s.k) && specKeys.length < 3) specKeys.push(s.k);
+  }
+}
+const specVal = (p: Product, k: string) =>
+  (p.specs ?? []).find((s) => s.k === k)?.v ?? "—";
+const hasSpecs = specKeys.length > 0;
 ---
 
 <div class="compare" id="tabla">
@@ -18,7 +30,8 @@ const { products, updated } = Astro.props;
           <th scope="col">#</th>
           <th scope="col">Producto</th>
           <th scope="col">Precio ref.</th>
-          <th scope="col">Distinción</th>
+          {specKeys.map((k) => <th scope="col">{k}</th>)}
+          {!hasSpecs && <th scope="col">Distinción</th>}
           <th scope="col"><span class="sr-only">Ir a la reseña</span></th>
         </tr>
       </thead>
@@ -29,9 +42,18 @@ const { products, updated } = Astro.props;
               <td class="c-rank">{p.rank}</td>
               <td class="c-name">{p.nombre}</td>
               <td class="c-price">{p.precio_referencia}</td>
-              <td class="c-badge">
-                {p.badge ? <span class="pill" data-b={p.badge}>{p.badge}</span> : <span aria-hidden="true">—</span>}
-              </td>
+              {specKeys.map((k) => (
+                <td class="c-spec">{specVal(p, k)}</td>
+              ))}
+              {!hasSpecs && (
+                <td class="c-badge">
+                  {p.badge ? (
+                    <span class="pill" data-b={p.badge}>{p.badge}</span>
+                  ) : (
+                    <span aria-hidden="true">—</span>
+                  )}
+                </td>
+              )}
               <td class="c-cta">
                 <a class="link-btn" href={`#producto-${p.rank}`}>Ver precio</a>
               </td>

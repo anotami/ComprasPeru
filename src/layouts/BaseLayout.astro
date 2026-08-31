@@ -131,7 +131,7 @@ const htmlStyle =
           });
         }, 1800);
       }
-      // clic saliente -> analítica + contador del producto (si hay)
+      // clic saliente -> evento de analítica (si hay Plausible/Umami cargado)
       function initOutbound() {
         document.addEventListener(
           "click",
@@ -139,95 +139,16 @@ const htmlStyle =
             const a = ev.target.closest?.('a[rel~="sponsored"]');
             if (!a) return;
             const name = a.getAttribute("data-cta") || a.href;
-            const cat = a.getAttribute("data-cat") || "";
-            const rank = a.getAttribute("data-rank") || "";
             window.plausible?.("Clic afiliado", { props: { producto: name } });
             window.umami?.track?.("clic-afiliado", { producto: name });
-            if (window.goatcounter && cat && rank) {
-              window.goatcounter.count({
-                path: "click/" + cat + "/" + rank,
-                title: "Clic: " + name,
-                event: true,
-              });
-            }
           },
           { capture: true },
         );
       }
 
-      // GoatCounter: registrar la vista de página (no_onload:true -> lo hacemos aquí)
-      function sendPageview() {
-        window.goatcounter?.count?.({ path: location.pathname + location.search });
-      }
-
-      // Leer contadores públicos de GoatCounter y mostrarlos.
-      async function gcCount(path) {
-        const base = window.__gcCounter;
-        if (!base) return null;
-        try {
-          const key = "gc:" + path;
-          const cached = sessionStorage.getItem(key);
-          if (cached) return +cached;
-          const r = await fetch(base + "/" + path.replace(/^\//, "") + ".json");
-          if (!r.ok) return null;
-          const j = await r.json();
-          const n = parseInt(String(j.count_unique ?? j.count ?? "").replace(/[^\d]/g, ""), 10);
-          if (!isNaN(n)) sessionStorage.setItem(key, String(n));
-          return isNaN(n) ? null : n;
-        } catch {
-          return null;
-        }
-      }
-
-      async function initCounters() {
-        if (!window.__gcCounter) return;
-        // Visitas de esta página + total del sitio
-        const vc = document.querySelector("[data-visit-counter]");
-        if (vc) {
-          const [page, total] = await Promise.all([
-            gcCount(location.pathname),
-            gcCount("TOTAL"),
-          ]);
-          const pageEl = vc.querySelector("[data-vc-page]");
-          const totalEl = vc.querySelector("[data-vc-total]");
-          if (page && page >= 30 && pageEl)
-            pageEl.textContent = page.toLocaleString("es") + " visitas a esta página";
-          if (total && total >= 100 && totalEl)
-            totalEl.textContent =
-              (pageEl && pageEl.textContent ? " · " : "") +
-              total.toLocaleString("es") + " en total";
-          if ((pageEl && pageEl.textContent) || (totalEl && totalEl.textContent))
-            vc.hidden = false;
-        }
-        // Clics por producto (perezoso, solo lo que está o entra en pantalla)
-        const marks = [...document.querySelectorAll("[data-clickcount]")];
-        if (!marks.length) return;
-        const load = async (el) => {
-          const n = await gcCount("click/" + el.getAttribute("data-clickcount"));
-          if (n && n >= 5) {
-            el.textContent = "🔥 " + n.toLocaleString("es") + " fueron a AliExpress";
-            el.hidden = false;
-          }
-        };
-        if ("IntersectionObserver" in window) {
-          const io = new IntersectionObserver((es) => {
-            for (const e of es)
-              if (e.isIntersecting) {
-                io.unobserve(e.target);
-                load(e.target);
-              }
-          });
-          marks.forEach((m) => io.observe(m));
-        } else {
-          marks.forEach(load);
-        }
-      }
-
       let outboundDone = false;
       const runAll = () => {
         initReveal();
-        sendPageview();
-        initCounters();
         if (!outboundDone) {
           outboundDone = true;
           initOutbound();
