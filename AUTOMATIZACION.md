@@ -151,11 +151,26 @@ en la sección **“Explora por tema”** de la página padre.
 El robot mensual llena el padre **y** cada subcategoría. Los datos van a
 `src/data/products/<categoria>__<subcategoria>.json` y las fotos a
 `public/img/<categoria>__<subcategoria>/`. Ojo: el catálogo completo son
-**~360 búsquedas** (6 categorías × 5 subcategorías × 10 + padres). Si la corrida
-completa se topa con captcha, lánzala **por categoría** con el input `only`
-(Actions → Refrescar rankings → Run workflow → `only: fpv`, luego `only: moto`…):
-cada categoría son ~60 búsquedas, mucho más seguro. Podés subir el espaciado con
-las Variables `REQUEST_DELAY_MS` / `COOLDOWN_MS` / `MAX_BLOCKS_ABORT`.
+**~360 búsquedas** (6 categorías × 5 subcategorías × 10 + padres). Por eso la
+corrida completa es la que más chance tiene de toparse con captcha.
+
+### Modo `chain` — encadenar por categoría, sin esperar
+
+En **Run workflow** hay un input `chain`. Le pasás las categorías separadas por
+coma y el workflow procesa **una por corrida** y **se re-lanza solo** con las que
+faltan, en secuencia, sin solaparse. Una sola vez que lo disparás:
+
+```
+chain: moto,camping,running,impresion-3d,meshtastic
+```
+
+→ corre `moto`, al terminar dispara `camping`, luego `running`, etc. Cada corrida
+es ~60 búsquedas (mucho más seguro que las 360 de una) y commitea + deploya lo
+suyo. Una categoría con captcha **no frena la cadena**. Si el re-lanzamiento
+automático no arrancara, creá un PAT con scope `actions:write` y guardalo como
+secreto **`CHAIN_TOKEN`**. También sirve el input `only` para una sola categoría
+suelta. Espaciado tuneable con las Variables `REQUEST_DELAY_MS` / `COOLDOWN_MS` /
+`MAX_BLOCKS_ABORT`.
 
 ---
 

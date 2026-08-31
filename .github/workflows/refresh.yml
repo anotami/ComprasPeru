@@ -10,6 +10,10 @@ on:
         description: "Categorías separadas por coma (vacío = todas)"
         required: false
         default: ""
+      chain:
+        description: "Encadenar: procesa estas categorías de a UNA, re-lanzándose sola al terminar. Ej: moto,camping,running,impresion-3d,meshtastic"
+        required: false
+        default: ""
       refresh_copy:
         description: "Re-redactar también el texto que no cambió"
         type: boolean
@@ -22,6 +26,7 @@ on:
 permissions:
   contents: write
   issues: write
+  actions: write   # para re-lanzarse en modo `chain`
 
 jobs:
   refresh:
@@ -38,12 +43,28 @@ jobs:
 
       - run: npm ci
 
+      - name: Objetivo de esta corrida
+        id: plan
+        run: |
+          CHAIN="${{ inputs.chain }}"
+          if [ -n "$CHAIN" ]; then
+            CUR="${CHAIN%%,*}"                 # primer elemento de la lista
+            REST="${CHAIN#*,}"
+            [ "$REST" = "$CHAIN" ] && REST=""  # no quedaba coma => era el último
+          else
+            CUR="${{ inputs.only }}"
+            REST=""
+          fi
+          echo "cur=$CUR"   >> "$GITHUB_OUTPUT"
+          echo "rest=$REST" >> "$GITHUB_OUTPUT"
+          echo "Esta corrida: '${CUR:-TODAS}'   ·   pendientes tras esta: '${REST:-—}'"
+
       - name: Ejecutar refresh.mjs
         id: refresh
         run: node scripts/refresh.mjs $ARGS
         env:
           ARGS: >-
-            ${{ inputs.only && format('--only={0}', inputs.only) || '' }}
+            ${{ steps.plan.outputs.cur && format('--only={0}', steps.plan.outputs.cur) || '' }}
             ${{ inputs.refresh_copy && '--refresh-copy' || '' }}
             ${{ inputs.copy_only && '--copy-only' || '' }}
           ALIEXPRESS_AFF_KEY: ${{ secrets.ALIEXPRESS_AFF_KEY }}
@@ -104,6 +125,26 @@ jobs:
           done
           echo "no se pudo empujar tras 5 intentos"
           exit 1
+
+      - name: Encadenar la siguiente categoría
+        # Corre pase lo que pase con el scrape: una categoría con captcha no
+        # frena la cadena. Solo se salta si esta corrida fue cancelada.
+        if: ${{ !cancelled() && steps.plan.outputs.rest != '' }}
+        uses: actions/github-script@v7
+        with:
+          # Si el re-dispatch con GITHUB_TOKEN no arrancara, crea un PAT con
+          # scope `actions:write` y guárdalo como secreto CHAIN_TOKEN.
+          github-token: ${{ secrets.CHAIN_TOKEN || secrets.GITHUB_TOKEN }}
+          script: |
+            const rest = ${{ toJSON(steps.plan.outputs.rest) }};
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: "refresh.yml",
+              ref: context.ref.replace("refs/heads/", ""),
+              inputs: { chain: rest },
+            });
+            core.notice(`Encadenada la siguiente corrida: ${rest}`);
 
       - name: Avisar de puestos incompletos (sin tumbar la corrida)
         if: ${{ !cancelled() && hashFiles('refresh-problems.json') != '' }}
