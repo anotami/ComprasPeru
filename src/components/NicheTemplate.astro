@@ -8,6 +8,7 @@ import ProductCard from "./ProductCard.astro";
 import type { Product } from "./ProductCard.astro";
 import MidCta from "./MidCta.astro";
 import Faq from "./Faq.astro";
+import StickyCta from "./StickyCta.astro";
 
 export interface Subcat {
   slug: string;
@@ -74,19 +75,51 @@ const midCtas: Record<number, { text: string; cta: string; href: string }> = {
   },
 };
 
-// JSON-LD
+// JSON-LD — ItemList con Product embebido (rich snippets)
+function priceRange(txt: string) {
+  const m = String(txt).match(/(\d+)\D+(\d+)/);
+  if (!m) return null;
+  return { low: Number(m[1]), high: Number(m[2]) };
+}
+function imgAbs(src: string) {
+  return /^https?:\/\//.test(src) ? src : new URL(withBase(src), origin).href;
+}
 const itemList = {
   "@context": "https://schema.org",
   "@type": "ItemList",
   name: h1,
   numberOfItems: n,
   itemListOrder: "https://schema.org/ItemListOrderAscending",
-  itemListElement: products.map((p) => ({
-    "@type": "ListItem",
-    position: p.rank,
-    name: p.nombre,
-    url: `${canonical}#producto-${p.rank}`,
-  })),
+  itemListElement: products.map((p) => {
+    const pr = priceRange(p.precio_referencia);
+    const rating = p._src?.rating;
+    const orders = p._src?.orders;
+    const product: Record<string, unknown> = {
+      "@type": "Product",
+      name: p.nombre,
+      image: imgAbs(p.imagen),
+      description: p.descripcion_corta,
+      url: `${canonical}#producto-${p.rank}`,
+    };
+    if (pr) {
+      product.offers = {
+        "@type": "AggregateOffer",
+        priceCurrency: "USD",
+        lowPrice: pr.low,
+        highPrice: pr.high,
+        availability: "https://schema.org/InStock",
+      };
+    }
+    if (typeof rating === "number" && rating > 0) {
+      product.aggregateRating = {
+        "@type": "AggregateRating",
+        ratingValue: rating,
+        bestRating: 5,
+        ratingCount: typeof orders === "number" && orders > 0 ? orders : 1,
+      };
+    }
+    return { "@type": "ListItem", position: p.rank, item: product };
+  }),
 };
 
 const faqPage = {
@@ -241,6 +274,8 @@ const breadcrumb = {
     }
   </div>
 </article>
+
+{hasProducts && <StickyCta />}
 
 <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} />
 {hasProducts && <script type="application/ld+json" set:html={JSON.stringify(itemList)} />}

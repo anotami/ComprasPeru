@@ -1,0 +1,88 @@
+---
+// Barra CTA fija en móvil: sigue al producto que estás mirando.
+---
+
+<div class="sticky-cta" data-sticky-cta hidden aria-hidden="true">
+  <span class="sticky-cta__num" data-sticky-num>1</span>
+  <span class="sticky-cta__name" data-sticky-name></span>
+  <a
+    class="sticky-cta__btn"
+    data-sticky-btn
+    href="#"
+    target="_blank"
+    rel="nofollow sponsored noopener"
+  >
+    Ver <span aria-hidden="true">→</span>
+  </a>
+</div>
+
+<script>
+  function initStickyCta() {
+    const bar = document.querySelector<HTMLElement>("[data-sticky-cta]");
+    const cards = [...document.querySelectorAll<HTMLElement>(".reviews > .product")];
+    if (!bar || bar.dataset.init || !cards.length) return;
+    bar.dataset.init = "1";
+
+    const numEl = bar.querySelector<HTMLElement>("[data-sticky-num]")!;
+    const nameEl = bar.querySelector<HTMLElement>("[data-sticky-name]")!;
+    const btn = bar.querySelector<HTMLAnchorElement>("[data-sticky-btn]")!;
+    let currentId = "";
+
+    const pick = () => {
+      // solo mostrar si la barra tiene sentido (móvil)
+      if (matchMedia("(min-width: 721px)").matches) {
+        bar.hidden = true;
+        return;
+      }
+      const mid = innerHeight / 2;
+      let best: HTMLElement | null = null;
+      let bestDist = Infinity;
+      for (const c of cards) {
+        const r = c.getBoundingClientRect();
+        if (r.bottom < 90 || r.top > innerHeight - 90) continue;
+        const d = Math.abs((r.top + r.bottom) / 2 - mid);
+        if (d < bestDist) {
+          bestDist = d;
+          best = c;
+        }
+      }
+      if (!best || scrollY < 420) {
+        bar.hidden = true;
+        return;
+      }
+      if (best.id !== currentId) {
+        currentId = best.id;
+        const rank = best.id.replace("producto-", "");
+        const name = best.querySelector(".product__name")?.textContent?.trim() ?? "";
+        const href = best.querySelector<HTMLAnchorElement>(".btn-cta")?.href;
+        if (href) {
+          numEl.textContent = rank;
+          nameEl.textContent = name;
+          btn.href = href;
+          btn.setAttribute("data-cta", name);
+        }
+      }
+      bar.hidden = false;
+    };
+
+    let ticking = false;
+    const onScroll = () => {
+      if (ticking) return;
+      ticking = true;
+      requestAnimationFrame(() => {
+        pick();
+        ticking = false;
+      });
+    };
+    addEventListener("scroll", onScroll, { passive: true });
+    addEventListener("resize", pick, { passive: true });
+    pick();
+  }
+
+  const boot = () =>
+    document.readyState === "loading"
+      ? document.addEventListener("DOMContentLoaded", initStickyCta, { once: true })
+      : initStickyCta();
+  boot();
+  document.addEventListener("astro:page-load", initStickyCta);
+</script>

@@ -122,6 +122,14 @@ const htmlStyle =
           el.classList.add("reveal");
           io.observe(el);
         });
+        // red de seguridad: si a los 1.8s algo sigue oculto pero ya está en
+        // pantalla, mostrarlo igual (por si el IO no dispara).
+        setTimeout(() => {
+          document.querySelectorAll(".reveal:not(.is-visible)").forEach((el) => {
+            const r = el.getBoundingClientRect();
+            if (r.top < innerHeight && r.bottom > 0) el.classList.add("is-visible");
+          });
+        }, 1800);
       }
       // clic saliente -> analítica (si hay)
       function initOutbound() {
@@ -137,8 +145,18 @@ const htmlStyle =
           { capture: true },
         );
       }
-      document.addEventListener("astro:page-load", initReveal);
-      document.addEventListener("astro:page-load", initOutbound, { once: true });
-    </script>
+      let outboundDone = false;
+      const runAll = () => {
+        initReveal();
+        if (!outboundDone) {
+          outboundDone = true;
+          initOutbound();
+        }
+      };
+      if (document.readyState === "loading")
+        document.addEventListener("DOMContentLoaded", runAll, { once: true });
+      else runAll();
+      document.addEventListener("astro:page-load", runAll);
+</script>
   </body>
 </html>

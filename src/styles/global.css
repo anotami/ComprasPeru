@@ -718,6 +718,45 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .to-top:hover { background: var(--cta); }
 .to-top svg { width: 20px; height: 20px; }
 
+/* ---------- Barra CTA fija (móvil) ---------- */
+.sticky-cta { display: none; }
+@media (max-width: 720px) {
+  .sticky-cta {
+    display: flex; align-items: center; gap: .6rem;
+    position: fixed; inset: auto 0 0 0; z-index: 95;
+    padding: .55rem .8rem calc(.55rem + env(safe-area-inset-bottom));
+    background: color-mix(in srgb, var(--ink) 96%, transparent);
+    backdrop-filter: blur(6px);
+    color: var(--paper);
+    border-top: 2px solid var(--accent, var(--cta));
+    animation: sticky-up .25s ease both;
+  }
+  .sticky-cta[hidden] { display: none; }
+  .sticky-cta__num {
+    flex: none;
+    font-family: var(--font-display); font-weight: 800;
+    background: var(--accent, var(--cta)); color: var(--accent-ink, #fff);
+    width: 1.8rem; height: 1.8rem; border-radius: 50%;
+    display: grid; place-items: center; font-size: .9rem;
+  }
+  .sticky-cta__name {
+    flex: 1 1 auto; min-width: 0;
+    font-size: .82rem; line-height: 1.25;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .sticky-cta__btn {
+    flex: none;
+    font-family: var(--font-display); font-weight: 800; font-size: .9rem;
+    text-decoration: none;
+    background: var(--cta); color: var(--cta-ink);
+    padding: .65rem 1rem; border-radius: 6px;
+    box-shadow: 0 2px 0 var(--cta-2);
+  }
+  body:has(.sticky-cta:not([hidden])) .to-top { bottom: 4.6rem; }
+}
+@keyframes sticky-up { from { transform: translateY(100%); } to { transform: none; } }
+
 /* ---------- Utilidades ---------- */
 .full-bleed { margin-inline: calc(50% - 50vw); padding-inline: var(--pad); }
 .center { text-align: center; }
