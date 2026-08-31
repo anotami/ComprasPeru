@@ -245,7 +245,23 @@ Sin analíticas no sabes qué categorías ni qué productos generan clics. Elige
 —todas son sin cookies, sin banner y sin impacto de rendimiento— y pega los
 datos en `src/data/site.json` → `analytics`. Lo que dejes vacío no carga nada.
 
-**Opción más simple — Cloudflare Web Analytics (gratis):**
+**Recomendada — GoatCounter (gratis, y además pinta los contadores del sitio):**
+
+1. [goatcounter.com](https://www.goatcounter.com) → **Sign up** → elige un código (`micodigo`).
+2. En `src/data/site.json`:
+   ```json
+   "analytics": { "goatcounter": "https://micodigo.goatcounter.com/count", "plausible": "", "umami": {"src":"","id":""}, "cloudflare": "" }
+   ```
+3. `git commit` + `git push`.
+
+Con GoatCounter puesto, el sitio muestra **contador de visitas** (en el pie:
+"1.234 visitas a esta página · 45.678 en total", oculto hasta pasar cierto
+mínimo) y **contador de clics por producto** ("🔥 89 fueron a AliExpress", bajo
+el botón, a partir de 5). Los números salen del endpoint público de GoatCounter;
+el dashboard privado lo ves en `micodigo.goatcounter.com`. GoatCounter es gratis
+para tráfico bajo; si crece te piden una donación (~€5/mes) o lo self-hosteas.
+
+**Alternativa — Cloudflare Web Analytics (gratis, sin contadores en la página):**
 
 1. [dash.cloudflare.com](https://dash.cloudflare.com) → **Analytics & Logs → Web Analytics → Add a site**.
 2. Pon tu dominio (o el `usuario.github.io`). Te da un **token** (una cadena larga).

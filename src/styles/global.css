@@ -403,6 +403,11 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
   margin-top: .5rem;
   font-family: var(--font-mono); font-size: .78rem; font-weight: 600;
 }
+.clickcount {
+  margin-top: .55rem;
+  font-family: var(--font-mono); font-size: .72rem; font-weight: 700;
+  color: var(--cta-2);
+}
 .trust-rating { color: var(--accent); white-space: nowrap; }
 .trust-rating [aria-hidden] { color: #f5a623; }
 .trust-orders {
@@ -714,6 +719,11 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 }
 .disclosure a { color: #e9e3d5; }
 .legal { margin-top: 1rem; font-family: var(--font-mono); font-size: .72rem; color: #877f6f; }
+.visit-counter {
+  margin-top: .8rem;
+  font-family: var(--font-mono); font-size: .72rem; color: #a79f8f;
+  letter-spacing: .04em;
+}
 
 /* ---------- Back to top ---------- */
 .to-top {

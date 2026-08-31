@@ -1,22 +1,30 @@
 ---
-// Analíticas sin cookies. Se activan solo si las configuras en src/data/site.json:
+// Analíticas + contadores, sin cookies. Se activan desde src/data/site.json:
 //   "analytics": {
-//     "plausible": "tudominio.com",              // plausible.io o self-host
-//     "umami": { "src": "https://…/script.js", "id": "xxxx-…" },
-//     "cloudflare": "TOKEN_DEL_BEACON"           // Cloudflare Web Analytics
+//     "goatcounter": "https://TUCODIGO.goatcounter.com/count",  // visitas + clics + contadores públicos
+//     "plausible":  "tudominio.com",
+//     "umami":      { "src": "https://…/script.js", "id": "xxxx-…" },
+//     "cloudflare": "TOKEN_DEL_BEACON"
 //   }
 // Cualquiera vacío = no carga nada.
 import site from "../data/site.json";
 const a = (site as any).analytics ?? {};
+const gc: string = a.goatcounter || "";
+// base para los contadores públicos: .../count -> .../counter
+const gcCounter = gc ? gc.replace(/\/count\/?$/, "") + "/counter" : "";
 ---
 
-{a.plausible && (
+{gc && (
   <script
     is:inline
-    defer
-    data-domain={a.plausible}
-    src="https://plausible.io/js/script.outbound-links.js"
-  ></script>
+    define:vars={{ gc, gcCounter }}
+    set:html={`window.goatcounter={no_onload:true,endpoint:${JSON.stringify(gc)}};window.__gcCounter=${JSON.stringify(gcCounter)};`}
+  />
+)}
+{gc && <script is:inline defer src="//gc.zgo.at/count.js" data-goatcounter={gc}></script>}
+
+{a.plausible && (
+  <script is:inline defer data-domain={a.plausible} src="https://plausible.io/js/script.outbound-links.js"></script>
 )}
 
 {a.umami?.src && a.umami?.id && (

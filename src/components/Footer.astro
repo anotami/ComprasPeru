@@ -2,6 +2,7 @@
 import site from "../data/site.json";
 import categories from "../data/categories.json";
 import { withBase } from "../lib/site";
+import VisitCounter from "./VisitCounter.astro";
 
 const year = new Date().getFullYear();
 const cats = categories.categorias;
@@ -43,5 +44,6 @@ const cats = categories.categorias;
       cambiar. <a href={withBase("/aviso-afiliados")}>Leer el aviso completo</a>.
     </p>
     <p class="legal">© {year} {site.nombre}. AliExpress es una marca de sus respectivos titulares; este sitio no está afiliado ni patrocinado oficialmente por AliExpress más allá de su programa de afiliados.</p>
+    <VisitCounter />
   </div>
 </footer>

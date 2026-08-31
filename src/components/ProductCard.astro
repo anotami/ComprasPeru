@@ -23,9 +23,11 @@ import { withBase } from "../lib/site";
 interface Props {
   product: Product;
   featured?: boolean;
+  /** ruta de la categoría para los contadores, ej. "moto" o "moto/comunicacion" */
+  catPath?: string;
 }
 
-const { product, featured = false } = Astro.props;
+const { product, featured = false, catPath = "" } = Astro.props;
 const p = product;
 const imgSrc = /^https?:\/\//.test(p.imagen) ? p.imagen : withBase(p.imagen);
 
@@ -99,9 +101,12 @@ else if (typeof prev === "number" && prev < p.rank)
         target="_blank"
         rel="nofollow sponsored noopener"
         data-cta={p.nombre}
+        data-cat={catPath}
+        data-rank={p.rank}
       >
         Ver en AliExpress <span class="arrow" aria-hidden="true">→</span>
       </a>
     </div>
+    <p class="clickcount" data-clickcount={`${catPath}/${p.rank}`} hidden></p>
   </div>
 </article>
