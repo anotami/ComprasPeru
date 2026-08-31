@@ -17,6 +17,55 @@ ul[role="list"] { list-style: none; padding: 0; }
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
 }
 
+/* ---------- Movimiento ---------- */
+
+/* Barra de progreso de scroll (CSS puro; navegadores sin soporte no la muestran) */
+.scroll-progress {
+  position: fixed; inset: 0 0 auto 0; height: 3px; z-index: 200;
+  transform-origin: 0 50%;
+  transform: scaleX(0);
+  background: linear-gradient(90deg, var(--accent, var(--cta)), var(--cta));
+  display: none;
+}
+@supports (animation-timeline: scroll()) {
+  .scroll-progress {
+    display: block;
+    animation: sp-grow linear both;
+    animation-timeline: scroll(root);
+  }
+}
+@keyframes sp-grow { to { transform: scaleX(1); } }
+
+/* Reveal al hacer scroll — solo con JS (html.js). Sin JS todo se ve normal. */
+.js .reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity .5s ease, transform .5s cubic-bezier(.2,.7,.2,1);
+  will-change: opacity, transform;
+}
+.js .reveal.is-visible { opacity: 1; transform: none; }
+.js .reviews > .product.reveal:nth-child(2) { transition-delay: .05s; }
+.js .subcat-grid > .subcat-card.reveal:nth-child(2) { transition-delay: .06s; }
+.js .subcat-grid > .subcat-card.reveal:nth-child(3) { transition-delay: .12s; }
+.js .niche-grid > .niche-card.reveal:nth-child(2) { transition-delay: .06s; }
+.js .niche-grid > .niche-card.reveal:nth-child(3) { transition-delay: .12s; }
+
+/* Entrada en cascada del hero (CSS puro) */
+@media (prefers-reduced-motion: no-preference) {
+  .hero > * {
+    animation: hero-in .6s cubic-bezier(.2,.7,.2,1) both;
+  }
+  .hero > .kicker { animation-delay: .04s; }
+  .hero > h1 { animation-delay: .12s; }
+  .hero > .lede { animation-delay: .22s; }
+  .hero > .updated { animation-delay: .3s; }
+  .hero > .value-props { animation-delay: .3s; }
+}
+@keyframes hero-in {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: none; }
+}
+
 /* ---------- Tokens ---------- */
 :root {
   --paper:      #F5F1E8;

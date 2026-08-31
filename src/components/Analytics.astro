@@ -1,0 +1,33 @@
+---
+// Analíticas sin cookies. Se activan solo si las configuras en src/data/site.json:
+//   "analytics": {
+//     "plausible": "tudominio.com",              // plausible.io o self-host
+//     "umami": { "src": "https://…/script.js", "id": "xxxx-…" },
+//     "cloudflare": "TOKEN_DEL_BEACON"           // Cloudflare Web Analytics
+//   }
+// Cualquiera vacío = no carga nada.
+import site from "../data/site.json";
+const a = (site as any).analytics ?? {};
+---
+
+{a.plausible && (
+  <script
+    is:inline
+    defer
+    data-domain={a.plausible}
+    src="https://plausible.io/js/script.outbound-links.js"
+  ></script>
+)}
+
+{a.umami?.src && a.umami?.id && (
+  <script is:inline defer src={a.umami.src} data-website-id={a.umami.id}></script>
+)}
+
+{a.cloudflare && (
+  <script
+    is:inline
+    defer
+    src="https://static.cloudflareinsights.com/beacon.min.js"
+    data-cf-beacon={`{"token": "${a.cloudflare}"}`}
+  ></script>
+)}
