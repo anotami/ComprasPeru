@@ -213,70 +213,70 @@
     },
     {
       "slug": "impresion-3d",
-      "nombre": "Impresión 3D",
-      "nav": "Impresión 3D",
+      "nombre": "Bambu Lab A1",
+      "nav": "Bambu A1",
       "emoji": "🖨️",
       "accent": "#0F766E",
       "accentWash": "#DBEDEA",
-      "kicker": "Impresión 3D",
-      "h1": "Los {n} más vendidos de impresión 3D en AliExpress ({year})",
-      "subtitulo": "Filamento, resina, boquillas, hotends y mejoras. Los consumibles y repuestos que más compran los que imprimen todas las semanas.",
-      "title": "Top {n} de impresión 3D en AliExpress ({year}) | Hallazgos AliExpress",
-      "meta": "Top {n} de impresión 3D en AliExpress {year}: filamento PLA y PETG, resina, boquillas, hotends, camas PEI y repuestos, con precios de referencia.",
-      "intro": "Priorizamos lo que se gasta y se cambia seguido: filamento y resina que salen buenos, boquillas y hotends de repuesto, y mejoras baratas que de verdad se notan. Los precios son de referencia y cambian con las ofertas de AliExpress; toca el botón para ver el precio del día.",
+      "kicker": "Accesorios para Bambu Lab A1",
+      "h1": "Los {n} mejores accesorios para la Bambu Lab A1 de AliExpress ({year})",
+      "subtitulo": "Boquillas, hotends, platos PEI, filamento con RFID y repuestos — todo compatible con la Bambu Lab A1 y el AMS lite, sin pagar precio de tienda oficial.",
+      "title": "Top {n} accesorios Bambu Lab A1 en AliExpress ({year}) | Hallazgos AliExpress",
+      "meta": "Top {n} de accesorios para la Bambu Lab A1 en AliExpress {year}: boquillas hardened, hotend completo, plato PEI 256, filamento RFID y repuestos del AMS lite.",
+      "intro": "Solo cosas que encajan en la Bambu Lab A1 (la de 256 mm) y su AMS lite: hotends y boquillas de recambio, platos PEI texturizado y liso, filamento 1.75 mm con bobina compatible, y los accesorios que la comunidad más compra. Nada genérico que no calce. Los precios son de referencia y cambian con las ofertas; toca el botón para ver el del día.",
       "queries": [
-        "filamento pla 1.75mm impresora 3d 1kg",
-        "filamento petg 1.75mm impresora 3d 1kg",
-        "resina impresora 3d lcd uv 1kg",
-        "boquilla nozzle laton 0.4mm mk8 impresora 3d",
-        "hotend all metal v6 impresora 3d",
-        "placa cama flexible pei magnetica impresora 3d",
-        "extrusor metalico dual gear impresora 3d",
-        "correa gt2 6mm cerrada impresora 3d",
-        "ventilador turbina 5015 24v impresora 3d",
-        "kit agujas limpieza boquilla impresora 3d"
+        "filamento pla bambu lab 1.75mm rfid bobina",
+        "boquilla hardened acero endurecido bambu a1 hotend",
+        "placa pei texturizada bambu a1 256x256",
+        "hotend completo repuesto bambu a1",
+        "calcetin silicona sock hotend bambu a1",
+        "tubo ptfe bambu a1 ams lite repuesto",
+        "contenedor residuos poop chute bambu a1",
+        "soporte bobina carrete externo bambu a1",
+        "kit limpieza boquilla aguja bambu a1",
+        "caja seca drybox filamento bambu ams"
       ],
       "subcategorias": [
         {
-          "slug": "materiales",
-          "nombre": "Filamento y resina",
-          "kicker": "Lo que se gasta",
-          "intro": "El consumible: PLA y PETG que salgan buenos, flexible TPU y resina para impresoras LCD.",
+          "slug": "filamento",
+          "nombre": "Filamento para A1",
+          "kicker": "Bobinas compatibles con AMS lite",
+          "intro": "Rollos de 1.75 mm con bobina que entra en el AMS lite de la A1: PLA, PETG, TPU y de colores, sin pagar el filamento de la tienda oficial.",
           "queries": [
-            "filamento pla 1.75mm impresora 3d 1kg",
-            "filamento petg 1.75mm impresora 3d",
-            "filamento tpu flexible 1.75mm impresora 3d",
-            "resina impresora 3d lcd uv 1kg",
-            "filamento pla plus 1.75mm impresora 3d",
-            "filamento madera pla impresora 3d"
+            "filamento pla bambu lab 1.75mm bobina rfid",
+            "filamento petg 1.75mm bobina ams compatible",
+            "filamento pla mate 1.75mm ams lite",
+            "filamento tpu 95a 1.75mm bambu a1",
+            "filamento pla seda brillante 1.75mm bambu",
+            "filamento pla+ 1.75mm 1kg bobina cartón"
           ]
         },
         {
-          "slug": "extrusion-hotend",
-          "nombre": "Extrusión y hotend",
-          "kicker": "Boquillas y fusor",
-          "intro": "Las piezas que sufren calor y desgaste y hay que tener de repuesto: boquillas, hotend, extrusor y tubo PTFE.",
+          "slug": "hotend-boquilla",
+          "nombre": "Hotend y boquillas A1",
+          "kicker": "Recambio de fusor",
+          "intro": "El conjunto que sufre calor y desgaste en la A1: hotend completo de intercambio rápido, boquillas hardened para abrasivos y calcetines de silicona.",
           "queries": [
-            "boquilla nozzle laton 0.4mm mk8 impresora 3d",
-            "hotend all metal v6 impresora 3d",
-            "extrusor metalico dual gear impresora 3d",
-            "tubo ptfe capricorn impresora 3d",
-            "termistor cartucho calentador impresora 3d",
-            "garganta throat impresora 3d"
+            "hotend completo intercambio rapido bambu a1",
+            "boquilla hardened acero endurecido bambu a1",
+            "boquilla 0.2 0.6 0.8 mm bambu a1",
+            "calcetin silicona sock hotend bambu a1",
+            "kit desatasco boquilla bambu a1 agujas",
+            "boquilla laton 0.4mm bambu a1 repuesto"
           ]
         },
         {
-          "slug": "cama-mecanica",
-          "nombre": "Cama y mecánica",
-          "kicker": "Superficie y movimiento",
-          "intro": "Que la primera capa pegue y que los ejes se muevan suave: láminas PEI, correas, poleas y rodamientos.",
+          "slug": "plato-accesorios",
+          "nombre": "Plato y accesorios A1",
+          "kicker": "Superficie y extras",
+          "intro": "Platos de impresión para la A1 (texturizado y liso) y los accesorios que la comunidad más suma: recogedor de residuos, guía de bobina y luz.",
           "queries": [
-            "placa cama flexible pei magnetica impresora 3d",
-            "correa gt2 6mm cerrada impresora 3d",
-            "polea gt2 20 dientes impresora 3d",
-            "rodamiento lineal lm8uu impresora 3d",
-            "husillo t8 tuerca antibacklash impresora 3d",
-            "resorte cama nivelacion impresora 3d"
+            "placa pei texturizada bambu a1 256x256",
+            "placa lisa cool plate bambu a1 256",
+            "contenedor residuos poop chute bambu a1",
+            "soporte bobina externo bambu a1 ams",
+            "guia tubo filamento bambu a1 ams lite",
+            "barra luz led bambu a1 montaje"
           ]
         }
       ]
