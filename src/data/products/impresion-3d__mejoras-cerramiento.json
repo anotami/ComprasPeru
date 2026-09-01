@@ -1,0 +1,362 @@
+[
+  {
+    "rank": 1,
+    "nombre": "Tubo PTFE Bowden 1.75mm para extrusora",
+    "descripcion_corta": "Tubo de teflón de alta calidad para sistemas Bowden, compatible con J-Head y Bambu Lab, disponible en 1/2/4 metros.",
+    "por_que_comprarlo": [
+      "Compatible con múltiples modelos (Ender 3, P1P, A1 Mini)",
+      "Material PTFE de calidad con diámetro interior 2/2.5mm",
+      "Precio accesible con excelente rating 4.8"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/impresion-3d__mejoras-cerramiento/01.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006242932887.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Material",
+        "v": "PTFE (Teflón)"
+      },
+      {
+        "k": "Diámetro interior",
+        "v": "2 o 2.5mm"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Bowden, J-Head, Ender 3, Bambu Lab"
+      }
+    ],
+    "_src": {
+      "id": "1005006242932887",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005006242932887.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 2,
+    "nombre": "Soporte reutilizable filamento Bambu Lab AMS",
+    "descripcion_corta": "Adaptador reutilizable para filamentos sin bobina, compatible con sistemas AMS, AMS Pro, AMS Lite y H2D.",
+    "por_que_comprarlo": [
+      "Reutilizable y ecológico para filamentos sin bobina",
+      "Compatible con toda la línea AMS de Bambu Lab",
+      "Rating máximo 4.9 con precio muy accesible"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/impresion-3d__mejoras-cerramiento/02.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008907328877.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "AMS, AMS Pro, AMS Lite, H2D"
+      },
+      {
+        "k": "Tipo",
+        "v": "Soporte reutilizable"
+      },
+      {
+        "k": "Material",
+        "v": "Según modelo"
+      }
+    ],
+    "_src": {
+      "id": "1005008907328877",
+      "orders": 1000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008907328877.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 3,
+    "nombre": "Tira LED FCOB 336-528 regulable 12V/24V",
+    "descripcion_corta": "Cinta LED de alta densidad FCOB con 336 a 528 LEDs, regulable, blanca fría o cálida, para iluminación de área de impresión.",
+    "por_que_comprarlo": [
+      "Alta densidad de LEDs para iluminación uniforme",
+      "Regulable en intensidad, funciona a 12V y 24V",
+      "Más de 10,000 vendidos con rating 4.9"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/impresion-3d__mejoras-cerramiento/03.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F4000145232270.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tipo de LED",
+        "v": "FCOB (336-528 LEDs)"
+      },
+      {
+        "k": "Voltaje",
+        "v": "12V o 24V"
+      },
+      {
+        "k": "Temperatura color",
+        "v": "Blanco cálido o frío RA90"
+      }
+    ],
+    "_src": {
+      "id": "4000145232270",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/4000145232270.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 4,
+    "nombre": "Carcasa ignífuga para impresora 3D 700x750x900mm",
+    "descripcion_corta": "Carpa protectora ignífuga con reducción de ruido para series Ender 5 y CR-10, medidas 700x750x900mm.",
+    "por_que_comprarlo": [
+      "Protección contra fuego con material ignífugo",
+      "Reducción significativa de ruido operativo",
+      "Compatible con múltiples modelos Ender 5 y CR-10"
+    ],
+    "precio_referencia": "$130–150",
+    "imagen": "/img/impresion-3d__mejoras-cerramiento/04.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012423213847.html",
+    "badge": "Ticket alto",
+    "specs": [
+      {
+        "k": "Dimensiones",
+        "v": "700x750x900mm"
+      },
+      {
+        "k": "Tipo",
+        "v": "Carpa protectora ignífuga"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Ender 5, CR-10, series Pro/Plus"
+      }
+    ],
+    "_src": {
+      "id": "1005012423213847",
+      "orders": 0,
+      "rating": 0,
+      "url": "https://www.aliexpress.com/item/1005012423213847.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 5,
+    "nombre": "Almohadilla antivibración Bambu Lab P1P/P1S",
+    "descripcion_corta": "Pies de goma antivibración antideslizante a prueba de polvo, compatibles con P1P, P1S, X1 y X1C de Bambu Lab.",
+    "por_que_comprarlo": [
+      "Reduce vibraciones y ruido operativo",
+      "Material antideslizante protege suelo y impresora",
+      "Compatible con modelos premium de Bambu Lab"
+    ],
+    "precio_referencia": "$3–5",
+    "imagen": "/img/impresion-3d__mejoras-cerramiento/05.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006054403476.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "P1P, P1S, X1, X1C"
+      },
+      {
+        "k": "Material",
+        "v": "Goma antivibración"
+      },
+      {
+        "k": "Características",
+        "v": "Antideslizante, antigolpes, a prueba pol"
+      }
+    ],
+    "_src": {
+      "id": "1005006054403476",
+      "orders": 1000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005006054403476.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 6,
+    "nombre": "Placa PEI textured doble cara Bambu Lab",
+    "descripcion_corta": "Placa de construcción de carbono PEI textured doble cara, compatible con P1S, P1P, X1, X1C y A1 de Bambu Lab.",
+    "por_que_comprarlo": [
+      "Superficie textured doble cara PEI/PEO/PET",
+      "Compatibilidad comprobada con línea profesional Bambu",
+      "5,000+ vendidos con rating 4.7"
+    ],
+    "precio_referencia": "$7–8",
+    "imagen": "/img/impresion-3d__mejoras-cerramiento/06.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005714370536.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Carbono PEI textured doble cara"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "P1S, P1P, X1, X1C, A1"
+      },
+      {
+        "k": "Superficie",
+        "v": "PEI/PEO/PET texturizado"
+      }
+    ],
+    "_src": {
+      "id": "1005005714370536",
+      "orders": 5000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005005714370536.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Cámara mini WiFi 1080P con seguimiento",
+    "descripcion_corta": "Cámara de seguridad inteligente 1080P con WiFi, seguimiento de movimiento y monitoreo remoto para vigilancia del área.",
+    "por_que_comprarlo": [
+      "Resolución 1080P para vigilancia clara",
+      "Seguimiento automático de movimiento",
+      "Conectividad WiFi para monitoreo remoto"
+    ],
+    "precio_referencia": "$9–10",
+    "imagen": "/img/impresion-3d__mejoras-cerramiento/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009738214436.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Resolución",
+        "v": "1080P"
+      },
+      {
+        "k": "Conectividad",
+        "v": "WiFi"
+      },
+      {
+        "k": "Características",
+        "v": "Seguimiento movimiento, vigilancia intel"
+      }
+    ],
+    "_src": {
+      "id": "1005009738214436",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009738214436.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Soporte magnético pared cocina borde estrecho",
+    "descripcion_corta": "Organizador magnético de pared con borde estrecho para guardar pajitas, papel film y accesorios de cocina.",
+    "por_que_comprarlo": [
+      "Diseño magnético minimalista para espacio limitado",
+      "Organiza accesorios de cocina y películas plásticas",
+      "10,000+ vendidos, rating 4.9"
+    ],
+    "precio_referencia": "$4–6",
+    "imagen": "/img/impresion-3d__mejoras-cerramiento/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009649189286.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Soporte magnético pared"
+      },
+      {
+        "k": "Uso",
+        "v": "Cocina, pajitas, papel film"
+      },
+      {
+        "k": "Diseño",
+        "v": "Borde estrecho minimalista"
+      }
+    ],
+    "_src": {
+      "id": "1005009649189286",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009649189286.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Filtro HEPA 13 + carbón activado Bambu Lab",
+    "descripcion_corta": "Filtro combinado HEPA 13 con carbón activado para serie X1 y P1, purifica aire durante impresión.",
+    "por_que_comprarlo": [
+      "Combinación HEPA 13 + carbón para filtración completa",
+      "Repuesto OEM oficial para X1 y P1",
+      "Rating máximo 4.9 con 1,000+ vendidos"
+    ],
+    "precio_referencia": "$4–5",
+    "imagen": "/img/impresion-3d__mejoras-cerramiento/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008597568041.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tipo de filtro",
+        "v": "HEPA 13 + carbón activado"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Serie X1, Serie P1"
+      },
+      {
+        "k": "Especificación",
+        "v": "Repuesto OEM original"
+      }
+    ],
+    "_src": {
+      "id": "1005008597568041",
+      "orders": 1000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008597568041.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Dispensador purge wiper Bambu Lab A1",
+    "descripcion_corta": "Componente automático de recolección y limpieza de residuos para Bambu Lab A1 y A1 Mini.",
+    "por_que_comprarlo": [
+      "Recolección automática de residuos de purga",
+      "Compatible específicamente con A1 y A1 Mini",
+      "Rating perfecto 5.0, pieza original Bambu"
+    ],
+    "precio_referencia": "$5–7",
+    "imagen": "/img/impresion-3d__mejoras-cerramiento/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012588897317.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1, A1 Mini"
+      },
+      {
+        "k": "Función",
+        "v": "Purge wiper automático"
+      },
+      {
+        "k": "Característica",
+        "v": "Recolección y limpieza residuos"
+      }
+    ],
+    "_src": {
+      "id": "1005012588897317",
+      "orders": 282,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005012588897317.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  }
+]

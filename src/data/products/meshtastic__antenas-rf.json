@@ -1,6 +1,42 @@
 [
   {
     "rank": 1,
+    "nombre": "Antena flexible NB-IoT/LoRa multibanda SMA",
+    "descripcion_corta": "Antena flexible para transmisión de datos en frecuencias 840-928 MHz con conector SMA macho.",
+    "por_que_comprarlo": [
+      "Cubre múltiples bandas de frecuencia en una sola antena",
+      "Diseño flexible que se adapta a diferentes orientaciones",
+      "Conector SMA estándar compatible con módulos inalámbricos"
+    ],
+    "precio_referencia": "$6–8",
+    "imagen": "/img/meshtastic__antenas-rf/01.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004607615001.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Frecuencia",
+        "v": "840-928 MHz multibanda"
+      },
+      {
+        "k": "Conector",
+        "v": "SMA macho"
+      },
+      {
+        "k": "Tipo",
+        "v": "Flexible"
+      }
+    ],
+    "_src": {
+      "id": "1005004607615001",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005004607615001.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 2,
     "nombre": "Antena LoRa 868MHz",
     "descripcion_corta": "Antena de frecuencia 868MHz diseñada para dispositivos LoRa y Meshtastic de corto alcance.",
     "por_que_comprarlo": [
@@ -8,18 +44,10 @@
       "Rating de 4.9 con más de 5000 ventas confirmadas",
       "Precio muy accesible entre $3 y $4"
     ],
-    "precio_referencia": "$3–4",
-    "imagen": "/img/meshtastic__antenas-rf/01.webp",
+    "precio_referencia": "$4–6",
+    "imagen": "/img/meshtastic__antenas-rf/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010572789349.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "1005010572789349",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010572789349.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Frecuencia",
@@ -33,43 +61,15 @@
         "k": "Ganancia",
         "v": "según especificaciones"
       }
-    ]
-  },
-  {
-    "rank": 2,
-    "nombre": "Kit antenas LoRa personalizadas (2 piezas)",
-    "descripcion_corta": "Pack de dos antenas LoRa personalizables para expandir alcance en redes Meshtastic.",
-    "por_que_comprarlo": [
-      "Vienen en pareja para configuraciones duales o redundancia",
-      "Rating excelente de 4.9 con 2000+ compras verificadas",
-      "Precio competitivo entre $9 y $10 para dos unidades"
     ],
-    "precio_referencia": "$9–10",
-    "imagen": "/img/meshtastic__antenas-rf/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006359246399.html",
-    "badge": null,
     "_src": {
-      "id": "1005006359246399",
-      "orders": 2000,
+      "id": "1005010572789349",
+      "orders": 5000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006359246399.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
-    "specs": [
-      {
-        "k": "Cantidad",
-        "v": "2 unidades"
-      },
-      {
-        "k": "Frecuencia",
-        "v": "según modelo"
-      },
-      {
-        "k": "Tipo de conector",
-        "v": "según modelo"
-      }
-    ]
+      "url": "https://www.aliexpress.com/item/1005010572789349.html",
+      "capturado": "2026-09-01",
+      "prevRank": 1
+    }
   },
   {
     "rank": 3,
@@ -80,18 +80,10 @@
       "Rating de 4.9 y precio muy bajo entre $1 y $3",
       "Cable RG178 de baja pérdida ideal para conexiones RF"
     ],
-    "precio_referencia": "$1–3",
+    "precio_referencia": "$2–4",
     "imagen": "/img/meshtastic__antenas-rf/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005073187553.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005005073187553",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005005073187553.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Conectores",
@@ -105,7 +97,15 @@
         "k": "Largo aproximado",
         "v": "1 metro"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005005073187553",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005005073187553.html",
+      "capturado": "2026-09-01",
+      "prevRank": 3
+    }
   },
   {
     "rank": 4,
@@ -120,14 +120,6 @@
     "imagen": "/img/meshtastic__antenas-rf/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008760784706.html",
     "badge": null,
-    "_src": {
-      "id": "1005008760784706",
-      "orders": 4000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005008760784706.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Componentes",
@@ -141,43 +133,51 @@
         "k": "Conectividad",
         "v": "BLE + LoRa"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008760784706",
+      "orders": 4000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005008760784706.html",
+      "capturado": "2026-09-01",
+      "prevRank": 4
+    }
   },
   {
     "rank": 5,
-    "nombre": "Adaptador SMA RP-SMA a SMA",
-    "descripcion_corta": "Conector pasivo para convertir RP-SMA macho a SMA estándar sin pérdida de señal.",
+    "nombre": "Adaptador conector SMA/RP-SMA macho-hembra",
+    "descripcion_corta": "Adaptador RF versátil para conectar y adaptar diferentes tipos de conectores SMA y RP-SMA.",
     "por_que_comprarlo": [
-      "10000+ ventas demuestran compatibilidad con múltiples antenas",
-      "Rating de 4.9 y precio mínimo entre $1 y $3",
-      "Accesorio esencial para interconectar diferentes tipos de conectores"
+      "Permite interconectar antenas con diferentes tipos de conectores",
+      "Compatibilidad universal con equipos RF estándar",
+      "Precio económico para tener adaptadores de repuesto"
     ],
-    "precio_referencia": "$1–3",
+    "precio_referencia": "$2–4",
     "imagen": "/img/meshtastic__antenas-rf/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007856979793.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005002939791937.html",
     "badge": null,
-    "_src": {
-      "id": "1005007856979793",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007856979793.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
-        "k": "Entrada",
-        "v": "SMA RP-SMA macho"
+        "k": "Tipo de conector",
+        "v": "SMA/RP-SMA macho-hembra"
       },
       {
-        "k": "Salida",
-        "v": "SMA estándar"
+        "k": "Impedancia",
+        "v": "50 Ohmios"
       },
       {
-        "k": "Material",
-        "v": "según modelo"
+        "k": "Aplicación",
+        "v": "Adaptador RF universal"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005002939791937",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005002939791937.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
   },
   {
     "rank": 6,
@@ -188,18 +188,10 @@
       "Diseño omnidireccional optimizado para montaje exterior",
       "Rating de 4.7 con conector N macho de calidad profesional"
     ],
-    "precio_referencia": "$6–7",
+    "precio_referencia": "$5–6",
     "imagen": "/img/meshtastic__antenas-rf/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009284785977.html",
     "badge": "Ticket alto",
-    "_src": {
-      "id": "1005009284785977",
-      "orders": 1000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005009284785977.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Frecuencias",
@@ -213,6 +205,86 @@
         "k": "Tipo",
         "v": "Omnidireccional exterior"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005009284785977",
+      "orders": 1000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005009284785977.html",
+      "capturado": "2026-09-01",
+      "prevRank": 6
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Amplificador antena Yagi para drones DJI",
+    "descripcion_corta": "Antena Yagi direccional que amplifica señal de control remoto para drones DJI con mayor alcance.",
+    "por_que_comprarlo": [
+      "Extiende significativamente el rango de control remoto del drone",
+      "Compatible con múltiples modelos DJI NEO, Air 3, Mini 3 y 4",
+      "Mejora la estabilidad y claridad de la transmisión de datos"
+    ],
+    "precio_referencia": "$2–3",
+    "imagen": "/img/meshtastic__antenas-rf/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005001436279059.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "DJI NEO/Air 3/Mini 3/4"
+      },
+      {
+        "k": "Tipo de antena",
+        "v": "Yagi direccional"
+      },
+      {
+        "k": "Aplicación",
+        "v": "Extensión de rango RF"
+      }
+    ],
+    "_src": {
+      "id": "1005001436279059",
+      "orders": 2000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005001436279059.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Adaptador SMA RP-SMA a SMA",
+    "descripcion_corta": "Conector pasivo para convertir RP-SMA macho a SMA estándar sin pérdida de señal.",
+    "por_que_comprarlo": [
+      "10000+ ventas demuestran compatibilidad con múltiples antenas",
+      "Rating de 4.9 y precio mínimo entre $1 y $3",
+      "Accesorio esencial para interconectar diferentes tipos de conectores"
+    ],
+    "precio_referencia": "$1–3",
+    "imagen": "/img/meshtastic__antenas-rf/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007856979793.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Entrada",
+        "v": "SMA RP-SMA macho"
+      },
+      {
+        "k": "Salida",
+        "v": "SMA estándar"
+      },
+      {
+        "k": "Material",
+        "v": "según modelo"
+      }
+    ],
+    "_src": {
+      "id": "1005007856979793",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007856979793.html",
+      "capturado": "2026-09-01",
+      "prevRank": 5
+    }
   }
 ]

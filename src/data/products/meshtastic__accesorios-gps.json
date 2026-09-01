@@ -1,0 +1,326 @@
+[
+  {
+    "rank": 1,
+    "nombre": "Módulo GPS NEO-6M con antena grande",
+    "descripcion_corta": "Módulo GPS de alta precisión con EEPROM integrada, compatible con sistemas de control de vuelo APM y MWC.",
+    "por_que_comprarlo": [
+      "5.000+ vendidos con rating 4.9, probado en el mercado",
+      "Compatible con múltiples plataformas de control de vuelo",
+      "Antena grande integrada para mejor recepción de señal"
+    ],
+    "precio_referencia": "$3–5",
+    "imagen": "/img/meshtastic__accesorios-gps/01.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966208907.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Modelo GPS",
+        "v": "NEO-6M / NEO6MV2"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "APM2.5, MWC, control de vuelo"
+      },
+      {
+        "k": "Comunicación",
+        "v": "UART / I2C según modelo"
+      }
+    ],
+    "_src": {
+      "id": "1005006966208907",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006966208907.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 2,
+    "nombre": "Pantalla OLED 1.3\" I2C/SPI",
+    "descripcion_corta": "Pantalla OLED monocromática de 128x64 píxeles con interfaz I2C y SPI, en blanco o azul.",
+    "por_que_comprarlo": [
+      "10.000+ vendidos, la más popular de la categoría",
+      "Funciona con I2C o SPI para máxima compatibilidad",
+      "Consumo bajo de energía ideal para dispositivos portátiles"
+    ],
+    "precio_referencia": "$2–3",
+    "imagen": "/img/meshtastic__accesorios-gps/02.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010532325.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Resolución",
+        "v": "128x64 píxeles"
+      },
+      {
+        "k": "Conexión",
+        "v": "I2C / SPI"
+      },
+      {
+        "k": "Colores disponibles",
+        "v": "Blanco / Azul"
+      }
+    ],
+    "_src": {
+      "id": "1005007010532325",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007010532325.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 3,
+    "nombre": "Pantalla E-Ink 2.9\" tricolor",
+    "descripcion_corta": "Pantalla de tinta electrónica WeAct en blanco, negro y rojo, ideal para visualización de bajo consumo.",
+    "por_que_comprarlo": [
+      "Pantalla tricolor en blanco, negro y rojo para mejor contraste",
+      "Consumo mínimo de energía, ideal para autonomía prolongada",
+      "5.000+ vendidos con excelente rating 4.9"
+    ],
+    "precio_referencia": "$9–10",
+    "imagen": "/img/meshtastic__accesorios-gps/03.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010324473.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tamaño",
+        "v": "2.9 pulgadas"
+      },
+      {
+        "k": "Colores",
+        "v": "Negro, blanco, rojo"
+      },
+      {
+        "k": "Conexión",
+        "v": "SPI"
+      }
+    ],
+    "_src": {
+      "id": "1005007010324473",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007010324473.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 4,
+    "nombre": "Rastreador GPS 4G TK905 con batería",
+    "descripcion_corta": "Rastreador GPS 4G/2G resistente al agua con imán y batería 5000mAh, incluye app gratuita de seguimiento.",
+    "por_que_comprarlo": [
+      "Conectividad dual 4G/2G para cobertura global",
+      "Batería 5000mAh con autonomía prolongada y resistencia al agua",
+      "4.000+ vendidos con aplicación gratuita y soporte comprobado"
+    ],
+    "precio_referencia": "$40–45",
+    "imagen": "/img/meshtastic__accesorios-gps/04.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010706643723.html",
+    "badge": "Ticket alto",
+    "specs": [
+      {
+        "k": "Conectividad",
+        "v": "GPS + 4G / 2G"
+      },
+      {
+        "k": "Batería",
+        "v": "5000mAh"
+      },
+      {
+        "k": "Impermeabilidad",
+        "v": "Resistente al agua"
+      }
+    ],
+    "_src": {
+      "id": "1005010706643723",
+      "orders": 4000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010706643723.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 6,
+    "nombre": "Módulo GNSS ATGM336H dual band",
+    "descripcion_corta": "Módulo de posicionamiento GPS + BDS con soporte dual band para control de vuelo y navegación.",
+    "por_que_comprarlo": [
+      "Doble sistema GPS + BDS para mejor precisión de posicionamiento",
+      "Compatible con control de vuelo y compatible con NEO-M8N",
+      "5.000+ vendidos a precio accesible"
+    ],
+    "precio_referencia": "$3–4",
+    "imagen": "/img/meshtastic__accesorios-gps/06.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009516593400.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Posicionamiento",
+        "v": "GPS + BDS dual"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Control de vuelo, NEO-M8N"
+      },
+      {
+        "k": "Conexión",
+        "v": "UART / I2C según modelo"
+      }
+    ],
+    "_src": {
+      "id": "1005009516593400",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009516593400.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Pantalla LCD TFT 2.0\" 240x320 SPI",
+    "descripcion_corta": "Pantalla LCD a color de 240x320 píxeles con interfaz SPI, basada en chip ST7789V para proyectos DIY.",
+    "por_que_comprarlo": [
+      "10.000+ vendidos, muy popular para proyectos con color",
+      "Resolución 240x320 con colores vibrantes para interfaces",
+      "Interfaz SPI simple y rápida, ideal para microcontroladores"
+    ],
+    "precio_referencia": "$3–5",
+    "imagen": "/img/meshtastic__accesorios-gps/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008145016084.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Resolución",
+        "v": "240x320 píxeles"
+      },
+      {
+        "k": "Conexión",
+        "v": "SPI"
+      },
+      {
+        "k": "Controlador",
+        "v": "ST7789V"
+      }
+    ],
+    "_src": {
+      "id": "1005008145016084",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008145016084.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Cables Dupont variados 10-30cm",
+    "descripcion_corta": "Set de 20 cables puente Dupont en variantes macho-macho, hembra-hembra y macho-hembra para prototipos.",
+    "por_que_comprarlo": [
+      "50.000+ vendidos, artículo esencial más comprado",
+      "Múltiples variantes en una sola compra para máxima flexibilidad",
+      "Disponible en 10cm, 20cm y 30cm según necesidad de proyecto"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/meshtastic__accesorios-gps/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006996497323.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Cantidad",
+        "v": "20 piezas"
+      },
+      {
+        "k": "Conectores",
+        "v": "M-M, H-H, M-H"
+      },
+      {
+        "k": "Largo",
+        "v": "10cm / 20cm / 30cm"
+      }
+    ],
+    "_src": {
+      "id": "1005006996497323",
+      "orders": 50000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006996497323.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Soporte batería CR2032 con switch",
+    "descripcion_corta": "Funda y soporte para pilas de botón CR2032 de 3V con interruptor on/off y caja de almacenamiento.",
+    "por_que_comprarlo": [
+      "Incluye interruptor integrado para control de encendido/apagado",
+      "Caja de almacenamiento para organizar múltiples baterías",
+      "Compatible con proyectos de bajo consumo y prototipos"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/meshtastic__accesorios-gps/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008422252426.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Batería",
+        "v": "CR2032 de 3V"
+      },
+      {
+        "k": "Cantidad",
+        "v": "1-5 soportes"
+      },
+      {
+        "k": "Características",
+        "v": "Con switch on/off"
+      }
+    ],
+    "_src": {
+      "id": "1005008422252426",
+      "orders": 2000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008422252426.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Adaptador SMA a UFL coaxial RG178",
+    "descripcion_corta": "Conjunto de 5 adaptadores coaxiales ángulo recto SMA a UFL/IPX/IPEX con cable RG178.",
+    "por_que_comprarlo": [
+      "Adaptador de ángulo recto para espacios reducidos",
+      "Cable coaxial RG178 de baja pérdida para RF",
+      "5 piezas en una compra para múltiples conexiones"
+    ],
+    "precio_referencia": "$3–4",
+    "imagen": "/img/meshtastic__accesorios-gps/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008914669798.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Cantidad",
+        "v": "5 piezas"
+      },
+      {
+        "k": "Conectores",
+        "v": "SMA a UFL/IPX/IPEX"
+      },
+      {
+        "k": "Cable RF",
+        "v": "RG178 coaxial"
+      }
+    ],
+    "_src": {
+      "id": "1005008914669798",
+      "orders": 113,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005008914669798.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  }
+]

@@ -1,38 +1,39 @@
 [
   {
     "rank": 1,
-    "nombre": "Mochila ligera AONIJIE C932 para correr",
-    "descripcion_corta": "Mochila compacta y liviana diseñada para carreras, con compartimentos para hidratación y accesorios.",
+    "nombre": "Riñonera de hidratación invisible con soporte",
+    "descripcion_corta": "Cinturón invisible para correr con compartimentos para botella, teléfono y accesorios de entrenamiento.",
     "por_que_comprarlo": [
-      "Peso reducido que no afecta el rendimiento en carrera",
-      "Bolsillo específico para vejiga de hidratación de 2L",
-      "Múltiples compartimentos organizados para teléfono y llaves"
+      "Diseño invisible que no se nota debajo de la ropa",
+      "Múltiples compartimentos para botella, teléfono y llaves",
+      "Material transpirable y ajustable para cualquier talla"
     ],
-    "precio_referencia": "$22–26",
+    "precio_referencia": "$13–15",
     "imagen": "/img/running__hidratacion-carga/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32969609904.html",
-    "badge": null,
-    "_src": {
-      "id": "32969609904",
-      "orders": 500,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/32969609904.html",
-      "capturado": "2026-08-31"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004621760961.html",
+    "badge": "El más vendido",
     "specs": [
       {
+        "k": "Tipo",
+        "v": "Riñonera invisible"
+      },
+      {
         "k": "Capacidad",
-        "v": "Según modelo, típicamente 10-15L"
+        "v": "Según modelo"
       },
       {
         "k": "Material",
-        "v": "Tela resistente al agua"
-      },
-      {
-        "k": "Peso",
-        "v": "Menos de 300g"
+        "v": "Nylon transpirable"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005004621760961",
+      "orders": 900,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005004621760961.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 2,
@@ -47,13 +48,6 @@
     "imagen": "/img/running__hidratacion-carga/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008558756760.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005008558756760",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008558756760.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Capacidad",
@@ -67,28 +61,29 @@
         "k": "Peso",
         "v": "Menos de 100g"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008558756760",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008558756760.html",
+      "capturado": "2026-08-31",
+      "prevRank": 2
+    }
   },
   {
     "rank": 3,
-    "nombre": "Botella de agua TPU plegable NEWBOLER 250-500ml",
-    "descripcion_corta": "Botella ultraligera y plegable que ocupa poco espacio y se adapta a mochilas o bolsillos.",
+    "nombre": "Botella plegable de agua TPU 250-500ml",
+    "descripcion_corta": "Botella deportiva flexible de TPU sin BPA, ideal para correr, camping y actividades al aire libre.",
     "por_que_comprarlo": [
-      "Material flexible permite compactarla cuando está vacía",
-      "Dosificación en 250ml o 500ml según necesidad",
-      "Fácil de llevar en carreras cortas o entrenamientos"
+      "Se pliega completamente cuando está vacía para ahorrar espacio",
+      "Material TPU resistente y libre de químicos nocivos",
+      "Tamaño compacto perfecto para llevar en mochilas pequeñas"
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$3–4",
     "imagen": "/img/running__hidratacion-carga/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007170792709.html",
-    "badge": "El más vendido",
-    "_src": {
-      "id": "1005007170792709",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007170792709.html",
-      "capturado": "2026-08-31"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008505685816.html",
+    "badge": null,
     "specs": [
       {
         "k": "Capacidad",
@@ -96,13 +91,21 @@
       },
       {
         "k": "Material",
-        "v": "TPU plegable y flexible"
+        "v": "TPU libre de BPA"
       },
       {
         "k": "Peso",
-        "v": "Menos de 50g vacía"
+        "v": "Ligero"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008505685816",
+      "orders": 3000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005008505685816.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 4,
@@ -117,13 +120,6 @@
     "imagen": "/img/running__hidratacion-carga/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006861068109.html",
     "badge": null,
-    "_src": {
-      "id": "1005006861068109",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006861068109.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Capacidad",
@@ -137,42 +133,51 @@
         "k": "Peso",
         "v": "Aproximadamente 400-500g"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006861068109",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006861068109.html",
+      "capturado": "2026-08-31",
+      "prevRank": 4
+    }
   },
   {
     "rank": 5,
-    "nombre": "Cinturón elástico con gancho y velcro",
-    "descripcion_corta": "Cintura elástica ajustable con sistemas de fijación para anclar accesorios durante el ejercicio.",
+    "nombre": "Cinturón elástico ajustable sin hebilla",
+    "descripcion_corta": "Cinturón unisex elástico con gancho de metal, ideal para uso diario y actividades al aire libre.",
     "por_que_comprarlo": [
-      "Velcro y ganchos permiten personalizar la distribución de carga",
-      "Elástico se adapta a diferentes contexuras y tallas",
-      "Opción económica para organizar pequeños objetos"
+      "Ajuste rápido y cómodo sin necesidad de hebilla",
+      "Gancho de metal resistente que aguanta carga",
+      "Material elástico se adapta a diferentes tallas y cuerpos"
     ],
-    "precio_referencia": "$3–5",
+    "precio_referencia": "$2–4",
     "imagen": "/img/running__hidratacion-carga/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005011564791743.html",
-    "badge": null,
-    "_src": {
-      "id": "1005011564791743",
-      "orders": 10000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005011564791743.html",
-      "capturado": "2026-08-31"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005011781407410.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Capacidad",
-        "v": "Soporte para artículos ligeros"
+        "k": "Tipo",
+        "v": "Cinturón ajustable"
       },
       {
         "k": "Material",
-        "v": "Neopreno y velcro"
+        "v": "Elástico con gancho metal"
       },
       {
         "k": "Peso",
-        "v": "Menos de 80g"
+        "v": "Ultraligero"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005011781407410",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005011781407410.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 6,
@@ -183,17 +188,10 @@
       "Acceso rápido a móvil para música o navegación sin parar",
       "Compatible con múltiples modelos de iPhone y android según tamaño"
     ],
-    "precio_referencia": "$4–5",
+    "precio_referencia": "$5–7",
     "imagen": "/img/running__hidratacion-carga/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966286747.html",
     "badge": null,
-    "_src": {
-      "id": "1005006966286747",
-      "orders": 2000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006966286747.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Compatibilidad",
@@ -207,6 +205,158 @@
         "k": "Peso",
         "v": "Menos de 50g"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006966286747",
+      "orders": 2000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006966286747.html",
+      "capturado": "2026-08-31",
+      "prevRank": 6
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Chaleco de hidratación transpirable",
+    "descripcion_corta": "Mochila ligera y transpirable para llevar agua y accesorios durante correr, ciclismo o trekking.",
+    "por_que_comprarlo": [
+      "Distribución ergonómica del peso en el pecho y espalda",
+      "Tela transpirable que seca rápido y evita rozaduras",
+      "Compartimentos organizados para botellas y objetos personales"
+    ],
+    "precio_referencia": "$10–12",
+    "imagen": "/img/running__hidratacion-carga/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860868428.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Chaleco de hidratación"
+      },
+      {
+        "k": "Capacidad",
+        "v": "Según modelo"
+      },
+      {
+        "k": "Material",
+        "v": "Transpirable"
+      }
+    ],
+    "_src": {
+      "id": "1005006860868428",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006860868428.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Riñonera deportiva elástica con número",
+    "descripcion_corta": "Cinturón deportivo elástico con compartimentos para número de carrera, teléfono y accesorios.",
+    "por_que_comprarlo": [
+      "Soporte integrado para número de carrera en maratones",
+      "Bolsillo especial para teléfono con acceso fácil",
+      "Material elástico se adapta a cualquier movimiento"
+    ],
+    "precio_referencia": "$3–4",
+    "imagen": "/img/running__hidratacion-carga/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008909024210.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Riñonera deportiva"
+      },
+      {
+        "k": "Capacidad",
+        "v": "Según modelo"
+      },
+      {
+        "k": "Material",
+        "v": "Elástico transpirable"
+      }
+    ],
+    "_src": {
+      "id": "1005008909024210",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008909024210.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Clips magnéticos multifunción para ropa",
+    "descripcion_corta": "Par de clips magnéticos con cadena para fijar bufandas, pantalones y accesorios durante actividades.",
+    "por_que_comprarlo": [
+      "Imán fuerte que sujeta telas sin dañarlas",
+      "Cadena incluida para mayor seguridad y versatilidad",
+      "Funciona con múltiples tipos de ropa y accesorios"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/running__hidratacion-carga/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012102127069.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Clips magnéticos"
+      },
+      {
+        "k": "Cantidad",
+        "v": "2 unidades"
+      },
+      {
+        "k": "Material",
+        "v": "Metal magnético"
+      }
+    ],
+    "_src": {
+      "id": "1005012102127069",
+      "orders": 3000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005012102127069.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Bolsa de agua deportiva flexible 1.5-3L",
+    "descripcion_corta": "Botella de hidratación flexible de PEVA para camping, ciclismo y deportes al aire libre.",
+    "por_que_comprarlo": [
+      "Capacidad grande de 1.5L a 3L para largas jornadas",
+      "Material PEVA flexible que se ajusta al espacio disponible",
+      "Resistente al frío y retiene la temperatura del líquido"
+    ],
+    "precio_referencia": "$8–9",
+    "imagen": "/img/running__hidratacion-carga/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860820312.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "1.5L, 2L o 3L"
+      },
+      {
+        "k": "Material",
+        "v": "PEVA flexible"
+      },
+      {
+        "k": "Peso",
+        "v": "Ligero según tamaño"
+      }
+    ],
+    "_src": {
+      "id": "1005006860820312",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006860820312.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   }
 ]

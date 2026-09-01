@@ -1,42 +1,6 @@
 [
   {
     "rank": 1,
-    "nombre": "Placa de construcción doble cara con resorte",
-    "descripcion_corta": "Placa de acero reversible con resorte para mejor adherencia e impresiones precisas en Bambu Lab A1.",
-    "por_que_comprarlo": [
-      "Doble cara aprovecha más el material y extiende la vida útil",
-      "Resorte integrado mejora la adherencia en cada impresión",
-      "Compatible con múltiples modelos Bambu Lab"
-    ],
-    "precio_referencia": "$10–11",
-    "imagen": "/img/impresion-3d__plato-accesorios/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005946908794.html",
-    "badge": "El más vendido",
-    "_src": {
-      "id": "1005005946908794",
-      "orders": 10000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005005946908794.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
-    "specs": [
-      {
-        "k": "Material",
-        "v": "Acero con resorte"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Bambu Lab A1 y modelos"
-      },
-      {
-        "k": "Caras",
-        "v": "2 (reversible)"
-      }
-    ]
-  },
-  {
-    "rank": 2,
     "nombre": "Placa de construcción compatible X1C P1P A1",
     "descripcion_corta": "Placa de reemplazo universal para Bambu Lab A1, X1C, P1P y otros modelos con excelente adhesión.",
     "por_que_comprarlo": [
@@ -45,17 +9,9 @@
       "Precio accesible para reemplazo de desgaste"
     ],
     "precio_referencia": "$9–11",
-    "imagen": "/img/impresion-3d__plato-accesorios/02.webp",
+    "imagen": "/img/impresion-3d__plato-accesorios/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007458990197.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005007458990197",
-      "orders": 5000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005007458990197.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Material",
@@ -69,7 +25,51 @@
         "k": "Adhesión",
         "v": "Mejorada"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007458990197",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007458990197.html",
+      "capturado": "2026-09-01",
+      "prevRank": 2
+    }
+  },
+  {
+    "rank": 2,
+    "nombre": "Placa de construcción acero resorte lisa A1/P1P/X1C",
+    "descripcion_corta": "Placa de acero con resorte integrado para impresión 3D, compatible con múltiples modelos Bambu Lab.",
+    "por_que_comprarlo": [
+      "Superficie lisa y durable para adhesión consistente",
+      "Compatible con A1, P1P, P1S, X1C y otros modelos",
+      "Más de 5.000 unidades vendidas con rating 4.8"
+    ],
+    "precio_referencia": "$7–8",
+    "imagen": "/img/impresion-3d__plato-accesorios/02.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009356565432.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Acero de resorte"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "A1, P1P, P1S, X1C, X2D, P2S"
+      },
+      {
+        "k": "Superficie",
+        "v": "Lisa"
+      }
+    ],
+    "_src": {
+      "id": "1005009356565432",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005009356565432.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
   },
   {
     "rank": 3,
@@ -80,18 +80,10 @@
       "Mejora significativa en manejo y almacenamiento de filamento",
       "Bajo costo para optimizar flujo de trabajo"
     ],
-    "precio_referencia": "$4–5",
+    "precio_referencia": "$5–7",
     "imagen": "/img/impresion-3d__plato-accesorios/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012588897317.html",
     "badge": null,
-    "_src": {
-      "id": "1005012588897317",
-      "orders": 278,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005012588897317.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -105,7 +97,15 @@
         "k": "Material",
         "v": "Según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005012588897317",
+      "orders": 282,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005012588897317.html",
+      "capturado": "2026-09-01",
+      "prevRank": 3
+    }
   },
   {
     "rank": 4,
@@ -120,14 +120,6 @@
     "imagen": "/img/impresion-3d__plato-accesorios/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966620068.html",
     "badge": null,
-    "_src": {
-      "id": "1005006966620068",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006966620068.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Material",
@@ -141,78 +133,230 @@
         "k": "Función",
         "v": "Guía de filamento"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006966620068",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006966620068.html",
+      "capturado": "2026-09-01",
+      "prevRank": 4
+    }
   },
   {
     "rank": 5,
-    "nombre": "AMS Lite hub de filamentos Bambu Lab",
-    "descripcion_corta": "Módulo adicional AMS Lite que expande la capacidad de carga de filamentos en sistemas Bambu Lab.",
+    "nombre": "Lubricante para impresora 3D, reduce ruido",
+    "descripcion_corta": "Grasa especializada que reduce ruido y mejora la lubricación de rieles y guías de impresoras 3D.",
     "por_que_comprarlo": [
-      "Permite usar más colores sin cambio manual de bobinas",
-      "Integración directa con A1 sin modificaciones",
-      "Rating 4.9 de usuarios con experiencia probada"
+      "Reduce significativamente el ruido operativo",
+      "Lubricación eficaz para rieles CNC y guías",
+      "Rating 4.9 con más de 5.000 ventas"
     ],
-    "precio_referencia": "$5–6",
+    "precio_referencia": "$4–5",
     "imagen": "/img/impresion-3d__plato-accesorios/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007450477499.html",
-    "badge": null,
-    "_src": {
-      "id": "1005007450477499",
-      "orders": 2000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007450477499.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006615126160.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
         "k": "Tipo",
-        "v": "Módulo AMS Lite"
+        "v": "Grasa lubricante"
       },
       {
         "k": "Compatibilidad",
-        "v": "Bambu Lab A1 y AMS"
+        "v": "X1C, P1S, Ender 3, CNC"
       },
       {
-        "k": "Función",
-        "v": "Expansión de filamento"
+        "k": "Función principal",
+        "v": "Reducción de ruido"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006615126160",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006615126160.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
   },
   {
     "rank": 6,
-    "nombre": "Kit lámpara LED para Bambu Lab",
-    "descripcion_corta": "Iluminación LED diseñada para mejorar la visualización de impresiones en impresoras Bambu Lab.",
+    "nombre": "Tira LED 24V Ra95 para A1/A1mini",
+    "descripcion_corta": "Iluminación LED blanca de alta intensidad 24V con índice de reproducción Ra95 para impresora A1.",
     "por_que_comprarlo": [
-      "Facilita monitoreo visual y captura de timelapse de impresiones",
-      "10000+ compras avalan compatibilidad y funcionalidad",
-      "Precio accesible para mejora sustancial de experiencia"
+      "Luz blanca superbrillante con Ra95 para visibilidad óptima",
+      "Voltaje 24V compatible con A1 y A1mini",
+      "Más de 5.000 unidades vendidas"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d__plato-accesorios/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009717076995.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009073101347.html",
     "badge": null,
-    "_src": {
-      "id": "1005009717076995",
-      "orders": 10000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005009717076995.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Lámpara LED"
+        "k": "Voltaje",
+        "v": "24V"
+      },
+      {
+        "k": "Índice de reproducción",
+        "v": "Ra95"
       },
       {
         "k": "Compatibilidad",
-        "v": "Bambu Lab (universal)"
+        "v": "A1, A1mini"
+      }
+    ],
+    "_src": {
+      "id": "1005009073101347",
+      "orders": 5000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005009073101347.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Adhesivo barra PVP 25g, lavable",
+    "descripcion_corta": "Pegamento sólido PVP lavable de 25g que evita deformaciones en placas de construcción.",
+    "por_que_comprarlo": [
+      "Fórmula lavable y reutilizable, económica",
+      "No tóxico y anti-deformación garantizado",
+      "Rating 4.9, ideal para vidrio y placas construcción"
+    ],
+    "precio_referencia": "$2–3",
+    "imagen": "/img/impresion-3d__plato-accesorios/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010285367952.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "PVP (polivinil pirrolidona)"
       },
       {
-        "k": "Función",
-        "v": "Iluminación de cámara"
+        "k": "Peso",
+        "v": "25 gramos"
+      },
+      {
+        "k": "Características",
+        "v": "Lavable, no tóxico"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010285367952",
+      "orders": 2000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010285367952.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Kit herramientas 5 en 1 con pala metálica",
+    "descripcion_corta": "Set de herramientas multiusos con espátula de silicona, removedor y raspador de esquinas metálico.",
+    "por_que_comprarlo": [
+      "50.000+ unidades vendidas, producto probado",
+      "5 funciones en 1: espátula, removedor, raspador, sellador",
+      "Pala con cabeza metálica resistente y duradera"
+    ],
+    "precio_referencia": "$2–3",
+    "imagen": "/img/impresion-3d__plato-accesorios/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007716791304.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Cantidad de funciones",
+        "v": "5 en 1"
+      },
+      {
+        "k": "Material pala",
+        "v": "Cabeza metálica"
+      },
+      {
+        "k": "Incluye",
+        "v": "Silicona, raspador, sellador"
+      }
+    ],
+    "_src": {
+      "id": "1005007716791304",
+      "orders": 50000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005007716791304.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Placa construcción PEI texturizada 257x257",
+    "descripcion_corta": "Placa de acero resorte con superficie PEI texturizada para adhesión superior en impresoras Bambu Lab.",
+    "por_que_comprarlo": [
+      "Superficie texturizada PEI para mejor agarre del filamento",
+      "Compatible con X1 Carbon, P1S, X1C y P1P",
+      "Rating 4.8 con más de 5.000 ventas"
+    ],
+    "precio_referencia": "$5–6",
+    "imagen": "/img/impresion-3d__plato-accesorios/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009140144183.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Acero resorte con PEI"
+      },
+      {
+        "k": "Superficie",
+        "v": "Texturizada"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "X1 Carbon, P1S, X1C, P1P"
+      }
+    ],
+    "_src": {
+      "id": "1005009140144183",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005009140144183.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Almohadillas algodón desinfectantes, 100 un",
+    "descripcion_corta": "Almohadillas desechables de algodón para limpieza y desinfección de pantallas y superficies.",
+    "por_que_comprarlo": [
+      "Presentación de 100 unidades, rendimiento prolongado",
+      "Ideal para limpieza de pantallas, gafas y superficies",
+      "10.000+ ventas con rating 4.9"
+    ],
+    "precio_referencia": "$3–5",
+    "imagen": "/img/impresion-3d__plato-accesorios/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007805630299.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Algodón desechable"
+      },
+      {
+        "k": "Cantidad",
+        "v": "100 unidades"
+      },
+      {
+        "k": "Uso",
+        "v": "Limpieza y desinfección"
+      }
+    ],
+    "_src": {
+      "id": "1005007805630299",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007805630299.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
   }
 ]

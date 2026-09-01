@@ -1,38 +1,39 @@
 [
   {
     "rank": 1,
-    "nombre": "Pistola de masaje portátil para fascia",
-    "descripcion_corta": "Dispositivo de masaje manual para aliviar tensión muscular y acelerar recuperación después de entrenamientos.",
+    "nombre": "Pistola de masaje muscular eléctrica con 4 cabezales",
+    "descripcion_corta": "Masajeador de percusión recargable para alivio de dolor muscular y recuperación de tejido profundo.",
     "por_que_comprarlo": [
-      "Alivia contracturas y dolor muscular en minutos",
-      "Portátil y fácil de usar en cualquier momento",
-      "Mejora la circulación y reduce el tiempo de recuperación"
+      "4 cabezales intercambiables para diferentes grupos musculares",
+      "Portátil y recargable, ideal para usar después de entrenamientos",
+      "Penetración profunda en fascia para recuperación efectiva"
     ],
-    "precio_referencia": "$19–22",
+    "precio_referencia": "$30–35",
     "imagen": "/img/running__recuperacion/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007171266187.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008144764868.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "1005007171266187",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007171266187.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Masaje manual"
+        "k": "Cabezales",
+        "v": "4 intercambiables"
       },
       {
-        "k": "Portabilidad",
-        "v": "Compacta y ligera"
+        "k": "Fuente de energía",
+        "v": "Batería recargable"
       },
       {
-        "k": "Uso",
-        "v": "Post-entreno y recuperación"
+        "k": "Frecuencia",
+        "v": "Según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008144764868",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008144764868.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 2,
@@ -47,13 +48,6 @@
     "imagen": "/img/running__recuperacion/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004232062585.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005004232062585",
-      "orders": 4000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005004232062585.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Largo",
@@ -67,7 +61,15 @@
         "k": "Uso",
         "v": "Elongación y recuperación"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005004232062585",
+      "orders": 4000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005004232062585.html",
+      "capturado": "2026-08-31",
+      "prevRank": 2
+    }
   },
   {
     "rank": 3,
@@ -82,13 +84,6 @@
     "imagen": "/img/running__recuperacion/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012052998168.html",
     "badge": null,
-    "_src": {
-      "id": "1005012052998168",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005012052998168.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Compresión",
@@ -102,7 +97,15 @@
         "k": "Uso",
         "v": "Diario y post-entreno"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005012052998168",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005012052998168.html",
+      "capturado": "2026-08-31",
+      "prevRank": 3
+    }
   },
   {
     "rank": 4,
@@ -117,13 +120,6 @@
     "imagen": "/img/running__recuperacion/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010044220249.html",
     "badge": null,
-    "_src": {
-      "id": "1005010044220249",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010044220249.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -137,7 +133,15 @@
         "k": "Ajuste",
         "v": "Elástico y regulable"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010044220249",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010044220249.html",
+      "capturado": "2026-08-31",
+      "prevRank": 4
+    }
   },
   {
     "rank": 5,
@@ -152,13 +156,6 @@
     "imagen": "/img/running__recuperacion/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008248073703.html",
     "badge": null,
-    "_src": {
-      "id": "1005008248073703",
-      "orders": 3000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008248073703.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Material",
@@ -172,7 +169,15 @@
         "k": "Uso",
         "v": "Taping y soporte articular"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008248073703",
+      "orders": 3000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008248073703.html",
+      "capturado": "2026-08-31",
+      "prevRank": 5
+    }
   },
   {
     "rank": 6,
@@ -187,13 +192,6 @@
     "imagen": "/img/running__recuperacion/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006995309430.html",
     "badge": null,
-    "_src": {
-      "id": "1005006995309430",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006995309430.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Material",
@@ -207,6 +205,158 @@
         "k": "Uso",
         "v": "Running y entrenamientos"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006995309430",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006995309430.html",
+      "capturado": "2026-08-31",
+      "prevRank": 6
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Rodillo de masaje manual para pies",
+    "descripcion_corta": "Rodillo de plástico para masajear fascia plantar y aliviar tensión en los pies tras correr.",
+    "por_que_comprarlo": [
+      "Alivia dolor de fascia plantar y tensión acumulada",
+      "Fácil de usar en cualquier momento, sin electricidad",
+      "Compacto y portátil para recuperación en casa o viajes"
+    ],
+    "precio_referencia": "$4–5",
+    "imagen": "/img/running__recuperacion/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010155191971.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Plástico durable"
+      },
+      {
+        "k": "Tipo de masaje",
+        "v": "Manual, sin motorización"
+      },
+      {
+        "k": "Portabilidad",
+        "v": "Muy ligero y compacto"
+      }
+    ],
+    "_src": {
+      "id": "1005010155191971",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010155191971.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Mangas de compresión para pantorrilla 20-30 mmhg",
+    "descripcion_corta": "Calcetines de compresión para correr que mejoran circulación y reducen fatiga muscular.",
+    "por_que_comprarlo": [
+      "Compresión graduada de 20-30 mmhg para mejor flujo sanguíneo",
+      "Previene calambres y fatiga durante y después del running",
+      "Válidas para hombres y mujeres, uso diario o deportivo"
+    ],
+    "precio_referencia": "$2–3",
+    "imagen": "/img/running__recuperacion/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007344795709.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Compresión",
+        "v": "20-30 mmhg"
+      },
+      {
+        "k": "Cobertura",
+        "v": "Pantorrilla hasta rodilla"
+      },
+      {
+        "k": "Género",
+        "v": "Hombres y mujeres"
+      }
+    ],
+    "_src": {
+      "id": "1005007344795709",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007344795709.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Bandas de resistencia en bucle de látex",
+    "descripcion_corta": "Juego de bandas de resistencia para entrenamiento de fuerza y recuperación en casa.",
+    "por_que_comprarlo": [
+      "Múltiples niveles de resistencia en un juego completo",
+      "Portátiles para ejercicios de recuperación en cualquier lugar",
+      "Versátiles para yoga, estiramientos y entrenamiento funcional"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/running__recuperacion/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010227782.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Látex natural"
+      },
+      {
+        "k": "Formato",
+        "v": "Bucles cerrados"
+      },
+      {
+        "k": "Niveles",
+        "v": "Múltiples resistencias"
+      }
+    ],
+    "_src": {
+      "id": "1005007010227782",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007010227782.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Calcetines de fútbol profesionales con compresión",
+    "descripcion_corta": "Manga de compresión transpirable para pantorrilla, diseñada para correr y deportes.",
+    "por_que_comprarlo": [
+      "Compresión en pantorrilla para mejor flujo y recuperación",
+      "Material transpirable que reduce humedad durante actividad",
+      "Válido para fútbol, baloncesto, running y otros deportes"
+    ],
+    "precio_referencia": "$3–4",
+    "imagen": "/img/running__recuperacion/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007857126590.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Manga compresión pantorrilla"
+      },
+      {
+        "k": "Transpirabilidad",
+        "v": "Alta"
+      },
+      {
+        "k": "Deportes",
+        "v": "Fútbol, baloncesto, running"
+      }
+    ],
+    "_src": {
+      "id": "1005007857126590",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007857126590.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   }
 ]

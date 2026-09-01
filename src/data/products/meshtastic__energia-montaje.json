@@ -1,39 +1,39 @@
 [
   {
     "rank": 1,
-    "nombre": "Batería de litio 18650 3500mAh",
-    "descripcion_corta": "Celda recargable de alta capacidad para dispositivos portátiles y sistemas de energía.",
+    "nombre": "Caja de soporte para batería 18650",
+    "descripcion_corta": "Caja de almacenamiento de plástico para baterías 18650 de 3,7V con cables conectores incluidos.",
     "por_que_comprarlo": [
-      "Alta capacidad de 3500mAh con ciclos de carga extendidos",
-      "Compatible con cargadores estándar 18650 y módulos de control",
-      "Voltaje estable para aplicaciones de Meshtastic y electrónica"
+      "Soporta 1 a 4 celdas según necesidad",
+      "Incluye cables negros y rojos pre-conectados",
+      "Precio muy accesible para consumibles"
     ],
-    "precio_referencia": "$6–7",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__energia-montaje/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008078553867.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008554687329.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "1005008078553867",
-      "orders": 5000,
-      "rating": 4.5,
-      "url": "https://www.aliexpress.com/item/1005008078553867.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
-        "k": "Capacidad",
-        "v": "3500mAh"
+        "k": "Tensión nominal",
+        "v": "3,7V"
       },
       {
-        "k": "Tipo",
-        "v": "Litio 18650"
+        "k": "Capacidad de celdas",
+        "v": "1 a 4 celdas"
       },
       {
-        "k": "Voltaje nominal",
-        "v": "3.7V"
+        "k": "Material",
+        "v": "Plástico ABS"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008554687329",
+      "orders": 10000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005008554687329.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
   },
   {
     "rank": 2,
@@ -48,14 +48,6 @@
     "imagen": "/img/meshtastic__energia-montaje/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007482296213.html",
     "badge": null,
-    "_src": {
-      "id": "1005007482296213",
-      "orders": 1000,
-      "rating": 4.6,
-      "url": "https://www.aliexpress.com/item/1005007482296213.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Capacidad",
@@ -69,7 +61,15 @@
         "k": "Protección",
         "v": "Aislamiento de contactos"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007482296213",
+      "orders": 1000,
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005007482296213.html",
+      "capturado": "2026-09-01",
+      "prevRank": 2
+    }
   },
   {
     "rank": 3,
@@ -84,14 +84,6 @@
     "imagen": "/img/meshtastic__energia-montaje/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008932865297.html",
     "badge": null,
-    "_src": {
-      "id": "1005008932865297",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008932865297.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Fuente",
@@ -105,7 +97,15 @@
         "k": "Potencia",
         "v": "según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008932865297",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008932865297.html",
+      "capturado": "2026-09-01",
+      "prevRank": 3
+    }
   },
   {
     "rank": 4,
@@ -120,14 +120,6 @@
     "imagen": "/img/meshtastic__energia-montaje/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010585482772.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005010585482772",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010585482772.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Compatibilidad",
@@ -141,7 +133,15 @@
         "k": "Entrada",
         "v": "Micro-USB"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010585482772",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010585482772.html",
+      "capturado": "2026-09-01",
+      "prevRank": 4
+    }
   },
   {
     "rank": 5,
@@ -156,14 +156,6 @@
     "imagen": "/img/meshtastic__energia-montaje/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005003422066803.html",
     "badge": null,
-    "_src": {
-      "id": "1005003422066803",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005003422066803.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Material",
@@ -177,42 +169,194 @@
         "k": "Acceso",
         "v": "Puertos para cables"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005003422066803",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005003422066803.html",
+      "capturado": "2026-09-01",
+      "prevRank": 5
+    }
   },
   {
     "rank": 6,
-    "nombre": "Adaptador de montaje en poste Starlink Gen 3",
-    "descripcion_corta": "Soporte metálico para fijar antenas Starlink Gen 3 en postes externos.",
+    "nombre": "Soporte de techo para antena de radio",
+    "descripcion_corta": "Soporte base para antena de radio compatible con Nissan modelos 2001-2010.",
     "por_que_comprarlo": [
-      "Facilita instalación segura de antenas en altura para mejor cobertura",
-      "Compatible específico con Starlink Gen 3 y sistemas Meshtastic",
-      "Resistente a intemperie para uso exterior prolongado"
+      "Compatible con múltiples años de Nissan",
+      "Instalación directa sin modificaciones",
+      "Material resistente a intemperie"
     ],
-    "precio_referencia": "$14–16",
+    "precio_referencia": "$3–4",
     "imagen": "/img/meshtastic__energia-montaje/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009874218578.html",
-    "badge": "Ticket alto",
-    "_src": {
-      "id": "1005009874218578",
-      "orders": 1000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009874218578.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005601233215.html",
+    "badge": null,
     "specs": [
       {
         "k": "Compatibilidad",
-        "v": "Starlink Gen 3"
+        "v": "Nissan 2001-2010"
+      },
+      {
+        "k": "Ubicación",
+        "v": "Techo"
       },
       {
         "k": "Material",
-        "v": "Metal galvanizado"
+        "v": "Según modelo"
+      }
+    ],
+    "_src": {
+      "id": "1005005601233215",
+      "orders": 1000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005005601233215.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Controlador de carga solar PWM/MPPT",
+    "descripcion_corta": "Regulador de carga para paneles solares 12/24V con salida USB, ideal para sistemas autónomos.",
+    "por_que_comprarlo": [
+      "Selecciona entre PWM y MPPT según sistema",
+      "Múltiples amperajes disponibles hasta 30A",
+      "Salida USB 5V integrada para cargar dispositivos"
+    ],
+    "precio_referencia": "$4–5",
+    "imagen": "/img/meshtastic__energia-montaje/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007009664943.html",
+    "badge": "Ticket alto",
+    "specs": [
+      {
+        "k": "Tensión",
+        "v": "12V / 24V"
       },
       {
-        "k": "Instalación",
-        "v": "En poste"
+        "k": "Corriente máxima",
+        "v": "10A / 20A / 30A"
+      },
+      {
+        "k": "Voltaje entrada PV",
+        "v": "Hasta 50V"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007009664943",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007009664943.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Prensaestopas impermeables IP68",
+    "descripcion_corta": "Conectores impermeables de nailon para proteger paso de cables en aplicaciones exteriores.",
+    "por_que_comprarlo": [
+      "Certificación IP68 para completa estanqueidad",
+      "Múltiples tamaños PG7 a PG36 disponibles",
+      "Venta en lotes de 1 a 10 piezas"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/meshtastic__energia-montaje/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005003296249352.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Protección",
+        "v": "IP68"
+      },
+      {
+        "k": "Tamaños disponibles",
+        "v": "PG7 a PG36"
+      },
+      {
+        "k": "Material",
+        "v": "Nailon blanco/negro"
+      }
+    ],
+    "_src": {
+      "id": "1005003296249352",
+      "orders": 10000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005003296249352.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Batería Lipo 3,7V con conector Ph2.0",
+    "descripcion_corta": "Batería de litio recargable 3,7V para GPS, altavoces, MP3 y otros dispositivos portátiles.",
+    "por_que_comprarlo": [
+      "Compatible con múltiples dispositivos comunes",
+      "Recargable y reutilizable",
+      "Conector Ph2.0 estandarizado"
+    ],
+    "precio_referencia": "$9–11",
+    "imagen": "/img/meshtastic__energia-montaje/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008218024646.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Tensión nominal",
+        "v": "3,7V"
+      },
+      {
+        "k": "Tipo celda",
+        "v": "Lipo recargable"
+      },
+      {
+        "k": "Conector",
+        "v": "Ph2.0"
+      }
+    ],
+    "_src": {
+      "id": "1005008218024646",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005008218024646.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Disipador de calor aluminio con pasta",
+    "descripcion_corta": "Radiador de aluminio para chips y procesadores con cinta térmica conductora incluida.",
+    "por_que_comprarlo": [
+      "Compatible con Raspberry Pi y otros IC",
+      "Incluye cinta térmica conductora",
+      "Disponible en lotes de 1 a 10 piezas"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/meshtastic__energia-montaje/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006982231878.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Aluminio"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "Raspberry Pi / IC genérico"
+      },
+      {
+        "k": "Accesorios",
+        "v": "Cinta térmica incluida"
+      }
+    ],
+    "_src": {
+      "id": "1005006982231878",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006982231878.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
   }
 ]

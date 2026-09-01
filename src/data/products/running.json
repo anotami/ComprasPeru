@@ -12,13 +12,6 @@
     "imagen": "/img/running/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32969609904.html",
     "badge": null,
-    "_src": {
-      "id": "32969609904",
-      "orders": 500,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/32969609904.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Capacidad",
@@ -32,42 +25,51 @@
         "k": "Material",
         "v": "poliéster resistente al agua"
       }
-    ]
+    ],
+    "_src": {
+      "id": "32969609904",
+      "orders": 500,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/32969609904.html",
+      "capturado": "2026-08-31",
+      "prevRank": 1
+    }
   },
   {
     "rank": 2,
-    "nombre": "Auriculares Bluetooth 5.3 conducción aérea",
-    "descripcion_corta": "Auriculares inalámbricos con tecnología de conducción aérea y Bluetooth 5.3.",
+    "nombre": "Auriculares inalámbricos deportivos con conducción ósea",
+    "descripcion_corta": "Auriculares Bluetooth con clip para oreja, conducción ósea y cancelación de ruido para entrenamientos.",
     "por_que_comprarlo": [
-      "Conducción aérea deja oídos libres para escuchar entorno",
-      "Bluetooth 5.3 garantiza conexión estable y rápida",
-      "Ideal para runners que necesitan seguridad y comodidad"
+      "Conducción ósea permite escuchar sin ocluir los oídos",
+      "Cancelación de ruido activa para entrenamientos en cualquier ambiente",
+      "Diseño con clip seguro que no se cae durante el movimiento"
     ],
-    "precio_referencia": "$5–6",
+    "precio_referencia": "$3–5",
     "imagen": "/img/running/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010258794.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007791905416.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "1005007010258794",
-      "orders": 50000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007010258794.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Conexión",
-        "v": "Bluetooth 5.3"
+        "v": "Bluetooth inalámbrico"
       },
       {
         "k": "Tipo de audio",
-        "v": "Conducción aérea"
+        "v": "Conducción ósea"
       },
       {
-        "k": "Autonomía",
-        "v": "según modelo"
+        "k": "Cancelación de ruido",
+        "v": "Sí, activa"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007791905416",
+      "orders": 50000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007791905416.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 3,
@@ -82,13 +84,6 @@
     "imagen": "/img/running/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008909024210.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005008909024210",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008909024210.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Material",
@@ -102,7 +97,15 @@
         "k": "Capacidad",
         "v": "según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008909024210",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008909024210.html",
+      "capturado": "2026-08-31",
+      "prevRank": 3
+    }
   },
   {
     "rank": 4,
@@ -117,13 +120,6 @@
     "imagen": "/img/running/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007460154665.html",
     "badge": "Ticket alto",
-    "_src": {
-      "id": "1005007460154665",
-      "orders": 900,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005007460154665.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Tamaño pantalla",
@@ -137,7 +133,15 @@
         "k": "Autonomía",
         "v": "hasta 14 días"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007460154665",
+      "orders": 900,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007460154665.html",
+      "capturado": "2026-08-31",
+      "prevRank": 4
+    }
   },
   {
     "rank": 5,
@@ -152,13 +156,6 @@
     "imagen": "/img/running/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012052998168.html",
     "badge": null,
-    "_src": {
-      "id": "1005012052998168",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005012052998168.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Compresión",
@@ -172,7 +169,15 @@
         "k": "Altura",
         "v": "según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005012052998168",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005012052998168.html",
+      "capturado": "2026-08-31",
+      "prevRank": 5
+    }
   },
   {
     "rank": 6,
@@ -183,17 +188,10 @@
       "Tecnología fotocromática se oscurece automáticamente",
       "Cobertura completa contra rayos UV nocivos"
     ],
-    "precio_referencia": "$16–19",
+    "precio_referencia": "$17–19",
     "imagen": "/img/running/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006904666475.html",
     "badge": null,
-    "_src": {
-      "id": "1005006904666475",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006904666475.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Protección UV",
@@ -207,42 +205,51 @@
         "k": "Material",
         "v": "según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006904666475",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006904666475.html",
+      "capturado": "2026-08-31",
+      "prevRank": 6
+    }
   },
   {
     "rank": 7,
-    "nombre": "Gorra para correr de diseño Original",
-    "descripcion_corta": "Gorra ligera y transpirable para proteger del sol durante entrenamientos.",
+    "nombre": "Gorra de ciclismo transpirable de secado rápido",
+    "descripcion_corta": "Gorra deportiva de poliéster transpirable para verano, diseño clásico en negro y azul.",
     "por_que_comprarlo": [
-      "Transpirable y de secado rápido para máxima comodidad",
-      "Protección efectiva contra rayos solares directos",
-      "Diseño ajustable se adapta a diferentes tamaños"
+      "Secado rápido ideal para entrenamientos intensos en clima cálido",
+      "Transpirabilidad superior mantiene fresco durante la actividad",
+      "Diseño clásico versátil que combina con cualquier equipo deportivo"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$4–6",
     "imagen": "/img/running/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006995309430.html",
-    "badge": null,
-    "_src": {
-      "id": "1005006995309430",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006995309430.html",
-      "capturado": "2026-08-31"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010043990675.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
         "k": "Material",
-        "v": "poliéster transpirable"
+        "v": "Poliéster"
       },
       {
-        "k": "Peso",
-        "v": "menos de 100g"
+        "k": "Secado",
+        "v": "Rápido"
       },
       {
-        "k": "Ajuste",
-        "v": "ajustable"
+        "k": "Colores",
+        "v": "Negro y azul"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010043990675",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010043990675.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 8,
@@ -257,13 +264,6 @@
     "imagen": "/img/running/08.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010806675074.html",
     "badge": null,
-    "_src": {
-      "id": "1005010806675074",
-      "orders": 3000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010806675074.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Capacidad",
@@ -277,76 +277,86 @@
         "k": "Peso",
         "v": "menos de 100g"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010806675074",
+      "orders": 3000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010806675074.html",
+      "capturado": "2026-08-31",
+      "prevRank": 8
+    }
   },
   {
     "rank": 9,
-    "nombre": "Pistola de masaje fascial portátil",
-    "descripcion_corta": "Masajeador portátil para aliviar tensión muscular y acelerar recuperación.",
+    "nombre": "Pistola masajeadora eléctrica de percusión profunda",
+    "descripcion_corta": "Masajeador de percusión recargable con 4 cabezales para alivio muscular y estiramiento de fascia.",
     "por_que_comprarlo": [
-      "Vibración profunda libera tensión muscular efectivamente",
-      "Tamaño compacto para llevar a cualquier lugar",
-      "Acelera recuperación después de entrenamientos intensos"
+      "4 cabezales intercambiables para diferentes tipos de masaje y músculos",
+      "Percusión de tejido profundo reduce dolor y acelera recuperación",
+      "Portátil y recargable por USB para usar en cualquier lugar"
     ],
-    "precio_referencia": "$19–22",
+    "precio_referencia": "$30–35",
     "imagen": "/img/running/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007171266187.html",
-    "badge": null,
-    "_src": {
-      "id": "1005007171266187",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007171266187.html",
-      "capturado": "2026-08-31"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008144764868.html",
+    "badge": "Ticket alto",
     "specs": [
       {
-        "k": "Tipo",
-        "v": "pistola masaje fascial"
+        "k": "Cabezales",
+        "v": "4 intercambiables"
       },
       {
-        "k": "Potencia",
-        "v": "según modelo"
+        "k": "Batería",
+        "v": "Recargable USB"
       },
       {
-        "k": "Autonomía",
-        "v": "batería recargable"
+        "k": "Tipo de masaje",
+        "v": "Percusión profunda"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008144764868",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008144764868.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 10,
-    "nombre": "Linterna LED recargable mini 5050",
-    "descripcion_corta": "Linterna compacta recargable para visibilidad en entrenamientos nocturnos.",
+    "nombre": "Linterna LED recargable Wurkkos HD03 con clip",
+    "descripcion_corta": "Mini linterna USB-C recargable de 680 lúmenes con clip magnético y luz RGB para uso portátil.",
     "por_que_comprarlo": [
-      "Recargable por USB, sin necesidad de pilas constantemente",
-      "Tamaño mini se adapta a mochila o cinturón fácilmente",
-      "Luz LED de alta intensidad para seguridad en oscuridad"
+      "Luz potente de 680 lúmenes en formato compacto para bolsillo o mochila",
+      "Clip magnético permite sujetar a cualquier superficie metálica sin las manos",
+      "Recargable por USB-C con opciones de luz blanca y RGB para diferentes usos"
     ],
-    "precio_referencia": "$4–5",
+    "precio_referencia": "$18–21",
     "imagen": "/img/running/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008660442084.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010653212908.html",
     "badge": null,
-    "_src": {
-      "id": "1005008660442084",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008660442084.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
-        "k": "Tipo de carga",
-        "v": "USB recargable"
+        "k": "Potencia",
+        "v": "680 lúmenes"
       },
       {
-        "k": "Peso",
-        "v": "menos de 100g"
+        "k": "Conexión",
+        "v": "USB-C recargable"
       },
       {
-        "k": "Autonomía",
-        "v": "según modelo"
+        "k": "Accesorios",
+        "v": "Clip magnético"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010653212908",
+      "orders": 10000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005010653212908.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   }
 ]

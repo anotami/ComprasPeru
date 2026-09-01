@@ -1,0 +1,362 @@
+[
+  {
+    "rank": 1,
+    "nombre": "AMS Lite concentrador de filamento",
+    "descripcion_corta": "Unidad de carga automática de cinco filamentos para impresoras A1 y A1 mini, expande capacidad de material.",
+    "por_que_comprarlo": [
+      "Carga automática de hasta 5 filamentos simultáneamente sin intervención manual",
+      "Compatible nativamente con A1 y A1 mini sin adaptadores adicionales",
+      "Precio accesible ($3-5) para expandir capacidad de impresión multicolor"
+    ],
+    "precio_referencia": "$3–5",
+    "imagen": "/img/impresion-3d__ams-mantenimiento/01.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008840945132.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1 / A1 mini"
+      },
+      {
+        "k": "Filamentos",
+        "v": "5 carretes"
+      },
+      {
+        "k": "Tipo",
+        "v": "Cargador automático"
+      }
+    ],
+    "_src": {
+      "id": "1005008840945132",
+      "orders": 5000,
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005008840945132.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 2,
+    "nombre": "Tubo PTFE Bowden 1.75mm extrusora",
+    "descripcion_corta": "Conducto de teflón de reemplazo para la ruta de filamento en extrusoras Bowden de impresoras Bambu Lab.",
+    "por_que_comprarlo": [
+      "Diámetro interior preciso (1.75mm ID) asegura flujo uniforme sin fricción",
+      "Compatible con series P1P, AMS y A1 mini con instalación directa",
+      "Rating máximo (4.9) y altísimo volumen de ventas (10.000+) valida calidad"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/impresion-3d__ams-mantenimiento/02.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966620068.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Diámetro interno",
+        "v": "1.75 mm"
+      },
+      {
+        "k": "Diámetro externo",
+        "v": "4 mm"
+      },
+      {
+        "k": "Material",
+        "v": "PTFE (Teflón)"
+      }
+    ],
+    "_src": {
+      "id": "1005006966620068",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006966620068.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 3,
+    "nombre": "Sensor Hall BMCU370C automático",
+    "descripcion_corta": "Módulo de detección de filamento con sensor Hall y amortiguación bidireccional para AMS lite en A1 y series P1.",
+    "por_que_comprarlo": [
+      "Sensor Hall garantiza detección precisa sin contacto directo con filamento",
+      "Amortiguación bidireccional reduce desgaste mecánico en cambios de material",
+      "Compatible con ecosistema completo Bambu Lab (A1, A1 mini, P1, AMS)"
+    ],
+    "precio_referencia": "$60–70",
+    "imagen": "/img/impresion-3d__ams-mantenimiento/03.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009511673150.html",
+    "badge": "Ticket alto",
+    "specs": [
+      {
+        "k": "Tipo sensor",
+        "v": "Hall sin contacto"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "A1/Mini, P1, AMS Lite"
+      },
+      {
+        "k": "Amortiguación",
+        "v": "Bidireccional"
+      }
+    ],
+    "_src": {
+      "id": "1005009511673150",
+      "orders": 5000,
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005009511673150.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 4,
+    "nombre": "Lubricante alta temperatura extrusora",
+    "descripcion_corta": "Grasa sintética para engranajes, rodamientos y poleas de impresoras 3D, soporta temperaturas elevadas.",
+    "por_que_comprarlo": [
+      "Fórmula Super Lube resistente hasta altas temperaturas de operación",
+      "Aplicable en múltiples puntos: engranajes de extrusora, rodamientos, poleas",
+      "Rating perfecto (4.9) con 10.000+ ventas confirma durabilidad y eficacia"
+    ],
+    "precio_referencia": "$1–2",
+    "imagen": "/img/impresion-3d__ams-mantenimiento/04.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010089185383.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Grasa sintética"
+      },
+      {
+        "k": "Rango temperatura",
+        "v": "Según modelo"
+      },
+      {
+        "k": "Aplicación",
+        "v": "Engranajes, rodamientos, poleas"
+      }
+    ],
+    "_src": {
+      "id": "1005010089185383",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010089185383.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 5,
+    "nombre": "Agujas limpieza boquillas acero inox",
+    "descripcion_corta": "Set de brocas y agujas de acero inoxidable para desatascar nozzles E3D V6, MK8 y compatibles.",
+    "por_que_comprarlo": [
+      "Material acero inoxidable resiste corrosión y reutilización sin deformación",
+      "Múltiples tamaños cubren boquillas E3D V6, MK8 y estándares M6",
+      "Rating máximo (5.0) y 10.000+ ventas son garantía de diseño efectivo"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/impresion-3d__ams-mantenimiento/05.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006995259221.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Acero inoxidable"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "E3D V6, MK8, M6"
+      },
+      {
+        "k": "Contenido",
+        "v": "Set múltiples brocas"
+      }
+    ],
+    "_src": {
+      "id": "1005006995259221",
+      "orders": 10000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005006995259221.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 6,
+    "nombre": "Caja secadora filamento hermética",
+    "descripcion_corta": "Contenedor con monitoreo en tiempo real y sello hermético para secar y almacenar filamentos ABS y PLA.",
+    "por_que_comprarlo": [
+      "Sello hermético mantiene filamento seco durante impresión sin transferencias",
+      "Monitoreo de humedad en tiempo real permite control preciso de ambiente",
+      "Compatible con múltiples tipos de filamento (ABS, PLA, etc.)"
+    ],
+    "precio_referencia": "$6–8",
+    "imagen": "/img/impresion-3d__ams-mantenimiento/06.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006621323243.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Caja hermética con monitor"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "ABS, PLA, según modelo"
+      },
+      {
+        "k": "Monitoreo",
+        "v": "Humedad en tiempo real"
+      }
+    ],
+    "_src": {
+      "id": "1005006621323243",
+      "orders": 2000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005006621323243.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Conector giratorio rodamiento bolas",
+    "descripcion_corta": "Set de 20 conectores giratorios con rodamientos de bolas para accesorios de filamento e impresoras.",
+    "por_que_comprarlo": [
+      "Diseño giratorio 360° reduce torque y enredos en líneas de filamento",
+      "Rodamientos de bolas de calidad minimizan fricción en rotaciones continuas",
+      "Rating alto (4.9) con miles de ventas valida utilidad en múltiples aplicaciones"
+    ],
+    "precio_referencia": "$2–3",
+    "imagen": "/img/impresion-3d__ams-mantenimiento/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006995191734.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Cantidad",
+        "v": "20 unidades"
+      },
+      {
+        "k": "Tipo",
+        "v": "Conector giratorio"
+      },
+      {
+        "k": "Mecánica",
+        "v": "Rodamiento bolas"
+      }
+    ],
+    "_src": {
+      "id": "1005006995191734",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006995191734.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Sensor de filamento A1 con FPC",
+    "descripcion_corta": "Sensor de detección para placa de alimentación A1/A1 mini con cable de cinta FPC integrado.",
+    "por_que_comprarlo": [
+      "Reemplazo oficial para placa de alimentación de A1 y A1 mini",
+      "Cable FPC de cinta minimiza conexiones sueltas comparado con conectores",
+      "Rating excepcional (4.9) en 3.000+ compras valida compatibilidad exacta"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/impresion-3d__ams-mantenimiento/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012049663334.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1/A1 mini"
+      },
+      {
+        "k": "Conexión",
+        "v": "Cable FPC cinta"
+      },
+      {
+        "k": "Función",
+        "v": "Detección filamento"
+      }
+    ],
+    "_src": {
+      "id": "1005012049663334",
+      "orders": 3000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005012049663334.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Llave hexagonal juego extendida",
+    "descripcion_corta": "Set de llaves Allen hexagonales multifuncionales con brazo corto y extendido para mantenimiento.",
+    "por_que_comprarlo": [
+      "Diseño de brazo extendido accede puntos de ajuste en zonas profundas",
+      "Construcción multifuncional incluye herramientas adicionales en un solo set",
+      "Rating alto (4.8) con 5.000+ ventas respalda versatilidad y durabilidad"
+    ],
+    "precio_referencia": "$9–10",
+    "imagen": "/img/impresion-3d__ams-mantenimiento/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009072132911.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tipo",
+        "v": "Juego llaves hexagonales"
+      },
+      {
+        "k": "Diseño",
+        "v": "Brazo corto y extendido"
+      },
+      {
+        "k": "Función",
+        "v": "Multifuncional"
+      }
+    ],
+    "_src": {
+      "id": "1005009072132911",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005009072132911.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Esponja limpieza nozzle alta temp",
+    "descripcion_corta": "Paño de reemplazo sin azufre y resistente a alta temperatura para limpiar boquillas de impresoras Bambu.",
+    "por_que_comprarlo": [
+      "Material sin azufre evita reacciones químicas con metales calientes del nozzle",
+      "Rango de compatibilidad amplio cubre X1, X1C, P1P, P1S, A1, A1 mini, H2",
+      "Resistencia a alta temperatura permite uso repetido sin degradación"
+    ],
+    "precio_referencia": "$3–4",
+    "imagen": "/img/impresion-3d__ams-mantenimiento/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012748859548.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Esponja sin azufre"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "X1, P1, A1, H2, Hotend"
+      },
+      {
+        "k": "Característica",
+        "v": "Resistencia alta temperatura"
+      }
+    ],
+    "_src": {
+      "id": "1005012748859548",
+      "orders": 0,
+      "rating": 0,
+      "url": "https://www.aliexpress.com/item/1005012748859548.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  }
+]

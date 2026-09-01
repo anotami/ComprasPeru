@@ -8,17 +8,10 @@
       "Compatible con múltiples dispositivos y aplicaciones",
       "Autonomía prolongada de batería para viajes largos"
     ],
-    "precio_referencia": "$25–30",
+    "precio_referencia": "$26–30",
     "imagen": "/img/moto/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006994248146.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "1005006994248146",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006994248146.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Conexión",
@@ -32,42 +25,51 @@
         "k": "Autonomía",
         "v": "Según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006994248146",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006994248146.html",
+      "capturado": "2026-08-31",
+      "prevRank": 1
+    }
   },
   {
     "rank": 2,
-    "nombre": "Soporte universal para teléfono Joyroom",
-    "descripcion_corta": "Soporte ajustable para montar el móvil en manillar de bicicleta o moto de forma segura.",
+    "nombre": "Soporte para teléfono de moto aluminio con amortiguador",
+    "descripcion_corta": "Soporte resistente de aluminio para smartphone en manillar de moto, ATV o bicicleta con protección anti-vibración.",
     "por_que_comprarlo": [
-      "Instalación rápida sin herramientas",
-      "Agarre firme que evita caídas del dispositivo",
-      "Compatible con la mayoría de tamaños de móviles"
+      "Material de aluminio aleado garantiza durabilidad y resistencia a golpes",
+      "Sistema de amortiguador reduce vibraciones y protege tu teléfono",
+      "Compatible con múltiples vehículos: motos, ATV, bicicletas y GPS"
     ],
-    "precio_referencia": "$10–11",
+    "precio_referencia": "$35–45",
     "imagen": "/img/moto/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005292639616.html",
-    "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005005292639616",
-      "orders": 3000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005005292639616.html",
-      "capturado": "2026-08-30"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008144822705.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Compatibilidad",
-        "v": "Universal, móviles 4.5\" a 7\""
-      },
-      {
         "k": "Material",
-        "v": "Goma y plástico resistente"
+        "v": "Aluminio aleado"
       },
       {
-        "k": "Instalación",
-        "v": "Sin herramientas"
+        "k": "Compatibilidad",
+        "v": "Moto, ATV, bicicleta, GPS"
+      },
+      {
+        "k": "Características",
+        "v": "Amortiguador de vibración"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008144822705",
+      "orders": 3000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008144822705.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 3,
@@ -82,13 +84,6 @@
     "imagen": "/img/moto/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006216680936.html",
     "badge": null,
-    "_src": {
-      "id": "1005006216680936",
-      "orders": 10000,
-      "rating": 4.6,
-      "url": "https://www.aliexpress.com/item/1005006216680936.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Material",
@@ -102,7 +97,15 @@
         "k": "Protección",
         "v": "Nudillos y palmas"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006216680936",
+      "orders": 10000,
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005006216680936.html",
+      "capturado": "2026-08-31",
+      "prevRank": 3
+    }
   },
   {
     "rank": 4,
@@ -117,13 +120,6 @@
     "imagen": "/img/moto/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006904547542.html",
     "badge": null,
-    "_src": {
-      "id": "1005006904547542",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006904547542.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Alimentación",
@@ -137,7 +133,15 @@
         "k": "Presión",
         "v": "Según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006904547542",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006904547542.html",
+      "capturado": "2026-08-31",
+      "prevRank": 4
+    }
   },
   {
     "rank": 5,
@@ -152,13 +156,6 @@
     "imagen": "/img/moto/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007171262229.html",
     "badge": null,
-    "_src": {
-      "id": "1005007171262229",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007171262229.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Tipo de luz",
@@ -172,7 +169,15 @@
         "k": "Consumo",
         "v": "Bajo (LED)"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007171262229",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007171262229.html",
+      "capturado": "2026-08-31",
+      "prevRank": 5
+    }
   },
   {
     "rank": 6,
@@ -187,13 +192,6 @@
     "imagen": "/img/moto/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010759407779.html",
     "badge": null,
-    "_src": {
-      "id": "1005010759407779",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010759407779.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Material",
@@ -207,7 +205,15 @@
         "k": "Uso",
         "v": "Invierno y climas fríos"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010759407779",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010759407779.html",
+      "capturado": "2026-08-31",
+      "prevRank": 6
+    }
   },
   {
     "rank": 7,
@@ -222,13 +228,6 @@
     "imagen": "/img/moto/07.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007791320774.html",
     "badge": "Ticket alto",
-    "_src": {
-      "id": "1005007791320774",
-      "orders": 493,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007791320774.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Capacidad",
@@ -242,7 +241,15 @@
         "k": "Instalación",
         "v": "Adhesión sin herramientas"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007791320774",
+      "orders": 490,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007791320774.html",
+      "capturado": "2026-08-31",
+      "prevRank": 7
+    }
   },
   {
     "rank": 8,
@@ -253,17 +260,10 @@
       "Evita daño por rayos UV que decoloran y dañan pintura",
       "Material resistente y duradero con costuras reforzadas"
     ],
-    "precio_referencia": "$19–23",
+    "precio_referencia": "$12–14",
     "imagen": "/img/moto/08.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006861833201.html",
     "badge": null,
-    "_src": {
-      "id": "1005006861833201",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006861833201.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Material",
@@ -277,42 +277,51 @@
         "k": "Compatibilidad",
         "v": "Universal para todas las motos"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006861833201",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006861833201.html",
+      "capturado": "2026-08-31",
+      "prevRank": 8
+    }
   },
   {
     "rank": 9,
-    "nombre": "Juego de clavos de goma para reparación neumático",
-    "descripcion_corta": "Set de clavos de goma para reparar pinchazo en neumáticos de moto o vehículos.",
+    "nombre": "Clavos de goma para reparación de neumáticos",
+    "descripcion_corta": "Kit de clavos de goma para sellado rápido de pinchazo en neumáticos de moto, coche, camión o bicicleta.",
     "por_que_comprarlo": [
-      "Solución rápida de emergencia para pinchazo en ruta",
-      "Material de goma proporciona sellado temporal efectivo",
-      "Precio accesible para mantener en el maletero"
+      "Reparación temporal rápida sin necesidad de herramientas especializadas",
+      "Compatible con múltiples vehículos: motos, autos, camiones y bicicletas",
+      "Presentación de 10 o 30 unidades según necesidad de uso"
     ],
     "precio_referencia": "$2–3",
     "imagen": "/img/moto/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006995426068.html",
-    "badge": null,
-    "_src": {
-      "id": "1005006995426068",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006995426068.html",
-      "capturado": "2026-08-30"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006115585255.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Material",
-        "v": "Goma vulcanizada"
-      },
-      {
-        "k": "Aplicación",
-        "v": "Reparación temporal de pinchazos"
+        "k": "Presentación",
+        "v": "10 o 30 unidades"
       },
       {
         "k": "Compatibilidad",
-        "v": "Neumáticos de moto y auto"
+        "v": "Moto, coche, camión, bicicleta"
+      },
+      {
+        "k": "Tipo de reparación",
+        "v": "Sellado temporal de pinchazo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006115585255",
+      "orders": 50000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005006115585255.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 10,
@@ -327,13 +336,6 @@
     "imagen": "/img/moto/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860896218.html",
     "badge": null,
-    "_src": {
-      "id": "1005006860896218",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006860896218.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Material",
@@ -347,6 +349,14 @@
         "k": "Peso",
         "v": "Según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006860896218",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006860896218.html",
+      "capturado": "2026-08-31",
+      "prevRank": 10
+    }
   }
 ]

@@ -1,38 +1,39 @@
 [
   {
     "rank": 1,
-    "nombre": "Tienda de campaña Naturehike Cloud Up Pro 1",
-    "descripcion_corta": "Tienda individual ultraligera con buena ventilación, ideal para trekking y acampadas en climas variados.",
+    "nombre": "Tienda Naturehike Cloud Up 1-3 personas",
+    "descripcion_corta": "Tienda ultraligera e impermeable para senderismo y camping, con capacidad modular de 1 a 3 personas.",
     "por_que_comprarlo": [
-      "Peso ultraligero para mochilero (alrededor de 1.5 kg)",
-      "Excelente relación peso-resistencia con doble capa",
-      "Fácil instalación incluso en terrenos complicados"
+      "Diseño ultraligero ideal para mochileros que necesitan reducir peso",
+      "Impermeabilidad confiable en lluvia y ambiente húmedo",
+      "Versatilidad de capacidad según número de acampantes"
     ],
-    "precio_referencia": "$120–150",
+    "precio_referencia": "$115–140",
     "imagen": "/img/camping/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007766384801.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005003089665524.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "1005007766384801",
-      "orders": 212,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005007766384801.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Capacidad",
-        "v": "1 persona"
+        "v": "1 a 3 personas"
       },
       {
         "k": "Peso",
-        "v": "Alrededor de 1.5 kg"
+        "v": "Ultraligero (según modelo)"
       },
       {
         "k": "Material",
-        "v": "Poliéster 20D con fondo PU"
+        "v": "Tela impermeable con estructura reforzad"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005003089665524",
+      "orders": 900,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005003089665524.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 2,
@@ -43,17 +44,10 @@
       "Inflado rápido y compacto al empacar",
       "Aislamiento del frío del suelo con material grueso"
     ],
-    "precio_referencia": "$21–24",
+    "precio_referencia": "$21–25",
     "imagen": "/img/camping/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007345678083.html",
     "badge": null,
-    "_src": {
-      "id": "1005007345678083",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007345678083.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Material",
@@ -67,77 +61,87 @@
         "k": "Tamaño inflado",
         "v": "Según modelo, estándar individual"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007345678083",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007345678083.html",
+      "capturado": "2026-08-31",
+      "prevRank": 2
+    }
   },
   {
     "rank": 3,
-    "nombre": "Saco de dormir Naturehike ultraligero",
-    "descripcion_corta": "Saco comprimible y muy ligero para camping en climas templados y trekking de larga distancia.",
+    "nombre": "Bolsa compresión impermeable Naturehike",
+    "descripcion_corta": "Bolsa de almacenamiento comprimible en Oxford 300D, ideal para guardar saco de dormir y equipo en expediciones.",
     "por_que_comprarlo": [
-      "Peso mínimo ideal para mochileros (bajo 1 kg)",
-      "Compresible a tamaño de botella en la mochila",
-      "Forro interior suave y material exterior resistente"
+      "Material Oxford 300D resistente y duradero",
+      "Compresión eficiente reduce volumen y facilita empaque",
+      "Protección impermeable del contenido en ambientes húmedos"
     ],
-    "precio_referencia": "$20–23",
+    "precio_referencia": "$5–7",
     "imagen": "/img/camping/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006782822996.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860710792.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005006782822996",
-      "orders": 3000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006782822996.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
-        "k": "Peso",
-        "v": "Menos de 1 kg"
-      },
-      {
-        "k": "Temperatura confort",
-        "v": "10-15 °C aproximadamente"
-      },
-      {
         "k": "Material",
-        "v": "Poliéster 190T"
+        "v": "Oxford 300D impermeable"
+      },
+      {
+        "k": "Función",
+        "v": "Compresión y almacenamiento"
+      },
+      {
+        "k": "Peso",
+        "v": "Ligero (según modelo)"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006860710792",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006860710792.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 4,
-    "nombre": "Olla ultraligera Fire-Maple G2 Petrel",
-    "descripcion_corta": "Olla compacta de aluminio para cocinar en campamento con quemador portátil incluido.",
+    "nombre": "Quemador butano portátil para camping",
+    "descripcion_corta": "Soplete de gas compacto para cocinar, calentar y preparar alimentos en campamentos y barbacoas al aire libre.",
     "por_que_comprarlo": [
-      "Distribución de calor uniforme por material aluminio",
-      "Peso muy bajo para cocinillas portátiles",
-      "Capacidad suficiente para 1-2 personas"
+      "Encendido rápido y control de llama ajustable para diferentes usos",
+      "Portátil y ligero, fácil de transportar en mochila",
+      "Versatilidad para cocina, calefacción y trabajos de soldadura"
     ],
-    "precio_referencia": "$6–7",
+    "precio_referencia": "$4–5",
     "imagen": "/img/camping/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008142569447.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010515962697.html",
     "badge": null,
-    "_src": {
-      "id": "1005008142569447",
-      "orders": 2000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005008142569447.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
-        "k": "Capacidad",
-        "v": "Alrededor de 1.5 L"
+        "k": "Combustible",
+        "v": "Butano o gas"
       },
       {
-        "k": "Material",
-        "v": "Aluminio anodizado"
+        "k": "Encendido",
+        "v": "Automático"
       },
       {
         "k": "Peso",
-        "v": "Menos de 400 g"
+        "v": "Portátil (según modelo)"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010515962697",
+      "orders": 10000,
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005010515962697.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 5,
@@ -152,13 +156,6 @@
     "imagen": "/img/camping/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008506009260.html",
     "badge": null,
-    "_src": {
-      "id": "1005008506009260",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008506009260.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Tipo de carga",
@@ -172,7 +169,15 @@
         "k": "Potencia",
         "v": "Típica 100-300 lúmenes"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008506009260",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008506009260.html",
+      "capturado": "2026-08-31",
+      "prevRank": 5
+    }
   },
   {
     "rank": 6,
@@ -183,17 +188,10 @@
       "Plegable y compacta, fácil de transportar",
       "Estructura resistente soporta hasta 150 kg"
     ],
-    "precio_referencia": "$40–50",
+    "precio_referencia": "$40–45",
     "imagen": "/img/camping/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006727210938.html",
     "badge": "Ticket alto",
-    "_src": {
-      "id": "1005006727210938",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006727210938.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Material",
@@ -207,42 +205,51 @@
         "k": "Peso",
         "v": "Alrededor de 2.5 kg"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006727210938",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006727210938.html",
+      "capturado": "2026-08-31",
+      "prevRank": 6
+    }
   },
   {
     "rank": 7,
-    "nombre": "Bomba de aire portátil FLEXTAIL",
-    "descripcion_corta": "Compresor manual o eléctrico compacto para inflar colchonetas y accesorios de camping rápidamente.",
+    "nombre": "Bomba aire manual pulverizador ajustable",
+    "descripcion_corta": "Pulverizador de presión manual con botella y boquilla ajustable, para riego y aplicaciones en camping.",
     "por_que_comprarlo": [
-      "Inflado 10 veces más rápido que bombas manuales",
-      "Funciona con baterías o USB sin equipamiento complejo",
-      "Tamaño de puño, cabe en cualquier mochila"
+      "Presión regulable para diferentes intensidades de pulverización",
+      "Operación manual sin batería, confiable en cualquier entorno",
+      "Uso versátil en riego, limpieza y tareas de campamento"
     ],
-    "precio_referencia": "$19–23",
+    "precio_referencia": "$3–4",
     "imagen": "/img/camping/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006904692270.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005094365983.html",
     "badge": null,
-    "_src": {
-      "id": "1005006904692270",
-      "orders": 3000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006904692270.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
-        "k": "Peso",
-        "v": "Menos de 400 g"
+        "k": "Tipo",
+        "v": "Bomba manual de presión"
       },
       {
-        "k": "Tipo de alimentación",
-        "v": "Batería recargable o USB"
+        "k": "Boquilla",
+        "v": "Ajustable"
       },
       {
-        "k": "Flujo de aire",
-        "v": "Según modelo, rápido"
+        "k": "Capacidad",
+        "v": "Según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005005094365983",
+      "orders": 50000,
+      "rating": 4.5,
+      "url": "https://www.aliexpress.com/item/1005005094365983.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 8,
@@ -257,13 +264,6 @@
     "imagen": "/img/camping/08.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006406904936.html",
     "badge": null,
-    "_src": {
-      "id": "1005006406904936",
-      "orders": 4000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005006406904936.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Peso",
@@ -277,42 +277,51 @@
         "k": "Capacidad de flujo",
         "v": "Típica 500-1000 L"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006406904936",
+      "orders": 4000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005006406904936.html",
+      "capturado": "2026-08-31",
+      "prevRank": 8
+    }
   },
   {
     "rank": 9,
-    "nombre": "Bastones de trekking Naturehike 2026",
-    "descripcion_corta": "Palos ajustables de aluminio que alivian rodillas al descender y estabilizan en terreno accidentado.",
+    "nombre": "Bastones trekking ultraligeros plegables",
+    "descripcion_corta": "Bastones compactos y plegables con absorción de impactos, diseñados para senderismo, trekking y montañismo.",
     "por_que_comprarlo": [
-      "Aluminio de buena calidad con poco peso",
-      "Ajustables en altura para diferentes terrenos",
-      "Amortiguan impacto en descensos prolongados"
+      "Peso ultraligero facilita el transporte sin fatiga adicional",
+      "Absorción de impactos protege articulaciones en descensos",
+      "Plegables para guardar fácilmente en mochila cuando no se usan"
     ],
-    "precio_referencia": "$20–23",
+    "precio_referencia": "$10–11",
     "imagen": "/img/camping/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007170014189.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006995241782.html",
     "badge": null,
-    "_src": {
-      "id": "1005007170014189",
-      "orders": 2000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007170014189.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
-        "k": "Material",
-        "v": "Aluminio anodizado"
-      },
-      {
         "k": "Peso",
-        "v": "Alrededor de 300-400 g el par"
+        "v": "Ultraligero"
       },
       {
-        "k": "Altura ajustable",
-        "v": "Rango variable según modelo"
+        "k": "Diseño",
+        "v": "Plegable"
+      },
+      {
+        "k": "Característica",
+        "v": "Absorción de impactos"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006995241782",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006995241782.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 10,
@@ -327,13 +336,6 @@
     "imagen": "/img/camping/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012043372310.html",
     "badge": null,
-    "_src": {
-      "id": "1005012043372310",
-      "orders": 600,
-      "rating": 4.3,
-      "url": "https://www.aliexpress.com/item/1005012043372310.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Potencia",
@@ -347,6 +349,14 @@
         "k": "Peso",
         "v": "Menos de 500 g"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005012043372310",
+      "orders": 600,
+      "rating": 4.3,
+      "url": "https://www.aliexpress.com/item/1005012043372310.html",
+      "capturado": "2026-08-31",
+      "prevRank": 10
+    }
   }
 ]

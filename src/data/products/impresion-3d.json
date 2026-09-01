@@ -12,14 +12,6 @@
     "imagen": "/img/impresion-3d/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008942555693.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "1005008942555693",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008942555693.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -33,7 +25,15 @@
         "k": "Control",
         "v": "Regulable"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008942555693",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008942555693.html",
+      "capturado": "2026-08-31",
+      "prevRank": 1
+    }
   },
   {
     "rank": 2,
@@ -48,14 +48,6 @@
     "imagen": "/img/impresion-3d/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007217932479.html",
     "badge": null,
-    "_src": {
-      "id": "1005007217932479",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007217932479.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -69,79 +61,87 @@
         "k": "Material",
         "v": "Aleación resistente al calor"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007217932479",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007217932479.html",
+      "capturado": "2026-08-31",
+      "prevRank": 2
+    }
   },
   {
     "rank": 3,
-    "nombre": "Placa de construcción de acero con resorte",
-    "descripcion_corta": "Superficie de impresión de doble cara con resortes para mejor adherencia y fácil remoción.",
+    "nombre": "Placa de construcción PEI para Bambu Lab A1",
+    "descripcion_corta": "Superficie de impresión de lámina lisa PEI compatible con Bambu Lab A1 y modelos similares.",
     "por_que_comprarlo": [
-      "Doble cara maximiza la vida útil del producto",
-      "Resortes facilitan la extracción de piezas",
-      "Excelente adherencia en ambas caras"
+      "Adhesión superior y liberación fácil de piezas impresas",
+      "Compatible con múltiples modelos Bambu Lab",
+      "Durabilidad extendida de la placa base"
     ],
-    "precio_referencia": "$9–10",
+    "precio_referencia": "$9–11",
     "imagen": "/img/impresion-3d/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005946908794.html",
-    "badge": null,
-    "_src": {
-      "id": "1005005946908794",
-      "orders": 10000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005005946908794.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007458990197.html",
+    "badge": "El más vendido",
     "specs": [
       {
         "k": "Material",
-        "v": "Acero con resortes"
-      },
-      {
-        "k": "Caras",
-        "v": "2 superficies"
+        "v": "PEI/PEO/PET"
       },
       {
         "k": "Compatibilidad",
-        "v": "Bambu Lab A1"
+        "v": "A1, P1P, P1S, P2S, X1, X1C"
+      },
+      {
+        "k": "Tipo",
+        "v": "Lámina lisa"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007458990197",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007458990197.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 4,
-    "nombre": "Kit de hotend para Bambu Lab A1 y modelos Mini",
-    "descripcion_corta": "Conjunto de piezas de reemplazo para cabeza de impresión compatible con A1, A1 Mini y A2L.",
+    "nombre": "Kit hotend acero endurecido con boquillas múltiples",
+    "descripcion_corta": "Ensamblaje de hotend de acero con juego de 4 boquillas intercambiables para Bambu Lab A1.",
     "por_que_comprarlo": [
-      "Compatibilidad con múltiples modelos Bambu Lab",
-      "Precio accesible para mantenimiento preventivo",
-      "Componentes de calidad verificada"
+      "Incluye boquillas de 0.2, 0.4, 0.6 y 0.8 mm para versatilidad",
+      "Acero endurecido resiste desgaste prolongado",
+      "Optimizado para impresión de alta velocidad"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$4–5",
     "imagen": "/img/impresion-3d/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006850870969.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010285370925.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005006850870969",
-      "orders": 10000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005006850870969.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Kit hotend completo"
+        "k": "Material",
+        "v": "Acero endurecido"
+      },
+      {
+        "k": "Boquillas incluidas",
+        "v": "0.2, 0.4, 0.6, 0.8 mm"
       },
       {
         "k": "Compatibilidad",
-        "v": "A1, A1 Mini, A2L"
-      },
-      {
-        "k": "Presentación",
-        "v": "Set de piezas"
+        "v": "A1, A1 Mini"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010285370925",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010285370925.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 5,
@@ -156,14 +156,6 @@
     "imagen": "/img/impresion-3d/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008482531502.html",
     "badge": null,
-    "_src": {
-      "id": "1005008482531502",
-      "orders": 2000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008482531502.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Material",
@@ -177,7 +169,15 @@
         "k": "Compatibilidad",
         "v": "Bambu Lab A1"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008482531502",
+      "orders": 2000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008482531502.html",
+      "capturado": "2026-08-31",
+      "prevRank": 5
+    }
   },
   {
     "rank": 6,
@@ -192,14 +192,6 @@
     "imagen": "/img/impresion-3d/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966620068.html",
     "badge": null,
-    "_src": {
-      "id": "1005006966620068",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006966620068.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Material",
@@ -213,7 +205,15 @@
         "k": "Compatibilidad",
         "v": "P1P, A1, A1 Mini"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006966620068",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006966620068.html",
+      "capturado": "2026-08-31",
+      "prevRank": 6
+    }
   },
   {
     "rank": 7,
@@ -224,18 +224,10 @@
       "Facilita el cambio rápido de materiales",
       "Optimiza el espacio de trabajo"
     ],
-    "precio_referencia": "$4–5",
+    "precio_referencia": "$5–7",
     "imagen": "/img/impresion-3d/07.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012588897317.html",
     "badge": null,
-    "_src": {
-      "id": "1005012588897317",
-      "orders": 278,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005012588897317.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -249,7 +241,15 @@
         "k": "Material",
         "v": "Plástico resistente"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005012588897317",
+      "orders": 282,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005012588897317.html",
+      "capturado": "2026-08-31",
+      "prevRank": 7
+    }
   },
   {
     "rank": 8,
@@ -264,14 +264,6 @@
     "imagen": "/img/impresion-3d/08.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006863893191.html",
     "badge": null,
-    "_src": {
-      "id": "1005006863893191",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006863893191.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -285,7 +277,15 @@
         "k": "Material",
         "v": "Metal o plástico rígido"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006863893191",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006863893191.html",
+      "capturado": "2026-08-31",
+      "prevRank": 8
+    }
   },
   {
     "rank": 9,
@@ -300,14 +300,6 @@
     "imagen": "/img/impresion-3d/09.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006807029655.html",
     "badge": null,
-    "_src": {
-      "id": "1005006807029655",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006807029655.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -321,42 +313,50 @@
         "k": "Compatibilidad",
         "v": "Impresoras 3D estándar"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006807029655",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006807029655.html",
+      "capturado": "2026-08-31",
+      "prevRank": 9
+    }
   },
   {
     "rank": 10,
-    "nombre": "Piezas de reemplazo para impresora 3D",
-    "descripcion_corta": "Kit de componentes de repuesto para mantenimiento y reparación de impresoras 3D.",
+    "nombre": "Caja organizadora con tapa transparente",
+    "descripcion_corta": "Contenedor de almacenamiento de doble tapa transparente con diseño de bambú para organizar pequeños elementos.",
     "por_que_comprarlo": [
-      "Asegura disponibilidad de piezas de recambio",
-      "Extiende la vida útil de la impresora",
-      "Previene paros de producción por falta de piezas"
+      "Visibilidad total del contenido sin abrir",
+      "Diseño compacto ideal para espacios reducidos",
+      "Material resistente y acabado decorativo"
     ],
-    "precio_referencia": "$23–27",
+    "precio_referencia": "$4–6",
     "imagen": "/img/impresion-3d/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009153869969.html",
-    "badge": "Ticket alto",
-    "_src": {
-      "id": "1005009153869969",
-      "orders": 10000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005009153869969.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860921775.html",
+    "badge": null,
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Kit piezas reemplazo"
+        "k": "Material",
+        "v": "Bambú y acrílico transparente"
       },
       {
-        "k": "Contenido",
-        "v": "Según modelo"
+        "k": "Diseño",
+        "v": "Tapa cuadrada de doble cabezal"
       },
       {
-        "k": "Compatibilidad",
-        "v": "Impresoras Bambu Lab"
+        "k": "Uso",
+        "v": "Almacenamiento general"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006860921775",
+      "orders": 50000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006860921775.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   }
 ]

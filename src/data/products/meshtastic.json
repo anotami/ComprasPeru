@@ -8,18 +8,10 @@
       "Precio accesible para iniciarse en Meshtastic sin inversión alta",
       "Compatible con redes de malla LoRa de alcance de varios kilómetros"
     ],
-    "precio_referencia": "$17–20",
+    "precio_referencia": "$16–18",
     "imagen": "/img/meshtastic/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32872078587.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "32872078587",
-      "orders": 3000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/32872078587.html",
-      "capturado": "2026-08-31",
-      "prevRank": 1
-    },
     "specs": [
       {
         "k": "Procesador",
@@ -33,7 +25,15 @@
         "k": "Pantalla",
         "v": "OLED integrada"
       }
-    ]
+    ],
+    "_src": {
+      "id": "32872078587",
+      "orders": 3000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/32872078587.html",
+      "capturado": "2026-09-01",
+      "prevRank": 1
+    }
   },
   {
     "rank": 2,
@@ -48,14 +48,6 @@
     "imagen": "/img/meshtastic/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008430005435.html",
     "badge": null,
-    "_src": {
-      "id": "1005008430005435",
-      "orders": 3000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008430005435.html",
-      "capturado": "2026-08-31",
-      "prevRank": 2
-    },
     "specs": [
       {
         "k": "Procesador",
@@ -69,7 +61,15 @@
         "k": "Pantalla",
         "v": "OLED integrada"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008430005435",
+      "orders": 3000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008430005435.html",
+      "capturado": "2026-09-01",
+      "prevRank": 2
+    }
   },
   {
     "rank": 3,
@@ -84,14 +84,6 @@
     "imagen": "/img/meshtastic/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005003026107533.html",
     "badge": null,
-    "_src": {
-      "id": "1005003026107533",
-      "orders": 2000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005003026107533.html",
-      "capturado": "2026-08-31",
-      "prevRank": 3
-    },
     "specs": [
       {
         "k": "Procesador",
@@ -105,115 +97,123 @@
         "k": "Pantalla",
         "v": "E-ink integrada con GPS"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005003026107533",
+      "orders": 2000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005003026107533.html",
+      "capturado": "2026-09-01",
+      "prevRank": 3
+    }
   },
   {
     "rank": 4,
-    "nombre": "Antena LoRa 868/915MHz 5DBi con conector U.FL",
-    "descripcion_corta": "Antena de ganancia media para mejorar alcance y señal de dispositivos LoRa con conectores estándar.",
+    "nombre": "Antena flexible NB-IoT/LoRa multibanda SMA",
+    "descripcion_corta": "Antena flexible para módulos inalámbricos que cubre bandas NB-IoT y LoRa de 840 a 928 MHz.",
     "por_que_comprarlo": [
-      "Ganancia 5DBi aumenta significativamente el rango de cobertura",
-      "Conector U.FL estándar compatible con la mayoría de placas LoRa",
-      "Precio muy accesible para mejorar rendimiento de comunicación"
+      "Compatible con múltiples bandas de frecuencia internacionales",
+      "Diseño flexible que se adapta a diferentes orientaciones y espacios",
+      "Conector SMA estándar con alcance extendido hasta 10 km"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$6–8",
     "imagen": "/img/meshtastic/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010572789349.html",
-    "badge": null,
-    "_src": {
-      "id": "1005010572789349",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010572789349.html",
-      "capturado": "2026-08-31",
-      "prevRank": 4
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004607615001.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Frecuencias",
-        "v": "868/915MHz"
+        "k": "Frecuencia",
+        "v": "840-928 MHz multibanda"
       },
       {
-        "k": "Ganancia",
-        "v": "5DBi"
+        "k": "Conectividad",
+        "v": "SMA macho"
       },
       {
-        "k": "Conector",
-        "v": "U.FL"
+        "k": "Tipo",
+        "v": "Flexible, antena exterior"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005004607615001",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005004607615001.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
   },
   {
     "rank": 5,
-    "nombre": "Kit XIAO nRF52840 con módulo SX1262 LoRa",
-    "descripcion_corta": "Microcontrolador de bajo consumo con módulo LoRa separado para proyectos eficientes en batería.",
+    "nombre": "Módulo LoRa SX1278 433MHz Ra-02",
+    "descripcion_corta": "Módulo inalámbrico de largo alcance 433MHz con transmisor LoRa de espectro extendido para IoT.",
     "por_que_comprarlo": [
-      "nRF52840 consume menos energía que ESP32 para aplicaciones de batería",
-      "Módulo SX1262 proporciona mejor rendimiento en comunicación LoRa",
-      "Combinación compacta ideal para dispositivos portátiles personalizados"
+      "Alcance de hasta 10 km en línea directa",
+      "Bajo consumo de energía ideal para dispositivos IoT",
+      "Frecuencia 433 MHz optimizada para transmisión rural y exterior"
     ],
-    "precio_referencia": "$10–11",
+    "precio_referencia": "$2–4",
     "imagen": "/img/meshtastic/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008760784706.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004991920495.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005008760784706",
-      "orders": 4000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005008760784706.html",
-      "capturado": "2026-08-31",
-      "prevRank": 5
-    },
     "specs": [
       {
-        "k": "Procesador",
-        "v": "nRF52840"
+        "k": "Frecuencia",
+        "v": "433 MHz"
       },
       {
-        "k": "Módulo LoRa",
-        "v": "SX1262"
+        "k": "Alcance",
+        "v": "Hasta 10 km"
       },
       {
-        "k": "Consumo",
-        "v": "Ultra bajo"
+        "k": "Modelo",
+        "v": "SX1278 Ra-02"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005004991920495",
+      "orders": 4000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005004991920495.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
   },
   {
     "rank": 6,
-    "nombre": "Batería de litio 18650 3500mAh para proyectos",
-    "descripcion_corta": "Celda recargable de alta capacidad para alimentar dispositivos Meshtastic portátiles de forma prolongada.",
+    "nombre": "Soporte batería 18650 modular 1-4 celdas",
+    "descripcion_corta": "Caja contenedora de plástico para baterías 18650 de 3,7V con cables integrados rojo y negro.",
     "por_que_comprarlo": [
-      "Capacidad 3500mAh proporciona autonomía de 12+ horas típicamente",
-      "Compatible con la mayoría de carcasas estándar de proyectos portátiles",
-      "Batería de litio recargable reduce costos operativos a largo plazo"
+      "Configuración modular de 1 a 4 celdas según necesidad",
+      "Cables de conexión ya incluidos para montaje rápido",
+      "Plástico resistente y aislante para seguridad eléctrica"
     ],
-    "precio_referencia": "$6–7",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008078553867.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008554687329.html",
     "badge": null,
-    "_src": {
-      "id": "1005008078553867",
-      "orders": 5000,
-      "rating": 4.5,
-      "url": "https://www.aliexpress.com/item/1005008078553867.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    },
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Litio 18650"
-      },
-      {
         "k": "Capacidad",
-        "v": "3500mAh"
+        "v": "1 a 4 celdas 18650"
       },
       {
-        "k": "Tensión",
-        "v": "3.7V nominal"
+        "k": "Voltaje",
+        "v": "3,7V por celda"
+      },
+      {
+        "k": "Incluye",
+        "v": "Cables rojo y negro"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008554687329",
+      "orders": 10000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005008554687329.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
   },
   {
     "rank": 7,
@@ -228,14 +228,6 @@
     "imagen": "/img/meshtastic/07.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005073187553.html",
     "badge": null,
-    "_src": {
-      "id": "1005005073187553",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005005073187553.html",
-      "capturado": "2026-08-31",
-      "prevRank": 7
-    },
     "specs": [
       {
         "k": "Conectores",
@@ -249,7 +241,15 @@
         "k": "Longitud",
         "v": "según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005005073187553",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005005073187553.html",
+      "capturado": "2026-09-01",
+      "prevRank": 7
+    }
   },
   {
     "rank": 8,
@@ -264,14 +264,6 @@
     "imagen": "/img/meshtastic/08.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007568074083.html",
     "badge": "Ticket alto",
-    "_src": {
-      "id": "1005007568074083",
-      "orders": 3000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005007568074083.html",
-      "capturado": "2026-08-31",
-      "prevRank": 8
-    },
     "specs": [
       {
         "k": "Procesador",
@@ -285,7 +277,15 @@
         "k": "Entrada",
         "v": "Teclado físico"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007568074083",
+      "orders": 3000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005007568074083.html",
+      "capturado": "2026-09-01",
+      "prevRank": 8
+    }
   },
   {
     "rank": 9,
@@ -300,14 +300,6 @@
     "imagen": "/img/meshtastic/09.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008932865297.html",
     "badge": null,
-    "_src": {
-      "id": "1005008932865297",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008932865297.html",
-      "capturado": "2026-08-31",
-      "prevRank": 9
-    },
     "specs": [
       {
         "k": "Potencia",
@@ -321,7 +313,15 @@
         "k": "Uso",
         "v": "Exterior/portátil"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008932865297",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008932865297.html",
+      "capturado": "2026-09-01",
+      "prevRank": 9
+    }
   },
   {
     "rank": 10,
@@ -336,14 +336,6 @@
     "imagen": "/img/meshtastic/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010044061923.html",
     "badge": null,
-    "_src": {
-      "id": "1005010044061923",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010044061923.html",
-      "capturado": "2026-08-31",
-      "prevRank": 10
-    },
     "specs": [
       {
         "k": "Clasificación",
@@ -357,6 +349,14 @@
         "k": "Uso",
         "v": "Protección portátil"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010044061923",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010044061923.html",
+      "capturado": "2026-09-01",
+      "prevRank": 10
+    }
   }
 ]

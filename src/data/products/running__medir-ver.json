@@ -12,13 +12,6 @@
     "imagen": "/img/running__medir-ver/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007460154665.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "1005007460154665",
-      "orders": 900,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005007460154665.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Tamaño",
@@ -32,42 +25,51 @@
         "k": "Conexión",
         "v": "Bluetooth 5.0, GPS+GLONASS"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007460154665",
+      "orders": 900,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007460154665.html",
+      "capturado": "2026-08-31",
+      "prevRank": 1
+    }
   },
   {
     "rank": 2,
-    "nombre": "Auriculares Bluetooth conducción aérea con clip",
-    "descripcion_corta": "Auriculares inalámbricos que transmiten sonido por conducción ósea sin ocupar los oídos.",
+    "nombre": "Auriculares de conducción ósea Bluetooth 5.4",
+    "descripcion_corta": "Auriculares inalámbricos con conducción ósea, resistencia IPX8 y reproductor MP3 integrado para natación y deportes acuáticos.",
     "por_que_comprarlo": [
-      "Mantiene tus oídos libres para escuchar el tráfico",
-      "Bluetooth 5.3 con conexión estable hasta 10m",
-      "Precio accesible con excelentes críticas"
+      "Tecnología de conducción ósea que mantiene los oídos libres para escuchar el ambiente",
+      "Resistencia IPX8 con reproductor MP3 integrado, ideal para nadar sin teléfono",
+      "Micrófono y gancho ergonómico para uso seguro durante entrenamientos"
     ],
-    "precio_referencia": "$5–6",
+    "precio_referencia": "$28–30",
     "imagen": "/img/running__medir-ver/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010258794.html",
-    "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005007010258794",
-      "orders": 50000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007010258794.html",
-      "capturado": "2026-08-31"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008909007294.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Conexión",
-        "v": "Bluetooth 5.3"
+        "k": "Conectividad",
+        "v": "Bluetooth 5.4 + MP3 integrado"
       },
       {
-        "k": "Tecnología",
-        "v": "Conducción aérea"
+        "k": "Resistencia al agua",
+        "v": "IPX8"
       },
       {
         "k": "Peso",
         "v": "Según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008909007294",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008909007294.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 3,
@@ -78,17 +80,10 @@
       "Filtro polarizado elimina reflejos de asfalto y agua",
       "Diseño envolvente para protección lateral"
     ],
-    "precio_referencia": "$16–19",
+    "precio_referencia": "$17–19",
     "imagen": "/img/running__medir-ver/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006904666475.html",
     "badge": null,
-    "_src": {
-      "id": "1005006904666475",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006904666475.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Filtro",
@@ -102,7 +97,15 @@
         "k": "Material",
         "v": "Según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006904666475",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006904666475.html",
+      "capturado": "2026-08-31",
+      "prevRank": 3
+    }
   },
   {
     "rank": 4,
@@ -117,13 +120,6 @@
     "imagen": "/img/running__medir-ver/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010653212908.html",
     "badge": null,
-    "_src": {
-      "id": "1005010653212908",
-      "orders": 10000,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005010653212908.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Brillo",
@@ -137,42 +133,51 @@
         "k": "Alcance",
         "v": "Hasta 80m"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010653212908",
+      "orders": 10000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005010653212908.html",
+      "capturado": "2026-08-31",
+      "prevRank": 4
+    }
   },
   {
     "rank": 5,
-    "nombre": "Chaleco reflectante de alta visibilidad",
-    "descripcion_corta": "Chaleco ligero con bandas reflectantes para máxima visibilidad en entrenamientos nocturnos y en tráfico.",
+    "nombre": "Chaleco reflectante ajustable para correr",
+    "descripcion_corta": "Chaleco de seguridad ligero e impermeable con correas reflectantes para visibilidad en entrenamientos nocturnos.",
     "por_que_comprarlo": [
-      "Bandas reflectantes 360° que brillan con luz artificial",
-      "Material transpirable y ajustable para todo tipo de cuerpo",
-      "Cómodo de llevar sobre cualquier ropa"
+      "Material impermeable que funciona en cualquier condición climática",
+      "Diseño ajustable y ultraligero para no limitar movimiento durante la carrera",
+      "Máxima visibilidad con bandas reflectantes de alta intensidad"
     ],
-    "precio_referencia": "$9–10",
+    "precio_referencia": "$3–4",
     "imagen": "/img/running__medir-ver/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007009966697.html",
-    "badge": null,
-    "_src": {
-      "id": "1005007009966697",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007009966697.html",
-      "capturado": "2026-08-31"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006782886535.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Visibilidad",
-        "v": "Reflectante 360°"
-      },
-      {
         "k": "Material",
-        "v": "Tela transpirable"
+        "v": "Nylon impermeable"
       },
       {
-        "k": "Ajuste",
-        "v": "Velcro regulable"
+        "k": "Resistencia al agua",
+        "v": "Impermeable"
+      },
+      {
+        "k": "Peso",
+        "v": "Ligero / ultraligero"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006782886535",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006782886535.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 6,
@@ -187,13 +192,6 @@
     "imagen": "/img/running__medir-ver/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007096672946.html",
     "badge": null,
-    "_src": {
-      "id": "1005007096672946",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007096672946.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Conexión",
@@ -207,6 +205,158 @@
         "k": "Compatibilidad",
         "v": "Apps y smartwatches"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007096672946",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007096672946.html",
+      "capturado": "2026-08-31",
+      "prevRank": 6
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Auriculares Bluetooth 5.4 impermeables IPX7",
+    "descripcion_corta": "Auriculares inalámbricos deportivos con cancelación de ruido, 20 horas de autonomía y graves profundos para entrenamientos.",
+    "por_que_comprarlo": [
+      "Autonomía de 20 horas con soporte para cancelación de ruido ENC",
+      "Impermeabilidad IPX7 para entrenamientos intensos y condiciones húmedas",
+      "Micrófono de calidad y graves profundos optimizados para deportes"
+    ],
+    "precio_referencia": "$6–7",
+    "imagen": "/img/running__medir-ver/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009123310082.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Conectividad",
+        "v": "Bluetooth 5.4"
+      },
+      {
+        "k": "Resistencia al agua",
+        "v": "IPX7"
+      },
+      {
+        "k": "Autonomía",
+        "v": "20 horas"
+      }
+    ],
+    "_src": {
+      "id": "1005009123310082",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009123310082.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Brazalete LED COB recargable USB",
+    "descripcion_corta": "Brazalete luminoso de 500 lúmenes con batería de 350mAh recargable por USB para visibilidad en carrera nocturna.",
+    "por_que_comprarlo": [
+      "Brillo intenso de 500 lúmenes con batería de 350mAh para sesiones largas",
+      "Carga USB tipo C rápida y práctica sin necesidad de baterías",
+      "Resistencia IPX4 y diseño versátil para muñeca, brazo o pierna"
+    ],
+    "precio_referencia": "$4–6",
+    "imagen": "/img/running__medir-ver/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007439446121.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Brillo",
+        "v": "500 lúmenes"
+      },
+      {
+        "k": "Batería",
+        "v": "350 mAh recargable"
+      },
+      {
+        "k": "Resistencia al agua",
+        "v": "IPX4"
+      }
+    ],
+    "_src": {
+      "id": "1005007439446121",
+      "orders": 10000,
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005007439446121.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Reloj inteligente HAYLOU Watch 4S con GPS",
+    "descripcion_corta": "Smartwatch deportivo con pantalla AMOLED de 1.43 pulgadas, GPS de 5 satélites y más de 120 modos de entrenamiento.",
+    "por_que_comprarlo": [
+      "Pantalla AMOLED HD de 1.43 pulgadas con brillo y claridad superior",
+      "GPS de 5 satélites para precisión en rutas y seguimiento de entrenamientos",
+      "Más de 120 modos de entrenamiento para deportes variados y seguimiento completo"
+    ],
+    "precio_referencia": "$40–45",
+    "imagen": "/img/running__medir-ver/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012172793474.html",
+    "badge": "Ticket alto",
+    "specs": [
+      {
+        "k": "Pantalla",
+        "v": "AMOLED 1.43 pulgadas"
+      },
+      {
+        "k": "Posicionamiento",
+        "v": "GPS 5 satélites"
+      },
+      {
+        "k": "Modos de entrenamiento",
+        "v": "Más de 120"
+      }
+    ],
+    "_src": {
+      "id": "1005012172793474",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005012172793474.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Podómetro 3D con clip portátil",
+    "descripcion_corta": "Contador de pasos multifuncional con seguimiento de distancia y calorías, diseño compacto con clip para portabilidad.",
+    "por_que_comprarlo": [
+      "Tecnología 3D precisa para conteo exacto de pasos durante cualquier actividad",
+      "Seguimiento completo de distancia, calorías y datos de caminata en pantalla clara",
+      "Clip portátil y batería duradera para usar durante todo el día sin carga"
+    ],
+    "precio_referencia": "$6–7",
+    "imagen": "/img/running__medir-ver/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006388355624.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tecnología",
+        "v": "Sensor 3D"
+      },
+      {
+        "k": "Funciones",
+        "v": "Pasos, distancia, calorías"
+      },
+      {
+        "k": "Diseño",
+        "v": "Clip portátil"
+      }
+    ],
+    "_src": {
+      "id": "1005006388355624",
+      "orders": 500,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005006388355624.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   }
 ]

@@ -12,13 +12,6 @@
     "imagen": "/img/camping__cocina/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32788929575.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "32788929575",
-      "orders": 1000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/32788929575.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Tipo de combustible",
@@ -32,7 +25,15 @@
         "k": "Peso",
         "v": "según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "32788929575",
+      "orders": 1000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/32788929575.html",
+      "capturado": "2026-08-31",
+      "prevRank": 1
+    }
   },
   {
     "rank": 2,
@@ -47,13 +48,6 @@
     "imagen": "/img/camping__cocina/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010332353583.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005010332353583",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010332353583.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Material",
@@ -67,7 +61,15 @@
         "k": "Capacidad",
         "v": "según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010332353583",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010332353583.html",
+      "capturado": "2026-08-31",
+      "prevRank": 2
+    }
   },
   {
     "rank": 3,
@@ -78,17 +80,10 @@
       "Disponible en paquetes de múltiples unidades para distintos tipos",
       "Compatible con sistemas de gas estándar de camping"
     ],
-    "precio_referencia": "$1–3",
+    "precio_referencia": "$2–4",
     "imagen": "/img/camping__cocina/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007792809019.html",
     "badge": null,
-    "_src": {
-      "id": "1005007792809019",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007792809019.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Cantidad",
@@ -102,42 +97,51 @@
         "k": "Compatibilidad",
         "v": "Cartuchos gas estándar"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007792809019",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007792809019.html",
+      "capturado": "2026-08-31",
+      "prevRank": 3
+    }
   },
   {
     "rank": 4,
-    "nombre": "Taza plegable de silicona con cordón",
-    "descripcion_corta": "Taza flexible de silicona que se comprime para ahorrar espacio en la mochila con asa de cordón.",
+    "nombre": "Taza de agua plegable de silicona con tapa",
+    "descripcion_corta": "Conjunto de tazas de silicona plegables de grado alimenticio para beber agua y bebidas en la ruta de forma compacta.",
     "por_que_comprarlo": [
-      "Se pliega hasta ocupar mínimo espacio cuando no está en uso",
-      "Silicona resiste temperaturas altas para bebidas calientes",
-      "Cordón facilita transportar sin soltar durante caminatas"
+      "Se pliega para ocupar mínimo espacio en la mochila",
+      "Material seguro de grado alimenticio resistente al calor",
+      "Precio muy accesible para un juego completo"
     ],
     "precio_referencia": "$4–5",
     "imagen": "/img/camping__cocina/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006727841177.html",
-    "badge": null,
-    "_src": {
-      "id": "1005006727841177",
-      "orders": 2000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006727841177.html",
-      "capturado": "2026-08-31"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007039640487.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
         "k": "Material",
-        "v": "Silicona"
+        "v": "Silicona de grado alimenticio"
       },
       {
         "k": "Capacidad",
-        "v": "según modelo"
+        "v": "Según modelo"
       },
       {
         "k": "Peso",
-        "v": "según modelo"
+        "v": "Ligero, plegable"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007039640487",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007039640487.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 5,
@@ -152,13 +156,6 @@
     "imagen": "/img/camping__cocina/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010217021399.html",
     "badge": null,
-    "_src": {
-      "id": "1005010217021399",
-      "orders": 4000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005010217021399.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Tipo de filtración",
@@ -172,7 +169,15 @@
         "k": "Peso",
         "v": "según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010217021399",
+      "orders": 4000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005010217021399.html",
+      "capturado": "2026-08-31",
+      "prevRank": 5
+    }
   },
   {
     "rank": 6,
@@ -187,13 +192,6 @@
     "imagen": "/img/camping__cocina/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007987660588.html",
     "badge": null,
-    "_src": {
-      "id": "1005007987660588",
-      "orders": 1000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007987660588.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Material",
@@ -207,6 +205,158 @@
         "k": "Largo",
         "v": "según modelo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007987660588",
+      "orders": 1000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007987660588.html",
+      "capturado": "2026-08-31",
+      "prevRank": 6
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Estufa portátil de gas plegable para camping",
+    "descripcion_corta": "Hornilla de gas compacta y plegable de 3500W para cocinar en campamentos, senderismo y picnics al aire libre.",
+    "por_que_comprarlo": [
+      "Potencia suficiente para hervir agua y cocinar rápido",
+      "Se pliega completamente para transportar fácil",
+      "Más de 10.000 compras confirman su confiabilidad"
+    ],
+    "precio_referencia": "$12–14",
+    "imagen": "/img/camping__cocina/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007109412057.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Potencia",
+        "v": "3500W"
+      },
+      {
+        "k": "Combustible",
+        "v": "Cartucho de gas"
+      },
+      {
+        "k": "Peso",
+        "v": "Portátil, plegable"
+      }
+    ],
+    "_src": {
+      "id": "1005007109412057",
+      "orders": 10000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007109412057.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Termo de acero inoxidable con pajita",
+    "descripcion_corta": "Botella térmica de acero inoxidable 304 con pajita para mantener bebidas calientes o frías en excursiones y viajes.",
+    "por_que_comprarlo": [
+      "Aislamiento de vacío mantiene temperatura horas",
+      "Acero inoxidable 304 resistente y duradero",
+      "Incluye pajita reutilizable para beber cómodo"
+    ],
+    "precio_referencia": "$18–22",
+    "imagen": "/img/camping__cocina/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006996596181.html",
+    "badge": "Ticket alto",
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Acero inoxidable 304"
+      },
+      {
+        "k": "Aislamiento",
+        "v": "Vacío doble pared"
+      },
+      {
+        "k": "Capacidad",
+        "v": "Según modelo"
+      }
+    ],
+    "_src": {
+      "id": "1005006996596181",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006996596181.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Contenedor de agua plegable 5L/10L",
+    "descripcion_corta": "Bolsa de almacenamiento de agua plegable de 5 a 10 litros para camping, senderismo y situaciones de emergencia.",
+    "por_que_comprarlo": [
+      "Capacidad de 5 a 10 litros según necesidad",
+      "Colapsa cuando está vacía para ahorrar espacio",
+      "Material resistente y apto para agua potable"
+    ],
+    "precio_referencia": "$3–5",
+    "imagen": "/img/camping__cocina/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006121843801.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "5L o 10L"
+      },
+      {
+        "k": "Material",
+        "v": "Plástico flexible plegable"
+      },
+      {
+        "k": "Peso",
+        "v": "Muy ligero, plegable"
+      }
+    ],
+    "_src": {
+      "id": "1005006121843801",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005006121843801.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Encendedor eléctrico doble arco recargable USB",
+    "descripcion_corta": "Encendedor plasma recargable por USB con pantalla de batería, a prueba de viento para actividades al aire libre.",
+    "por_que_comprarlo": [
+      "Doble arco de plasma ignora el viento",
+      "Recarga por USB sin necesidad de combustible",
+      "Pantalla indica nivel de batería disponible"
+    ],
+    "precio_referencia": "$2–3",
+    "imagen": "/img/camping__cocina/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008401179273.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Tecnología",
+        "v": "Doble arco plasma"
+      },
+      {
+        "k": "Carga",
+        "v": "USB tipo C"
+      },
+      {
+        "k": "Peso",
+        "v": "Compacto y ligero"
+      }
+    ],
+    "_src": {
+      "id": "1005008401179273",
+      "orders": 3000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005008401179273.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   }
 ]

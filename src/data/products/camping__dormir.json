@@ -12,13 +12,6 @@
     "imagen": "/img/camping__dormir/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008402994657.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "1005008402994657",
-      "orders": 900,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008402994657.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Capacidad",
@@ -32,7 +25,15 @@
         "k": "Impermeabilidad",
         "v": "Sellada con costuras"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005008402994657",
+      "orders": 900,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008402994657.html",
+      "capturado": "2026-08-31",
+      "prevRank": 1
+    }
   },
   {
     "rank": 2,
@@ -47,13 +48,6 @@
     "imagen": "/img/camping__dormir/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007540108448.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005007540108448",
-      "orders": 4000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007540108448.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Temperatura confort",
@@ -67,7 +61,15 @@
         "k": "Peso",
         "v": "Compacto y ligero"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007540108448",
+      "orders": 4000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007540108448.html",
+      "capturado": "2026-08-31",
+      "prevRank": 2
+    }
   },
   {
     "rank": 3,
@@ -82,13 +84,6 @@
     "imagen": "/img/camping__dormir/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007160158172.html",
     "badge": null,
-    "_src": {
-      "id": "1005007160158172",
-      "orders": 10000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005007160158172.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -102,7 +97,15 @@
         "k": "Tamaño comprimido",
         "v": "Portátil y compacto"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007160158172",
+      "orders": 10000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007160158172.html",
+      "capturado": "2026-08-31",
+      "prevRank": 3
+    }
   },
   {
     "rank": 4,
@@ -117,13 +120,6 @@
     "imagen": "/img/camping__dormir/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010322211.html",
     "badge": null,
-    "_src": {
-      "id": "1005007010322211",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007010322211.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -137,7 +133,15 @@
         "k": "Portabilidad",
         "v": "Ultracompacta"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007010322211",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007010322211.html",
+      "capturado": "2026-08-31",
+      "prevRank": 4
+    }
   },
   {
     "rank": 5,
@@ -152,13 +156,6 @@
     "imagen": "/img/camping__dormir/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012011021636.html",
     "badge": null,
-    "_src": {
-      "id": "1005012011021636",
-      "orders": 50000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005012011021636.html",
-      "capturado": "2026-08-31"
-    },
     "specs": [
       {
         "k": "Material",
@@ -172,41 +169,194 @@
         "k": "Peso",
         "v": "Mínimo"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005012011021636",
+      "orders": 50000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005012011021636.html",
+      "capturado": "2026-08-31",
+      "prevRank": 5
+    }
   },
   {
     "rank": 6,
-    "nombre": "Hamaca de camping WESTTUNE 3 en 1",
-    "descripcion_corta": "Hamaca portátil con malla antimosquitos que permite dormir elevado y protegido del suelo.",
+    "nombre": "Hamaca con mosquitero integrado",
+    "descripcion_corta": "Hamaca portátil colgante con protección contra insectos para acampar y descansar en exteriores.",
     "por_que_comprarlo": [
-      "Versatilidad de uso como hamaca, cama elevada o mosquitero independiente",
-      "Protección integral contra insectos y contacto con suelo húmedo",
-      "Resistencia probada en miles de acampadas"
+      "Mosquitero integrado protege de insectos sin necesidad de accesorios adicionales",
+      "Peso ultraligero y fácil de transportar en mochilas de viaje",
+      "Precio accesible con excelente relación entre funcionalidad y costo"
     ],
-    "precio_referencia": "$28–35",
+    "precio_referencia": "$29–35",
     "imagen": "/img/camping__dormir/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006082603144.html",
-    "badge": "Ticket alto",
-    "_src": {
-      "id": "1005006082603144",
-      "orders": 362,
-      "rating": 4.5,
-      "url": "https://www.aliexpress.com/item/1005006082603144.html",
-      "capturado": "2026-08-31"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005011743257022.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Configuración",
-        "v": "3 en 1 (hamaca, cama, mosquitero)"
+        "k": "Capacidad",
+        "v": "1 persona"
       },
       {
-        "k": "Protección",
-        "v": "Malla antimosquitos incluida"
+        "k": "Material",
+        "v": "Nylon con mosquitero"
       },
+      {
+        "k": "Peso",
+        "v": "Ultraligero, según modelo"
+      }
+    ],
+    "_src": {
+      "id": "1005011743257022",
+      "orders": 800,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005011743257022.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Carpa Lanshan 1 impermeable para 1 persona",
+    "descripcion_corta": "Tienda de campaña con doble puerta, tejido no-see-um y resistencia para 3 a 4 estaciones.",
+    "por_que_comprarlo": [
+      "Doble puerta permite entrada flexible y mejor ventilación",
+      "Tejido no-see-um mantiene alejados los insectos pequeños",
+      "Impermeable y durabilidad en condiciones climáticas extremas"
+    ],
+    "precio_referencia": "$115–130",
+    "imagen": "/img/camping__dormir/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32811637993.html",
+    "badge": "Ticket alto",
+    "specs": [
       {
         "k": "Capacidad",
-        "v": "1-2 personas"
+        "v": "1 persona"
+      },
+      {
+        "k": "Estaciones",
+        "v": "3 a 4 estaciones"
+      },
+      {
+        "k": "Material",
+        "v": "Impermeable con no-see-um"
       }
-    ]
+    ],
+    "_src": {
+      "id": "32811637993",
+      "orders": 304,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/32811637993.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Esterilla plegable XPE ultraligera",
+    "descripcion_corta": "Esterilla de espuma XPE impermeable y ultraligera para aislamiento en camping, picnic o senderismo.",
+    "por_que_comprarlo": [
+      "Material XPE mantiene impermeabilidad y aislamiento térmico del suelo",
+      "Peso mínimo facilita cargar en mochila sin ocupar mucho espacio",
+      "Precio muy económico con alta demanda del mercado"
+    ],
+    "precio_referencia": "$7–8",
+    "imagen": "/img/camping__dormir/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006099121616.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Espuma XPE"
+      },
+      {
+        "k": "Peso",
+        "v": "Ultraligero"
+      },
+      {
+        "k": "Impermeable",
+        "v": "Sí"
+      }
+    ],
+    "_src": {
+      "id": "1005006099121616",
+      "orders": 2000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006099121616.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Saco de emergencia térmico Mylar",
+    "descripcion_corta": "Manta térmica reflectante Mylar compacta para supervivencia, primeros auxilios y emergencias.",
+    "por_que_comprarlo": [
+      "Tamaño compacto permite guardar en bolsas EDC sin añadir peso",
+      "Refleja calor corporal para mantener temperatura en emergencias",
+      "Precio mínimo hace viable llevar varios en botiquín de rescate"
+    ],
+    "precio_referencia": "$4–5",
+    "imagen": "/img/camping__dormir/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006967492248.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Mylar reflectante"
+      },
+      {
+        "k": "Uso",
+        "v": "Emergencia y supervivencia"
+      },
+      {
+        "k": "Tamaño",
+        "v": "Compacto plegable"
+      }
+    ],
+    "_src": {
+      "id": "1005006967492248",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006967492248.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Carpa Blackdeer Archos para 2-3 personas",
+    "descripcion_corta": "Tienda de campaña de doble capa con falda invernal para 4 estaciones, impermeable y resistente.",
+    "por_que_comprarlo": [
+      "Doble capa proporciona aislamiento térmico superior en invierno",
+      "Falda de invierno integrada sella el interior y bloquea corrientes de aire",
+      "Capacidad para 2 a 3 personas distribuye mejor peso y espacio"
+    ],
+    "precio_referencia": "$90–105",
+    "imagen": "/img/camping__dormir/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F4000944592846.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Capacidad",
+        "v": "2 a 3 personas"
+      },
+      {
+        "k": "Estaciones",
+        "v": "4 estaciones"
+      },
+      {
+        "k": "Material",
+        "v": "Doble capa con falda invernal"
+      }
+    ],
+    "_src": {
+      "id": "4000944592846",
+      "orders": 478,
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/4000944592846.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   }
 ]

@@ -12,13 +12,6 @@
     "imagen": "/img/moto__iluminacion/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007171262229.html",
     "badge": "El más vendido",
-    "_src": {
-      "id": "1005007171262229",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007171262229.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -32,42 +25,51 @@
         "k": "Compatibilidad",
         "v": "Universal"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007171262229",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007171262229.html",
+      "capturado": "2026-08-31",
+      "prevRank": 1
+    }
   },
   {
     "rank": 2,
-    "nombre": "Mini luz de conducción lente proyector LED",
-    "descripcion_corta": "Pequeño faro LED con lente de proyección para luz de conducción adicional o de repuesto.",
+    "nombre": "Foco LED antiniebla doble color para moto",
+    "descripcion_corta": "Luz auxiliar LED de haz alto/bajo para mejorar visibilidad en conducción nocturna y condiciones adversas.",
     "por_que_comprarlo": [
-      "Tamaño compacto permite instalación flexible en diferentes puntos",
-      "Lente proyectora optimiza la distribución de luz",
-      "Potencia suficiente para luz de conducción o apoyo"
+      "Compatible con 12V y 24V, funciona en motos, autos y camiones",
+      "Tecnología de doble color con haz ajustable según condiciones",
+      "Lente mini optimizada para concentrar luz sin deslumbrar"
     ],
-    "precio_referencia": "$4–6",
+    "precio_referencia": "$6–7",
     "imagen": "/img/moto__iluminacion/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005367202344.html",
-    "badge": null,
-    "_src": {
-      "id": "1005005367202344",
-      "orders": 1000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005005367202344.html",
-      "capturado": "2026-08-30"
-    },
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009459850536.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Mini faro proyector LED"
+        "k": "Voltaje",
+        "v": "12V / 24V"
       },
       {
-        "k": "Tamaño",
-        "v": "Compacto"
+        "k": "Tipo de luz",
+        "v": "LED antiniebla doble color"
       },
       {
-        "k": "Aplicación",
-        "v": "Conducción principal o apoyo"
+        "k": "Compatibilidad",
+        "v": "Moto, auto, camión, SUV, UTV"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005009459850536",
+      "orders": 5000,
+      "rating": 4.5,
+      "url": "https://www.aliexpress.com/item/1005009459850536.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 3,
@@ -82,13 +84,6 @@
     "imagen": "/img/moto__iluminacion/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006883500219.html",
     "badge": null,
-    "_src": {
-      "id": "1005006883500219",
-      "orders": 5000,
-      "rating": 4.6,
-      "url": "https://www.aliexpress.com/item/1005006883500219.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -102,42 +97,51 @@
         "k": "Brillo",
         "v": "Alto"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006883500219",
+      "orders": 5000,
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005006883500219.html",
+      "capturado": "2026-08-31",
+      "prevRank": 3
+    }
   },
   {
     "rank": 4,
-    "nombre": "Barra de luz flexible 48 LED para moto",
-    "descripcion_corta": "Barra LED flexible con 48 puntos luminosos para iluminación de acompañamiento o decorativa.",
+    "nombre": "Tira LED neón 5m flexible USB para interior",
+    "descripcion_corta": "Tubo de luz fría flexible de 5 metros con conexión USB para iluminación decorativa DIY en interior de vehículos.",
     "por_que_comprarlo": [
-      "Flexibilidad permite adaptarse a formas curvas del chasis",
-      "48 LED distribuidos ofrecen iluminación uniforme",
-      "Bajo costo por cantidad de luz generada"
+      "Instalación fácil y DIY sin herramientas especiales",
+      "Alimentación USB estándar, compatible con muchos dispositivos",
+      "Luz fría neon de bajo consumo, ideal para personalización interior"
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$4–5",
     "imagen": "/img/moto__iluminacion/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007038478378.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010348972385.html",
     "badge": "Mejor calidad-precio",
-    "_src": {
-      "id": "1005007038478378",
-      "orders": 2000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007038478378.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Barra LED flexible"
+        "k": "Largo",
+        "v": "5 metros"
       },
       {
-        "k": "Cantidad de LED",
-        "v": "48 puntos"
+        "k": "Voltaje",
+        "v": "5V USB"
       },
       {
-        "k": "Flexibilidad",
-        "v": "Adaptable a superficies curvas"
+        "k": "Tipo de luz",
+        "v": "Neón flexible EL"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005010348972385",
+      "orders": 50000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010348972385.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   },
   {
     "rank": 5,
@@ -152,13 +156,6 @@
     "imagen": "/img/moto__iluminacion/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966461260.html",
     "badge": null,
-    "_src": {
-      "id": "1005006966461260",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006966461260.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
         "k": "Tipo",
@@ -172,41 +169,194 @@
         "k": "Durabilidad",
         "v": "Larga vida útil"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005006966461260",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006966461260.html",
+      "capturado": "2026-08-31",
+      "prevRank": 5
+    }
   },
   {
     "rank": 6,
-    "nombre": "Tiras adhesivas reflectantes de advertencia",
-    "descripcion_corta": "Cinta reflectante adhesiva para aumentar visibilidad nocturna en chasis y accesorios de moto.",
+    "nombre": "Pegatinas reflectantes advertencia para casco",
+    "descripcion_corta": "Calcomanías reflectantes de seguridad para casco, bicicleta y moto, mejoran visibilidad nocturna con 10 a 100 unidades.",
     "por_que_comprarlo": [
-      "Refleja luz sin consumir energía ni baterías",
-      "Adhesivo resistente a vibraciones y clima",
-      "Aplicación sencilla en cualquier superficie limpia"
+      "Aumentan visibilidad en oscuridad sin necesidad de electricidad",
+      "Fácil aplicación en casco, moto, bicicleta o auto",
+      "Disponibles en paquetes de 10 a 100 unidades para cubrir varias motos"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/moto__iluminacion/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009278066595.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007386438598.html",
     "badge": null,
-    "_src": {
-      "id": "1005009278066595",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009278066595.html",
-      "capturado": "2026-08-30"
-    },
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Tira reflectante adhesiva"
+        "k": "Material",
+        "v": "Reflectante adhesivo"
       },
       {
         "k": "Cantidad",
-        "v": "50 o 10 piezas"
+        "v": "10 a 100 unidades"
       },
       {
-        "k": "Fuente de luz",
-        "v": "Reflectante pasiva"
+        "k": "Aplicación",
+        "v": "Casco, moto, bicicleta, auto"
       }
-    ]
+    ],
+    "_src": {
+      "id": "1005007386438598",
+      "orders": 10000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005007386438598.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "Luces antiniebla LED 100W doble color con switch",
+    "descripcion_corta": "Focos auxiliares LED de 100W para moto con interruptor integrado, haz doble color para máxima visibilidad.",
+    "por_que_comprarlo": [
+      "Potencia de 100W concentrada en haz de larga distancia",
+      "Interruptor cableado para control independiente de luces",
+      "Doble color optimiza conducción en diferentes condiciones"
+    ],
+    "precio_referencia": "$50–60",
+    "imagen": "/img/moto__iluminacion/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007345485069.html",
+    "badge": "Ticket alto",
+    "specs": [
+      {
+        "k": "Potencia",
+        "v": "100W"
+      },
+      {
+        "k": "Tipo de luz",
+        "v": "LED antiniebla doble color"
+      },
+      {
+        "k": "Control",
+        "v": "Interruptor cableado"
+      }
+    ],
+    "_src": {
+      "id": "1005007345485069",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007345485069.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Luz LED táctil inalámbrica interior auto USB",
+    "descripcion_corta": "Mini lámpara inalámbrica con sensor táctil y carga USB para interior de auto, techo, puerta, pie o maletero.",
+    "por_que_comprarlo": [
+      "Activación táctil sin necesidad de interruptor físico",
+      "Recarga por USB, batería interna de larga duración",
+      "Múltiples ubicaciones: techo, puerta, pie, maletero o almacenamiento"
+    ],
+    "precio_referencia": "$4–5",
+    "imagen": "/img/moto__iluminacion/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005188504593.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Activación",
+        "v": "Sensor táctil"
+      },
+      {
+        "k": "Carga",
+        "v": "USB inalámbrico"
+      },
+      {
+        "k": "Instalación",
+        "v": "Sin cables, magnética o adhesiva"
+      }
+    ],
+    "_src": {
+      "id": "1005005188504593",
+      "orders": 50000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005005188504593.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Relé intermitente LED ajustable 2 pines moto",
+    "descripcion_corta": "Módulo relé de frecuencia ajustable para señales de giro LED en motocicletas, reemplaza relés convencionales.",
+    "por_que_comprarlo": [
+      "Frecuencia de intermitencia ajustable según preferencia del piloto",
+      "Compatible con sistemas LED modernos de 2 pines",
+      "Instalación simple en accesorios y sistemas de señalización"
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/moto__iluminacion/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006727732232.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Conectores",
+        "v": "2 pines"
+      },
+      {
+        "k": "Función",
+        "v": "Relé intermitente LED"
+      },
+      {
+        "k": "Ajuste",
+        "v": "Frecuencia variable"
+      }
+    ],
+    "_src": {
+      "id": "1005006727732232",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006727732232.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Chaleco reflectante alta visibilidad para moto",
+    "descripcion_corta": "Prenda de seguridad reflectante para piloto de moto, ciclista o deportista, aumenta visibilidad nocturna en carretera.",
+    "por_que_comprarlo": [
+      "Reflectancia de alta visibilidad cumple normas de seguridad vial",
+      "Uso dual en moto, ciclismo y deportes de noche",
+      "Fácil de llevar sobre ropa regular, cómodo y ligero"
+    ],
+    "precio_referencia": "$9–10",
+    "imagen": "/img/moto__iluminacion/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007009966697.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Tela reflectante de seguridad"
+      },
+      {
+        "k": "Función",
+        "v": "Visibilidad nocturna"
+      },
+      {
+        "k": "Uso",
+        "v": "Moto, ciclismo, deporte exterior"
+      }
+    ],
+    "_src": {
+      "id": "1005007009966697",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007009966697.html",
+      "capturado": "2026-08-31",
+      "prevRank": null
+    }
   }
 ]
