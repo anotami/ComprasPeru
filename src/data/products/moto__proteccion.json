@@ -1,73 +1,109 @@
 [
   {
-    "rank": 2,
-    "nombre": "Guantes de moto impermeables y táctiles",
-    "descripcion_corta": "Guantes protectores con aislamiento térmico, impermeables y función táctil para manejar pantallas.",
+    "rank": 1,
+    "nombre": "Casco modular retro DOT ECE aprobado",
+    "descripcion_corta": "Casco modular con certificación DOT y ECE, diseño retro de cara abierta para máxima visibilidad y comodidad en moto.",
     "por_que_comprarlo": [
-      "Material impermeable mantiene manos secas en lluvia",
-      "Función táctil permite usar smartphone sin quitárselos",
-      "Agarre antideslizante en condiciones húmedas"
+      "Certificaciones DOT y ECE garantizan seguridad estándar internacional",
+      "Modulación permite abrir la cara para mayor ventilación y accesibilidad",
+      "Diseño retro versátil combina con varios estilos de motocicleta"
     ],
-    "precio_referencia": "$5–7",
-    "imagen": "/img/moto__proteccion/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008248075542.html",
+    "precio_referencia": "$70–85",
+    "imagen": "/img/moto__proteccion/01.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007782648459.html",
     "badge": "El más vendido",
     "specs": [
       {
+        "k": "Tipo",
+        "v": "Modular/Abatible"
+      },
+      {
+        "k": "Certificación",
+        "v": "DOT, ECE"
+      },
+      {
         "k": "Material",
-        "v": "Sintético impermeable con forro térmico"
-      },
-      {
-        "k": "Función táctil",
-        "v": "Sí, pantalla sensible al tacto"
-      },
-      {
-        "k": "Rango de precio",
-        "v": "USD 5-7"
+        "v": "ABS/Policarbonato según modelo"
       }
     ],
     "_src": {
-      "id": "1005008248075542",
+      "id": "1005007782648459",
+      "orders": 600,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005007782648459.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 2,
+    "nombre": "Guantes táctiles antideslizantes invierno",
+    "descripcion_corta": "Guantes resistentes al viento con pantalla táctil integrada, ideales para conducción en otoño e invierno.",
+    "por_que_comprarlo": [
+      "Compatibilidad táctil permite usar smartphone sin quitarse los guantes",
+      "Material resistente al viento mantiene manos calientes en rutas",
+      "Agarre antideslizante garantiza mejor control del manillar mojado"
+    ],
+    "precio_referencia": "$4–5",
+    "imagen": "/img/moto__proteccion/02.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006996497922.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Pantalla táctil",
+        "v": "Sí, integrada"
+      },
+      {
+        "k": "Resistencia",
+        "v": "Viento, salpicaduras"
+      },
+      {
+        "k": "Estación",
+        "v": "Otoño/Invierno"
+      }
+    ],
+    "_src": {
+      "id": "1005006996497922",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008248075542.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005006996497922.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 3,
-    "nombre": "Chaqueta de moto con armadura corporal CE",
-    "descripcion_corta": "Chaqueta de motocross con protección corporal integrada y certificación CE para seguridad certificada.",
+    "nombre": "Chaqueta moto protección CE nivel 2",
+    "descripcion_corta": "Chaqueta de verano con protección suave certificada CE nivel 2, diseñada para motocross y conducción de calle.",
     "por_que_comprarlo": [
-      "Certificación CE garantiza normas de protección internacional",
-      "Armadura integrada cubre pecho, espalda y hombros",
-      "Diseño clásico compatible con múltiples estilos de conducción"
+      "Certificación CE nivel 2 proporciona protección reconocida en impactos",
+      "Protección suave integrada reduce peso y mejora comodidad en clima cálido",
+      "Compatible con equipo adicional para protección total en motocross"
     ],
-    "precio_referencia": "$35–40",
+    "precio_referencia": "$85–100",
     "imagen": "/img/moto__proteccion/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010109697075.html",
-    "badge": "Mejor calidad-precio",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007477036111.html",
+    "badge": "Ticket alto",
     "specs": [
       {
         "k": "Certificación",
-        "v": "CE aprobado"
+        "v": "CE Nivel 2"
       },
       {
-        "k": "Tipo de armadura",
-        "v": "Corporal integrada"
+        "k": "Protección",
+        "v": "Suave integrada"
       },
       {
-        "k": "Rango de precio",
-        "v": "USD 35-40"
+        "k": "Uso",
+        "v": "Verano, motocross"
       }
     ],
     "_src": {
-      "id": "1005010109697075",
-      "orders": 5000,
+      "id": "1005007477036111",
+      "orders": 600,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010109697075.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005007477036111.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -80,7 +116,7 @@
       "Material resistente a impactos en terreno accidentado",
       "Compatible con múltiples deportes motorizados"
     ],
-    "precio_referencia": "$19–22",
+    "precio_referencia": "$18–21",
     "imagen": "/img/moto__proteccion/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006863743833.html",
     "badge": null,
@@ -103,8 +139,8 @@
       "orders": 2000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006863743833.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 4
     }
   },
   {
@@ -139,8 +175,8 @@
       "orders": 2000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010037274563.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 5
     }
   },
   {
@@ -175,8 +211,8 @@
       "orders": 4000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006861024521.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 7
     }
   },
   {
@@ -211,8 +247,8 @@
       "orders": 900,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007805560410.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 8
     }
   },
   {
@@ -247,8 +283,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010759407779.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 9
     }
   },
   {
@@ -283,8 +319,8 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007010277097.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 10
     }
   }
 ]

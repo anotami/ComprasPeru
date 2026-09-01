@@ -1,38 +1,38 @@
 [
   {
     "rank": 1,
-    "nombre": "PLA Seda Azul Púrpura 1.75 mm",
-    "descripcion_corta": "Filamento PLA de efecto seda con doble color degradado, bobina de 250g ideal para piezas con acabado profesional.",
+    "nombre": "Filamento PLA tricolor",
+    "descripcion_corta": "Carrete de PLA con tres colores en una misma bobina para piezas multicolores sin cambios manuales.",
     "por_que_comprarlo": [
-      "Acabado seda con degradado azul-púrpura que destaca visualmente",
-      "Bobina pequeña de 250g perfecta para pruebas y proyectos específicos",
-      "Compatible con la mayoría de impresoras 3D FDM del mercado"
+      "Imprime piezas con tres colores sin intervención",
+      "PLA es fácil de imprimir y ecológico",
+      "Perfecto para modelos decorativos y artículos personalizados"
     ],
-    "precio_referencia": "$15–17",
+    "precio_referencia": "$13–15",
     "imagen": "/img/impresion-3d__filamento/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009278167340.html",
-    "badge": "El más vendido",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009045299380.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
         "k": "Material",
-        "v": "PLA Seda"
+        "v": "PLA (ácido poliláctico)"
       },
       {
-        "k": "Diámetro",
-        "v": "1.75 mm"
+        "k": "Presentación",
+        "v": "1 kg con 3 colores integrados"
       },
       {
-        "k": "Peso",
-        "v": "250 g (0.55 lb)"
+        "k": "Temperatura de impresión",
+        "v": "190–210 °C"
       }
     ],
     "_src": {
-      "id": "1005009278167340",
+      "id": "1005009045299380",
       "orders": 5000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009278167340.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "url": "https://www.aliexpress.com/item/1005009045299380.html",
+      "capturado": "2026-09-01",
+      "prevRank": 5
     }
   },
   {
@@ -67,44 +67,44 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006966620068.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 2
     }
   },
   {
     "rank": 3,
-    "nombre": "Lápiz de impresión 3D",
-    "descripcion_corta": "Herramienta de dibujo 3D portátil para crear estructuras y diseños en el aire sin necesidad de impresora.",
+    "nombre": "ERYONE PLA Mate Premium 1 kg",
+    "descripcion_corta": "Filamento PLA mate de calidad premium con múltiples opciones de color, bobina de 1kg de acabado anti-brillo.",
     "por_que_comprarlo": [
-      "Permite dibujar en 3D de forma inmediata y portátil",
-      "Compatible con filamento estándar de impresoras 3D",
-      "Ideal para prototipos rápidos y proyectos educativos"
+      "Acabado mate profesional que minimiza imperfecciones visuales",
+      "Amplio rango de colores disponibles para proyectos creativos",
+      "Bobina de 1kg proporciona mayor rendimiento y economía"
     ],
-    "precio_referencia": "$4–6",
+    "precio_referencia": "$40–45",
     "imagen": "/img/impresion-3d__filamento/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007171187424.html",
-    "badge": "El más vendido",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010493383.html",
+    "badge": null,
     "specs": [
       {
-        "k": "Material compatible",
-        "v": "PLA, ABS, filamento estándar"
+        "k": "Material",
+        "v": "PLA Mate"
       },
       {
-        "k": "Temperatura de operación",
-        "v": "180–220 °C según material"
+        "k": "Diámetro",
+        "v": "1.75 mm"
       },
       {
         "k": "Peso",
-        "v": "80–150 g"
+        "v": "1 kg"
       }
     ],
     "_src": {
-      "id": "1005007171187424",
-      "orders": 10000,
+      "id": "1005007010493383",
+      "orders": 5000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007171187424.html",
-      "capturado": "2026-08-31",
-      "prevRank": 1
+      "url": "https://www.aliexpress.com/item/1005007010493383.html",
+      "capturado": "2026-09-01",
+      "prevRank": 10
     }
   },
   {
@@ -116,7 +116,7 @@
       "Ideal para carcasas, sellos y piezas funcionales",
       "Compatible con extrusores de filamentos blandos"
     ],
-    "precio_referencia": "$19–23",
+    "precio_referencia": "$18–21",
     "imagen": "/img/impresion-3d__filamento/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005011865579583.html",
     "badge": "Ticket alto",
@@ -139,115 +139,115 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005011865579583.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 4
     }
   },
   {
     "rank": 5,
-    "nombre": "Filamento PLA tricolor",
-    "descripcion_corta": "Carrete de PLA con tres colores en una misma bobina para piezas multicolores sin cambios manuales.",
+    "nombre": "Filamento PLA multicolor brillante 1.75mm 250g",
+    "descripcion_corta": "Filamento PLA con efectos de color dual, triple o magic que cambia según el ángulo de visualización.",
     "por_que_comprarlo": [
-      "Imprime piezas con tres colores sin intervención",
-      "PLA es fácil de imprimir y ecológico",
-      "Perfecto para modelos decorativos y artículos personalizados"
+      "Efectos visuales únicos que no logras con colores sólidos",
+      "Compatible con impresoras FDM estándar sin ajustes especiales",
+      "Presentación de 250g ideal para proyectos medianos"
     ],
-    "precio_referencia": "$15–17",
+    "precio_referencia": "$11–13",
     "imagen": "/img/impresion-3d__filamento/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009045299380.html",
-    "badge": "Mejor calidad-precio",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007038234241.html",
+    "badge": "El más vendido",
     "specs": [
       {
         "k": "Material",
-        "v": "PLA (ácido poliláctico)"
+        "v": "PLA brillante multicolor"
       },
       {
-        "k": "Presentación",
-        "v": "1 kg con 3 colores integrados"
+        "k": "Diámetro",
+        "v": "1.75mm"
       },
       {
-        "k": "Temperatura de impresión",
-        "v": "190–210 °C"
+        "k": "Peso",
+        "v": "250g (0.55 lbs)"
       }
     ],
     "_src": {
-      "id": "1005009045299380",
+      "id": "1005007038234241",
       "orders": 5000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009045299380.html",
-      "capturado": "2026-08-31",
-      "prevRank": 5
+      "url": "https://www.aliexpress.com/item/1005007038234241.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
     }
   },
   {
     "rank": 6,
-    "nombre": "ERYONE PLA Mate Premium 1 kg",
-    "descripcion_corta": "Filamento PLA mate de calidad premium en múltiples colores, bobina de 1kg con acabado anti-brillo profesional.",
+    "nombre": "Filamento PLA colores para bolígrafos 3D 1.75mm",
+    "descripcion_corta": "Filamento PLA seguro para bolígrafos de impresión 3D infantiles, disponible en múltiples longitudes.",
     "por_que_comprarlo": [
-      "Acabado mate que reduce reflejos y da aspecto más profesional",
-      "Amplia gama de colores disponibles para diferentes proyectos",
-      "Bobina de 1kg ofrece mayor cantidad de material por uso"
+      "Formulación segura sin humo, ideal para uso con niños",
+      "Opciones de cargas desde 36M hasta 200M según necesidad",
+      "Precio accesible para consumibles escolares"
     ],
-    "precio_referencia": "$40–45",
+    "precio_referencia": "$2–3",
     "imagen": "/img/impresion-3d__filamento/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005268622719.html",
-    "badge": "Ticket alto",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007558056175.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
         "k": "Material",
-        "v": "PLA Mate"
+        "v": "PLA seguro sin humo"
       },
       {
         "k": "Diámetro",
-        "v": "1.75 mm"
+        "v": "1.75mm"
       },
       {
-        "k": "Peso",
-        "v": "1 kg"
+        "k": "Longitud disponible",
+        "v": "36M a 200M según modelo"
       }
     ],
     "_src": {
-      "id": "1005005268622719",
-      "orders": 900,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005005268622719.html",
-      "capturado": "2026-08-31",
+      "id": "1005007558056175",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007558056175.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 7,
-    "nombre": "Filamento PLA para Bolígrafo 3D",
-    "descripcion_corta": "Recambios de filamento PLA 1.75mm en múltiples colores para bolígrafos 3D, paquete económico de 3-32 colores.",
+    "nombre": "Filamento PLA luminoso 1.75mm 200g brilla oscuro",
+    "descripcion_corta": "Filamento PLA que emite luz propia en la oscuridad, perfecto para proyectos decorativos DIY.",
     "por_que_comprarlo": [
-      "Precio muy accesible para uso experimental o educativo",
-      "Disponible en sets de 10, 15 o 32 colores diferentes",
-      "Longitud total de 96-320 pies según presentación elegida"
+      "Efecto luminiscente visible sin fuente de energía adicional",
+      "Compatible con la mayoría de impresoras FDM sin modificaciones",
+      "Ideal para piezas decorativas, juguetes o regalos temáticos"
     ],
-    "precio_referencia": "$5–7",
+    "precio_referencia": "$13–15",
     "imagen": "/img/impresion-3d__filamento/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006912448404.html",
-    "badge": "Mejor calidad-precio",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008706477749.html",
+    "badge": "Ticket alto",
     "specs": [
       {
         "k": "Material",
-        "v": "PLA"
+        "v": "PLA luminoso"
       },
       {
         "k": "Diámetro",
-        "v": "1.75 mm"
+        "v": "1.75mm"
       },
       {
-        "k": "Colores",
-        "v": "10 a 32 opciones"
+        "k": "Peso",
+        "v": "200g (0.44 lbs)"
       }
     ],
     "_src": {
-      "id": "1005006912448404",
-      "orders": 10000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005006912448404.html",
-      "capturado": "2026-08-31",
+      "id": "1005008706477749",
+      "orders": 3000,
+      "rating": 4.3,
+      "url": "https://www.aliexpress.com/item/1005008706477749.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -260,7 +260,7 @@
       "Formulación de alta velocidad que reduce tiempos de impresión",
       "Calidad básica confiable con buena consistencia dimensional"
     ],
-    "precio_referencia": "$28–35",
+    "precio_referencia": "$22–25",
     "imagen": "/img/impresion-3d__filamento/08.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006777858861.html",
     "badge": null,
@@ -283,80 +283,80 @@
       "orders": 4000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005006777858861.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 8
     }
   },
   {
     "rank": 9,
-    "nombre": "Bolsas Almacenamiento Vacío Filamento",
-    "descripcion_corta": "Bolsas protectoras al vacío para filamentos de 1kg, mantienen el material seco y protegido de humedad.",
+    "nombre": "Lápiz de impresión 3D",
+    "descripcion_corta": "Herramienta de dibujo 3D portátil para crear estructuras y diseños en el aire sin necesidad de impresora.",
     "por_que_comprarlo": [
-      "Protege filamentos de humedad que deteriora la calidad de impresión",
-      "Compatible con PLA, ABS, TPU y PETG",
-      "Precio muy bajo para conservar múltiples bobinas correctamente"
+      "Permite dibujar en 3D de forma inmediata y portátil",
+      "Compatible con filamento estándar de impresoras 3D",
+      "Ideal para prototipos rápidos y proyectos educativos"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$3–4",
     "imagen": "/img/impresion-3d__filamento/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007984157055.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007171187424.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Compatibilidad",
-        "v": "PLA, ABS, TPU, PETG"
+        "k": "Material compatible",
+        "v": "PLA, ABS, filamento estándar"
       },
       {
-        "k": "Capacidad",
-        "v": "1 kg por bolsa"
+        "k": "Temperatura de operación",
+        "v": "180–220 °C según material"
       },
       {
-        "k": "Tipo",
-        "v": "Almacenamiento al vacío"
+        "k": "Peso",
+        "v": "80–150 g"
       }
     ],
     "_src": {
-      "id": "1005007984157055",
+      "id": "1005007171187424",
       "orders": 10000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005007984157055.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007171187424.html",
+      "capturado": "2026-09-01",
+      "prevRank": 3
     }
   },
   {
     "rank": 10,
-    "nombre": "ERYONE PLA Mate Premium 1 kg",
-    "descripcion_corta": "Filamento PLA mate de calidad premium con múltiples opciones de color, bobina de 1kg de acabado anti-brillo.",
+    "nombre": "Filamento PLA para Bolígrafo 3D",
+    "descripcion_corta": "Recambios de filamento PLA 1.75mm en múltiples colores para bolígrafos 3D, paquete económico de 3-32 colores.",
     "por_que_comprarlo": [
-      "Acabado mate profesional que minimiza imperfecciones visuales",
-      "Amplio rango de colores disponibles para proyectos creativos",
-      "Bobina de 1kg proporciona mayor rendimiento y economía"
+      "Precio muy accesible para uso experimental o educativo",
+      "Disponible en sets de 10, 15 o 32 colores diferentes",
+      "Longitud total de 96-320 pies según presentación elegida"
     ],
-    "precio_referencia": "$35–45",
+    "precio_referencia": "$4–5",
     "imagen": "/img/impresion-3d__filamento/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010493383.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006912448404.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
         "k": "Material",
-        "v": "PLA Mate"
+        "v": "PLA"
       },
       {
         "k": "Diámetro",
         "v": "1.75 mm"
       },
       {
-        "k": "Peso",
-        "v": "1 kg"
+        "k": "Colores",
+        "v": "10 a 32 opciones"
       }
     ],
     "_src": {
-      "id": "1005007010493383",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007010493383.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "id": "1005006912448404",
+      "orders": 10000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005006912448404.html",
+      "capturado": "2026-09-01",
+      "prevRank": 7
     }
   }
 ]

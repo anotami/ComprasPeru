@@ -29,10 +29,10 @@
     "_src": {
       "id": "1005008840945132",
       "orders": 5000,
-      "rating": 4.6,
+      "rating": 4.7,
       "url": "https://www.aliexpress.com/item/1005008840945132.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 1
     }
   },
   {
@@ -68,7 +68,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006966620068.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 2
     }
   },
   {
@@ -80,7 +80,7 @@
       "Amortiguación bidireccional reduce desgaste mecánico en cambios de material",
       "Compatible con ecosistema completo Bambu Lab (A1, A1 mini, P1, AMS)"
     ],
-    "precio_referencia": "$60–70",
+    "precio_referencia": "$55–65",
     "imagen": "/img/impresion-3d__ams-mantenimiento/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009511673150.html",
     "badge": "Ticket alto",
@@ -104,7 +104,7 @@
       "rating": 4.6,
       "url": "https://www.aliexpress.com/item/1005009511673150.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 3
     }
   },
   {
@@ -140,113 +140,113 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010089185383.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 4
     }
   },
   {
     "rank": 5,
-    "nombre": "Agujas limpieza boquillas acero inox",
-    "descripcion_corta": "Set de brocas y agujas de acero inoxidable para desatascar nozzles E3D V6, MK8 y compatibles.",
+    "nombre": "Juego 10 cepillos limpieza con aguja acero",
+    "descripcion_corta": "Cepillos de limpieza con punta de acero inoxidable para remover residuos de boquillas y cabezales de impresora.",
     "por_que_comprarlo": [
-      "Material acero inoxidable resiste corrosión y reutilización sin deformación",
-      "Múltiples tamaños cubren boquillas E3D V6, MK8 y estándares M6",
-      "Rating máximo (5.0) y 10.000+ ventas son garantía de diseño efectivo"
+      "Aguja de acero inoxidable evita deformación al limpiar boquillas obstruidas",
+      "Compatible con múltiples tamaños de boquillas y cabezales de ducha",
+      "Precio accesible para mantenimiento preventivo regular"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–2",
     "imagen": "/img/impresion-3d__ams-mantenimiento/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006995259221.html",
-    "badge": "Mejor calidad-precio",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008394277908.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Material",
+        "k": "Material punta",
         "v": "Acero inoxidable"
       },
       {
-        "k": "Compatibilidad",
-        "v": "E3D V6, MK8, M6"
+        "k": "Cantidad",
+        "v": "10 unidades"
       },
       {
-        "k": "Contenido",
-        "v": "Set múltiples brocas"
+        "k": "Compatibilidad",
+        "v": "Múltiples tamaños"
       }
     ],
     "_src": {
-      "id": "1005006995259221",
-      "orders": 10000,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005006995259221.html",
+      "id": "1005008394277908",
+      "orders": 50000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005008394277908.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 6,
-    "nombre": "Caja secadora filamento hermética",
-    "descripcion_corta": "Contenedor con monitoreo en tiempo real y sello hermético para secar y almacenar filamentos ABS y PLA.",
+    "nombre": "Bolsa almacenamiento filamento con bomba secadora",
+    "descripcion_corta": "Contenedor sellado resistente a humedad para filamentos diversos, incluye bomba secadora integrada.",
     "por_que_comprarlo": [
-      "Sello hermético mantiene filamento seco durante impresión sin transferencias",
-      "Monitoreo de humedad en tiempo real permite control preciso de ambiente",
-      "Compatible con múltiples tipos de filamento (ABS, PLA, etc.)"
+      "Protege filamentos PLA, ABS, PETG, TPU de absorción de humedad",
+      "Bomba secadora incluida evita comprar equipo adicional",
+      "Sella herméticamente para conservación prolongada"
     ],
-    "precio_referencia": "$6–8",
+    "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d__ams-mantenimiento/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006621323243.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012010969806.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Caja hermética con monitor"
+        "k": "Materiales compatibles",
+        "v": "PLA, ABS, PETG, TPU, Nylon"
       },
       {
-        "k": "Compatibilidad",
-        "v": "ABS, PLA, según modelo"
+        "k": "Característica extra",
+        "v": "Bomba secadora incluida"
       },
       {
-        "k": "Monitoreo",
-        "v": "Humedad en tiempo real"
+        "k": "Resistencia",
+        "v": "Hermético a humedad"
       }
     ],
     "_src": {
-      "id": "1005006621323243",
-      "orders": 2000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005006621323243.html",
+      "id": "1005012010969806",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005012010969806.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 7,
-    "nombre": "Conector giratorio rodamiento bolas",
-    "descripcion_corta": "Set de 20 conectores giratorios con rodamientos de bolas para accesorios de filamento e impresoras.",
+    "nombre": "Soporte carrete filamento 1kg con rodamiento",
+    "descripcion_corta": "Soporte estándar con rodamiento para carretes de 1kg, permite rotación suave del filamento.",
     "por_que_comprarlo": [
-      "Diseño giratorio 360° reduce torque y enredos en líneas de filamento",
-      "Rodamientos de bolas de calidad minimizan fricción en rotaciones continuas",
-      "Rating alto (4.9) con miles de ventas valida utilidad en múltiples aplicaciones"
+      "Rodamiento de baja fricción extiende vida útil del filamento",
+      "Diseño fijo mantiene estabilidad durante impresión",
+      "Compatible con filamentos PLA y PETG estándar"
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$4–6",
     "imagen": "/img/impresion-3d__ams-mantenimiento/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006995191734.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005946946006.html",
     "badge": null,
     "specs": [
       {
-        "k": "Cantidad",
-        "v": "20 unidades"
+        "k": "Capacidad",
+        "v": "1 kg"
       },
       {
-        "k": "Tipo",
-        "v": "Conector giratorio"
+        "k": "Mecanismo",
+        "v": "Rodamiento de baja fricción"
       },
       {
-        "k": "Mecánica",
-        "v": "Rodamiento bolas"
+        "k": "Compatibilidad",
+        "v": "PLA, PETG y estándar"
       }
     ],
     "_src": {
-      "id": "1005006995191734",
+      "id": "1005005946946006",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006995191734.html",
+      "url": "https://www.aliexpress.com/item/1005005946946006.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
@@ -284,77 +284,77 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005012049663334.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 8
     }
   },
   {
     "rank": 9,
-    "nombre": "Llave hexagonal juego extendida",
-    "descripcion_corta": "Set de llaves Allen hexagonales multifuncionales con brazo corto y extendido para mantenimiento.",
+    "nombre": "Juego llaves hexagonales plegables 8 en 1",
+    "descripcion_corta": "Set de llaves Allen de alta dureza resistentes a corrosión, diseño plegable compacto para mantenimiento.",
     "por_que_comprarlo": [
-      "Diseño de brazo extendido accede puntos de ajuste en zonas profundas",
-      "Construcción multifuncional incluye herramientas adicionales en un solo set",
-      "Rating alto (4.8) con 5.000+ ventas respalda versatilidad y durabilidad"
+      "Acero de alta dureza resistente a deformación en ajustes de impresora",
+      "Formato plegable ocupa mínimo espacio en caja de herramientas",
+      "8 tamaños diferentes cubren ajustes estándar de máquinas"
     ],
-    "precio_referencia": "$9–10",
+    "precio_referencia": "$5–7",
     "imagen": "/img/impresion-3d__ams-mantenimiento/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009072132911.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006678168376.html",
     "badge": null,
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Juego llaves hexagonales"
+        "k": "Material",
+        "v": "Acero de alta dureza"
       },
       {
-        "k": "Diseño",
-        "v": "Brazo corto y extendido"
+        "k": "Cantidad de tamaños",
+        "v": "8 en 1"
       },
       {
-        "k": "Función",
-        "v": "Multifuncional"
+        "k": "Resistencia",
+        "v": "Resistente a corrosión"
       }
     ],
     "_src": {
-      "id": "1005009072132911",
-      "orders": 5000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005009072132911.html",
+      "id": "1005006678168376",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006678168376.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 10,
-    "nombre": "Esponja limpieza nozzle alta temp",
-    "descripcion_corta": "Paño de reemplazo sin azufre y resistente a alta temperatura para limpiar boquillas de impresoras Bambu.",
+    "nombre": "Cepillo silicona boquilla Bambu Lab A1",
+    "descripcion_corta": "Cepillo de silicona específico para limpiar boquilla y limpiaparabrisas de Bambu Lab A1.",
     "por_que_comprarlo": [
-      "Material sin azufre evita reacciones químicas con metales calientes del nozzle",
-      "Rango de compatibilidad amplio cubre X1, X1C, P1P, P1S, A1, A1 mini, H2",
-      "Resistencia a alta temperatura permite uso repetido sin degradación"
+      "Diseñado exactamente para geometría de boquilla A1 y AMS lite",
+      "Silicona no daña superficies recubiertas o pintadas de la boquilla",
+      "Montaje rápido en cubitos permite acceso directo a zonas críticas"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$1–3",
     "imagen": "/img/impresion-3d__ams-mantenimiento/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012748859548.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007506016199.html",
     "badge": null,
     "specs": [
       {
-        "k": "Material",
-        "v": "Esponja sin azufre"
-      },
-      {
         "k": "Compatibilidad",
-        "v": "X1, P1, A1, H2, Hotend"
+        "v": "Bambu Lab A1, AMS lite"
       },
       {
-        "k": "Característica",
-        "v": "Resistencia alta temperatura"
+        "k": "Material",
+        "v": "Silicona"
+      },
+      {
+        "k": "Zona de limpieza",
+        "v": "Boquilla y limpiaparabrisas"
       }
     ],
     "_src": {
-      "id": "1005012748859548",
-      "orders": 0,
-      "rating": 0,
-      "url": "https://www.aliexpress.com/item/1005012748859548.html",
+      "id": "1005007506016199",
+      "orders": 4000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007506016199.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }

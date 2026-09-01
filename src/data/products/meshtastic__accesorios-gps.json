@@ -32,7 +32,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006966208907.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 1
     }
   },
   {
@@ -68,7 +68,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007010532325.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 2
     }
   },
   {
@@ -80,7 +80,7 @@
       "Consumo mínimo de energía, ideal para autonomía prolongada",
       "5.000+ vendidos con excelente rating 4.9"
     ],
-    "precio_referencia": "$9–10",
+    "precio_referencia": "$8–10",
     "imagen": "/img/meshtastic__accesorios-gps/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010324473.html",
     "badge": null,
@@ -104,7 +104,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007010324473.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 3
     }
   },
   {
@@ -116,7 +116,7 @@
       "Batería 5000mAh con autonomía prolongada y resistencia al agua",
       "4.000+ vendidos con aplicación gratuita y soporte comprobado"
     ],
-    "precio_referencia": "$40–45",
+    "precio_referencia": "$40–50",
     "imagen": "/img/meshtastic__accesorios-gps/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010706643723.html",
     "badge": "Ticket alto",
@@ -139,6 +139,42 @@
       "orders": 4000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010706643723.html",
+      "capturado": "2026-09-01",
+      "prevRank": 4
+    }
+  },
+  {
+    "rank": 5,
+    "nombre": "10 sets conectores múltiples SH/ZH/PH/XH",
+    "descripcion_corta": "Lote de conectores variados con carcasas y pines para proyectos electrónicos y placas de desarrollo.",
+    "por_que_comprarlo": [
+      "Incluye 10 juegos completos con múltiples tamaños de conector",
+      "Cables de 10/20/30 cm listos para usar sin soldar",
+      "Compatible con rangos de 2 a 12 pines según necesidad"
+    ],
+    "precio_referencia": "$1–3",
+    "imagen": "/img/meshtastic__accesorios-gps/05.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009087160808.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Tipos de conector",
+        "v": "SH1.0, ZH1.25, PH2.0, XH2.54"
+      },
+      {
+        "k": "Rango de pines",
+        "v": "2 a 12 pines"
+      },
+      {
+        "k": "Largo de cable",
+        "v": "10/20/30 cm según modelo"
+      }
+    ],
+    "_src": {
+      "id": "1005009087160808",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009087160808.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
@@ -176,7 +212,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005009516593400.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 6
     }
   },
   {
@@ -212,7 +248,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008145016084.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 7
     }
   },
   {
@@ -248,77 +284,77 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006996497323.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 8
     }
   },
   {
     "rank": 9,
-    "nombre": "Soporte batería CR2032 con switch",
-    "descripcion_corta": "Funda y soporte para pilas de botón CR2032 de 3V con interruptor on/off y caja de almacenamiento.",
+    "nombre": "Módulo batería RTC para Raspberry Pi 5",
+    "descripcion_corta": "Módulo de batería con reloj en tiempo real para mantener la hora en Raspberry Pi 5 sin alimentación externa.",
     "por_que_comprarlo": [
-      "Incluye interruptor integrado para control de encendido/apagado",
-      "Caja de almacenamiento para organizar múltiples baterías",
-      "Compatible con proyectos de bajo consumo y prototipos"
+      "Preserva hora y fecha al apagar el dispositivo",
+      "Disponible con o sin batería incluida según modelo",
+      "Compatible específicamente con Raspberry Pi 5"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–2",
     "imagen": "/img/meshtastic__accesorios-gps/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008422252426.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007634768852.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
+        "k": "Compatibilidad",
+        "v": "Raspberry Pi 5"
+      },
+      {
+        "k": "Función principal",
+        "v": "Reloj en tiempo real (RTC)"
+      },
+      {
         "k": "Batería",
-        "v": "CR2032 de 3V"
-      },
-      {
-        "k": "Cantidad",
-        "v": "1-5 soportes"
-      },
-      {
-        "k": "Características",
-        "v": "Con switch on/off"
+        "v": "Incluida o vendida por separado"
       }
     ],
     "_src": {
-      "id": "1005008422252426",
-      "orders": 2000,
+      "id": "1005007634768852",
+      "orders": 1000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008422252426.html",
+      "url": "https://www.aliexpress.com/item/1005007634768852.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 10,
-    "nombre": "Adaptador SMA a UFL coaxial RG178",
-    "descripcion_corta": "Conjunto de 5 adaptadores coaxiales ángulo recto SMA a UFL/IPX/IPEX con cable RG178.",
+    "nombre": "Cable pigtail RP SMA a UFL para antena",
+    "descripcion_corta": "Cables de extensión para antenas WiFi que conectan SMA hembra a conector UFL de baja pérdida.",
     "por_que_comprarlo": [
-      "Adaptador de ángulo recto para espacios reducidos",
-      "Cable coaxial RG178 de baja pérdida para RF",
-      "5 piezas en una compra para múltiples conexiones"
+      "Permite alejar antena de módulo WiFi para mejor cobertura",
+      "Disponible en paquetes de 2, 4 u 8 unidades",
+      "Impedancia controlada de 1.13 mm para mínimas pérdidas"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$2–3",
     "imagen": "/img/meshtastic__accesorios-gps/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008914669798.html",
-    "badge": "Mejor calidad-precio",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009270045616.html",
+    "badge": null,
     "specs": [
       {
-        "k": "Cantidad",
-        "v": "5 piezas"
+        "k": "Conector entrada",
+        "v": "SMA hembra"
       },
       {
-        "k": "Conectores",
-        "v": "SMA a UFL/IPX/IPEX"
+        "k": "Conector salida",
+        "v": "UFL/U.FL"
       },
       {
-        "k": "Cable RF",
-        "v": "RG178 coaxial"
+        "k": "Diámetro cable",
+        "v": "1.13 mm"
       }
     ],
     "_src": {
-      "id": "1005008914669798",
-      "orders": 113,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005008914669798.html",
+      "id": "1005009270045616",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009270045616.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }

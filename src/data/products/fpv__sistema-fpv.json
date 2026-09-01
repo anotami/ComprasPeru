@@ -1,16 +1,16 @@
 [
   {
     "rank": 1,
-    "nombre": "Cámara FPV Caddx Ratel 2 V2",
-    "descripcion_corta": "Cámara FPV compacta de 1200TVL con lente 2.1mm, modos 16:9/4:3 y soporte NTSC/PAL para drones de carreras.",
+    "nombre": "CADDX ANT Nano cámara FPV ultraligera 1200TVL",
+    "descripcion_corta": "Cámara FPV compacta y liviana con resolución 1200TVL, ideal para drones tiny y cinewhoop de alto rendimiento.",
     "por_que_comprarlo": [
-      "Resolución de 1200TVL con excelente claridad en baja luz",
-      "Tamaño ultracompacto de 19x19mm para drones ligeros",
-      "Compatibilidad con múltiples formatos de video y sistemas"
+      "Peso extremadamente reducido para maximizar autonomía en drones pequeños",
+      "Excelente relación luz-imagen con WDR global para diferentes condiciones",
+      "Compatible con múltiples formatos de aspecto (16:9 y 4:3) según tu uso"
     ],
-    "precio_referencia": "$23–27",
+    "precio_referencia": "$11–13",
     "imagen": "/img/fpv__sistema-fpv/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008794906697.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006863927036.html",
     "badge": "El más vendido",
     "specs": [
       {
@@ -18,20 +18,20 @@
         "v": "1200TVL"
       },
       {
-        "k": "Distancia focal",
-        "v": "2.1mm"
+        "k": "Lente",
+        "v": "1,8mm"
       },
       {
         "k": "Peso",
-        "v": "Bajo (micro)"
+        "v": "Ultraligero (según modelo)"
       }
     ],
     "_src": {
-      "id": "1005008794906697",
-      "orders": 2000,
+      "id": "1005006863927036",
+      "orders": 3000,
       "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005008794906697.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005006863927036.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -67,8 +67,8 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006067128597.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 2
     }
   },
   {
@@ -103,8 +103,8 @@
       "orders": 4000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010572667805.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 3
     }
   },
   {
@@ -139,79 +139,79 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008228477302.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 4
     }
   },
   {
     "rank": 5,
-    "nombre": "Sistema FPV UVC OTG 5.8G 48CH",
-    "descripcion_corta": "Receptor FPV de 5.8GHz con 48 canales compatible con dispositivos Android por USB OTG.",
+    "nombre": "RUSH TANK MAX SOLO transmisor video 5.8GHz 2.5W",
+    "descripcion_corta": "Transmisor de video de alta potencia 2.5W en 5.8GHz con 48 canales y carcasa CNC para drones FPV de largo alcance.",
     "por_que_comprarlo": [
-      "Compatibilidad universal con smartphones y tablets Android",
-      "48 canales para máxima flexibilidad de frecuencias",
-      "Conexión USB OTG sin necesidad de gafas dedicadas"
+      "Potencia máxima 2.5W para alcance y señal estable en vuelos de distancia",
+      "48 canales digitales para evitar interferencias con múltiples pilotos",
+      "Construcción CNC reforzada que resiste golpes y vibraciones en drones"
     ],
-    "precio_referencia": "$55–65",
+    "precio_referencia": "$40–45",
     "imagen": "/img/fpv__sistema-fpv/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006130961144.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860597689.html",
+    "badge": "Ticket alto",
     "specs": [
       {
         "k": "Frecuencia",
         "v": "5.8GHz"
       },
       {
-        "k": "Canales",
-        "v": "48"
+        "k": "Potencia",
+        "v": "2,5W"
       },
       {
-        "k": "Conexión",
-        "v": "USB OTG"
+        "k": "Canales",
+        "v": "48 canales"
       }
     ],
     "_src": {
-      "id": "1005006130961144",
-      "orders": 294,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005006130961144.html",
-      "capturado": "2026-08-31",
+      "id": "1005006860597689",
+      "orders": 5000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005006860597689.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 6,
-    "nombre": "Cámara FPV Caddx Ratel Pro Starlight",
-    "descripcion_corta": "Cámara FPV de 1500TVL ultraligera 9.5g con visión nocturna Starlight y CMOS para vuelo en condiciones bajas.",
+    "nombre": "CADDX Ratel Pro cámara FPV 1500TVL lente 2.1mm",
+    "descripcion_corta": "Cámara FPV de 1500TVL con lente 2.1mm y visión nocturna Blacklight, para drones RC con excelente claridad en diferentes luces.",
     "por_que_comprarlo": [
-      "Visión nocturna Starlight para vuelos en baja iluminación",
-      "Peso extremadamente bajo de 9.5g para drones micro",
-      "Resolución de 1500TVL con excelente definición"
+      "Resolución superior 1500TVL con lente gran angular para mejor cobertura visual",
+      "Visión nocturna Blacklight integrada para vuelos en baja iluminación sin infrarrojo externo",
+      "Dual formato (16:9 y 4:3) más control NTSC/PAL para máxima compatibilidad"
     ],
-    "precio_referencia": "$30–35",
+    "precio_referencia": "$35–40",
     "imagen": "/img/fpv__sistema-fpv/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009505480832.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008797335114.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
         "k": "Resolución",
         "v": "1500TVL"
       },
       {
-        "k": "Peso",
-        "v": "9.5g"
+        "k": "Lente",
+        "v": "2,1mm"
       },
       {
-        "k": "Características",
-        "v": "Starlight vision"
+        "k": "Visión nocturna",
+        "v": "Blacklight integrada"
       }
     ],
     "_src": {
-      "id": "1005009505480832",
-      "orders": 3000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009505480832.html",
-      "capturado": "2026-08-31",
+      "id": "1005008797335114",
+      "orders": 10000,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005008797335114.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -247,8 +247,8 @@
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/4001365632031.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 7
     }
   },
   {
@@ -283,8 +283,8 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005009270045616.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 8
     }
   },
   {
@@ -319,8 +319,8 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007537858607.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 9
     }
   },
   {
@@ -332,7 +332,7 @@
       "Polarización seleccionable entre LHCP y RHCP",
       "Disponible en conectores SMA, MMCX y UFL"
     ],
-    "precio_referencia": "$7–8",
+    "precio_referencia": "$6–7",
     "imagen": "/img/fpv__sistema-fpv/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009463797038.html",
     "badge": null,
@@ -355,8 +355,8 @@
       "orders": 2000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005009463797038.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 10
     }
   }
 ]

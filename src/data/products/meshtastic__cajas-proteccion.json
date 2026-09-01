@@ -32,41 +32,41 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007345349210.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 1
     }
   },
   {
     "rank": 2,
-    "nombre": "Caja distribución energía exterior IP67 transparente",
-    "descripcion_corta": "Caja de conexiones para exterior con protección IP67 y cubierta transparente para instalaciones eléctricas.",
+    "nombre": "Caja plástica transparente impermeable IP67",
+    "descripcion_corta": "Carcasa transparente resistente al agua para proteger componentes electrónicos y conexiones en exteriores.",
     "por_que_comprarlo": [
-      "Certificación IP67 garantiza hermeticidad total contra agua y polvo en ambientes externos",
-      "Cubierta transparente permite monitoreo visual del interior sin abrir la caja",
-      "Construcción en ABS duradero apta para conexiones de instrumentos electrónicos"
+      "Certificación IP67 garantiza impermeabilidad total en inmersión",
+      "Material transparente permite inspeccionar contenido sin abrir",
+      "Precio accesible para múltiples proyectos al aire libre"
     ],
-    "precio_referencia": "$10–12",
+    "precio_referencia": "$3–4",
     "imagen": "/img/meshtastic__cajas-proteccion/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008666269126.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008701037241.html",
+    "badge": "El más vendido",
     "specs": [
       {
+        "k": "Impermeabilidad",
+        "v": "IP67"
+      },
+      {
         "k": "Material",
-        "v": "Plástico ABS"
+        "v": "Plástico transparente"
       },
       {
-        "k": "Protección",
-        "v": "IP67 impermeable"
-      },
-      {
-        "k": "Característica",
-        "v": "Cubierta transparente"
+        "k": "Uso",
+        "v": "Electrónica exterior"
       }
     ],
     "_src": {
-      "id": "1005008666269126",
+      "id": "1005008701037241",
       "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008666269126.html",
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005008701037241.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
@@ -104,41 +104,41 @@
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005009210548173.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 3
     }
   },
   {
     "rank": 4,
-    "nombre": "Juntas tóricas silicona VMQ impermeable",
-    "descripcion_corta": "Anillos de sellado de silicona blanca de calidad alimentaria para juntas impermeable en diámetros 3-50 mm.",
+    "nombre": "Anillo de sellado silicona grado alimenticio",
+    "descripcion_corta": "Junta de goma universal antifiltraciones para sellar conexiones y evitar escapes de líquidos.",
     "por_que_comprarlo": [
-      "Silicona VMQ de grado alimentario no tóxica apta para múltiples aplicaciones",
-      "Disponible en cantidades de 10 o 50 piezas con diámetros variados para diferentes necesidades",
-      "Excelente resistencia al envejecimiento y flexibilidad para asegurar sellado duradero"
+      "Material de grado alimenticio seguro para múltiples aplicaciones",
+      "Diseño universal compatible con diversos diámetros de tuberías",
+      "Durabilidad y resistencia a temperaturas extremas"
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$2–4",
     "imagen": "/img/meshtastic__cajas-proteccion/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008814045115.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010285520377.html",
     "badge": null,
     "specs": [
       {
         "k": "Material",
-        "v": "Silicona VMQ"
+        "v": "Silicona grado alimenticio"
       },
       {
-        "k": "Diámetro",
-        "v": "3 a 50 mm"
+        "k": "Compatibilidad",
+        "v": "Universal"
       },
       {
-        "k": "Espesor",
-        "v": "1 mm"
+        "k": "Función",
+        "v": "Sellado antifiltraciones"
       }
     ],
     "_src": {
-      "id": "1005008814045115",
-      "orders": 4000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005008814045115.html",
+      "id": "1005010285520377",
+      "orders": 3000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010285520377.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
@@ -176,7 +176,7 @@
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005005204654201.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 5
     }
   },
   {
@@ -188,7 +188,7 @@
       "Sistema magnético de sujeción mantiene tarjetas seguras sin contacto directo",
       "Construcción aluminio resistente a arañazos y golpes para máxima durabilidad"
     ],
-    "precio_referencia": "$9–10",
+    "precio_referencia": "$9–11",
     "imagen": "/img/meshtastic__cajas-proteccion/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008071642398.html",
     "badge": null,
@@ -212,41 +212,41 @@
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005008071642398.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 6
     }
   },
   {
     "rank": 7,
-    "nombre": "Abrazadera banda V acero inoxidable 304",
-    "descripcion_corta": "Kit de abrazaderas acero inoxidable 304 con brida macho-hembra para tubos y escape turbo.",
+    "nombre": "Soporte acero inoxidable 304 con brida",
+    "descripcion_corta": "Gancho de fijación en acero inoxidable para tubos y barras, resistente a corrosión en exteriores.",
     "por_que_comprarlo": [
-      "Acero inoxidable 304 resiste corrosión y altas temperaturas de sistemas de escape",
-      "Diseño universal macho-hembra compatible con múltiples diámetros de tubo",
-      "Construcción robusta garantiza fijación segura y duradera en vehículos"
+      "Acero inoxidable 304 resiste oxidación en climas húmedos",
+      "Brida de alta resistencia soporta cargas importantes",
+      "Instalación simple con hardware de sujeción incluido"
     ],
-    "precio_referencia": "$15–18",
+    "precio_referencia": "$2–3",
     "imagen": "/img/meshtastic__cajas-proteccion/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005487040971.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006783095277.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
         "k": "Material",
         "v": "Acero inoxidable 304"
       },
       {
-        "k": "Tipo",
-        "v": "Abrazadera banda V"
+        "k": "Tipo de fijación",
+        "v": "Brida con tornillos"
       },
       {
-        "k": "Configuración",
-        "v": "Brida macho-hembra"
+        "k": "Aplicación",
+        "v": "Tubería y barras"
       }
     ],
     "_src": {
-      "id": "1005005487040971",
-      "orders": 4000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005005487040971.html",
+      "id": "1005006783095277",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006783095277.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
@@ -284,41 +284,41 @@
       "rating": 4.7,
       "url": "https://www.aliexpress.com/item/1005004100858797.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 8
     }
   },
   {
     "rank": 9,
-    "nombre": "Bloque terminales carril DIN eléctrico",
-    "descripcion_corta": "Caja de conexiones con bloques terminales DIN para distribución eléctrica de 80A a 500A.",
+    "nombre": "Caja eléctrica impermeable IP65 5/8 vías",
+    "descripcion_corta": "Carcasa de plástico con riel DIN integrado para distribuir y proteger conexiones eléctricas en exteriores.",
     "por_que_comprarlo": [
-      "Capacidad alta de corriente desde 80A hasta 500A cubre aplicaciones residenciales e industriales",
-      "Diseño modular en carril DIN permite instalación estándar en cuadros eléctricos",
-      "Bloque dividido facilita múltiples conexiones de alimentación simultáneas"
+      "Clasificación IP65 protege terminales contra polvo y agua a presión",
+      "Riel DIN permite montar módulos estándar en interior",
+      "Capacidad para 5 a 8 vías cubre instalaciones medianas"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$8–10",
     "imagen": "/img/meshtastic__cajas-proteccion/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007476913321.html",
-    "badge": "Mejor calidad-precio",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009384128676.html",
+    "badge": "Ticket alto",
     "specs": [
       {
+        "k": "Impermeabilidad",
+        "v": "IP65"
+      },
+      {
         "k": "Capacidad",
-        "v": "80A a 500A"
+        "v": "5-8 vías"
       },
       {
-        "k": "Tipo",
-        "v": "Bloque terminales DIN"
-      },
-      {
-        "k": "Montaje",
-        "v": "Carril DIN estándar"
+        "k": "Accesorios",
+        "v": "Riel DIN integrado"
       }
     ],
     "_src": {
-      "id": "1005007476913321",
-      "orders": 10000,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005007476913321.html",
+      "id": "1005009384128676",
+      "orders": 4000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009384128676.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
@@ -332,7 +332,7 @@
       "Espuma acústica absorbe sonido exterior mejorando aislamiento térmico",
       "Adhesivo integrado permite instalación fácil sin herramientas adicionales"
     ],
-    "precio_referencia": "$9–11",
+    "precio_referencia": "$8–10",
     "imagen": "/img/meshtastic__cajas-proteccion/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007857048906.html",
     "badge": null,
@@ -356,7 +356,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007857048906.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 10
     }
   }
 ]

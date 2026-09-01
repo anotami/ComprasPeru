@@ -8,7 +8,7 @@
       "Rating 4.8 con miles de compras verificadas",
       "Precio accesible para reemplazo de desgaste"
     ],
-    "precio_referencia": "$9–11",
+    "precio_referencia": "$12–14",
     "imagen": "/img/impresion-3d__plato-accesorios/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007458990197.html",
     "badge": "Mejor calidad-precio",
@@ -32,7 +32,7 @@
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005007458990197.html",
       "capturado": "2026-09-01",
-      "prevRank": 2
+      "prevRank": 1
     }
   },
   {
@@ -44,7 +44,7 @@
       "Compatible con A1, P1P, P1S, X1C y otros modelos",
       "Más de 5.000 unidades vendidas con rating 4.8"
     ],
-    "precio_referencia": "$7–8",
+    "precio_referencia": "$6–7",
     "imagen": "/img/impresion-3d__plato-accesorios/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009356565432.html",
     "badge": "El más vendido",
@@ -68,7 +68,7 @@
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005009356565432.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 2
     }
   },
   {
@@ -80,7 +80,7 @@
       "Mejora significativa en manejo y almacenamiento de filamento",
       "Bajo costo para optimizar flujo de trabajo"
     ],
-    "precio_referencia": "$5–7",
+    "precio_referencia": "$6–8",
     "imagen": "/img/impresion-3d__plato-accesorios/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012588897317.html",
     "badge": null,
@@ -100,7 +100,7 @@
     ],
     "_src": {
       "id": "1005012588897317",
-      "orders": 282,
+      "orders": 285,
       "rating": 5,
       "url": "https://www.aliexpress.com/item/1005012588897317.html",
       "capturado": "2026-09-01",
@@ -109,6 +109,42 @@
   },
   {
     "rank": 4,
+    "nombre": "AMS Lite - Concentrador de filamento",
+    "descripcion_corta": "Sistema de gestión de filamentos con cinco vías para organizar y cambiar materiales automáticamente durante la impresión.",
+    "por_que_comprarlo": [
+      "Cambia automáticamente entre hasta 5 filamentos sin intervención manual",
+      "Compatible con Bambu Lab A1 y A1M para ampliar capacidades",
+      "Reduce tiempo de impresión en proyectos multicolor"
+    ],
+    "precio_referencia": "$3–5",
+    "imagen": "/img/impresion-3d__plato-accesorios/04.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008840945132.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1 / A1M"
+      },
+      {
+        "k": "Vías de filamento",
+        "v": "5 canales"
+      },
+      {
+        "k": "Tipo de componente",
+        "v": "Concentrador automático"
+      }
+    ],
+    "_src": {
+      "id": "1005008840945132",
+      "orders": 5000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005008840945132.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 5,
     "nombre": "Tubo PTFE para Bambu Lab A1 P1P AMS",
     "descripcion_corta": "Tubo de PTFE de recambio para el sistema de extrusión de Bambu Lab A1 y modelos compatibles.",
     "por_que_comprarlo": [
@@ -117,7 +153,7 @@
       "Precio muy bajo para componente crítico"
     ],
     "precio_referencia": "$2–4",
-    "imagen": "/img/impresion-3d__plato-accesorios/04.webp",
+    "imagen": "/img/impresion-3d__plato-accesorios/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966620068.html",
     "badge": null,
     "specs": [
@@ -144,109 +180,73 @@
     }
   },
   {
-    "rank": 5,
-    "nombre": "Lubricante para impresora 3D, reduce ruido",
-    "descripcion_corta": "Grasa especializada que reduce ruido y mejora la lubricación de rieles y guías de impresoras 3D.",
+    "rank": 6,
+    "nombre": "Kit de lámpara LED RGB ajustable",
+    "descripcion_corta": "Sistema de iluminación LED con control de intensidad y tres modos de temperatura para monitorear impresiones en tiempo real.",
     "por_que_comprarlo": [
-      "Reduce significativamente el ruido operativo",
-      "Lubricación eficaz para rieles CNC y guías",
-      "Rating 4.9 con más de 5.000 ventas"
+      "Tres temperaturas de color: blanca, fría y cálida según necesidad",
+      "Regulación de brillo para visualizar detalles sin fatiga ocular",
+      "Instalación rápida sin carcasa adicional requerida"
     ],
-    "precio_referencia": "$4–5",
-    "imagen": "/img/impresion-3d__plato-accesorios/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006615126160.html",
+    "precio_referencia": "$2–3",
+    "imagen": "/img/impresion-3d__plato-accesorios/06.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010531264110.html",
     "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Grasa lubricante"
+        "k": "Tipo de luz",
+        "v": "LED RGB ajustable"
+      },
+      {
+        "k": "Modos de temperatura",
+        "v": "Blanca, fría, cálida"
       },
       {
         "k": "Compatibilidad",
-        "v": "X1C, P1S, Ender 3, CNC"
-      },
-      {
-        "k": "Función principal",
-        "v": "Reducción de ruido"
+        "v": "Bambu Lab A1 series"
       }
     ],
     "_src": {
-      "id": "1005006615126160",
-      "orders": 5000,
+      "id": "1005010531264110",
+      "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006615126160.html",
-      "capturado": "2026-09-01",
-      "prevRank": null
-    }
-  },
-  {
-    "rank": 6,
-    "nombre": "Tira LED 24V Ra95 para A1/A1mini",
-    "descripcion_corta": "Iluminación LED blanca de alta intensidad 24V con índice de reproducción Ra95 para impresora A1.",
-    "por_que_comprarlo": [
-      "Luz blanca superbrillante con Ra95 para visibilidad óptima",
-      "Voltaje 24V compatible con A1 y A1mini",
-      "Más de 5.000 unidades vendidas"
-    ],
-    "precio_referencia": "$2–4",
-    "imagen": "/img/impresion-3d__plato-accesorios/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009073101347.html",
-    "badge": null,
-    "specs": [
-      {
-        "k": "Voltaje",
-        "v": "24V"
-      },
-      {
-        "k": "Índice de reproducción",
-        "v": "Ra95"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "A1, A1mini"
-      }
-    ],
-    "_src": {
-      "id": "1005009073101347",
-      "orders": 5000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005009073101347.html",
+      "url": "https://www.aliexpress.com/item/1005010531264110.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 7,
-    "nombre": "Adhesivo barra PVP 25g, lavable",
-    "descripcion_corta": "Pegamento sólido PVP lavable de 25g que evita deformaciones en placas de construcción.",
+    "nombre": "Fijador de roscas anaeróbico azul 243",
+    "descripcion_corta": "Adhesivo anaeróbico de alta resistencia para asegurar pernos, tuercas y roscas en ensamblajes de impresoras 3D.",
     "por_que_comprarlo": [
-      "Fórmula lavable y reutilizable, económica",
-      "No tóxico y anti-deformación garantizado",
-      "Rating 4.9, ideal para vidrio y placas construcción"
+      "Previene aflojamientsoe por vibración durante impresión",
+      "Sella herméticamente conexiones de metal en componentes críticos",
+      "Aplicación versátil en sujetadores de todo tipo de máquinas"
     ],
     "precio_referencia": "$2–3",
     "imagen": "/img/impresion-3d__plato-accesorios/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010285367952.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008781294767.html",
     "badge": null,
     "specs": [
       {
-        "k": "Material",
-        "v": "PVP (polivinil pirrolidona)"
+        "k": "Tipo",
+        "v": "Adhesivo anaeróbico"
       },
       {
-        "k": "Peso",
-        "v": "25 gramos"
+        "k": "Resistencia",
+        "v": "Alta, grado 243"
       },
       {
-        "k": "Características",
-        "v": "Lavable, no tóxico"
+        "k": "Aplicación",
+        "v": "Pernos, tuercas y roscas"
       }
     ],
     "_src": {
-      "id": "1005010285367952",
-      "orders": 2000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010285367952.html",
+      "id": "1005008781294767",
+      "orders": 50000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005008781294767.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
@@ -284,7 +284,7 @@
       "rating": 4.7,
       "url": "https://www.aliexpress.com/item/1005007716791304.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 8
     }
   },
   {
@@ -320,7 +320,7 @@
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005009140144183.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 9
     }
   },
   {
@@ -356,7 +356,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007805630299.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 10
     }
   }
 ]

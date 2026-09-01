@@ -1,21 +1,21 @@
 [
   {
     "rank": 1,
-    "nombre": "Mark4 marco fibra de carbono FPV 5 pulgadas",
-    "descripcion_corta": "Marco de fibra de carbono de 225 mm para drones FPV de carreras y freestyle con brazos reforzados.",
+    "nombre": "Kit marco APEX FPV fibra carbono 5 y 7 pulgadas",
+    "descripcion_corta": "Kit dual de marcos en fibra de carbono de 5 y 7 pulgadas con brazos de 5.5 mm para drones freestyle.",
     "por_que_comprarlo": [
-      "Construcción en fibra de carbono de alta rigidez",
-      "Distancia entre ejes de 225 mm probada en competiciones",
-      "Brazos de 5 mm resistentes a impactos"
+      "Dos tamaños en un solo kit para versatilidad",
+      "Brazos de 5.5 mm con mayor durabilidad",
+      "Rating 4.9 con precio competitivo"
     ],
-    "precio_referencia": "$17–20",
+    "precio_referencia": "$16–19",
     "imagen": "/img/fpv__frames/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006733944736.html",
-    "badge": "El más vendido",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006863865311.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
         "k": "Tamaño",
-        "v": "5 pulgadas (225 mm)"
+        "v": "5\" y 7\" (225-295 mm)"
       },
       {
         "k": "Material",
@@ -23,16 +23,16 @@
       },
       {
         "k": "Grosor brazo",
-        "v": "5 mm"
+        "v": "5.5 mm"
       }
     ],
     "_src": {
-      "id": "1005006733944736",
+      "id": "1005006863865311",
       "orders": 1000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005006733944736.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006863865311.html",
+      "capturado": "2026-09-01",
+      "prevRank": 3
     }
   },
   {
@@ -67,27 +67,27 @@
       "orders": 2000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006863909137.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 2
     }
   },
   {
     "rank": 3,
-    "nombre": "Kit marco APEX FPV fibra carbono 5 y 7 pulgadas",
-    "descripcion_corta": "Kit dual de marcos en fibra de carbono de 5 y 7 pulgadas con brazos de 5.5 mm para drones freestyle.",
+    "nombre": "Mark4 marco fibra de carbono FPV 5 pulgadas",
+    "descripcion_corta": "Marco de fibra de carbono de 225 mm para drones FPV de carreras y freestyle con brazos reforzados.",
     "por_que_comprarlo": [
-      "Dos tamaños en un solo kit para versatilidad",
-      "Brazos de 5.5 mm con mayor durabilidad",
-      "Rating 4.9 con precio competitivo"
+      "Construcción en fibra de carbono de alta rigidez",
+      "Distancia entre ejes de 225 mm probada en competiciones",
+      "Brazos de 5 mm resistentes a impactos"
     ],
-    "precio_referencia": "$16–19",
+    "precio_referencia": "$16–18",
     "imagen": "/img/fpv__frames/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006863865311.html",
-    "badge": "Mejor calidad-precio",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006733944736.html",
+    "badge": "El más vendido",
     "specs": [
       {
         "k": "Tamaño",
-        "v": "5\" y 7\" (225-295 mm)"
+        "v": "5 pulgadas (225 mm)"
       },
       {
         "k": "Material",
@@ -95,16 +95,16 @@
       },
       {
         "k": "Grosor brazo",
-        "v": "5.5 mm"
+        "v": "5 mm"
       }
     ],
     "_src": {
-      "id": "1005006863865311",
+      "id": "1005006733944736",
       "orders": 1000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006863865311.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005006733944736.html",
+      "capturado": "2026-09-01",
+      "prevRank": 1
     }
   },
   {
@@ -116,7 +116,7 @@
       "1500TVL con resolución superior al promedio",
       "Lente de 2.1 mm con FOV de 125 grados"
     ],
-    "precio_referencia": "$30–35",
+    "precio_referencia": "$35–40",
     "imagen": "/img/fpv__frames/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008797335114.html",
     "badge": null,
@@ -139,8 +139,8 @@
       "orders": 10000,
       "rating": 5,
       "url": "https://www.aliexpress.com/item/1005008797335114.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 4
     }
   },
   {
@@ -175,43 +175,43 @@
       "orders": 800,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005009145123179.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 5
     }
   },
   {
     "rank": 6,
-    "nombre": "Tuercas moleteadas aluminio M3-M8 colores",
-    "descripcion_corta": "Set de tuercas moleteadas de aluminio en varios tamaños y colores para hardware FPV.",
+    "nombre": "Espaciadores hexagonales de aluminio M3",
+    "descripcion_corta": "8 columnas espaciadoras hexagonales de aluminio para armar drones FPV, ligeras y modulares.",
     "por_que_comprarlo": [
-      "Disponibles en 5 tamaños diferentes",
-      "Acabado anodizado en colores para organización",
-      "Material aluminio resistente y ligero"
+      "Material aluminio ligero reduce peso total del drone",
+      "Set de 8 unidades cubre múltiples configuraciones",
+      "Precio accesible para reparaciones y construcciones"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–2",
     "imagen": "/img/fpv__frames/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006818291821.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32869985662.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Tamaños",
-        "v": "M3, M4, M5, M6, M8"
+        "k": "Material",
+        "v": "Aluminio anodizado negro"
       },
       {
-        "k": "Material",
-        "v": "Aluminio anodizado"
+        "k": "Tamaño",
+        "v": "M3 hexagonal, sección redonda"
       },
       {
         "k": "Cantidad",
-        "v": "2-5 unidades"
+        "v": "8 unidades por paquete"
       }
     ],
     "_src": {
-      "id": "1005006818291821",
-      "orders": 2000,
+      "id": "32869985662",
+      "orders": 1000,
       "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005006818291821.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/32869985662.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -247,79 +247,79 @@
       "orders": 10000,
       "rating": 4.7,
       "url": "https://www.aliexpress.com/item/32826820227.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 7
     }
   },
   {
     "rank": 8,
-    "nombre": "Mark4 V2 marco TrueX fibra carbono 7-10 pulgadas",
-    "descripcion_corta": "Marco Mark4 V2 3K en fibra de carbono con opciones de 7 a 10 pulgadas para FPV completo.",
+    "nombre": "Mark4 V2 kit de montaje FPV 7-10 pulgadas",
+    "descripcion_corta": "Frame para drone FPV de carreras y freestyle, compatible con múltiples tamaños, incluye componentes de ensamblaje.",
     "por_que_comprarlo": [
-      "Tela 3K de fibra de carbono de alta calidad",
-      "Diseño TrueX optimizado para equilibrio y rigidez",
-      "Múltiples tamaños compatibles con cámaras O3/O4"
+      "Soporta diferentes tamaños de propelas de 7 a 10 pulgadas",
+      "Diseño probado Mark 4 Gen 2 con excelente estabilidad",
+      "Kit completo con piezas, reduce tiempo de búsqueda"
     ],
-    "precio_referencia": "$18–22",
+    "precio_referencia": "$15–18",
     "imagen": "/img/fpv__frames/08.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008406235621.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007031331034.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
         "k": "Tamaño",
-        "v": "7\" a 10\" (295-427 mm)"
+        "v": "7, 8, 9 o 10 pulgadas"
       },
       {
-        "k": "Material",
-        "v": "Fibra de carbono 3K"
+        "k": "Tipo",
+        "v": "Frame freestyle y carreras"
       },
       {
-        "k": "Diseño",
-        "v": "TrueX"
+        "k": "Configuración",
+        "v": "DIY kit montaje"
       }
     ],
     "_src": {
-      "id": "1005008406235621",
-      "orders": 1000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008406235621.html",
-      "capturado": "2026-08-31",
+      "id": "1005007031331034",
+      "orders": 2000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007031331034.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 9,
-    "nombre": "SpeedyBee Mario 5 Frame 5 pulgadas DC/XH",
-    "descripcion_corta": "Marco SpeedyBee Mario 5 en fibra de carbono de 5 pulgadas con conectores DC o XH.",
+    "nombre": "SpeedyBee Mario 5 frame fibra carbono",
+    "descripcion_corta": "Frame de 5 pulgadas en fibra de carbono para drones FPV freestyle, compatible con cámaras O3/O4 PRO.",
     "por_que_comprarlo": [
-      "Compatibilidad con cámaras O3 y O4 PRO",
-      "Opciones de conector DC o XH según preferencia",
-      "Estructura probada con rating 4.8"
+      "Placa de fibra de carbono resistente y rígida",
+      "Compatible directamente con sistemas O3/O4 PRO",
+      "Versiones DC/XH permiten elegir conectores según preferencia"
     ],
-    "precio_referencia": "$40–50",
+    "precio_referencia": "$40–45",
     "imagen": "/img/fpv__frames/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008523367989.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005011823065082.html",
     "badge": "Ticket alto",
     "specs": [
+      {
+        "k": "Material",
+        "v": "Fibra de carbono 4mm"
+      },
       {
         "k": "Tamaño",
         "v": "5 pulgadas"
       },
       {
-        "k": "Material",
-        "v": "Fibra de carbono"
-      },
-      {
-        "k": "Conector",
-        "v": "DC o XH"
+        "k": "Compatibilidad",
+        "v": "O3/O4 PRO, versión DC/XH"
       }
     ],
     "_src": {
-      "id": "1005008523367989",
-      "orders": 800,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005008523367989.html",
-      "capturado": "2026-08-31",
+      "id": "1005011823065082",
+      "orders": 900,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005011823065082.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   }

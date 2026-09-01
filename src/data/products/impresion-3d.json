@@ -31,7 +31,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008942555693.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 1
     }
   },
@@ -44,7 +44,7 @@
       "Compatibilidad directa con Bambu Lab A1",
       "Aumenta la precisión en impresiones complejas"
     ],
-    "precio_referencia": "$8–9",
+    "precio_referencia": "$7–8",
     "imagen": "/img/impresion-3d/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007217932479.html",
     "badge": null,
@@ -67,7 +67,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007217932479.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 2
     }
   },
@@ -80,7 +80,7 @@
       "Compatible con múltiples modelos Bambu Lab",
       "Durabilidad extendida de la placa base"
     ],
-    "precio_referencia": "$9–11",
+    "precio_referencia": "$12–14",
     "imagen": "/img/impresion-3d/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007458990197.html",
     "badge": "El más vendido",
@@ -103,8 +103,8 @@
       "orders": 5000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005007458990197.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 3
     }
   },
   {
@@ -139,44 +139,44 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010285370925.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 4
     }
   },
   {
     "rank": 5,
-    "nombre": "Funda de silicona para bloque de calentamiento",
-    "descripcion_corta": "Protección térmica de silicona para el bloque calefactor que aísla calor y mejora seguridad.",
+    "nombre": "Cepillo de silicona para nozzle Bambu Lab A1",
+    "descripcion_corta": "Cepillo de silicona diseñado para limpiar la boquilla y depuradores de la impresora Bambu Lab A1.",
     "por_que_comprarlo": [
-      "Protección contra quemaduras accidentales",
-      "Mejor aislamiento térmico durante impresión",
-      "Precio muy económico"
+      "Silicona resistente al calor que no daña la boquilla ni componentes sensibles",
+      "Compatible específicamente con Bambu Lab A1 y sus accesorios estándar",
+      "Precio accesible para mantenimiento básico de la impresora"
     ],
-    "precio_referencia": "$1–2",
+    "precio_referencia": "$1–3",
     "imagen": "/img/impresion-3d/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008482531502.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007506016199.html",
+    "badge": "El más vendido",
     "specs": [
       {
         "k": "Material",
-        "v": "Silicona resistente"
-      },
-      {
-        "k": "Función",
-        "v": "Aislamiento térmico"
+        "v": "Silicona"
       },
       {
         "k": "Compatibilidad",
         "v": "Bambu Lab A1"
+      },
+      {
+        "k": "Rango de precio",
+        "v": "$1–3"
       }
     ],
     "_src": {
-      "id": "1005008482531502",
-      "orders": 2000,
+      "id": "1005007506016199",
+      "orders": 4000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008482531502.html",
-      "capturado": "2026-08-31",
-      "prevRank": 5
+      "url": "https://www.aliexpress.com/item/1005007506016199.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
     }
   },
   {
@@ -211,7 +211,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006966620068.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 6
     }
   },
@@ -224,7 +224,7 @@
       "Facilita el cambio rápido de materiales",
       "Optimiza el espacio de trabajo"
     ],
-    "precio_referencia": "$5–7",
+    "precio_referencia": "$6–8",
     "imagen": "/img/impresion-3d/07.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012588897317.html",
     "badge": null,
@@ -247,7 +247,7 @@
       "orders": 282,
       "rating": 5,
       "url": "https://www.aliexpress.com/item/1005012588897317.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 7
     }
   },
@@ -283,7 +283,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006863893191.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 8
     }
   },
@@ -319,43 +319,43 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006807029655.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 9
     }
   },
   {
     "rank": 10,
-    "nombre": "Caja organizadora con tapa transparente",
-    "descripcion_corta": "Contenedor de almacenamiento de doble tapa transparente con diseño de bambú para organizar pequeños elementos.",
+    "nombre": "Caja secadora de filamentos con monitoreo",
+    "descripcion_corta": "Contenedor hermético con control de humedad en tiempo real para almacenar y secar filamentos 3D.",
     "por_que_comprarlo": [
-      "Visibilidad total del contenido sin abrir",
-      "Diseño compacto ideal para espacios reducidos",
-      "Material resistente y acabado decorativo"
+      "Monitoreo hermético en tiempo real evita absorción de humedad en filamentos",
+      "Almacenamiento seguro y resistente protege material costoso de degradación",
+      "Compatible con sistemas de impresoras 3D Bambu Lab A1 y otras marcas"
     ],
-    "precio_referencia": "$4–6",
+    "precio_referencia": "$22–26",
     "imagen": "/img/impresion-3d/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860921775.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009153869969.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Material",
-        "v": "Bambú y acrílico transparente"
+        "k": "Función",
+        "v": "Almacenamiento y secado de filamento"
       },
       {
-        "k": "Diseño",
-        "v": "Tapa cuadrada de doble cabezal"
+        "k": "Monitoreo",
+        "v": "Control de humedad en tiempo real"
       },
       {
-        "k": "Uso",
-        "v": "Almacenamiento general"
+        "k": "Rango de precio",
+        "v": "$22–26"
       }
     ],
     "_src": {
-      "id": "1005006860921775",
-      "orders": 50000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006860921775.html",
-      "capturado": "2026-08-31",
+      "id": "1005009153869969",
+      "orders": 10000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005009153869969.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   }

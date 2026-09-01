@@ -1,114 +1,6 @@
 [
   {
     "rank": 1,
-    "nombre": "Kit Hotend acero endurecido con boquillas",
-    "descripcion_corta": "Kit de hotend reforzado en acero endurecido incluye múltiples boquillas intercambiables.",
-    "por_que_comprarlo": [
-      "Acero endurecido resiste mejor el desgaste y filamentos abrasivos",
-      "Incluye varias boquillas para diferentes tipos de impresión",
-      "Durabilidad extendida comparado con hotends estándar"
-    ],
-    "precio_referencia": "$4–5",
-    "imagen": "/img/impresion-3d__hotend-boquilla/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010285370925.html",
-    "badge": null,
-    "specs": [
-      {
-        "k": "Material",
-        "v": "Acero endurecido mejorado"
-      },
-      {
-        "k": "Incluye",
-        "v": "Hotend + múltiples boquillas"
-      },
-      {
-        "k": "Resistencia",
-        "v": "Alta durabilidad"
-      }
-    ],
-    "_src": {
-      "id": "1005010285370925",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010285370925.html",
-      "capturado": "2026-08-31",
-      "prevRank": 3
-    }
-  },
-  {
-    "rank": 2,
-    "nombre": "Kit hotend Bambu Lab A1/A1 Mini con boquillas intercambiables",
-    "descripcion_corta": "Hotend completo con 4 boquillas de acero (0.2–0.8mm) para reemplazar en Bambu Lab A1 y A1 Mini.",
-    "por_que_comprarlo": [
-      "Incluye 4 boquillas de diferentes diámetros para variar detalles de impresión",
-      "Compatibilidad garantizada con A1, A1 Mini y A2L",
-      "Rating 4.9 con más de 5000 unidades vendidas"
-    ],
-    "precio_referencia": "$2–3",
-    "imagen": "/img/impresion-3d__hotend-boquilla/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008401120121.html",
-    "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Diámetros de boquilla",
-        "v": "0.2, 0.4, 0.6, 0.8 mm"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Bambu Lab A1, A1 Mini, A2L"
-      },
-      {
-        "k": "Tipo de boquilla",
-        "v": "Acero reemplazable"
-      }
-    ],
-    "_src": {
-      "id": "1005008401120121",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008401120121.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
-    }
-  },
-  {
-    "rank": 3,
-    "nombre": "Hotend 2.0 mejorado para Bambu Lab A1",
-    "descripcion_corta": "Hotend de segunda generación con mejoras en flujo y disipación térmica para A1.",
-    "por_que_comprarlo": [
-      "Versión mejorada con mejor gestión de temperatura",
-      "Aumenta flujo de material para impresiones más rápidas",
-      "Rating máximo de usuarios verificados"
-    ],
-    "precio_referencia": "$8–9",
-    "imagen": "/img/impresion-3d__hotend-boquilla/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007217932479.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Compatibilidad",
-        "v": "Bambu Lab A1"
-      },
-      {
-        "k": "Generación",
-        "v": "2.0 mejorado"
-      },
-      {
-        "k": "Mejora principal",
-        "v": "Disipación térmica optimizada"
-      }
-    ],
-    "_src": {
-      "id": "1005007217932479",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007217932479.html",
-      "capturado": "2026-08-31",
-      "prevRank": 2
-    }
-  },
-  {
-    "rank": 4,
     "nombre": "Kit de Hotend para Bambu Lab A1/A1 Mini/A2L",
     "descripcion_corta": "Kit completo de hotend de reemplazo compatible con impresoras Bambu Lab A1, A1 Mini y A2L.",
     "por_que_comprarlo": [
@@ -117,7 +9,7 @@
       "Precio accesible para mantenimiento periódico"
     ],
     "precio_referencia": "$1–3",
-    "imagen": "/img/impresion-3d__hotend-boquilla/04.webp",
+    "imagen": "/img/impresion-3d__hotend-boquilla/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006850870969.html",
     "badge": "El más vendido",
     "specs": [
@@ -139,43 +31,151 @@
       "orders": 10000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005006850870969.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
+      "prevRank": 4
+    }
+  },
+  {
+    "rank": 2,
+    "nombre": "Hotend 2.0 mejorado para Bambu Lab A1",
+    "descripcion_corta": "Hotend de segunda generación con mejoras en flujo y disipación térmica para A1.",
+    "por_que_comprarlo": [
+      "Versión mejorada con mejor gestión de temperatura",
+      "Aumenta flujo de material para impresiones más rápidas",
+      "Rating máximo de usuarios verificados"
+    ],
+    "precio_referencia": "$7–8",
+    "imagen": "/img/impresion-3d__hotend-boquilla/02.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007217932479.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "Bambu Lab A1"
+      },
+      {
+        "k": "Generación",
+        "v": "2.0 mejorado"
+      },
+      {
+        "k": "Mejora principal",
+        "v": "Disipación térmica optimizada"
+      }
+    ],
+    "_src": {
+      "id": "1005007217932479",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007217932479.html",
+      "capturado": "2026-09-01",
+      "prevRank": 3
+    }
+  },
+  {
+    "rank": 3,
+    "nombre": "Kit Hotend acero endurecido con boquillas",
+    "descripcion_corta": "Kit de hotend reforzado en acero endurecido incluye múltiples boquillas intercambiables.",
+    "por_que_comprarlo": [
+      "Acero endurecido resiste mejor el desgaste y filamentos abrasivos",
+      "Incluye varias boquillas para diferentes tipos de impresión",
+      "Durabilidad extendida comparado con hotends estándar"
+    ],
+    "precio_referencia": "$4–5",
+    "imagen": "/img/impresion-3d__hotend-boquilla/03.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010285370925.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Acero endurecido mejorado"
+      },
+      {
+        "k": "Incluye",
+        "v": "Hotend + múltiples boquillas"
+      },
+      {
+        "k": "Resistencia",
+        "v": "Alta durabilidad"
+      }
+    ],
+    "_src": {
+      "id": "1005010285370925",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010285370925.html",
+      "capturado": "2026-09-01",
       "prevRank": 1
     }
   },
   {
-    "rank": 5,
-    "nombre": "Kit agujas limpieza boquillas acero inoxidable 0.2-1.0mm",
-    "descripcion_corta": "Set de 7 agujas de acero inoxidable para desatascar boquillas de impresoras 3D.",
+    "rank": 4,
+    "nombre": "Funda de silicona para bloque calentador A1 Mini",
+    "descripcion_corta": "Calcetín de silicona que protege y aísla térmicamente el bloque de calentamiento del hotend A1 Mini.",
     "por_que_comprarlo": [
-      "Cubre rangos completos desde 0.2mm hasta 1.0mm de diámetro",
-      "Material acero inoxidable resistente sin dañar la boquilla",
-      "10.000+ unidades vendidas con rating 4.9"
+      "Aislamiento térmico para mejor control de temperatura y eficiencia energética",
+      "Protege el bloque de salpicaduras y mantiene segura la zona de trabajo",
+      "Compatible específicamente con A1 Mini, instalación directa sin adaptaciones"
     ],
-    "precio_referencia": "$2–4",
-    "imagen": "/img/impresion-3d__hotend-boquilla/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006807029655.html",
+    "precio_referencia": "$1–3",
+    "imagen": "/img/impresion-3d__hotend-boquilla/04.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008482531502.html",
     "badge": null,
     "specs": [
       {
-        "k": "Diámetros de aguja",
-        "v": "0.2, 0.3, 0.4, 0.5, 0.6, 0.8, 1.0 mm"
-      },
-      {
         "k": "Material",
-        "v": "Acero inoxidable"
+        "v": "Silicona"
       },
       {
         "k": "Compatibilidad",
-        "v": "Impresoras 3D universal"
+        "v": "Bambu Lab A1 Mini"
+      },
+      {
+        "k": "Color",
+        "v": "Negro"
       }
     ],
     "_src": {
-      "id": "1005006807029655",
-      "orders": 10000,
+      "id": "1005008482531502",
+      "orders": 2000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006807029655.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005008482531502.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 5,
+    "nombre": "Kit Hotend con boquillas múltiples para A1/A1 mini/A2L",
+    "descripcion_corta": "Set completo de hotend con boquillas intercambiables de acero endurecido en 4 diámetros diferentes.",
+    "por_que_comprarlo": [
+      "Incluye 4 tamaños de boquilla (0.2, 0.4, 0.6, 0.8mm) para diferentes tipos de impresión",
+      "Acero endurecido resiste filamentos abrasivos y uso prolongado",
+      "Compatible con A1, A1 Mini y A2L en un solo kit"
+    ],
+    "precio_referencia": "$10–12",
+    "imagen": "/img/impresion-3d__hotend-boquilla/05.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006804757564.html",
+    "badge": "El más vendido",
+    "specs": [
+      {
+        "k": "Compatibilidad",
+        "v": "A1, A1 Mini, A2L"
+      },
+      {
+        "k": "Diámetros de boquilla",
+        "v": "0.2, 0.4, 0.6, 0.8mm"
+      },
+      {
+        "k": "Material",
+        "v": "Acero endurecido"
+      }
+    ],
+    "_src": {
+      "id": "1005006804757564",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005006804757564.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -188,7 +188,7 @@
       "4 diámetros disponibles para versatilidad de proyectos",
       "5000+ pedidos con evaluación 4.9 estrellas"
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d__hotend-boquilla/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009127156091.html",
     "badge": null,
@@ -211,43 +211,43 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005009127156091.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 6
     }
   },
   {
     "rank": 7,
-    "nombre": "Tubo PTFE Bowden para extrusora Bambu Lab A1 Mini",
-    "descripcion_corta": "Tubo de teflón Bowden de 1–4 metros para extrusora de A1 Mini, diámetro interno 2–2.5mm.",
+    "nombre": "Tubo PTFE Bowden 1.75mm para extrusora A1/P1P/AMS",
+    "descripcion_corta": "Tubo Teflón de alta calidad para sistema extrusor Bowden, diámetro interno 1.75mm, compatible con múltiples modelos.",
     "por_que_comprarlo": [
-      "Disponible en longitudes 1, 2 y 4 metros según necesidad",
-      "Diámetro interno 2–2.5mm compatible con filamento 1.75mm",
-      "5000+ vendidos con rating 4.8"
+      "Tubo PTFE de calidad garantiza movimiento suave del filamento sin fricciones",
+      "Dimensiones precisas (ID 1.75mm, OD 4mm) aseguran ajuste correcto en el sistema",
+      "Compatible con A1 Mini, P1P y sistemas AMS de Bambu Lab"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d__hotend-boquilla/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006242932887.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966620068.html",
     "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Longitudes disponibles",
-        "v": "1, 2, 4 metros"
+        "k": "Material",
+        "v": "PTFE (Teflón)"
       },
       {
-        "k": "Diámetro interno",
-        "v": "2 a 2.5 mm"
+        "k": "Diámetro interno/externo",
+        "v": "1.75mm ID / 4mm OD"
       },
       {
         "k": "Compatibilidad",
-        "v": "Bambu Lab A1, P1P, A1 Mini"
+        "v": "P1P, A1 Mini, AMS"
       }
     ],
     "_src": {
-      "id": "1005006242932887",
-      "orders": 5000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005006242932887.html",
-      "capturado": "2026-08-31",
+      "id": "1005006966620068",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006966620068.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -260,7 +260,7 @@
       "Incluye hotend y elemento calentador en un kit",
       "Ideal para mantenimiento preventivo o reparación"
     ],
-    "precio_referencia": "$45–50",
+    "precio_referencia": "$40–45",
     "imagen": "/img/impresion-3d__hotend-boquilla/08.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008096985510.html",
     "badge": "Ticket alto",
@@ -283,8 +283,8 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008096985510.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 8
     }
   },
   {
@@ -319,8 +319,8 @@
       "orders": 5000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005009431079607.html",
-      "capturado": "2026-08-31",
-      "prevRank": 6
+      "capturado": "2026-09-01",
+      "prevRank": 9
     }
   },
   {
@@ -332,7 +332,7 @@
       "4 opciones de diámetro en un único kit completo",
       "Rating 4.8 con componentes verificados"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–2",
     "imagen": "/img/impresion-3d__hotend-boquilla/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007525308187.html",
     "badge": null,
@@ -355,8 +355,8 @@
       "orders": 1000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005007525308187.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 10
     }
   }
 ]

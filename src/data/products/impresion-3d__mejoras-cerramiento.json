@@ -1,36 +1,36 @@
 [
   {
     "rank": 1,
-    "nombre": "Tubo PTFE Bowden 1.75mm para extrusora",
-    "descripcion_corta": "Tubo de teflón de alta calidad para sistemas Bowden, compatible con J-Head y Bambu Lab, disponible en 1/2/4 metros.",
+    "nombre": "Tubo PTFE Bowden para Bambu Lab P1P/A1",
+    "descripcion_corta": "Tubo de extrusora de repuesto compatible con impresoras Bambu Lab, mejora la alimentación de filamento.",
     "por_que_comprarlo": [
-      "Compatible con múltiples modelos (Ender 3, P1P, A1 Mini)",
-      "Material PTFE de calidad con diámetro interior 2/2.5mm",
-      "Precio accesible con excelente rating 4.8"
+      "Evita atascos y asegura flujo consistente de filamento",
+      "Compatible con múltiples modelos P1P, P1S, A1 y X1",
+      "Precio muy accesible para mantenimiento preventivo"
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d__mejoras-cerramiento/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006242932887.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966620068.html",
     "badge": "El más vendido",
     "specs": [
       {
+        "k": "Diámetro interno",
+        "v": "1,75 mm"
+      },
+      {
+        "k": "Diámetro externo",
+        "v": "4 mm"
+      },
+      {
         "k": "Material",
         "v": "PTFE (Teflón)"
-      },
-      {
-        "k": "Diámetro interior",
-        "v": "2 o 2.5mm"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Bowden, J-Head, Ender 3, Bambu Lab"
       }
     ],
     "_src": {
-      "id": "1005006242932887",
-      "orders": 5000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005006242932887.html",
+      "id": "1005006966620068",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006966620068.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
@@ -44,7 +44,7 @@
       "Compatible con toda la línea AMS de Bambu Lab",
       "Rating máximo 4.9 con precio muy accesible"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–3",
     "imagen": "/img/impresion-3d__mejoras-cerramiento/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008907328877.html",
     "badge": null,
@@ -68,7 +68,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008907328877.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 2
     }
   },
   {
@@ -104,7 +104,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/4000145232270.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 3
     }
   },
   {
@@ -140,77 +140,77 @@
       "rating": 0,
       "url": "https://www.aliexpress.com/item/1005012423213847.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 4
     }
   },
   {
     "rank": 5,
-    "nombre": "Almohadilla antivibración Bambu Lab P1P/P1S",
-    "descripcion_corta": "Pies de goma antivibración antideslizante a prueba de polvo, compatibles con P1P, P1S, X1 y X1C de Bambu Lab.",
+    "nombre": "Almohadilla antivibración para pies Bambu Lab",
+    "descripcion_corta": "Aisladores de goma antideslizantes para reducir vibraciones y ruido de la impresora 3D.",
     "por_que_comprarlo": [
-      "Reduce vibraciones y ruido operativo",
-      "Material antideslizante protege suelo y impresora",
-      "Compatible con modelos premium de Bambu Lab"
+      "Disminuye vibraciones para mejor calidad de impresión",
+      "Protege muebles de arañazos y movimiento no deseado",
+      "Instalación simple sin herramientas requeridas"
     ],
     "precio_referencia": "$3–5",
     "imagen": "/img/impresion-3d__mejoras-cerramiento/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006054403476.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006996782483.html",
     "badge": "Mejor calidad-precio",
     "specs": [
-      {
-        "k": "Compatibilidad",
-        "v": "P1P, P1S, X1, X1C"
-      },
       {
         "k": "Material",
         "v": "Goma antivibración"
       },
       {
+        "k": "Compatibilidad",
+        "v": "P1P, P1S, A1, X1, X1C"
+      },
+      {
         "k": "Características",
-        "v": "Antideslizante, antigolpes, a prueba pol"
+        "v": "Antideslizante y antigolpes"
       }
     ],
     "_src": {
-      "id": "1005006054403476",
+      "id": "1005006996782483",
       "orders": 1000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005006054403476.html",
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006996782483.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 6,
-    "nombre": "Placa PEI textured doble cara Bambu Lab",
-    "descripcion_corta": "Placa de construcción de carbono PEI textured doble cara, compatible con P1S, P1P, X1, X1C y A1 de Bambu Lab.",
+    "nombre": "Tira LED para Bambu Lab A1/A1 Mini",
+    "descripcion_corta": "Iluminación LED 24V de alta calidad para visualizar mejor el área de impresión de la A1.",
     "por_que_comprarlo": [
-      "Superficie textured doble cara PEI/PEO/PET",
-      "Compatibilidad comprobada con línea profesional Bambu",
-      "5,000+ vendidos con rating 4.7"
+      "Índice de reproducción cromática Ra95 para ver colores reales",
+      "Brillo superior para monitoreo nocturno y documentación",
+      "Alimentación 24V integrable directamente en la impresora"
     ],
-    "precio_referencia": "$7–8",
+    "precio_referencia": "$4–6",
     "imagen": "/img/impresion-3d__mejoras-cerramiento/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005714370536.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007487160717.html",
     "badge": null,
     "specs": [
       {
-        "k": "Material",
-        "v": "Carbono PEI textured doble cara"
+        "k": "Voltaje",
+        "v": "24V"
       },
       {
         "k": "Compatibilidad",
-        "v": "P1S, P1P, X1, X1C, A1"
+        "v": "A1, A1 Mini"
       },
       {
-        "k": "Superficie",
-        "v": "PEI/PEO/PET texturizado"
+        "k": "Índice cromático",
+        "v": "Ra95"
       }
     ],
     "_src": {
-      "id": "1005005714370536",
-      "orders": 5000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005005714370536.html",
+      "id": "1005007487160717",
+      "orders": 1000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007487160717.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
@@ -224,7 +224,7 @@
       "Seguimiento automático de movimiento",
       "Conectividad WiFi para monitoreo remoto"
     ],
-    "precio_referencia": "$9–10",
+    "precio_referencia": "$7–9",
     "imagen": "/img/impresion-3d__mejoras-cerramiento/07.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009738214436.html",
     "badge": null,
@@ -248,7 +248,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005009738214436.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 7
     }
   },
   {
@@ -284,7 +284,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005009649189286.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 8
     }
   },
   {
@@ -320,7 +320,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008597568041.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 9
     }
   },
   {
@@ -332,7 +332,7 @@
       "Compatible específicamente con A1 y A1 Mini",
       "Rating perfecto 5.0, pieza original Bambu"
     ],
-    "precio_referencia": "$5–7",
+    "precio_referencia": "$6–8",
     "imagen": "/img/impresion-3d__mejoras-cerramiento/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012588897317.html",
     "badge": null,
@@ -352,11 +352,11 @@
     ],
     "_src": {
       "id": "1005012588897317",
-      "orders": 282,
+      "orders": 285,
       "rating": 5,
       "url": "https://www.aliexpress.com/item/1005012588897317.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 10
     }
   }
 ]

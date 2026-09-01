@@ -1,38 +1,38 @@
 [
   {
     "rank": 1,
-    "nombre": "Mochila de hidratación AONIJIE C932",
-    "descripcion_corta": "Mochila compacta con vejiga de hidratación integrada de 2.5L para carreras y entrenamientos.",
+    "nombre": "Riñonera invisible para correr con soporte",
+    "descripcion_corta": "Cinturón ajustable con compartimentos para teléfono e hidratación durante entrenamientos y carreras.",
     "por_que_comprarlo": [
-      "Capacidad de 2.5L con sistema de hidratación integrado",
-      "Diseño ergonómico y ajustable para movimiento cómodo",
-      "Material resistente al agua y duradero"
+      "Diseño invisible que no genera molestias ni se nota bajo la ropa",
+      "Múltiples compartimentos para llevar teléfono, llaves y accesorios",
+      "Material resistente al sudor y apto para cualquier clima"
     ],
-    "precio_referencia": "$22–26",
+    "precio_referencia": "$13–15",
     "imagen": "/img/running/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32969609904.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004621760961.html",
+    "badge": "El más vendido",
     "specs": [
       {
+        "k": "Material",
+        "v": "Nylon resistente al agua"
+      },
+      {
         "k": "Capacidad",
-        "v": "2.5 litros"
+        "v": "Hasta 6.5 pulgadas de teléfono"
       },
       {
         "k": "Peso",
-        "v": "según modelo"
-      },
-      {
-        "k": "Material",
-        "v": "poliéster resistente al agua"
+        "v": "Ligero, menos de 100g"
       }
     ],
     "_src": {
-      "id": "32969609904",
-      "orders": 500,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/32969609904.html",
-      "capturado": "2026-08-31",
-      "prevRank": 1
+      "id": "1005004621760961",
+      "orders": 900,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005004621760961.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
     }
   },
   {
@@ -44,7 +44,7 @@
       "Cancelación de ruido activa para entrenamientos en cualquier ambiente",
       "Diseño con clip seguro que no se cae durante el movimiento"
     ],
-    "precio_referencia": "$3–5",
+    "precio_referencia": "$2–3",
     "imagen": "/img/running/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007791905416.html",
     "badge": "El más vendido",
@@ -67,8 +67,8 @@
       "orders": 50000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007791905416.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 2
     }
   },
   {
@@ -80,7 +80,7 @@
       "Almacena de forma segura teléfono, llaves y documentos",
       "Ultraligera y no interfiere con el movimiento"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$3–5",
     "imagen": "/img/running/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008909024210.html",
     "badge": "Mejor calidad-precio",
@@ -103,7 +103,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008909024210.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 3
     }
   },
@@ -116,7 +116,7 @@
       "GPS preciso para rastreo exacto de rutas y distancia",
       "Monitoreo de frecuencia cardíaca y métricas de estrés"
     ],
-    "precio_referencia": "$105–120",
+    "precio_referencia": "$85–100",
     "imagen": "/img/running/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007460154665.html",
     "badge": "Ticket alto",
@@ -139,7 +139,7 @@
       "orders": 900,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005007460154665.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 4
     }
   },
@@ -175,7 +175,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005012052998168.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 5
     }
   },
@@ -188,7 +188,7 @@
       "Tecnología fotocromática se oscurece automáticamente",
       "Cobertura completa contra rayos UV nocivos"
     ],
-    "precio_referencia": "$17–19",
+    "precio_referencia": "$15–18",
     "imagen": "/img/running/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006904666475.html",
     "badge": null,
@@ -211,7 +211,7 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006904666475.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 6
     }
   },
@@ -247,8 +247,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010043990675.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 7
     }
   },
   {
@@ -283,7 +283,7 @@
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010806675074.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 8
     }
   },
@@ -296,7 +296,7 @@
       "Percusión de tejido profundo reduce dolor y acelera recuperación",
       "Portátil y recargable por USB para usar en cualquier lugar"
     ],
-    "precio_referencia": "$30–35",
+    "precio_referencia": "$35–40",
     "imagen": "/img/running/09.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008144764868.html",
     "badge": "Ticket alto",
@@ -319,43 +319,43 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008144764868.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 9
     }
   },
   {
     "rank": 10,
-    "nombre": "Linterna LED recargable Wurkkos HD03 con clip",
-    "descripcion_corta": "Mini linterna USB-C recargable de 680 lúmenes con clip magnético y luz RGB para uso portátil.",
+    "nombre": "Linterna LED recargable WARSUN T7",
+    "descripcion_corta": "Linterna portátil de 800 lúmenes con batería recargable, base magnética y clip para senderismo y trabajo.",
     "por_que_comprarlo": [
-      "Luz potente de 680 lúmenes en formato compacto para bolsillo o mochila",
-      "Clip magnético permite sujetar a cualquier superficie metálica sin las manos",
-      "Recargable por USB-C con opciones de luz blanca y RGB para diferentes usos"
+      "Alto brillo de 800 lúmenes con alcance de hasta 200 metros",
+      "Base magnética y clip integrados para fijar en cualquier superficie",
+      "Recargable por USB, sin necesidad de pilas desechables"
     ],
-    "precio_referencia": "$18–21",
+    "precio_referencia": "$6–7",
     "imagen": "/img/running/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010653212908.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006998280140.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Potencia",
-        "v": "680 lúmenes"
+        "k": "Brillo",
+        "v": "800 lúmenes"
       },
       {
-        "k": "Conexión",
-        "v": "USB-C recargable"
+        "k": "Fuente de energía",
+        "v": "Batería recargable USB"
       },
       {
-        "k": "Accesorios",
-        "v": "Clip magnético"
+        "k": "Autonomía",
+        "v": "Según modelo, 4-8 horas"
       }
     ],
     "_src": {
-      "id": "1005010653212908",
+      "id": "1005006998280140",
       "orders": 10000,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005010653212908.html",
-      "capturado": "2026-08-31",
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006998280140.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   }

@@ -31,8 +31,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008144764868.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 1
     }
   },
   {
@@ -44,7 +44,7 @@
       "Mejora flexibilidad y reduce rigidez muscular",
       "Precio accesible para uso diario y duradero"
     ],
-    "precio_referencia": "$5–6",
+    "precio_referencia": "$5–7",
     "imagen": "/img/running__recuperacion/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004232062585.html",
     "badge": "Mejor calidad-precio",
@@ -67,80 +67,80 @@
       "orders": 4000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005004232062585.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 2
     }
   },
   {
     "rank": 3,
-    "nombre": "Calcetines de compresión médicos",
-    "descripcion_corta": "Calcetines con compresión gradual que previenen venas varicosas y mejoran la circulación durante y después de correr.",
+    "nombre": "Calcetines de compresión tobilleros",
+    "descripcion_corta": "Medias tobilleras de compresión para corredores que mejoran circulación y reducen fatiga en entrenamientos y viajes.",
     "por_que_comprarlo": [
-      "Previene venas varicosas y trombosis venosa",
-      "Mejora retorno venoso y reduce edema en pies",
-      "Uso continuo diario sin molestias"
+      "Compresión graduada que acelera recuperación muscular",
+      "Precio accesible entre $2-3 por par",
+      "Versátil para correr, viajar y uso diario"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$2–3",
     "imagen": "/img/running__recuperacion/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012052998168.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008077676116.html",
+    "badge": "El más vendido",
     "specs": [
       {
+        "k": "Cobertura",
+        "v": "Tobillera"
+      },
+      {
         "k": "Compresión",
-        "v": "Médica y gradual"
+        "v": "Graduada, según modelo"
       },
       {
-        "k": "Beneficio",
-        "v": "Circulación y prevención"
-      },
-      {
-        "k": "Uso",
-        "v": "Diario y post-entreno"
+        "k": "Material",
+        "v": "Nylon y elastano, según modelo"
       }
     ],
     "_src": {
-      "id": "1005012052998168",
+      "id": "1005008077676116",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005012052998168.html",
-      "capturado": "2026-08-31",
-      "prevRank": 3
+      "url": "https://www.aliexpress.com/item/1005008077676116.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
     }
   },
   {
     "rank": 4,
-    "nombre": "Rodilleras para baile y deporte",
-    "descripcion_corta": "Protectores de rodilla con soporte y compresión para estabilidad en movimientos de baile e impacto.",
+    "nombre": "Rodillera ajustable estabilizadora",
+    "descripcion_corta": "Soporte de rodilla con banda estabilizadora de tendón rotuliano para deportes de alto impacto como running.",
     "por_que_comprarlo": [
-      "Estabiliza articulación y previene lesiones",
-      "Compresión reduce inflamación y dolor",
-      "Compatible con cualquier tipo de movimiento"
+      "Estabiliza la rótula y reduce dolor articular",
+      "Ajuste personalizado con cierre de velcro",
+      "Compatible con múltiples deportes de impacto"
     ],
-    "precio_referencia": "$4–5",
+    "precio_referencia": "$4–6",
     "imagen": "/img/running__recuperacion/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010044220249.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009921469828.html",
     "badge": null,
     "specs": [
       {
         "k": "Tipo",
-        "v": "Protección y compresión"
-      },
-      {
-        "k": "Uso",
-        "v": "Baile e impacto"
+        "v": "Banda estabilizadora rotuliana"
       },
       {
         "k": "Ajuste",
-        "v": "Elástico y regulable"
+        "v": "Velcro personalizable"
+      },
+      {
+        "k": "Usos",
+        "v": "Running, fútbol, baloncesto"
       }
     ],
     "_src": {
-      "id": "1005010044220249",
+      "id": "1005009921469828",
       "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010044220249.html",
-      "capturado": "2026-08-31",
-      "prevRank": 4
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005009921469828.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
     }
   },
   {
@@ -152,7 +152,7 @@
       "5 rollos cubren múltiples necesidades de taping",
       "Fácil de aplicar y remover sin irritar la piel"
     ],
-    "precio_referencia": "$8–9",
+    "precio_referencia": "$7–8",
     "imagen": "/img/running__recuperacion/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008248073703.html",
     "badge": null,
@@ -175,7 +175,7 @@
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008248073703.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 5
     }
   },
@@ -188,7 +188,7 @@
       "Material transpirable mantiene cabeza fresca",
       "Diseño ergonómico se ajusta a cualquier cabeza"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$3–5",
     "imagen": "/img/running__recuperacion/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006995309430.html",
     "badge": null,
@@ -211,7 +211,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006995309430.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 6
     }
   },
@@ -247,8 +247,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010155191971.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 7
     }
   },
   {
@@ -283,79 +283,79 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007344795709.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 8
     }
   },
   {
     "rank": 9,
-    "nombre": "Bandas de resistencia en bucle de látex",
-    "descripcion_corta": "Juego de bandas de resistencia para entrenamiento de fuerza y recuperación en casa.",
+    "nombre": "Bandas de resistencia con asas",
+    "descripcion_corta": "Bandas elásticas de entrenamiento con asas para fortalecer músculos y complementar la recuperación post-running.",
     "por_que_comprarlo": [
-      "Múltiples niveles de resistencia en un juego completo",
-      "Portátiles para ejercicios de recuperación en cualquier lugar",
-      "Versátiles para yoga, estiramientos y entrenamiento funcional"
+      "Mejoran fuerza y flexibilidad en fase de recuperación",
+      "Portátiles para entrenamientos en casa o exterior",
+      "Presupuesto accesible entre $3-4"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$3–4",
     "imagen": "/img/running__recuperacion/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010227782.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005013002684005.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Material",
-        "v": "Látex natural"
+        "k": "Tipo",
+        "v": "Bandas elásticas con asas"
       },
       {
-        "k": "Formato",
-        "v": "Bucles cerrados"
+        "k": "Resistencia",
+        "v": "Según modelo, variable"
       },
       {
-        "k": "Niveles",
-        "v": "Múltiples resistencias"
+        "k": "Uso",
+        "v": "Fortalecimiento y recuperación"
       }
     ],
     "_src": {
-      "id": "1005007010227782",
-      "orders": 10000,
+      "id": "1005013002684005",
+      "orders": 50000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007010227782.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005013002684005.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 10,
-    "nombre": "Calcetines de fútbol profesionales con compresión",
-    "descripcion_corta": "Manga de compresión transpirable para pantorrilla, diseñada para correr y deportes.",
+    "nombre": "Calcetines de compresión hasta rodilla",
+    "descripcion_corta": "Medias de compresión hasta la rodilla para corredores que previenen edema y mejoran flujo sanguíneo en piernas.",
     "por_que_comprarlo": [
-      "Compresión en pantorrilla para mejor flujo y recuperación",
-      "Material transpirable que reduce humedad durante actividad",
-      "Válido para fútbol, baloncesto, running y otros deportes"
+      "Cobertura completa hasta rodilla para máxima compresión",
+      "Indicado para diabetes, venas varicosas y edema",
+      "Versátil para running, ciclismo y viajes largos"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$4–5",
     "imagen": "/img/running__recuperacion/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007857126590.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007171090526.html",
     "badge": null,
     "specs": [
       {
-        "k": "Tipo",
-        "v": "Manga compresión pantorrilla"
+        "k": "Cobertura",
+        "v": "Hasta la rodilla"
       },
       {
-        "k": "Transpirabilidad",
-        "v": "Alta"
+        "k": "Compresión",
+        "v": "Graduada, según modelo"
       },
       {
-        "k": "Deportes",
-        "v": "Fútbol, baloncesto, running"
+        "k": "Material",
+        "v": "Nylon y elastano, según modelo"
       }
     ],
     "_src": {
-      "id": "1005007857126590",
-      "orders": 10000,
+      "id": "1005007171090526",
+      "orders": 1000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007857126590.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005007171090526.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   }

@@ -44,7 +44,7 @@
       "Pantalla OLED incluida para monitoreo en tiempo real",
       "Rating 4.9 con miles de vendidos, tecnología probada"
     ],
-    "precio_referencia": "$35–40",
+    "precio_referencia": "$30–40",
     "imagen": "/img/meshtastic__nodos/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008430005435.html",
     "badge": null,
@@ -116,7 +116,7 @@
       "Pantalla grande para visualización de mensajes y datos",
       "3000+ vendidos con rating 4.7, solución completa"
     ],
-    "precio_referencia": "$65–75",
+    "precio_referencia": "$60–70",
     "imagen": "/img/meshtastic__nodos/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007568074083.html",
     "badge": "Ticket alto",
@@ -188,7 +188,7 @@
       "Incluye todos los componentes necesarios para comenzar",
       "Rating 4.9, pensado específicamente para Meshtastic"
     ],
-    "precio_referencia": "$22–25",
+    "precio_referencia": "$22–26",
     "imagen": "/img/meshtastic__nodos/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006901039995.html",
     "badge": null,
@@ -224,7 +224,7 @@
       "Banda 868MHz ideal para Europa y compatibilidad global",
       "Precio accesible con 3000+ compras verificadas"
     ],
-    "precio_referencia": "$18–21",
+    "precio_referencia": "$17–20",
     "imagen": "/img/meshtastic__nodos/07.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007752194012.html",
     "badge": "El más vendido",
@@ -248,41 +248,41 @@
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005007752194012.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 7
     }
   },
   {
     "rank": 8,
-    "nombre": "Heltec LoRa 32 V4 Solar GPS OLED",
-    "descripcion_corta": "Placa ESP32 con GPS, panel solar y batería para operación autónoma en terreno.",
+    "nombre": "Módulo ESP32 S3 LoRa SX1262 868/915MHz",
+    "descripcion_corta": "Módulo LoRa compacto con ESP32 S3 y radio SX1262 para redes Meshtastic descentralizadas.",
     "por_que_comprarlo": [
-      "Carga solar integrada para autonomía indefinida",
-      "GPS incorporado para rastreo de ubicación en red",
-      "Bajo consumo energético con gestión AXP2101"
+      "Compatible con bandas 868 y 915MHz para uso global",
+      "Integra WiFi y Bluetooth además de LoRa",
+      "Precio muy accesible para comenzar en Meshtastic"
     ],
-    "precio_referencia": "$16–19",
+    "precio_referencia": "$9–11",
     "imagen": "/img/meshtastic__nodos/08.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010730251646.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008094638318.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Procesador",
-        "v": "ESP32"
-      },
-      {
         "k": "Frecuencia",
-        "v": "868 MHz"
+        "v": "868/915 MHz"
       },
       {
-        "k": "GPS",
-        "v": "Sí"
+        "k": "Radio",
+        "v": "SX1262"
+      },
+      {
+        "k": "Conectividad",
+        "v": "LoRa, WiFi, Bluetooth"
       }
     ],
     "_src": {
-      "id": "1005010730251646",
-      "orders": 2000,
+      "id": "1005008094638318",
+      "orders": 3000,
       "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005010730251646.html",
+      "url": "https://www.aliexpress.com/item/1005008094638318.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
@@ -296,7 +296,7 @@
       "GPS de precisión y pantalla OLED integrada",
       "Rating 4.9 con batería de mayor capacidad"
     ],
-    "precio_referencia": "$27–30",
+    "precio_referencia": "$28–30",
     "imagen": "/img/meshtastic__nodos/09.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F4001178678568.html",
     "badge": "Mejor calidad-precio",
@@ -320,7 +320,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/4001178678568.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 9
     }
   },
   {
@@ -356,7 +356,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007299442856.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 10
     }
   }
 ]

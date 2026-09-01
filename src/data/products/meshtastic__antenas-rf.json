@@ -8,7 +8,7 @@
       "Diseño flexible que se adapta a diferentes orientaciones",
       "Conector SMA estándar compatible con módulos inalámbricos"
     ],
-    "precio_referencia": "$6–8",
+    "precio_referencia": "$5–6",
     "imagen": "/img/meshtastic__antenas-rf/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004607615001.html",
     "badge": "El más vendido",
@@ -32,7 +32,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005004607615001.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 1
     }
   },
   {
@@ -68,7 +68,7 @@
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010572789349.html",
       "capturado": "2026-09-01",
-      "prevRank": 1
+      "prevRank": 2
     }
   },
   {
@@ -80,7 +80,7 @@
       "Rating de 4.9 y precio muy bajo entre $1 y $3",
       "Cable RG178 de baja pérdida ideal para conexiones RF"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__antenas-rf/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005073187553.html",
     "badge": "Mejor calidad-precio",
@@ -145,38 +145,38 @@
   },
   {
     "rank": 5,
-    "nombre": "Adaptador conector SMA/RP-SMA macho-hembra",
-    "descripcion_corta": "Adaptador RF versátil para conectar y adaptar diferentes tipos de conectores SMA y RP-SMA.",
+    "nombre": "Adaptador SMA RP-SMA a SMA",
+    "descripcion_corta": "Conector pasivo para convertir RP-SMA macho a SMA estándar sin pérdida de señal.",
     "por_que_comprarlo": [
-      "Permite interconectar antenas con diferentes tipos de conectores",
-      "Compatibilidad universal con equipos RF estándar",
-      "Precio económico para tener adaptadores de repuesto"
+      "10000+ ventas demuestran compatibilidad con múltiples antenas",
+      "Rating de 4.9 y precio mínimo entre $1 y $3",
+      "Accesorio esencial para interconectar diferentes tipos de conectores"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__antenas-rf/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005002939791937.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007856979793.html",
     "badge": null,
     "specs": [
       {
-        "k": "Tipo de conector",
-        "v": "SMA/RP-SMA macho-hembra"
+        "k": "Entrada",
+        "v": "SMA RP-SMA macho"
       },
       {
-        "k": "Impedancia",
-        "v": "50 Ohmios"
+        "k": "Salida",
+        "v": "SMA estándar"
       },
       {
-        "k": "Aplicación",
-        "v": "Adaptador RF universal"
+        "k": "Material",
+        "v": "según modelo"
       }
     ],
     "_src": {
-      "id": "1005002939791937",
+      "id": "1005007856979793",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005002939791937.html",
+      "url": "https://www.aliexpress.com/item/1005007856979793.html",
       "capturado": "2026-09-01",
-      "prevRank": null
+      "prevRank": 10
     }
   },
   {
@@ -217,74 +217,146 @@
   },
   {
     "rank": 7,
-    "nombre": "Amplificador antena Yagi para drones DJI",
-    "descripcion_corta": "Antena Yagi direccional que amplifica señal de control remoto para drones DJI con mayor alcance.",
+    "nombre": "Antena T dual banda 915MHz y 2.4GHz para FPV",
+    "descripcion_corta": "Antena tipo T de tres longitudes para drones FPV con soporte 915MHz y 2.4GHz, compatible con TBS Crossfire y ELRS.",
     "por_que_comprarlo": [
-      "Extiende significativamente el rango de control remoto del drone",
-      "Compatible con múltiples modelos DJI NEO, Air 3, Mini 3 y 4",
-      "Mejora la estabilidad y claridad de la transmisión de datos"
+      "Dual banda cubre frecuencias de control y telemetría simultáneamente",
+      "Múltiples longitudes optimizan rendimiento según distancia de vuelo",
+      "Conectores IPEX estándar, compatible con receptores FPV populares"
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$2–4",
     "imagen": "/img/meshtastic__antenas-rf/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005001436279059.html",
-    "badge": "Mejor calidad-precio",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007540149108.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Compatibilidad",
-        "v": "DJI NEO/Air 3/Mini 3/4"
+        "k": "Frecuencia",
+        "v": "915MHz y 2.4GHz"
       },
       {
-        "k": "Tipo de antena",
-        "v": "Yagi direccional"
+        "k": "Conector",
+        "v": "IPEX1"
       },
       {
-        "k": "Aplicación",
-        "v": "Extensión de rango RF"
+        "k": "Longitudes",
+        "v": "78mm, 120mm, 220mm"
       }
     ],
     "_src": {
-      "id": "1005001436279059",
+      "id": "1005007540149108",
+      "orders": 4000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007540149108.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Cable USB-C 100W con chip E-Marker",
+    "descripcion_corta": "Cable USB Type-C de carga rápida PD a 5A con chip E-Marker para MacBook, iPhone y dispositivos Samsung.",
+    "por_que_comprarlo": [
+      "Carga rápida 100W con protocolo Power Delivery certificado",
+      "Chip E-Marker integrado garantiza seguridad en dispositivos de alto consumo",
+      "Compatible con ecosistema Apple y Android actual"
+    ],
+    "precio_referencia": "$4–6",
+    "imagen": "/img/meshtastic__antenas-rf/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006505041416.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Potencia",
+        "v": "100W PD"
+      },
+      {
+        "k": "Corriente máxima",
+        "v": "5A"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "USB-C universal"
+      }
+    ],
+    "_src": {
+      "id": "1005006505041416",
+      "orders": 50000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006505041416.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "Antena LoRa omnidireccional SMA 868/915MHz",
+    "descripcion_corta": "Par de antenas flexibles omnidireccionales de alta ganancia para módulos LoRa Meshtastic en bandas 868 y 915MHz.",
+    "por_que_comprarlo": [
+      "Alta ganancia omnidireccional extiende alcance de red mesh",
+      "Flexibles reducen riesgos de roturas en instalaciones exteriores",
+      "Vienen en par, optimizando redundancia y cobertura"
+    ],
+    "precio_referencia": "$8–9",
+    "imagen": "/img/meshtastic__antenas-rf/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006359246399.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Frecuencia",
+        "v": "868MHz y 915MHz"
+      },
+      {
+        "k": "Tipo",
+        "v": "Omnidireccional"
+      },
+      {
+        "k": "Conector",
+        "v": "SMA"
+      }
+    ],
+    "_src": {
+      "id": "1005006359246399",
       "orders": 2000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005001436279059.html",
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006359246399.html",
       "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 10,
-    "nombre": "Adaptador SMA RP-SMA a SMA",
-    "descripcion_corta": "Conector pasivo para convertir RP-SMA macho a SMA estándar sin pérdida de señal.",
+    "nombre": "Adaptador SMA múltiples conectores RF",
+    "descripcion_corta": "Adaptador coaxial latón que convierte entre SMA, UHF PL259, N, BNC en configuración macho y hembra.",
     "por_que_comprarlo": [
-      "10000+ ventas demuestran compatibilidad con múltiples antenas",
-      "Rating de 4.9 y precio mínimo entre $1 y $3",
-      "Accesorio esencial para interconectar diferentes tipos de conectores"
+      "Múltiples conversiones en un adaptador reducen necesidad de accesorios separados",
+      "Latón de calidad garantiza conexiones confiables sin degradación RF",
+      "Precio accesible para interconectar equipos con estándares antiguos y modernos"
     ],
     "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__antenas-rf/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007856979793.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007904771921.html",
     "badge": null,
     "specs": [
       {
-        "k": "Entrada",
-        "v": "SMA RP-SMA macho"
-      },
-      {
-        "k": "Salida",
-        "v": "SMA estándar"
+        "k": "Conectores",
+        "v": "SMA, UHF, N, BNC"
       },
       {
         "k": "Material",
-        "v": "según modelo"
+        "v": "Latón"
+      },
+      {
+        "k": "Orientación",
+        "v": "Recto macho/hembra"
       }
     ],
     "_src": {
-      "id": "1005007856979793",
+      "id": "1005007904771921",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007856979793.html",
+      "url": "https://www.aliexpress.com/item/1005007904771921.html",
       "capturado": "2026-09-01",
-      "prevRank": 5
+      "prevRank": null
     }
   }
 ]

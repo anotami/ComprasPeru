@@ -31,43 +31,43 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010653326661.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 1
     }
   },
   {
     "rank": 2,
-    "nombre": "Cargador USB moto 60W doble puerto PD QC3.0",
-    "descripcion_corta": "Cargador rápido resistente al agua con doble puerto USB, voltímetro y conexión 12V para manillar.",
+    "nombre": "Cargador USB dual QC3.0 para manillar de moto",
+    "descripcion_corta": "Cargador rápido de 60W con dos puertos USB, voltímetro y interruptor, diseñado para fijar en manillar de motocicleta.",
     "por_que_comprarlo": [
-      "Carga rápida simultánea de dos dispositivos con tecnología PD y QC3.0",
-      "Resistente al agua con voltímetro integrado para monitoreo",
-      "Instalación directa en manillar con cable de 12V"
+      "Carga rápida QC3.0 para dos dispositivos simultáneamente",
+      "Incluye voltímetro para monitorear batería y voltímetro digital integrado",
+      "Impermeable y resistente con fijación segura en manillar"
     ],
-    "precio_referencia": "$6–8",
+    "precio_referencia": "$6–7",
     "imagen": "/img/moto__soportes/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007805553731.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007614330107.html",
+    "badge": "El más vendido",
     "specs": [
       {
         "k": "Potencia",
-        "v": "60W máximo"
+        "v": "60W"
       },
       {
-        "k": "Puertos",
-        "v": "2x USB (PD + QC3.0)"
+        "k": "Puertos USB",
+        "v": "2x USB (QC3.0)"
       },
       {
-        "k": "Protección",
-        "v": "Resistente al agua"
+        "k": "Voltaje entrada",
+        "v": "12V DC"
       }
     ],
     "_src": {
-      "id": "1005007805553731",
+      "id": "1005007614330107",
       "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007805553731.html",
-      "capturado": "2026-08-31",
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005007614330107.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -80,7 +80,7 @@
       "Ajuste flexible permite personalizar ángulo de visión",
       "Compatible con manillar de bicicleta y motocicleta"
     ],
-    "precio_referencia": "$8–10",
+    "precio_referencia": "$8–9",
     "imagen": "/img/moto__soportes/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008666404939.html",
     "badge": null,
@@ -103,8 +103,8 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008666404939.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 3
     }
   },
   {
@@ -116,7 +116,7 @@
       "Material aluminio proporciona durabilidad y bajo peso",
       "Instalación universal en extremos de manillar"
     ],
-    "precio_referencia": "$6–7",
+    "precio_referencia": "$3–5",
     "imagen": "/img/moto__soportes/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010285521423.html",
     "badge": "Mejor calidad-precio",
@@ -139,8 +139,8 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010285521423.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 4
     }
   },
   {
@@ -152,7 +152,7 @@
       "Material impermeable protege contenido en lluvia y polvo",
       "Convertible entre bolsa lateral y mochila de ciclismo"
     ],
-    "precio_referencia": "$35–40",
+    "precio_referencia": "$30–35",
     "imagen": "/img/moto__soportes/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006861089203.html",
     "badge": null,
@@ -175,8 +175,8 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006861089203.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 5
     }
   },
   {
@@ -188,7 +188,7 @@
       "Protección impermeable ideal para herramientas y objetos frágiles",
       "Compatible con Harley, Honda, Yamaha y otras marcas"
     ],
-    "precio_referencia": "$6–8",
+    "precio_referencia": "$5–6",
     "imagen": "/img/moto__soportes/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007476894278.html",
     "badge": null,
@@ -211,8 +211,8 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007476894278.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 6
     }
   },
   {
@@ -247,8 +247,8 @@
       "orders": 4000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007344900938.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 7
     }
   },
   {
@@ -283,8 +283,8 @@
       "orders": 4000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005011540586883.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 8
     }
   },
   {
@@ -319,8 +319,8 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008077441767.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 9
     }
   },
   {
@@ -332,7 +332,7 @@
       "Elevador de manillar mejora ergonomía en viajes largos",
       "Fijación segura con abrazadera ajustable al manillar"
     ],
-    "precio_referencia": "$16–19",
+    "precio_referencia": "$17–19",
     "imagen": "/img/moto__soportes/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008569850324.html",
     "badge": null,
@@ -355,8 +355,8 @@
       "orders": 1000,
       "rating": 4.6,
       "url": "https://www.aliexpress.com/item/1005008569850324.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 10
     }
   }
 ]

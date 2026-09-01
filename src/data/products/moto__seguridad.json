@@ -1,37 +1,37 @@
 [
   {
     "rank": 1,
-    "nombre": "Cerradura de alarma para disco de freno",
-    "descripcion_corta": "Bloqueo de disco de freno con alarma integrada, fabricado en aleación de aluminio resistente al agua.",
+    "nombre": "Candado de alarma para moto y bici",
+    "descripcion_corta": "Candado de disco de aluminio con alarma integrada para proteger tu moto o bicicleta contra robos.",
     "por_que_comprarlo": [
-      "Alarma sonora disuasiva de alto volumen ante intentos de robo",
-      "Material de aluminio ligero pero resistente a corte y manipulación",
-      "Impermeable, apto para clima húmedo y lluvia frecuente"
+      "Alarma sonora disuasoria de alto volumen ante intentos de robo",
+      "Construcción en aleación de aluminio resistente a herramientas de corte",
+      "Incluye cuerda de recordatorio y bolsa de almacenamiento"
     ],
-    "precio_referencia": "$17–20",
+    "precio_referencia": "$14–17",
     "imagen": "/img/moto__seguridad/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006783042289.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860896218.html",
     "badge": "El más vendido",
     "specs": [
-      {
-        "k": "Tipo de cierre",
-        "v": "Disco de freno con alarma"
-      },
       {
         "k": "Material",
         "v": "Aleación de aluminio"
       },
       {
-        "k": "Resistencia al agua",
-        "v": "Impermeable"
+        "k": "Tipo de cierre",
+        "v": "Disco con mecanismo de alarma"
+      },
+      {
+        "k": "Accesorios incluidos",
+        "v": "Cuerda recordatorio, bolsa almacenamient"
       }
     ],
     "_src": {
-      "id": "1005006783042289",
+      "id": "1005006860896218",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006783042289.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005006860896218.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -44,7 +44,7 @@
       "Volumen máximo de 110dB para máxima disuasión",
       "Instalación fácil sin herramientas complicadas"
     ],
-    "precio_referencia": "$7–8",
+    "precio_referencia": "$6–7",
     "imagen": "/img/moto__seguridad/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008554516771.html",
     "badge": "Mejor calidad-precio",
@@ -67,79 +67,79 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008554516771.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 2
     }
   },
   {
     "rank": 3,
-    "nombre": "Rastreador GPS Bluetooth inteligente",
-    "descripcion_corta": "Localizador GPS con Bluetooth compatible con Android, permite rastrear moto en tiempo real vía GPS.",
+    "nombre": "Rastreador GPS GF07 mini portátil",
+    "descripcion_corta": "Dispositivo GPS compacto para localizar tu moto o bicicleta en tiempo real desde el móvil.",
     "por_que_comprarlo": [
-      "Posicionamiento global en tiempo real sin límite de distancia",
-      "Compatible con Google Find My y aplicaciones Android estándar",
-      "Tamaño compacto para instalar discretamente en moto"
+      "Localización GPS en tiempo real con precisión alta",
+      "Tamaño mini discreto, fácil de ocultar",
+      "Funciona con app móvil, rastreo desde cualquier lugar"
     ],
-    "precio_referencia": "$6–8",
+    "precio_referencia": "$3–4",
     "imagen": "/img/moto__seguridad/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009960258645.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010285446631.html",
     "badge": null,
     "specs": [
       {
         "k": "Tecnología",
-        "v": "GPS + Bluetooth"
+        "v": "GPS con app móvil"
       },
       {
-        "k": "Compatibilidad",
-        "v": "Android, Google Find My"
+        "k": "Tamaño",
+        "v": "Mini portátil"
       },
       {
         "k": "Alcance",
-        "v": "Global (GPS satelital)"
+        "v": "Cobertura GPS global"
       }
     ],
     "_src": {
-      "id": "1005009960258645",
-      "orders": 50000,
+      "id": "1005010285446631",
+      "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009960258645.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "url": "https://www.aliexpress.com/item/1005010285446631.html",
+      "capturado": "2026-09-01",
+      "prevRank": 9
     }
   },
   {
     "rank": 4,
-    "nombre": "Cadena antirrobo con candado combinado",
-    "descripcion_corta": "Cadena de cable resistente con candado de combinación de 4 dígitos, portátil y versátil.",
+    "nombre": "Candado portátil con contraseña para casco",
+    "descripcion_corta": "Candado de alambre de acero compacto con cierre de contraseña para asegurar casco y accesorios.",
     "por_que_comprarlo": [
-      "Precio muy accesible sin comprometer seguridad básica",
-      "Combinación de 4 dígitos sin necesidad de llevar llaves",
-      "Cuerda de alambre flexible y portátil para múltiples usos"
+      "Tamaño mini ideal para llevar en el bolsillo o mochila",
+      "Cierre de contraseña sin necesidad de llaves",
+      "Cable de acero duradero resistente a cortes"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$3–5",
     "imagen": "/img/moto__seguridad/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007096976532.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010408343.html",
     "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Tipo de cierre",
-        "v": "Candado combinación 4 dígitos"
-      },
-      {
         "k": "Material",
-        "v": "Cable de alambre resistente"
+        "v": "Alambre de acero"
       },
       {
-        "k": "Longitud",
-        "v": "Según modelo"
+        "k": "Tipo de cierre",
+        "v": "Contraseña numérica"
+      },
+      {
+        "k": "Portabilidad",
+        "v": "Mini, muy ligero y compacto"
       }
     ],
     "_src": {
-      "id": "1005007096976532",
+      "id": "1005007010408343",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007096976532.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005007010408343.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -152,7 +152,7 @@
       "Resistencia UV evita decoloración y daño por sol",
       "Ajuste universal para motos de diferentes tamaños"
     ],
-    "precio_referencia": "$15–18",
+    "precio_referencia": "$12–14",
     "imagen": "/img/moto__seguridad/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006861833201.html",
     "badge": "Ticket alto",
@@ -175,7 +175,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006861833201.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 5
     }
   },
@@ -188,7 +188,7 @@
       "Clavos de goma no dañan la estructura del neumático",
       "Precio económico, práctico para llevar siempre"
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$2–4",
     "imagen": "/img/moto__seguridad/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006995426068.html",
     "badge": null,
@@ -211,44 +211,44 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006995426068.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 6
     }
   },
   {
     "rank": 7,
-    "nombre": "Cadena de acero XUNTING con funda nailon",
-    "descripcion_corta": "Cadena de acero alta resistencia con funda nailon protectora y cierre giratorio 360 grados.",
+    "nombre": "Cadena antirrobo con candado combinado",
+    "descripcion_corta": "Cadena de cable resistente con candado de combinación de 4 dígitos, portátil y versátil.",
     "por_que_comprarlo": [
-      "Acero de alta resistencia a corte y manipulación forzada",
-      "Funda nailon protege la moto de arañazos durante el bloqueo",
-      "Cierre giratorio de 360 grados para mayor flexibilidad de uso"
+      "Precio muy accesible sin comprometer seguridad básica",
+      "Combinación de 4 dígitos sin necesidad de llevar llaves",
+      "Cuerda de alambre flexible y portátil para múltiples usos"
     ],
-    "precio_referencia": "$7–8",
+    "precio_referencia": "$3–5",
     "imagen": "/img/moto__seguridad/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007171031548.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007096976532.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
+        "k": "Tipo de cierre",
+        "v": "Candado combinación 4 dígitos"
+      },
+      {
         "k": "Material",
-        "v": "Acero de alta resistencia"
+        "v": "Cable de alambre resistente"
       },
       {
-        "k": "Protección",
-        "v": "Funda de nailon 360°"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Bicicleta, E-Bike, moto"
+        "k": "Longitud",
+        "v": "Según modelo"
       }
     ],
     "_src": {
-      "id": "1005007171031548",
-      "orders": 5000,
+      "id": "1005007096976532",
+      "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007171031548.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "url": "https://www.aliexpress.com/item/1005007096976532.html",
+      "capturado": "2026-09-01",
+      "prevRank": 4
     }
   },
   {
@@ -260,7 +260,7 @@
       "Acero reforzado resistente a herramientas de corte comunes",
       "Diseño universal compatible con motos urbanas, ATV y bicicletas"
     ],
-    "precio_referencia": "$8–10",
+    "precio_referencia": "$8–9",
     "imagen": "/img/moto__seguridad/08.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007805667199.html",
     "badge": null,
@@ -283,79 +283,79 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007805667199.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 8
     }
   },
   {
     "rank": 9,
-    "nombre": "Rastreador GPS GF07 mini portátil",
-    "descripcion_corta": "Dispositivo GPS compacto para localizar tu moto o bicicleta en tiempo real desde el móvil.",
+    "nombre": "Localizador GPS magnético GF07",
+    "descripcion_corta": "Rastreador GPS compacto con aplicación móvil para localizar tu moto en tiempo real y recibir alertas.",
     "por_que_comprarlo": [
-      "Localización GPS en tiempo real con precisión alta",
-      "Tamaño mini discreto, fácil de ocultar",
-      "Funciona con app móvil, rastreo desde cualquier lugar"
+      "Posicionamiento en tiempo real vía aplicación móvil",
+      "Diseño magnético para fijar discretamente en moto",
+      "Sistema de alarma antirrobo y antipérdida integrado"
     ],
-    "precio_referencia": "$4–6",
+    "precio_referencia": "$4–5",
     "imagen": "/img/moto__seguridad/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010285446631.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010706592826.html",
+    "badge": "Ticket alto",
     "specs": [
       {
         "k": "Tecnología",
-        "v": "GPS con app móvil"
+        "v": "GPS con aplicación móvil"
       },
       {
-        "k": "Tamaño",
-        "v": "Mini portátil"
+        "k": "Instalación",
+        "v": "Magnética, fijación discreta"
       },
       {
-        "k": "Alcance",
-        "v": "Cobertura GPS global"
+        "k": "Funciones",
+        "v": "Rastreo, alarma, antipérdida"
       }
     ],
     "_src": {
-      "id": "1005010285446631",
+      "id": "1005010706592826",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010285446631.html",
-      "capturado": "2026-08-31",
-      "prevRank": 3
+      "url": "https://www.aliexpress.com/item/1005010706592826.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
     }
   },
   {
     "rank": 10,
-    "nombre": "Candado en U mini portátil",
-    "descripcion_corta": "Pequeño candado en U con llave para rueda, ligero y fácil de transportar en bolsillo.",
+    "nombre": "Cadena antirrobo con contraseña 4 dígitos",
+    "descripcion_corta": "Cadena de cable con cierre de contraseña para asegurar moto, bici o casco de forma portátil.",
     "por_que_comprarlo": [
-      "Tamaño mini perfecto para llevar siempre sin ocupar espacio",
-      "Ideal para asegurar rueda u otros componentes removibles",
-      "Cierre de llave convencional, simple y confiable"
+      "Contraseña de 4 dígitos sin necesidad de llevar llaves",
+      "Cable de acero muy duradero y resistente al corte",
+      "Tamaño portátil para transportar fácilmente"
     ],
-    "precio_referencia": "$10–12",
+    "precio_referencia": "$3–5",
     "imagen": "/img/moto__seguridad/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007345002376.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010228864368.html",
     "badge": null,
     "specs": [
       {
+        "k": "Material",
+        "v": "Alambre de acero"
+      },
+      {
         "k": "Tipo de cierre",
-        "v": "Candado U mini con llave"
+        "v": "Contraseña 4 dígitos"
       },
       {
         "k": "Portabilidad",
-        "v": "Muy ligero y compacto"
-      },
-      {
-        "k": "Uso",
-        "v": "Rueda y componentes removibles"
+        "v": "Cable compacto y ligero"
       }
     ],
     "_src": {
-      "id": "1005007345002376",
-      "orders": 2000,
+      "id": "1005010228864368",
+      "orders": 3000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007345002376.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005010228864368.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   }

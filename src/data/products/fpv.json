@@ -31,43 +31,43 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006863865311.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 1
     }
   },
   {
     "rank": 2,
-    "nombre": "Motor iFlight XING E Pro 2207 sin escobillas",
-    "descripcion_corta": "Pack de 4 motores brushless de alto rendimiento para drones FPV racing y freestyle con configuración multi-voltaje.",
+    "nombre": "Motores sin escobillas AxisFlying AE2207 V2 5mm",
+    "descripcion_corta": "Set de 4 motores brushless de alto rendimiento para drones FPV con hélices de 5 pulgadas y batería 4-6S.",
     "por_que_comprarlo": [
-      "Disponible en 1800KV, 2450KV y 2750KV para diferentes configuraciones de vuelo",
-      "Motores profesionales iFlight con rating 4.9 de confiabilidad comprobada",
-      "Compatible con baterías 4S y 6S según variante seleccionada"
+      "Versión V2 mejorada con mejor eficiencia y durabilidad probada",
+      "KV dual (1960/1750) se adapta a diferentes configuraciones de peso",
+      "Compatible con drones acrobáticos y cinematográficos de peso medio"
     ],
-    "precio_referencia": "$50–55",
+    "precio_referencia": "$45–50",
     "imagen": "/img/fpv/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009524110745.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007477010075.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "KV disponibles",
-        "v": "1800 / 2450 / 2750 KV"
-      },
-      {
         "k": "Voltaje",
-        "v": "4S / 6S Lipo"
+        "v": "4-6S LiPo"
       },
       {
-        "k": "Cantidad",
-        "v": "4 unidades"
+        "k": "KV",
+        "v": "1960KV / 1750KV"
+      },
+      {
+        "k": "Tamaño de eje",
+        "v": "5 mm"
       }
     ],
     "_src": {
-      "id": "1005009524110745",
+      "id": "1005007477010075",
       "orders": 1000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009524110745.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005007477010075.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -80,7 +80,7 @@
       "Integración 4 en 1 simplifica cableado y reduce peso total del dron",
       "Rating 4.9 con 2000+ pedidos confirma confiabilidad en competencia"
     ],
-    "precio_referencia": "$24–29",
+    "precio_referencia": "$28–30",
     "imagen": "/img/fpv/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008710524456.html",
     "badge": "Mejor calidad-precio",
@@ -103,8 +103,8 @@
       "orders": 2000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008710524456.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 3
     }
   },
   {
@@ -116,7 +116,7 @@
       "Compatible con firmware Betaflight para ajuste avanzado de vuelo",
       "Diseñado específicamente para modelos APEX con probada integración"
     ],
-    "precio_referencia": "$40–45",
+    "precio_referencia": "$35–45",
     "imagen": "/img/fpv/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007038225919.html",
     "badge": "Ticket alto",
@@ -139,43 +139,43 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007038225919.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 4
     }
   },
   {
     "rank": 5,
-    "nombre": "Cámara CADDX ANT Nano 1200TVL",
-    "descripcion_corta": "Cámara FPV ultraligera con 1200TVL, Global WDR y OSD integrado, ideal para tinywhoop y cinewhoop.",
+    "nombre": "Cámara CADDX ANT Nano 1200TVL WDR",
+    "descripcion_corta": "Cámara FPV ultraligera de 1.8mm con 1200TVL, WDR global y OSD integrado para Tinywhoop y drones mini.",
     "por_que_comprarlo": [
-      "Peso ultra reducido con lente de 1.8mm sin sacrificar imagen clara",
-      "Soporte Global WDR para mejor visión en condiciones de luz variable",
-      "5000+ pedidos en versiones relacionadas demuestran popularidad en category"
+      "Formato 1.8mm permite integración en espacios muy reducidos",
+      "WDR global maneja bien transiciones de luz rápidas en vuelo",
+      "Relación 16:9 y 4:3 seleccionable según tu preferencia de composición"
     ],
-    "precio_referencia": "$11–13",
+    "precio_referencia": "$12–15",
     "imagen": "/img/fpv/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006863927036.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009605940023.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
         "k": "Resolución",
-        "v": "1200 TVL"
+        "v": "1200TVL"
       },
       {
-        "k": "Lente",
-        "v": "1.8mm"
+        "k": "Tamaño de lente",
+        "v": "1.8 mm"
       },
       {
-        "k": "Ratio",
-        "v": "16:9 / 4:3 seleccionable"
+        "k": "Formatos",
+        "v": "16:9 / 4:3"
       }
     ],
     "_src": {
-      "id": "1005006863927036",
-      "orders": 3000,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005006863927036.html",
-      "capturado": "2026-08-31",
+      "id": "1005009605940023",
+      "orders": 1000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009605940023.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -211,8 +211,8 @@
       "orders": 5000,
       "rating": 5,
       "url": "https://www.aliexpress.com/item/1005006860597689.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 6
     }
   },
   {
@@ -247,8 +247,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010228737836.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 7
     }
   },
   {
@@ -283,8 +283,8 @@
       "orders": 4000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007792190596.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 8
     }
   },
   {
@@ -319,8 +319,8 @@
       "orders": 500,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010503326388.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 9
     }
   },
   {
@@ -355,8 +355,8 @@
       "orders": 5000,
       "rating": 5,
       "url": "https://www.aliexpress.com/item/1005007636184200.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 10
     }
   }
 ]

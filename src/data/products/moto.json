@@ -1,38 +1,38 @@
 [
   {
     "rank": 1,
-    "nombre": "Casco Bluetooth EJEAS V6 PRO+",
-    "descripcion_corta": "Casco con sistema de comunicación Bluetooth para conectar hasta 6 motos simultáneamente.",
+    "nombre": "Auriculares Bluetooth para casco de moto",
+    "descripcion_corta": "Auriculares inalámbricos impermeables con Bluetooth 5.3 para llamadas y música en motocicleta.",
     "por_que_comprarlo": [
-      "Comunicación grupal en tiempo real entre motociclistas",
-      "Compatible con múltiples dispositivos y aplicaciones",
-      "Autonomía prolongada de batería para viajes largos"
+      "Conexión estable Bluetooth 5.3 con alcance extendido",
+      "Impermeables para resistir lluvia y salpicaduras en ruta",
+      "Control de llamadas y música sin soltar el manillar"
     ],
-    "precio_referencia": "$26–30",
+    "precio_referencia": "$8–10",
     "imagen": "/img/moto/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006994248146.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006995179667.html",
     "badge": "El más vendido",
     "specs": [
       {
         "k": "Conexión",
-        "v": "Bluetooth, hasta 6 motos"
+        "v": "Bluetooth 5.3"
+      },
+      {
+        "k": "Resistencia",
+        "v": "Impermeable"
       },
       {
         "k": "Compatibilidad",
-        "v": "Universal para cascos"
-      },
-      {
-        "k": "Autonomía",
-        "v": "Según modelo"
+        "v": "Cascos estándar"
       }
     ],
     "_src": {
-      "id": "1005006994248146",
+      "id": "1005006995179667",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006994248146.html",
-      "capturado": "2026-08-31",
-      "prevRank": 1
+      "url": "https://www.aliexpress.com/item/1005006995179667.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
     }
   },
   {
@@ -67,80 +67,80 @@
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008144822705.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 2
     }
   },
   {
     "rank": 3,
-    "nombre": "Guantes de moto dedo completo transpirables",
-    "descripcion_corta": "Guantes protectores de moto con dedos completos y material transpirable para mayor confort.",
+    "nombre": "Guantes de moto con pantalla táctil",
+    "descripcion_corta": "Guantes antideslizantes con tecnología táctil, resistentes al viento para moto.",
     "por_que_comprarlo": [
-      "Protección en nudillos y palmas en caso de caída",
-      "Excelente ventilación para climas cálidos",
-      "Agarre mejorado en manillar incluso mojado"
+      "Pantalla táctil funcional en dedo índice y pulgar",
+      "Material antideslizante con agarre seguro en manillar",
+      "Protección contra viento y salpicaduras en invierno"
     ],
-    "precio_referencia": "$8–10",
+    "precio_referencia": "$4–5",
     "imagen": "/img/moto/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006216680936.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006996497922.html",
     "badge": null,
     "specs": [
       {
         "k": "Material",
-        "v": "Tela transpirable reforzada"
+        "v": "Antideslizante"
       },
       {
-        "k": "Cobertura",
-        "v": "Dedo completo"
+        "k": "Pantalla táctil",
+        "v": "Sí"
       },
       {
-        "k": "Protección",
-        "v": "Nudillos y palmas"
+        "k": "Resistencia",
+        "v": "Viento y agua"
       }
     ],
     "_src": {
-      "id": "1005006216680936",
+      "id": "1005006996497922",
       "orders": 10000,
-      "rating": 4.6,
-      "url": "https://www.aliexpress.com/item/1005006216680936.html",
-      "capturado": "2026-08-31",
-      "prevRank": 3
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006996497922.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
     }
   },
   {
     "rank": 4,
-    "nombre": "Compresor de aire inalámbrico para neumáticos",
-    "descripcion_corta": "Compresor portátil con batería recargable para inflar neumáticos de moto en cualquier lugar.",
+    "nombre": "Compresor inalámbrico para neumáticos",
+    "descripcion_corta": "Bomba de aire eléctrica portátil con pantalla digital para inflar neumáticos de moto.",
     "por_que_comprarlo": [
-      "Portabilidad sin necesidad de toma de corriente",
-      "Presión regulable según tipo de neumático",
-      "Reparación de emergencia durante el viaje"
+      "Pantalla digital para monitoreo preciso de presión",
+      "Funciona sin cables, ideal para llevar en viajes",
+      "Compatible con moto, bicicleta y otros vehículos"
     ],
-    "precio_referencia": "$23–27",
+    "precio_referencia": "$19–23",
     "imagen": "/img/moto/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006904547542.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010433260.html",
+    "badge": "Ticket alto",
     "specs": [
       {
-        "k": "Alimentación",
-        "v": "Batería recargable"
+        "k": "Tipo",
+        "v": "Inalámbrico"
       },
       {
-        "k": "Portabilidad",
-        "v": "Inalámbrico y compacto"
+        "k": "Pantalla",
+        "v": "Digital"
       },
       {
-        "k": "Presión",
-        "v": "Según modelo"
+        "k": "Compatibilidad",
+        "v": "Moto, bicicleta, auto"
       }
     ],
     "_src": {
-      "id": "1005006904547542",
+      "id": "1005007010433260",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006904547542.html",
-      "capturado": "2026-08-31",
-      "prevRank": 4
+      "url": "https://www.aliexpress.com/item/1005007010433260.html",
+      "capturado": "2026-09-01",
+      "prevRank": null
     }
   },
   {
@@ -152,7 +152,7 @@
       "Doble color para señalización frontal o indicadores",
       "Bajo consumo de energía con tecnología LED"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$3–5",
     "imagen": "/img/moto/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007171262229.html",
     "badge": null,
@@ -175,7 +175,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007171262229.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 5
     }
   },
@@ -211,7 +211,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010759407779.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 6
     }
   },
@@ -247,7 +247,7 @@
       "orders": 490,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007791320774.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 7
     }
   },
@@ -283,43 +283,43 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006861833201.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 8
     }
   },
   {
     "rank": 9,
-    "nombre": "Clavos de goma para reparación de neumáticos",
-    "descripcion_corta": "Kit de clavos de goma para sellado rápido de pinchazo en neumáticos de moto, coche, camión o bicicleta.",
+    "nombre": "Kit de reparación de neumáticos sin cámara",
+    "descripcion_corta": "Set de herramientas y tiras de goma para reparar pinchazos en neumáticos de moto.",
     "por_que_comprarlo": [
-      "Reparación temporal rápida sin necesidad de herramientas especializadas",
-      "Compatible con múltiples vehículos: motos, autos, camiones y bicicletas",
-      "Presentación de 10 o 30 unidades según necesidad de uso"
+      "Solución rápida para pinchazos en carretera",
+      "Incluye tiras de goma y tapones especializados",
+      "Compatible con moto, auto y camión"
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$1–2",
     "imagen": "/img/moto/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006115585255.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008144964207.html",
     "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Presentación",
-        "v": "10 o 30 unidades"
+        "k": "Piezas",
+        "v": "5-50 piezas según kit"
+      },
+      {
+        "k": "Tipo de neumático",
+        "v": "Sin cámara"
       },
       {
         "k": "Compatibilidad",
-        "v": "Moto, coche, camión, bicicleta"
-      },
-      {
-        "k": "Tipo de reparación",
-        "v": "Sellado temporal de pinchazo"
+        "v": "Moto, auto, camión"
       }
     ],
     "_src": {
-      "id": "1005006115585255",
-      "orders": 50000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005006115585255.html",
-      "capturado": "2026-08-31",
+      "id": "1005008144964207",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008144964207.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -332,7 +332,7 @@
       "Estructura de acero resistente imposible de cortar",
       "Fácil de transportar y guardar cuando la moto está en marcha"
     ],
-    "precio_referencia": "$15–18",
+    "precio_referencia": "$14–17",
     "imagen": "/img/moto/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860896218.html",
     "badge": null,
@@ -355,7 +355,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006860896218.html",
-      "capturado": "2026-08-31",
+      "capturado": "2026-09-01",
       "prevRank": 10
     }
   }

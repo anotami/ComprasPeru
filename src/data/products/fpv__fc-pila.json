@@ -31,23 +31,23 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007476671684.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 1
     }
   },
   {
     "rank": 2,
-    "nombre": "Stack F405 F722 BLS 4 en 1 60-80A",
-    "descripcion_corta": "Placa de control integrada con ESC 60-80A para drones de carreras, compatible con F405 y F722.",
+    "nombre": "Stack F405 F722 BLS 60-80A Flytower",
+    "descripcion_corta": "Placa integrada F405/F722 con ESC 4 en 1, stack completo para drones de carreras.",
     "por_que_comprarlo": [
-      "2.000+ ventas con rating 4.9 consistente",
-      "Opción económica entre $23-27 USD",
-      "ESC dual 60A/80A adaptable a diferentes necesidades"
+      "2.000+ ventas verificadas con rating 4.9",
+      "Solución todo en uno lista para instalar",
+      "Precio competitivo en rango $24-29 USD"
     ],
-    "precio_referencia": "$23–27",
+    "precio_referencia": "$24–29",
     "imagen": "/img/fpv__fc-pila/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009054933892.html",
-    "badge": "El más vendido",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008710524456.html",
+    "badge": null,
     "specs": [
       {
         "k": "Controlador",
@@ -63,12 +63,12 @@
       }
     ],
     "_src": {
-      "id": "1005009054933892",
+      "id": "1005008710524456",
       "orders": 2000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009054933892.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "url": "https://www.aliexpress.com/item/1005008710524456.html",
+      "capturado": "2026-09-01",
+      "prevRank": 7
     }
   },
   {
@@ -80,7 +80,7 @@
       "Incluye barómetro para estabilidad mejorada",
       "Compatible con Betaflight e INAV"
     ],
-    "precio_referencia": "$10–12",
+    "precio_referencia": "$9–11",
     "imagen": "/img/fpv__fc-pila/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009249412738.html",
     "badge": "Mejor calidad-precio",
@@ -100,11 +100,11 @@
     ],
     "_src": {
       "id": "1005009249412738",
-      "orders": 312,
+      "orders": 311,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005009249412738.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 3
     }
   },
   {
@@ -139,8 +139,8 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006253894970.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 4
     }
   },
   {
@@ -152,7 +152,7 @@
       "Procesador F7/F745 de último rendimiento",
       "Soporte para video en tiempo real 1080P"
     ],
-    "precio_referencia": "$20–24",
+    "precio_referencia": "$21–24",
     "imagen": "/img/fpv__fc-pila/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008279741542.html",
     "badge": null,
@@ -172,11 +172,11 @@
     ],
     "_src": {
       "id": "1005008279741542",
-      "orders": 103,
+      "orders": 101,
       "rating": 4.6,
       "url": "https://www.aliexpress.com/item/1005008279741542.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 5
     }
   },
   {
@@ -211,43 +211,43 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007791605536.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 6
     }
   },
   {
     "rank": 7,
-    "nombre": "Stack F405 F722 BLS 60-80A Flytower",
-    "descripcion_corta": "Placa integrada F405/F722 con ESC 4 en 1, stack completo para drones de carreras.",
+    "nombre": "Controlador vuelo F405/F7/F4 + ESC 60A 4en1",
+    "descripcion_corta": "Placa controladora de vuelo con ESC integrado 60A para drones FPV racer, soporta múltiples firmwares.",
     "por_que_comprarlo": [
-      "2.000+ ventas verificadas con rating 4.9",
-      "Solución todo en uno lista para instalar",
-      "Precio competitivo en rango $24-29 USD"
+      "ESC 4 en 1 integrado reduce complejidad de cableado y peso total",
+      "Compatible con F405, F7 y F4, se adapta a varios proyectos y upgrades",
+      "Tamaño compacto 30.5x30.5mm ideal para frames de carreras ajustados"
     ],
-    "precio_referencia": "$24–29",
+    "precio_referencia": "$25–30",
     "imagen": "/img/fpv__fc-pila/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008710524456.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007050011519.html",
     "badge": null,
     "specs": [
       {
-        "k": "Controlador",
-        "v": "F405 o F722"
+        "k": "Tamaño",
+        "v": "30.5 x 30.5 mm"
       },
       {
         "k": "ESC integrado",
-        "v": "60-80A"
+        "v": "60A BLheli_S 4 en 1"
       },
       {
-        "k": "Voltaje entrada",
-        "v": "2-6S Lipo"
+        "k": "Compatibilidad",
+        "v": "F405/F405HD/F7/F722/F4 V3S"
       }
     ],
     "_src": {
-      "id": "1005008710524456",
-      "orders": 2000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008710524456.html",
-      "capturado": "2026-08-31",
+      "id": "1005007050011519",
+      "orders": 900,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005007050011519.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -283,43 +283,43 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010228737836.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 8
     }
   },
   {
     "rank": 9,
-    "nombre": "IFlight YR50B_S Localizador con Alarma",
-    "descripcion_corta": "Buscador de drones con zumbador 100dB y luz LED, programable por Betaflight.",
+    "nombre": "Buscador VIFLY Finder 2 V2 con alarma",
+    "descripcion_corta": "Dispositivo localizador con zumbador integrado para encontrar drones perdidos, batería recargable incluida.",
     "por_que_comprarlo": [
-      "5.000+ ventas para recuperación confiable",
-      "Alarma 100dB audible en búsqueda",
-      "LED integrado y programación por F7"
+      "Alarma audible potente permite localizar drones en arbustos o zonas difíciles",
+      "Batería integrada recargable elimina necesidad de pilas adicionales",
+      "Peso mínimo no afecta el rendimiento del drone en competencia"
     ],
-    "precio_referencia": "$5–6",
+    "precio_referencia": "$12–14",
     "imagen": "/img/fpv__fc-pila/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966191746.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007476782487.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Alarma sonora",
-        "v": "100 dB"
+        "k": "Batería",
+        "v": "Integrada recargable"
       },
       {
-        "k": "Indicador visual",
-        "v": "LED programable"
+        "k": "Volumen alarma",
+        "v": "Según modelo"
       },
       {
         "k": "Compatibilidad",
-        "v": "BF F7 configurable"
+        "v": "Drones FPV racer y multicópteros"
       }
     ],
     "_src": {
-      "id": "1005006966191746",
-      "orders": 5000,
+      "id": "1005007476782487",
+      "orders": 1000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006966191746.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005007476782487.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -355,8 +355,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006853589194.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 10
     }
   }
 ]

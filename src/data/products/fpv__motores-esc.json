@@ -31,79 +31,79 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007477010075.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 1
     }
   },
   {
     "rank": 2,
-    "nombre": "Motor MEPS NEON 2306 1950KV para FPV",
-    "descripcion_corta": "Motor de 5 pulgadas con múltiples opciones de KV para freestyle y racing FPV.",
+    "nombre": "Motor sin Escobillas R3115 900KV 3-6S",
+    "descripcion_corta": "Motor brushless de alto rendimiento para multirrótores FPV freestyle de largo alcance y alta potencia.",
     "por_que_comprarlo": [
-      "Precio muy accesible a 10-11 USD por unidad",
-      "Rating perfecto de 5.0 con buena cantidad de reseñas",
-      "Disponible en 3 variantes de KV para diferentes estilos de vuelo"
+      "Compatibilidad verificada con marcos XL10 y kits de largo alcance profesional",
+      "Voltaje flexible 3-6S permite usar diferentes configuraciones de batería",
+      "Rating 4.9/5 con 5000+ ventas confirma confiabilidad comprobada"
     ],
-    "precio_referencia": "$10–11",
+    "precio_referencia": "$13–15",
     "imagen": "/img/fpv__motores-esc/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007694700331.html",
-    "badge": "Mejor calidad-precio",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008617673770.html",
+    "badge": "El más vendido",
     "specs": [
       {
         "k": "KV",
-        "v": "1950KV / 2050KV / 2550KV"
+        "v": "900"
       },
       {
-        "k": "Tamaño hélice",
-        "v": "5 pulgadas"
+        "k": "Voltaje",
+        "v": "3-6S"
       },
       {
         "k": "Aplicación",
-        "v": "Freestyle / Racing"
+        "v": "Multirrotor FPV Freestyle"
       }
     ],
     "_src": {
-      "id": "1005007694700331",
-      "orders": 415,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005007694700331.html",
-      "capturado": "2026-08-31",
+      "id": "1005008617673770",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008617673770.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 3,
-    "nombre": "Controlador F4V3S con ESC 4 en 1 integrado",
-    "descripcion_corta": "Placa de control F4 con ESC 4 en 1 hasta 60A compatible con Betaflight para drones FPV.",
+    "nombre": "ESC FVT LittleBee BLHeli_S 20A DSHOT",
+    "descripcion_corta": "Controlador de velocidad compacto con soporte DSHOT para drones de carreras FPV de 2-4S.",
     "por_que_comprarlo": [
-      "Integración 4 en 1 reduce peso y complejidad del cableado",
-      "Compatible con firmware Betaflight para máxima personalización",
-      "1.000+ vendidos con rating 4.9, muy confiable"
+      "Protocolo DSHOT garantiza respuesta ultrarrápida sin latencia en aceleración",
+      "Tamaño reducido ideal para frames pequeños y espacios limitados",
+      "BLHeli_S firmware permite sintonización avanzada y telemetría de rendimiento"
     ],
-    "precio_referencia": "$40–45",
+    "precio_referencia": "$2–4",
     "imagen": "/img/fpv__motores-esc/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007038225919.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007038091583.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "ESC integrado",
-        "v": "45A / 60A"
+        "k": "Amperaje",
+        "v": "20A"
       },
       {
-        "k": "Controlador",
-        "v": "F4V3S Plus"
+        "k": "Voltaje",
+        "v": "2-4S"
       },
       {
-        "k": "Firmware",
-        "v": "Betaflight compatible"
+        "k": "Protocolo",
+        "v": "DSHOT"
       }
     ],
     "_src": {
-      "id": "1005007038225919",
-      "orders": 1000,
+      "id": "1005007038091583",
+      "orders": 2000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007038225919.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005007038091583.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -116,7 +116,7 @@
       "UBEC integrado para alimentar receptor sin cables extras",
       "Precio ultra económico 2-3 USD, 1.000+ vendidos"
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$2–4",
     "imagen": "/img/fpv__motores-esc/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006457352568.html",
     "badge": null,
@@ -139,8 +139,8 @@
       "orders": 1000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005006457352568.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 4
     }
   },
   {
@@ -175,8 +175,8 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006553785454.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 5
     }
   },
   {
@@ -188,7 +188,7 @@
       "Motores de competencia usados en profesionales FPV",
       "1.000+ vendidos, rating 4.9, referente en la categoría"
     ],
-    "precio_referencia": "$50–55",
+    "precio_referencia": "$45–55",
     "imagen": "/img/fpv__motores-esc/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009524110745.html",
     "badge": null,
@@ -211,8 +211,8 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005009524110745.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 6
     }
   },
   {
@@ -247,79 +247,79 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006853589194.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 7
     }
   },
   {
     "rank": 8,
-    "nombre": "Controlador SpeedyBee F405 Mini con ESC",
-    "descripcion_corta": "Placa de control compacta 20x20 con ESC 4 en 1 de 35A integrado para drones mini racing.",
+    "nombre": "Combo Motor 3650 3900KV + ESC Impermeable 25A-120A",
+    "descripcion_corta": "Kit completo motor-ESC con protección IP67 para autos y barcos RC en ambientes mojados.",
     "por_que_comprarlo": [
-      "Formato mini 20x20 ideal para espacios reducidos",
-      "ESC 35A 4 en 1 integrado de marca confiable SpeedyBee",
-      "1.000+ vendidos, rating 4.9, confiable para racing"
+      "Impermeabilidad certificada permite uso en agua y condiciones extremas sin daño",
+      "Rango ESC 25A-120A cubre múltiples configuraciones de potencia en un solo producto",
+      "Incluye programador dedicado para ajuste preciso de parámetros sin software adicional"
     ],
-    "precio_referencia": "$50–60",
+    "precio_referencia": "$13–15",
     "imagen": "/img/fpv__motores-esc/08.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966180989.html",
-    "badge": "Ticket alto",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006863872223.html",
+    "badge": null,
     "specs": [
       {
-        "k": "Formato",
-        "v": "20x20 Mini"
+        "k": "KV",
+        "v": "3900"
       },
       {
-        "k": "ESC integrado",
-        "v": "35A"
+        "k": "Amperaje ESC",
+        "v": "25-120A"
       },
       {
-        "k": "Aplicación",
-        "v": "Racing FPV"
+        "k": "Protección",
+        "v": "IP67 Impermeable"
       }
     ],
     "_src": {
-      "id": "1005006966180989",
+      "id": "1005006863872223",
       "orders": 1000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006966180989.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005006863872223.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
   {
     "rank": 9,
-    "nombre": "Marco Mobula8 HappyModel 85mm Tinywhoop",
-    "descripcion_corta": "Marco compacto de 85mm para micro drones con soporte para múltiples tamaños de motor.",
+    "nombre": "Motor T-MOTOR F1404 2900-4600KV 3-6S",
+    "descripcion_corta": "Motor ultraligero multiKV para drones cinewhoop y racing FPV de 2.5 a 4 pulgadas.",
     "por_que_comprarlo": [
-      "Compatible con motores 0603 hasta 1103 en una sola plataforma",
-      "Soporta 2-3S para máxima versatilidad en peso y potencia",
-      "2.000+ vendidos, rating 4.9, estándar en Tinywhoop"
+      "Variantes KV múltiples (2900/3800/4600) en un mismo modelo adaptable a cada setup",
+      "Diseño extremadamente compacto optimizado para frames profesionales cinéticos",
+      "Rating perfecto 5/5 de usuarios que vuelan drones rápidos y acrobáticos"
     ],
-    "precio_referencia": "$5–6",
+    "precio_referencia": "$9–11",
     "imagen": "/img/fpv__motores-esc/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007344736819.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008626701108.html",
+    "badge": "Ticket alto",
     "specs": [
       {
-        "k": "Tamaño",
-        "v": "85mm"
-      },
-      {
-        "k": "Motores soportados",
-        "v": "0603 / 0703 / 0802 / 0805 / 1102 / 1103"
+        "k": "KV",
+        "v": "2900-4600 según modelo"
       },
       {
         "k": "Voltaje",
-        "v": "2-3S LiPo"
+        "v": "3-6S según KV"
+      },
+      {
+        "k": "Tamaño Marco",
+        "v": "2.5-4 pulgadas"
       }
     ],
     "_src": {
-      "id": "1005007344736819",
-      "orders": 2000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007344736819.html",
-      "capturado": "2026-08-31",
+      "id": "1005008626701108",
+      "orders": 454,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005008626701108.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -332,7 +332,7 @@
       "Acero inoxidable 304 resiste corrosión y oxidación",
       "3.000+ vendidos, rating 4.8, consumible esencial"
     ],
-    "precio_referencia": "$7–8",
+    "precio_referencia": "$6–7",
     "imagen": "/img/fpv__motores-esc/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008473715278.html",
     "badge": null,
@@ -355,8 +355,8 @@
       "orders": 3000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005008473715278.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 10
     }
   }
 ]

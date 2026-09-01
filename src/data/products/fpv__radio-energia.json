@@ -31,8 +31,8 @@
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005005975423127.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 1
     }
   },
   {
@@ -67,8 +67,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010228737836.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 2
     }
   },
   {
@@ -103,43 +103,43 @@
       "orders": 500,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010503326388.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 3
     }
   },
   {
     "rank": 4,
-    "nombre": "VIFLY WhoopStor 3 cargador 6 puertos",
-    "descripcion_corta": "Cargador inteligente 6 puertos para baterías 1S LiPo/LiHV con almacenamiento seguro.",
+    "nombre": "ISDT BattAir - Gestor de batería Lipo con Bluetooth",
+    "descripcion_corta": "Controlador inteligente para baterías Lipo con carga, descarga y monitoreo por aplicación móvil vía Bluetooth.",
     "por_que_comprarlo": [
-      "Carga y descarga simultánea de 6 baterías 1S",
-      "Función almacenamiento automático a voltaje óptimo",
-      "Puerto USB-C y pantalla LCD para control preciso"
+      "Control remoto completo desde tu teléfono para monitorear voltaje y salud de la batería",
+      "Funciones de carga y descarga automáticas con protección contra sobrecarga y cortocircuito",
+      "Compatible con baterías Lipo estándar usadas en drones FPV y múltiples dispositivos"
     ],
-    "precio_referencia": "$29–35",
+    "precio_referencia": "$6–8",
     "imagen": "/img/fpv__radio-energia/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007823488859.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007389695978.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Puertos",
-        "v": "6 simultáneos"
+        "k": "Conexión",
+        "v": "Bluetooth 5.0"
       },
       {
         "k": "Compatibilidad",
-        "v": "1S LiPo/LiHV"
+        "v": "Baterías Lipo estándar"
       },
       {
-        "k": "Entrada",
-        "v": "USB-C / DC"
+        "k": "Funciones",
+        "v": "Carga, descarga, monitoreo"
       }
     ],
     "_src": {
-      "id": "1005007823488859",
-      "orders": 3000,
+      "id": "1005007389695978",
+      "orders": 600,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007823488859.html",
-      "capturado": "2026-08-31",
+      "url": "https://www.aliexpress.com/item/1005007389695978.html",
+      "capturado": "2026-09-01",
       "prevRank": null
     }
   },
@@ -152,7 +152,7 @@
       "Tasa descarga 45C adecuada para vehículos RC y drones",
       "Conectores variados (T, XT30, XT60) máxima compatibilidad"
     ],
-    "precio_referencia": "$5–6",
+    "precio_referencia": "$4–5",
     "imagen": "/img/fpv__radio-energia/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009646549499.html",
     "badge": null,
@@ -175,8 +175,8 @@
       "orders": 500,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005009646549499.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 5
     }
   },
   {
@@ -211,8 +211,8 @@
       "orders": 3000,
       "rating": 5,
       "url": "https://www.aliexpress.com/item/1005008089279744.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 6
     }
   },
   {
@@ -247,8 +247,8 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006997630374.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 8
     }
   },
   {
@@ -283,8 +283,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006966322607.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 9
     }
   },
   {
@@ -296,7 +296,7 @@
       "Potencia 80W permite carga rápida eficiente",
       "Interfaz LCD clara con múltiples modos de carga/descarga"
     ],
-    "precio_referencia": "$22–25",
+    "precio_referencia": "$20–24",
     "imagen": "/img/fpv__radio-energia/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009609686432.html",
     "badge": null,
@@ -319,8 +319,8 @@
       "orders": 1000,
       "rating": 4.6,
       "url": "https://www.aliexpress.com/item/1005009609686432.html",
-      "capturado": "2026-08-31",
-      "prevRank": null
+      "capturado": "2026-09-01",
+      "prevRank": 10
     }
   }
 ]
