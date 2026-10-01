@@ -1,74 +1,48 @@
 [
   {
     "rank": 1,
-    "nombre": "Reloj inteligente Amazfit Balance 46mm",
-    "descripcion_corta": "Reloj deportivo con GPS, monitor cardíaco y batería de larga duración para entrenamientos y control diario.",
+    "nombre": "Correa de 20mm 22mm para Amazfit GTS 2/3/4/4 mini/GTR 4…",
+    "descripcion_corta": "Correa de 20mm 22mm para Amazfit GTS 2/3/4/4 mini/GTR 4 Pro/3/2/active 2/balance reloj pulsera deportiva correa amazfit bip 6 5 U correas",
     "por_que_comprarlo": [
-      "Pantalla AMOLED nítida de 46mm con visibilidad en exteriores",
-      "Autonomía de hasta 14 días en modo normal",
-      "GPS+GLONASS+Galileo para precisión en rutas"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$85–100",
+    "precio_referencia": "$1–2",
     "imagen": "/img/running__medir-ver/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007460154665.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008144936214.html",
     "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Tamaño",
-        "v": "46mm"
-      },
-      {
-        "k": "Autonomía",
-        "v": "Hasta 14 días"
-      },
-      {
-        "k": "Conexión",
-        "v": "Bluetooth 5.0, GPS+GLONASS"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005007460154665",
-      "orders": 900,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005007460154665.html",
-      "capturado": "2026-09-01",
-      "prevRank": 1
+      "id": "1005008144936214",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008144936214.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 2,
-    "nombre": "Auriculares de conducción ósea Bluetooth 5.4",
-    "descripcion_corta": "Auriculares inalámbricos con conducción ósea, resistencia IPX8 y reproductor MP3 integrado para natación y deportes acuáticos.",
+    "nombre": "Auriculares B8 de Conducción Ósea",
+    "descripcion_corta": "Auriculares B8 de Conducción Ósea, Bluetooth 5.3, Deportivos, Inalámbricos, con Gancho para la Oreja, Resistentes al Agua IPX5, para Correr y Conducir",
     "por_que_comprarlo": [
-      "Tecnología de conducción ósea que mantiene los oídos libres para escuchar el ambiente",
-      "Resistencia IPX8 con reproductor MP3 integrado, ideal para nadar sin teléfono",
-      "Micrófono y gancho ergonómico para uso seguro durante entrenamientos"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.5/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$27–30",
+    "precio_referencia": "$8–9",
     "imagen": "/img/running__medir-ver/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008909007294.html",
-    "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Conectividad",
-        "v": "Bluetooth 5.4 + MP3 integrado"
-      },
-      {
-        "k": "Resistencia al agua",
-        "v": "IPX8"
-      },
-      {
-        "k": "Peso",
-        "v": "Según modelo"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007582608533.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005008909007294",
+      "id": "1005007582608533",
       "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008909007294.html",
-      "capturado": "2026-09-01",
-      "prevRank": 2
+      "rating": 4.5,
+      "url": "https://www.aliexpress.com/item/1005007582608533.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
@@ -80,7 +54,7 @@
       "Filtro polarizado elimina reflejos de asfalto y agua",
       "Diseño envolvente para protección lateral"
     ],
-    "precio_referencia": "$15–18",
+    "precio_referencia": "$16–18",
     "imagen": "/img/running__medir-ver/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006904666475.html",
     "badge": null,
@@ -103,188 +77,123 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006904666475.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 3
     }
   },
   {
     "rank": 4,
-    "nombre": "Linterna clip Wurkkos HD03 680 lúmenes USB-C",
-    "descripcion_corta": "Linterna recargable compacta con 680 lúmenes, ideal para clip en mochila o ropa durante carreras nocturnas.",
+    "nombre": "Mini linterna LED COB recargable por USB C",
+    "descripcion_corta": "Mini linterna LED COB recargable por USB C, potente luz de trabajo con clip y imán, resistente al agua, EDC, para acampar, caminar, lámpara de bolsillo",
     "por_que_comprarlo": [
-      "Brillo de 680 lúmenes con alcance de hasta 80m",
-      "Recarga por USB-C, sin baterías desechables",
-      "Clip magnético versátil para sujetar en cualquier lugar"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$17–19",
+    "precio_referencia": "$3–4",
     "imagen": "/img/running__medir-ver/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010653212908.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005011653849548.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Brillo",
-        "v": "680 lúmenes"
-      },
-      {
-        "k": "Carga",
-        "v": "USB-C recargable"
-      },
-      {
-        "k": "Alcance",
-        "v": "Hasta 80m"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005010653212908",
+      "id": "1005011653849548",
       "orders": 10000,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005010653212908.html",
-      "capturado": "2026-09-01",
-      "prevRank": 4
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005011653849548.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 5,
-    "nombre": "Chaleco reflectante de alta visibilidad",
-    "descripcion_corta": "Chaleco de seguridad con franjas reflectantes para deportistas y motociclistas en rutas nocturnas.",
+    "nombre": "Chaleco reflectante",
+    "descripcion_corta": "Chaleco reflectante, sitio de construcción, saneamiento ambiental, tráfico, chaleco reflectante amarillo, múltiples bolsillos para servicio, proxy",
     "por_que_comprarlo": [
-      "Visibilidad garantizada en la oscuridad para evitar accidentes",
-      "Material resistente y ligero apto para ciclismo y actividades al aire libre",
-      "Precio accesible con rating de 4.9 estrellas comprobado"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$8–9",
+    "precio_referencia": "$5–6",
     "imagen": "/img/running__medir-ver/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007009966697.html",
-    "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Material",
-        "v": "Poliéster con franjas reflectantes"
-      },
-      {
-        "k": "Visibilidad",
-        "v": "Alta visibilidad nocturna"
-      },
-      {
-        "k": "Peso",
-        "v": "Ligero, según modelo"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007038537119.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005007009966697",
+      "id": "1005007038537119",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007009966697.html",
-      "capturado": "2026-09-01",
+      "url": "https://www.aliexpress.com/item/1005007038537119.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
   {
     "rank": 6,
-    "nombre": "Monitor de ritmo cardíaco GEOID HS500",
-    "descripcion_corta": "Banda pectoral inalámbrica que mide tu frecuencia cardíaca en tiempo real durante entrenamientos.",
+    "nombre": "GEOID HS500 Monitor de ritmo cardíaco equipo de Fitness Ant…",
+    "descripcion_corta": "GEOID HS500 Monitor de ritmo cardíaco equipo de Fitness Ant Bluetooth Sensor de ritmo cardíaco con correa para el pecho seguimiento luz LED",
     "por_que_comprarlo": [
-      "Sensor óptico de alta precisión para ritmo cardíaco exacto",
-      "Compatible con apps populares de running y smartwatches",
-      "Bluetooth con batería de larga duración"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
     "precio_referencia": "$14–16",
     "imagen": "/img/running__medir-ver/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007096672946.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006784271948.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Conexión",
-        "v": "Bluetooth ANT+"
-      },
-      {
-        "k": "Sensor",
-        "v": "Óptico de precisión"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Apps y smartwatches"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005007096672946",
+      "id": "1005006784271948",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007096672946.html",
-      "capturado": "2026-09-01",
-      "prevRank": 6
+      "url": "https://www.aliexpress.com/item/1005006784271948.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 7,
-    "nombre": "Auriculares Bluetooth TWS con micrófono ENC",
-    "descripcion_corta": "Auriculares inalámbricos con cancelación de ruido y pantalla digital para llamadas y música.",
+    "nombre": "Nuevos auriculares deportivos de conducción ósea Real",
+    "descripcion_corta": "Nuevos auriculares deportivos de conducción ósea Real, auriculares inalámbricos compatibles con Bluetooth, manos libres con micrófono para correr",
     "por_que_comprarlo": [
-      "Tecnología ENC para llamadas claras sin ruido ambiental durante el entrenamiento",
-      "Pantalla digital para monitoreo de batería y funciones en tiempo real",
-      "Conectividad Bluetooth estable con 50.000+ unidades vendidas"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$4–5",
+    "precio_referencia": "$9–11",
     "imagen": "/img/running__medir-ver/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006678032645.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Conexión",
-        "v": "Bluetooth 5.0 inalámbrico"
-      },
-      {
-        "k": "Micrófono",
-        "v": "ENC (cancelación de ruido)"
-      },
-      {
-        "k": "Autonomía",
-        "v": "Según modelo"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007345181733.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005006678032645",
-      "orders": 50000,
+      "id": "1005007345181733",
+      "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006678032645.html",
-      "capturado": "2026-09-01",
+      "url": "https://www.aliexpress.com/item/1005007345181733.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
   {
     "rank": 8,
-    "nombre": "Brazalete LED COB recargable USB",
-    "descripcion_corta": "Brazalete luminoso de 500 lúmenes con batería de 350mAh recargable por USB para visibilidad en carrera nocturna.",
+    "nombre": "Brazalete de luz LED COB",
+    "descripcion_corta": "Brazalete de luz LED COB, 350mAh, 500LM, deporte, carrera nocturna, advertencia, brazo, pierna, pulsera, luz tipo C, recargable por USB, IPX4, resistente a",
     "por_que_comprarlo": [
-      "Brillo intenso de 500 lúmenes con batería de 350mAh para sesiones largas",
-      "Carga USB tipo C rápida y práctica sin necesidad de baterías",
-      "Resistencia IPX4 y diseño versátil para muñeca, brazo o pierna"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$2–4",
     "imagen": "/img/running__medir-ver/08.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007439446121.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006904712213.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Brillo",
-        "v": "500 lúmenes"
-      },
-      {
-        "k": "Batería",
-        "v": "350 mAh recargable"
-      },
-      {
-        "k": "Resistencia al agua",
-        "v": "IPX4"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005007439446121",
+      "id": "1005006904712213",
       "orders": 10000,
-      "rating": 4.6,
-      "url": "https://www.aliexpress.com/item/1005007439446121.html",
-      "capturado": "2026-09-01",
-      "prevRank": 8
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006904712213.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
@@ -319,44 +228,31 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005012172793474.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 9
     }
   },
   {
     "rank": 10,
-    "nombre": "Podómetro 3D con clip portátil",
-    "descripcion_corta": "Contador de pasos multifuncional con seguimiento de distancia y calorías, diseño compacto con clip para portabilidad.",
+    "nombre": "Podómetro con clip integrado",
+    "descripcion_corta": "Podómetro con clip integrado, pantalla LCD, contador digital de pasos y calorías, rastreador de actividad física multifuncional para hombres, mujeres y adu",
     "por_que_comprarlo": [
-      "Tecnología 3D precisa para conteo exacto de pasos durante cualquier actividad",
-      "Seguimiento completo de distancia, calorías y datos de caminata en pantalla clara",
-      "Clip portátil y batería duradera para usar durante todo el día sin carga"
+      "Está entre lo más pedido de su categoría en AliExpress (600+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$6–7",
+    "precio_referencia": "$1–3",
     "imagen": "/img/running__medir-ver/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006388355624.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008660190698.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Tecnología",
-        "v": "Sensor 3D"
-      },
-      {
-        "k": "Funciones",
-        "v": "Pasos, distancia, calorías"
-      },
-      {
-        "k": "Diseño",
-        "v": "Clip portátil"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005006388355624",
-      "orders": 500,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005006388355624.html",
-      "capturado": "2026-09-01",
-      "prevRank": 10
+      "id": "1005008660190698",
+      "orders": 600,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008660190698.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   }
 ]

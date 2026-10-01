@@ -1,74 +1,48 @@
 [
   {
     "rank": 1,
-    "nombre": "Módulo GPS NEO-6M con antena grande",
-    "descripcion_corta": "Módulo GPS de alta precisión con EEPROM integrada, compatible con sistemas de control de vuelo APM y MWC.",
+    "nombre": "Módulo GPS micro USB NEO-6M NEO-7M NEO-8M posicionamiento por…",
+    "descripcion_corta": "Módulo GPS micro USB NEO-6M NEO-7M NEO-8M posicionamiento por satélite 51 de un solo chip para rutinas Arduino STM32",
     "por_que_comprarlo": [
-      "5.000+ vendidos con rating 4.9, probado en el mercado",
-      "Compatible con múltiples plataformas de control de vuelo",
-      "Antena grande integrada para mejor recepción de señal"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$3–5",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__accesorios-gps/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966208907.html",
-    "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Modelo GPS",
-        "v": "NEO-6M / NEO6MV2"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "APM2.5, MWC, control de vuelo"
-      },
-      {
-        "k": "Comunicación",
-        "v": "UART / I2C según modelo"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007791600541.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005006966208907",
-      "orders": 5000,
+      "id": "1005007791600541",
+      "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006966208907.html",
-      "capturado": "2026-09-01",
-      "prevRank": 1
+      "url": "https://www.aliexpress.com/item/1005007791600541.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 2,
-    "nombre": "Pantalla OLED 1.3\" I2C/SPI",
-    "descripcion_corta": "Pantalla OLED monocromática de 128x64 píxeles con interfaz I2C y SPI, en blanco o azul.",
+    "nombre": "Módulo de pantalla OLED de 1",
+    "descripcion_corta": "Módulo de pantalla OLED de 1,3 \", Chip de unidad de Color blanco y azul SH1106 128X64 LCD LED de 1,3 pulgadas IIC I2C, comunicación",
     "por_que_comprarlo": [
-      "10.000+ vendidos, la más popular de la categoría",
-      "Funciona con I2C o SPI para máxima compatibilidad",
-      "Consumo bajo de energía ideal para dispositivos portátiles"
+      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
+      "Calificación de 4.7/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__accesorios-gps/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010532325.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006862867338.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Resolución",
-        "v": "128x64 píxeles"
-      },
-      {
-        "k": "Conexión",
-        "v": "I2C / SPI"
-      },
-      {
-        "k": "Colores disponibles",
-        "v": "Blanco / Azul"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005007010532325",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007010532325.html",
-      "capturado": "2026-09-01",
-      "prevRank": 2
+      "id": "1005006862867338",
+      "orders": 5000,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005006862867338.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
@@ -80,7 +54,7 @@
       "Consumo mínimo de energía, ideal para autonomía prolongada",
       "5.000+ vendidos con excelente rating 4.9"
     ],
-    "precio_referencia": "$8–10",
+    "precio_referencia": "$9–10",
     "imagen": "/img/meshtastic__accesorios-gps/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010324473.html",
     "badge": null,
@@ -103,44 +77,44 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007010324473.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 3
     }
   },
   {
     "rank": 4,
-    "nombre": "Rastreador GPS 4G TK905 con batería",
-    "descripcion_corta": "Rastreador GPS 4G/2G resistente al agua con imán y batería 5000mAh, incluye app gratuita de seguimiento.",
+    "nombre": "Módulo GPS NEO-6M con antena grande",
+    "descripcion_corta": "Módulo GPS de alta precisión con EEPROM integrada, compatible con sistemas de control de vuelo APM y MWC.",
     "por_que_comprarlo": [
-      "Conectividad dual 4G/2G para cobertura global",
-      "Batería 5000mAh con autonomía prolongada y resistencia al agua",
-      "4.000+ vendidos con aplicación gratuita y soporte comprobado"
+      "5.000+ vendidos con rating 4.9, probado en el mercado",
+      "Compatible con múltiples plataformas de control de vuelo",
+      "Antena grande integrada para mejor recepción de señal"
     ],
-    "precio_referencia": "$40–50",
+    "precio_referencia": "$3–5",
     "imagen": "/img/meshtastic__accesorios-gps/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010706643723.html",
-    "badge": "Ticket alto",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966208907.html",
+    "badge": "El más vendido",
     "specs": [
       {
-        "k": "Conectividad",
-        "v": "GPS + 4G / 2G"
+        "k": "Modelo GPS",
+        "v": "NEO-6M / NEO6MV2"
       },
       {
-        "k": "Batería",
-        "v": "5000mAh"
+        "k": "Compatibilidad",
+        "v": "APM2.5, MWC, control de vuelo"
       },
       {
-        "k": "Impermeabilidad",
-        "v": "Resistente al agua"
+        "k": "Comunicación",
+        "v": "UART / I2C según modelo"
       }
     ],
     "_src": {
-      "id": "1005010706643723",
-      "orders": 4000,
+      "id": "1005006966208907",
+      "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010706643723.html",
-      "capturado": "2026-09-01",
-      "prevRank": 4
+      "url": "https://www.aliexpress.com/item/1005006966208907.html",
+      "capturado": "2026-10-01",
+      "prevRank": 1
     }
   },
   {
@@ -175,8 +149,8 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005009087160808.html",
-      "capturado": "2026-09-01",
-      "prevRank": null
+      "capturado": "2026-10-01",
+      "prevRank": 5
     }
   },
   {
@@ -188,7 +162,7 @@
       "Compatible con control de vuelo y compatible con NEO-M8N",
       "5.000+ vendidos a precio accesible"
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__accesorios-gps/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009516593400.html",
     "badge": null,
@@ -211,151 +185,99 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005009516593400.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 6
     }
   },
   {
     "rank": 7,
-    "nombre": "Pantalla LCD TFT 2.0\" 240x320 SPI",
-    "descripcion_corta": "Pantalla LCD a color de 240x320 píxeles con interfaz SPI, basada en chip ST7789V para proyectos DIY.",
+    "nombre": "TENSTAR ROBO 2",
+    "descripcion_corta": "TENSTAR ROBO 2,4/2,8/3,5 pulgadas 240x320 320x480 SPI TFT módulo de puerto serie 5V/3,3 V adaptador PCB ST7789V/ST7796S pantalla LCD",
     "por_que_comprarlo": [
-      "10.000+ vendidos, muy popular para proyectos con color",
-      "Resolución 240x320 con colores vibrantes para interfaces",
-      "Interfaz SPI simple y rápida, ideal para microcontroladores"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 5/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$3–5",
+    "precio_referencia": "$5–6",
     "imagen": "/img/meshtastic__accesorios-gps/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008145016084.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006982336562.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Resolución",
-        "v": "240x320 píxeles"
-      },
-      {
-        "k": "Conexión",
-        "v": "SPI"
-      },
-      {
-        "k": "Controlador",
-        "v": "ST7789V"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005008145016084",
+      "id": "1005006982336562",
       "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008145016084.html",
-      "capturado": "2026-09-01",
-      "prevRank": 7
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005006982336562.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 8,
-    "nombre": "Cables Dupont variados 10-30cm",
-    "descripcion_corta": "Set de 20 cables puente Dupont en variantes macho-macho, hembra-hembra y macho-hembra para prototipos.",
+    "nombre": "Cable de puente Dupont de 20 pines macho a macho hembra a…",
+    "descripcion_corta": "Cable de puente Dupont de 20 pines macho a macho hembra a hembra macho a hembra 10cm 20cm 30cm para KIT de bricolaje Arduino",
     "por_que_comprarlo": [
-      "50.000+ vendidos, artículo esencial más comprado",
-      "Múltiples variantes en una sola compra para máxima flexibilidad",
-      "Disponible en 10cm, 20cm y 30cm según necesidad de proyecto"
+      "Está entre lo más pedido de su categoría en AliExpress (50.000+ vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/meshtastic__accesorios-gps/08.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006996497323.html",
-    "badge": null,
-    "specs": [
-      {
-        "k": "Cantidad",
-        "v": "20 piezas"
-      },
-      {
-        "k": "Conectores",
-        "v": "M-M, H-H, M-H"
-      },
-      {
-        "k": "Largo",
-        "v": "10cm / 20cm / 30cm"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007046465880.html",
+    "badge": "El más vendido",
+    "specs": [],
     "_src": {
-      "id": "1005006996497323",
+      "id": "1005007046465880",
       "orders": 50000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006996497323.html",
-      "capturado": "2026-09-01",
-      "prevRank": 8
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007046465880.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 9,
-    "nombre": "Módulo batería RTC para Raspberry Pi 5",
-    "descripcion_corta": "Módulo de batería con reloj en tiempo real para mantener la hora en Raspberry Pi 5 sin alimentación externa.",
+    "nombre": "1/5 Uds CR2032 botón pila de moneda funda",
+    "descripcion_corta": "1/5 Uds CR2032 botón pila de moneda funda, soporte con interruptor de encendido y apagado caja de almacenamiento de batería de 3V carcasa de batería",
     "por_que_comprarlo": [
-      "Preserva hora y fecha al apagar el dispositivo",
-      "Disponible con o sin batería incluida según modelo",
-      "Compatible específicamente con Raspberry Pi 5"
+      "Está entre lo más pedido de su categoría en AliExpress (1.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$1–2",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__accesorios-gps/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007634768852.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Compatibilidad",
-        "v": "Raspberry Pi 5"
-      },
-      {
-        "k": "Función principal",
-        "v": "Reloj en tiempo real (RTC)"
-      },
-      {
-        "k": "Batería",
-        "v": "Incluida o vendida por separado"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008422252426.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005007634768852",
+      "id": "1005008422252426",
       "orders": 1000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007634768852.html",
-      "capturado": "2026-09-01",
+      "url": "https://www.aliexpress.com/item/1005008422252426.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
   {
     "rank": 10,
-    "nombre": "Cable pigtail RP SMA a UFL para antena",
-    "descripcion_corta": "Cables de extensión para antenas WiFi que conectan SMA hembra a conector UFL de baja pérdida.",
+    "nombre": "ALLiSHOP Cable SMA Pigtail Jumper RP SMA Hembra a U.FL IPX…",
+    "descripcion_corta": "ALLiSHOP Cable SMA Pigtail Jumper RP SMA Hembra a U.FL IPX RG178 1.13, Conectores Adaptadores para Router Wifi, GPS, AP",
     "por_que_comprarlo": [
-      "Permite alejar antena de módulo WiFi para mejor cobertura",
-      "Disponible en paquetes de 2, 4 u 8 unidades",
-      "Impedancia controlada de 1.13 mm para mínimas pérdidas"
+      "Está entre lo más pedido de su categoría en AliExpress (3.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__accesorios-gps/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009270045616.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32806195194.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Conector entrada",
-        "v": "SMA hembra"
-      },
-      {
-        "k": "Conector salida",
-        "v": "UFL/U.FL"
-      },
-      {
-        "k": "Diámetro cable",
-        "v": "1.13 mm"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005009270045616",
-      "orders": 5000,
+      "id": "32806195194",
+      "orders": 3000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009270045616.html",
-      "capturado": "2026-09-01",
+      "url": "https://www.aliexpress.com/item/32806195194.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   }

@@ -1,42 +1,6 @@
 [
   {
     "rank": 1,
-    "nombre": "Placa de construcción compatible X1C P1P A1",
-    "descripcion_corta": "Placa de reemplazo universal para Bambu Lab A1, X1C, P1P y otros modelos con excelente adhesión.",
-    "por_que_comprarlo": [
-      "Compatibilidad amplia con 5+ modelos Bambu Lab",
-      "Rating 4.8 con miles de compras verificadas",
-      "Precio accesible para reemplazo de desgaste"
-    ],
-    "precio_referencia": "$12–14",
-    "imagen": "/img/impresion-3d__plato-accesorios/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007458990197.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Material",
-        "v": "Acero templado"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "A1, X1C, P1P, P1S, P2S"
-      },
-      {
-        "k": "Adhesión",
-        "v": "Mejorada"
-      }
-    ],
-    "_src": {
-      "id": "1005007458990197",
-      "orders": 5000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005007458990197.html",
-      "capturado": "2026-09-01",
-      "prevRank": 1
-    }
-  },
-  {
-    "rank": 2,
     "nombre": "Placa de construcción acero resorte lisa A1/P1P/X1C",
     "descripcion_corta": "Placa de acero con resorte integrado para impresión 3D, compatible con múltiples modelos Bambu Lab.",
     "por_que_comprarlo": [
@@ -45,7 +9,7 @@
       "Más de 5.000 unidades vendidas con rating 4.8"
     ],
     "precio_referencia": "$6–7",
-    "imagen": "/img/impresion-3d__plato-accesorios/02.webp",
+    "imagen": "/img/impresion-3d__plato-accesorios/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009356565432.html",
     "badge": "El más vendido",
     "specs": [
@@ -67,8 +31,44 @@
       "orders": 5000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005009356565432.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 2
+    }
+  },
+  {
+    "rank": 2,
+    "nombre": "Placa de construcción compatible X1C P1P A1",
+    "descripcion_corta": "Placa de reemplazo universal para Bambu Lab A1, X1C, P1P y otros modelos con excelente adhesión.",
+    "por_que_comprarlo": [
+      "Compatibilidad amplia con 5+ modelos Bambu Lab",
+      "Rating 4.8 con miles de compras verificadas",
+      "Precio accesible para reemplazo de desgaste"
+    ],
+    "precio_referencia": "$9–11",
+    "imagen": "/img/impresion-3d__plato-accesorios/02.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007458990197.html",
+    "badge": "Mejor calidad-precio",
+    "specs": [
+      {
+        "k": "Material",
+        "v": "Acero templado"
+      },
+      {
+        "k": "Compatibilidad",
+        "v": "A1, X1C, P1P, P1S, P2S"
+      },
+      {
+        "k": "Adhesión",
+        "v": "Mejorada"
+      }
+    ],
+    "_src": {
+      "id": "1005007458990197",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007458990197.html",
+      "capturado": "2026-10-01",
+      "prevRank": 1
     }
   },
   {
@@ -80,7 +80,7 @@
       "Mejora significativa en manejo y almacenamiento de filamento",
       "Bajo costo para optimizar flujo de trabajo"
     ],
-    "precio_referencia": "$6–8",
+    "precio_referencia": "$3–4",
     "imagen": "/img/impresion-3d__plato-accesorios/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012588897317.html",
     "badge": null,
@@ -100,51 +100,15 @@
     ],
     "_src": {
       "id": "1005012588897317",
-      "orders": 285,
+      "orders": 428,
       "rating": 5,
       "url": "https://www.aliexpress.com/item/1005012588897317.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 3
     }
   },
   {
     "rank": 4,
-    "nombre": "AMS Lite - Concentrador de filamento",
-    "descripcion_corta": "Sistema de gestión de filamentos con cinco vías para organizar y cambiar materiales automáticamente durante la impresión.",
-    "por_que_comprarlo": [
-      "Cambia automáticamente entre hasta 5 filamentos sin intervención manual",
-      "Compatible con Bambu Lab A1 y A1M para ampliar capacidades",
-      "Reduce tiempo de impresión en proyectos multicolor"
-    ],
-    "precio_referencia": "$3–5",
-    "imagen": "/img/impresion-3d__plato-accesorios/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008840945132.html",
-    "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Compatibilidad",
-        "v": "Bambu Lab A1 / A1M"
-      },
-      {
-        "k": "Vías de filamento",
-        "v": "5 canales"
-      },
-      {
-        "k": "Tipo de componente",
-        "v": "Concentrador automático"
-      }
-    ],
-    "_src": {
-      "id": "1005008840945132",
-      "orders": 5000,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005008840945132.html",
-      "capturado": "2026-09-01",
-      "prevRank": null
-    }
-  },
-  {
-    "rank": 5,
     "nombre": "Tubo PTFE para Bambu Lab A1 P1P AMS",
     "descripcion_corta": "Tubo de PTFE de recambio para el sistema de extrusión de Bambu Lab A1 y modelos compatibles.",
     "por_que_comprarlo": [
@@ -152,8 +116,8 @@
       "10000+ vendidos confirma compatibilidad y demanda",
       "Precio muy bajo para componente crítico"
     ],
-    "precio_referencia": "$2–4",
-    "imagen": "/img/impresion-3d__plato-accesorios/05.webp",
+    "precio_referencia": "$1–3",
+    "imagen": "/img/impresion-3d__plato-accesorios/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966620068.html",
     "badge": null,
     "specs": [
@@ -175,79 +139,76 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006966620068.html",
-      "capturado": "2026-09-01",
-      "prevRank": 4
+      "capturado": "2026-10-01",
+      "prevRank": 5
+    }
+  },
+  {
+    "rank": 5,
+    "nombre": "Tubo de PTFE de 4 mm de diámetro exterior",
+    "descripcion_corta": "Tubo de PTFE de 4 mm de diámetro exterior, mejorado para BambuLab AMS Creality, materiales en forma de estrella de baja resistencia, teflón, flujo ultra su",
+    "por_que_comprarlo": [
+      "Está entre lo más pedido de su categoría en AliExpress (3.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+    ],
+    "precio_referencia": "$3–4",
+    "imagen": "/img/impresion-3d__plato-accesorios/05.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010585542798.html",
+    "badge": null,
+    "specs": [],
+    "_src": {
+      "id": "1005010585542798",
+      "orders": 3000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010585542798.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 6,
-    "nombre": "Kit de lámpara LED RGB ajustable",
-    "descripcion_corta": "Sistema de iluminación LED con control de intensidad y tres modos de temperatura para monitorear impresiones en tiempo real.",
+    "nombre": "Kit de Lámpara LED Ajustable para Bambu Lab 001",
+    "descripcion_corta": "Kit de Lámpara LED Ajustable para Bambu Lab 001, Iluminación para Impresión 3D, Piezas de Luz Bambulab, Accesorios para Impresora 3D, Modelo DIY",
     "por_que_comprarlo": [
-      "Tres temperaturas de color: blanca, fría y cálida según necesidad",
-      "Regulación de brillo para visualizar detalles sin fatiga ocular",
-      "Instalación rápida sin carcasa adicional requerida"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$3–5",
     "imagen": "/img/impresion-3d__plato-accesorios/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010531264110.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Tipo de luz",
-        "v": "LED RGB ajustable"
-      },
-      {
-        "k": "Modos de temperatura",
-        "v": "Blanca, fría, cálida"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Bambu Lab A1 series"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010806639153.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005010531264110",
+      "id": "1005010806639153",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010531264110.html",
-      "capturado": "2026-09-01",
+      "url": "https://www.aliexpress.com/item/1005010806639153.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
   {
     "rank": 7,
-    "nombre": "Fijador de roscas anaeróbico azul 243",
-    "descripcion_corta": "Adhesivo anaeróbico de alta resistencia para asegurar pernos, tuercas y roscas en ensamblajes de impresoras 3D.",
+    "nombre": "Barra de Pegamento Sólido Anti-Deformación para Impresora 3D",
+    "descripcion_corta": "Barra de Pegamento Sólido Anti-Deformación para Impresora 3D, 21g, Fuerte Adhesión, Lavable, No Tóxico, Adhesivo para Base de Impresión, para PLA, PETG, Ac",
     "por_que_comprarlo": [
-      "Previene aflojamientsoe por vibración durante impresión",
-      "Sella herméticamente conexiones de metal en componentes críticos",
-      "Aplicación versátil en sujetadores de todo tipo de máquinas"
+      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$2–4",
     "imagen": "/img/impresion-3d__plato-accesorios/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008781294767.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007016170682.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Tipo",
-        "v": "Adhesivo anaeróbico"
-      },
-      {
-        "k": "Resistencia",
-        "v": "Alta, grado 243"
-      },
-      {
-        "k": "Aplicación",
-        "v": "Pernos, tuercas y roscas"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005008781294767",
-      "orders": 50000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005008781294767.html",
-      "capturado": "2026-09-01",
+      "id": "1005007016170682",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007016170682.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },

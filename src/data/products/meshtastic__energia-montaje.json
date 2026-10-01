@@ -1,110 +1,71 @@
 [
   {
     "rank": 1,
-    "nombre": "Caja de soporte para batería 18650",
-    "descripcion_corta": "Caja de almacenamiento de plástico para baterías 18650 de 3,7V con cables conectores incluidos.",
+    "nombre": "Caja porta baterías 18650",
+    "descripcion_corta": "Caja porta baterías 18650, 1 ranura, caja de almacenamiento de batería de 3,7 V, contenedor de plástico de 1/2/3/4 celdas con conexión de cables negros y r",
     "por_que_comprarlo": [
-      "Soporta 1 a 4 celdas según necesidad",
-      "Incluye cables negros y rojos pre-conectados",
-      "Precio muy accesible para consumibles"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
     "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__energia-montaje/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008554687329.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005013266152794.html",
     "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Tensión nominal",
-        "v": "3,7V"
-      },
-      {
-        "k": "Capacidad de celdas",
-        "v": "1 a 4 celdas"
-      },
-      {
-        "k": "Material",
-        "v": "Plástico ABS"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005008554687329",
+      "id": "1005013266152794",
       "orders": 10000,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005008554687329.html",
-      "capturado": "2026-09-01",
-      "prevRank": 1
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005013266152794.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 2,
-    "nombre": "Caja protectora para baterías 18650",
-    "descripcion_corta": "Estuche de almacenamiento para organizar y proteger celdas 18650.",
+    "nombre": "Soporte de caja de batería 18650 con paquete de cables",
+    "descripcion_corta": "Soporte de caja de batería 18650 con paquete de cables, cajas de almacenamiento de batería DIY de 10/30 Uds., soporte de batería de 1 bahía 18650, 1 ranura",
     "por_que_comprarlo": [
-      "Previene cortocircuitos durante transporte y almacenamiento",
-      "Organiza múltiples celdas en un solo compartimento seguro",
-      "Protege contactos de oxidación y daños mecánicos"
+      "Está entre lo más pedido de su categoría en AliExpress (1.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$4–6",
     "imagen": "/img/meshtastic__energia-montaje/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007482296213.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009733718232.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Capacidad",
-        "v": "2-4 celdas según modelo"
-      },
-      {
-        "k": "Material",
-        "v": "Plástico reforzado"
-      },
-      {
-        "k": "Protección",
-        "v": "Aislamiento de contactos"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005007482296213",
+      "id": "1005009733718232",
       "orders": 1000,
-      "rating": 4.6,
-      "url": "https://www.aliexpress.com/item/1005007482296213.html",
-      "capturado": "2026-09-01",
-      "prevRank": 2
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009733718232.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 3,
-    "nombre": "Cargador solar tipo C",
-    "descripcion_corta": "Panel de carga solar con puerto USB-C para energía portátil y renovable.",
+    "nombre": "Panel Solar Monocristalino/Policristalino de 4V",
+    "descripcion_corta": "Panel Solar Monocristalino/Policristalino de 4V, 5.5V, 5V, 6V, 7V, 10V, 12V, Módulo de Batería con Placa Epoxi PET para Generación de Energía",
     "por_que_comprarlo": [
-      "Carga independiente del suministro eléctrico en campo",
-      "Conexión USB-C estándar compatible con múltiples dispositivos",
-      "Ideal para sistemas Meshtastic remotos de larga duración"
+      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$6–7",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__energia-montaje/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008932865297.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009393447368.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Fuente",
-        "v": "Panel solar"
-      },
-      {
-        "k": "Conexión",
-        "v": "USB-C"
-      },
-      {
-        "k": "Potencia",
-        "v": "según modelo"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005008932865297",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008932865297.html",
-      "capturado": "2026-09-01",
-      "prevRank": 3
+      "id": "1005009393447368",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005009393447368.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
@@ -116,7 +77,7 @@
       "Entrada micro-USB estándar para cualquier fuente de poder",
       "Protección contra inversión de polaridad y cortocircuitos"
     ],
-    "precio_referencia": "$1–3",
+    "precio_referencia": "$1–2",
     "imagen": "/img/meshtastic__energia-montaje/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010585482772.html",
     "badge": "Mejor calidad-precio",
@@ -139,7 +100,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010585482772.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 4
     }
   },
@@ -152,7 +113,7 @@
       "Tamaño compacto ideal para montar junto a antena o batería",
       "Precio accesible para múltiples instalaciones"
     ],
-    "precio_referencia": "$5–7",
+    "precio_referencia": "$5–6",
     "imagen": "/img/meshtastic__energia-montaje/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010044061923.html",
     "badge": "El más vendido",
@@ -175,80 +136,54 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010044061923.html",
-      "capturado": "2026-09-01",
-      "prevRank": null
+      "capturado": "2026-10-01",
+      "prevRank": 5
     }
   },
   {
     "rank": 6,
-    "nombre": "Soporte de techo para antena de radio",
-    "descripcion_corta": "Soporte base para antena de radio compatible con Nissan modelos 2001-2010.",
+    "nombre": "Adaptador de Montaje en Poste para Starlink Gen 3",
+    "descripcion_corta": "Adaptador de Montaje en Poste para Starlink Gen 3, Soporte de Montaje en Poste para Techo, RV y Patio, Accesorios de Montaje Redondos para Antena Starlink ",
     "por_que_comprarlo": [
-      "Compatible con múltiples años de Nissan",
-      "Instalación directa sin modificaciones",
-      "Material resistente a intemperie"
+      "Está entre lo más pedido de su categoría en AliExpress (1.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$3–4",
+    "precio_referencia": "$13–15",
     "imagen": "/img/meshtastic__energia-montaje/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005601233215.html",
-    "badge": null,
-    "specs": [
-      {
-        "k": "Compatibilidad",
-        "v": "Nissan 2001-2010"
-      },
-      {
-        "k": "Ubicación",
-        "v": "Techo"
-      },
-      {
-        "k": "Material",
-        "v": "Según modelo"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009874218578.html",
+    "badge": "Ticket alto",
+    "specs": [],
     "_src": {
-      "id": "1005005601233215",
+      "id": "1005009874218578",
       "orders": 1000,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005005601233215.html",
-      "capturado": "2026-09-01",
-      "prevRank": 6
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005009874218578.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 7,
-    "nombre": "Controlador de carga solar PWM/MPPT",
-    "descripcion_corta": "Regulador de carga para paneles solares 12/24V con salida USB, ideal para sistemas autónomos.",
+    "nombre": "Controlador de Carga Solar MPPT 30A 50A 80A 100A 12V 24V con…",
+    "descripcion_corta": "Controlador de Carga Solar MPPT 30A 50A 80A 100A 12V 24V con Pantalla LCD Automática y Doble USB para Carga y Descarga Solar",
     "por_que_comprarlo": [
-      "Selecciona entre PWM y MPPT según sistema",
-      "Múltiples amperajes disponibles hasta 30A",
-      "Salida USB 5V integrada para cargar dispositivos"
+      "Está entre lo más pedido de su categoría en AliExpress (2.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$4–5",
+    "precio_referencia": "$13–15",
     "imagen": "/img/meshtastic__energia-montaje/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007009664943.html",
-    "badge": "Ticket alto",
-    "specs": [
-      {
-        "k": "Tensión",
-        "v": "12V / 24V"
-      },
-      {
-        "k": "Corriente máxima",
-        "v": "10A / 20A / 30A"
-      },
-      {
-        "k": "Voltaje entrada PV",
-        "v": "Hasta 50V"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007170765860.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005007009664943",
-      "orders": 5000,
+      "id": "1005007170765860",
+      "orders": 2000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007009664943.html",
-      "capturado": "2026-09-01",
-      "prevRank": 7
+      "url": "https://www.aliexpress.com/item/1005007170765860.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
@@ -260,7 +195,7 @@
       "Múltiples tamaños PG7 a PG36 disponibles",
       "Venta en lotes de 1 a 10 piezas"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__energia-montaje/08.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005003296249352.html",
     "badge": null,
@@ -283,7 +218,7 @@
       "orders": 10000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005003296249352.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 8
     }
   },
@@ -296,7 +231,7 @@
       "Recargable y reutilizable",
       "Conector Ph2.0 estandarizado"
     ],
-    "precio_referencia": "$9–11",
+    "precio_referencia": "$5–6",
     "imagen": "/img/meshtastic__energia-montaje/09.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008218024646.html",
     "badge": "Mejor calidad-precio",
@@ -319,43 +254,30 @@
       "orders": 5000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005008218024646.html",
-      "capturado": "2026-09-01",
-      "prevRank": null
+      "capturado": "2026-10-01",
+      "prevRank": 9
     }
   },
   {
     "rank": 10,
-    "nombre": "Disipador de calor aluminio con pasta",
-    "descripcion_corta": "Radiador de aluminio para chips y procesadores con cinta térmica conductora incluida.",
+    "nombre": "Disipador de Calor de Aluminio para Chip Electrónico IC",
+    "descripcion_corta": "Disipador de Calor de Aluminio para Chip Electrónico IC, RAM, MOS, Dynatron, Raspberry Pi, con Cinta Térmica Conductora",
     "por_que_comprarlo": [
-      "Compatible con Raspberry Pi y otros IC",
-      "Incluye cinta térmica conductora",
-      "Disponible en lotes de 1 a 10 piezas"
+      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–3",
     "imagen": "/img/meshtastic__energia-montaje/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006982231878.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004079109702.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Material",
-        "v": "Aluminio"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Raspberry Pi / IC genérico"
-      },
-      {
-        "k": "Accesorios",
-        "v": "Cinta térmica incluida"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005006982231878",
+      "id": "1005004079109702",
       "orders": 5000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006982231878.html",
-      "capturado": "2026-09-01",
+      "url": "https://www.aliexpress.com/item/1005004079109702.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   }

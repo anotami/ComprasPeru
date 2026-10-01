@@ -8,7 +8,7 @@
       "Excelente relación luz-imagen con WDR global para diferentes condiciones",
       "Compatible con múltiples formatos de aspecto (16:9 y 4:3) según tu uso"
     ],
-    "precio_referencia": "$11–13",
+    "precio_referencia": "$13–15",
     "imagen": "/img/fpv__sistema-fpv/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006863927036.html",
     "badge": "El más vendido",
@@ -28,11 +28,11 @@
     ],
     "_src": {
       "id": "1005006863927036",
-      "orders": 3000,
-      "rating": 5,
+      "orders": 2000,
+      "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006863927036.html",
-      "capturado": "2026-09-01",
-      "prevRank": null
+      "capturado": "2026-10-01",
+      "prevRank": 1
     }
   },
   {
@@ -44,7 +44,7 @@
       "Refrigeración activa mediante ventilador integrado",
       "Carcasa CNC robusta para durabilidad en impactos"
     ],
-    "precio_referencia": "$40–50",
+    "precio_referencia": "$40–45",
     "imagen": "/img/fpv__sistema-fpv/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006067128597.html",
     "badge": "Ticket alto",
@@ -67,7 +67,7 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006067128597.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 2
     }
   },
@@ -103,188 +103,123 @@
       "orders": 4000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010572667805.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 3
     }
   },
   {
     "rank": 4,
-    "nombre": "Gafas FPV SKYZONE Cobra X V4",
-    "descripcion_corta": "Gafas FPV profesionales 5.8GHz de 48 canales con resolución 1280x720 y seguimiento de cabeza integrado.",
+    "nombre": "SKYZONE SKY04X PRO FPV Gafas 1920X1080 OLED 5",
+    "descripcion_corta": "SKYZONE SKY04X PRO FPV Gafas 1920X1080 OLED 5,8G 48CH Receptor Steadyview DVR Head Tracker Fan para RC Avión Racing Drones",
     "por_que_comprarlo": [
-      "Pantalla de alta resolución 1280x720 para imagen nítida",
-      "48 canales FPV con receptor de 5.8GHz integrado",
-      "Seguimiento de cabeza para control de gimbal en tiempo real"
+      "Está entre lo más pedido de su categoría en AliExpress (1.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$250–290",
+    "precio_referencia": "$490–570",
     "imagen": "/img/fpv__sistema-fpv/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008228477302.html",
-    "badge": null,
-    "specs": [
-      {
-        "k": "Frecuencia",
-        "v": "5.8GHz"
-      },
-      {
-        "k": "Canales",
-        "v": "48"
-      },
-      {
-        "k": "Resolución",
-        "v": "1280x720"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008221863715.html",
+    "badge": "Ticket alto",
+    "specs": [],
     "_src": {
-      "id": "1005008228477302",
+      "id": "1005008221863715",
       "orders": 1000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008228477302.html",
-      "capturado": "2026-09-01",
-      "prevRank": 4
+      "url": "https://www.aliexpress.com/item/1005008221863715.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 5,
-    "nombre": "RUSH TANK MAX SOLO transmisor video 5.8GHz 2.5W",
-    "descripcion_corta": "Transmisor de video de alta potencia 2.5W en 5.8GHz con 48 canales y carcasa CNC para drones FPV de largo alcance.",
+    "nombre": "RX3364 RX5808 3D3RxM2 3",
+    "descripcion_corta": "RX3364 RX5808 3D3RxM2 3,3G 5,8G inalámbrico FPV SPI transmisión de imágenes simula transmisión de vídeo y módulo de recepción",
     "por_que_comprarlo": [
-      "Potencia máxima 2.5W para alcance y señal estable en vuelos de distancia",
-      "48 canales digitales para evitar interferencias con múltiples pilotos",
-      "Construcción CNC reforzada que resiste golpes y vibraciones en drones"
+      "Está entre lo más pedido de su categoría en AliExpress (2.000+ vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$40–45",
+    "precio_referencia": "$6–7",
     "imagen": "/img/fpv__sistema-fpv/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860597689.html",
-    "badge": "Ticket alto",
-    "specs": [
-      {
-        "k": "Frecuencia",
-        "v": "5.8GHz"
-      },
-      {
-        "k": "Potencia",
-        "v": "2,5W"
-      },
-      {
-        "k": "Canales",
-        "v": "48 canales"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008998956159.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005006860597689",
-      "orders": 5000,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005006860597689.html",
-      "capturado": "2026-09-01",
+      "id": "1005008998956159",
+      "orders": 2000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005008998956159.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
   {
     "rank": 6,
-    "nombre": "CADDX Ratel Pro cámara FPV 1500TVL lente 2.1mm",
-    "descripcion_corta": "Cámara FPV de 1500TVL con lente 2.1mm y visión nocturna Blacklight, para drones RC con excelente claridad en diferentes luces.",
+    "nombre": "Cámara RunCam Phoenix 2 SP V3 DC 5-36V Relación de aspecto…",
+    "descripcion_corta": "Cámara RunCam Phoenix 2 SP V3 DC 5-36V Relación de aspecto 4:3/16:9 7.5g 19*19*21mm Visión nocturna para drones de carreras RC FPV y cuadricópteros",
     "por_que_comprarlo": [
-      "Resolución superior 1500TVL con lente gran angular para mejor cobertura visual",
-      "Visión nocturna Blacklight integrada para vuelos en baja iluminación sin infrarrojo externo",
-      "Dual formato (16:9 y 4:3) más control NTSC/PAL para máxima compatibilidad"
+      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$35–40",
+    "precio_referencia": "$18–22",
     "imagen": "/img/fpv__sistema-fpv/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008797335114.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Resolución",
-        "v": "1500TVL"
-      },
-      {
-        "k": "Lente",
-        "v": "2,1mm"
-      },
-      {
-        "k": "Visión nocturna",
-        "v": "Blacklight integrada"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860696806.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005008797335114",
-      "orders": 10000,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005008797335114.html",
-      "capturado": "2026-09-01",
+      "id": "1005006860696806",
+      "orders": 5000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006860696806.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
   {
     "rank": 7,
-    "nombre": "Antena Lollipop 4 RHCP 5.8G",
-    "descripcion_corta": "Antena omnidireccional de alta ganancia 2.8Dbi con múltiples conectores para transmisor y receptor FPV.",
+    "nombre": "Rush Cherry FPV 5",
+    "descripcion_corta": "Rush Cherry FPV 5,8G antena LHCP RHCP SMA MMCX UFL adaptador de conector de antena de carreras de largo alcance para Dron de carreras de cuadricóptero FPV",
     "por_que_comprarlo": [
-      "Ganancia de 2.8Dbi para mejor alcance y penetración",
-      "Disponible en conectores SMA, RP-SMA, MMCX y UFL",
-      "Diseño comprobado en competencias de FPV racing"
+      "Está entre lo más pedido de su categoría en AliExpress (993 vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$5–6",
+    "precio_referencia": "$50–60",
     "imagen": "/img/fpv__sistema-fpv/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F4001365632031.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006789590599.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Frecuencia",
-        "v": "5.8GHz"
-      },
-      {
-        "k": "Ganancia",
-        "v": "2.8Dbi"
-      },
-      {
-        "k": "Conectores",
-        "v": "SMA/RP-SMA/MMCX/UFL"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "4001365632031",
-      "orders": 3000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/4001365632031.html",
-      "capturado": "2026-09-01",
-      "prevRank": 7
+      "id": "1005006789590599",
+      "orders": 993,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005006789590599.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 8,
-    "nombre": "Cable Pigtail RP-SMA a UFL 1.13mm",
-    "descripcion_corta": "Cable adaptador de extensión de antena RP-SMA a UFL/U.FL para conectar antenas remotas en drones FPV.",
+    "nombre": "Cable Coaxial Tipo N Hembra a SMA Macho",
+    "descripcion_corta": "Cable Coaxial Tipo N Hembra a SMA Macho, Cable Coaxial U.FL UFL MHF1 RG178 para Antena de Router T-Mobile, Tarjetas Mini PCIE, WiFi WLAN",
     "por_que_comprarlo": [
-      "Extensión flexible de 1.13mm para mejor posicionamiento",
-      "Conectores RP-SMA y UFL compatibles con la mayoría de VTX",
-      "Disponible en paquetes de 2, 4 u 8 unidades"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–3",
+    "precio_referencia": "$1–3",
     "imagen": "/img/fpv__sistema-fpv/08.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009270045616.html",
-    "badge": null,
-    "specs": [
-      {
-        "k": "Conectores",
-        "v": "RP-SMA a UFL"
-      },
-      {
-        "k": "Diámetro cable",
-        "v": "1.13mm"
-      },
-      {
-        "k": "Uso",
-        "v": "Extensión antena"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008877279360.html",
+    "badge": "El más vendido",
+    "specs": [],
     "_src": {
-      "id": "1005009270045616",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009270045616.html",
-      "capturado": "2026-09-01",
-      "prevRank": 8
+      "id": "1005008877279360",
+      "orders": 10000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005008877279360.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
@@ -296,7 +231,7 @@
       "Compatible con cualquier VTX y cámara estándar",
       "Tamaño compacto para instalación en frames racing"
     ],
-    "precio_referencia": "$3–5",
+    "precio_referencia": "$1–3",
     "imagen": "/img/fpv__sistema-fpv/09.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007537858607.html",
     "badge": null,
@@ -319,44 +254,31 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007537858607.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 9
     }
   },
   {
     "rank": 10,
-    "nombre": "Antena RUSHFPV Cherry VTX 5.8G",
-    "descripcion_corta": "Antena LHCP/RHCP de 5.8GHz con múltiples conectores para drones de carreras de largo alcance.",
+    "nombre": "BETAFPV ​ El juego de antena universal VTX 5.8G funciona con…",
+    "descripcion_corta": "BETAFPV ​ El juego de antena universal VTX 5.8G funciona con todos los sistemas VTX analógicos y digitales 5.8G",
     "por_que_comprarlo": [
-      "Patrón de radiación optimizado para drones racing",
-      "Polarización seleccionable entre LHCP y RHCP",
-      "Disponible en conectores SMA, MMCX y UFL"
+      "Está entre lo más pedido de su categoría en AliExpress (3.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$6–7",
+    "precio_referencia": "$2–4",
     "imagen": "/img/fpv__sistema-fpv/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009463797038.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010706822395.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Frecuencia",
-        "v": "5.8GHz"
-      },
-      {
-        "k": "Polarización",
-        "v": "LHCP/RHCP"
-      },
-      {
-        "k": "Conectores",
-        "v": "SMA/MMCX/UFL"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005009463797038",
-      "orders": 2000,
+      "id": "1005010706822395",
+      "orders": 3000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009463797038.html",
-      "capturado": "2026-09-01",
-      "prevRank": 10
+      "url": "https://www.aliexpress.com/item/1005010706822395.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   }
 ]

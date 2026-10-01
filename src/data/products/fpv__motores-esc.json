@@ -31,7 +31,7 @@
       "orders": 1000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007477010075.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 1
     }
   },
@@ -44,7 +44,7 @@
       "Voltaje flexible 3-6S permite usar diferentes configuraciones de batería",
       "Rating 4.9/5 con 5000+ ventas confirma confiabilidad comprobada"
     ],
-    "precio_referencia": "$13–15",
+    "precio_referencia": "$14–16",
     "imagen": "/img/fpv__motores-esc/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008617673770.html",
     "badge": "El más vendido",
@@ -67,259 +67,168 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008617673770.html",
-      "capturado": "2026-09-01",
-      "prevRank": null
+      "capturado": "2026-10-01",
+      "prevRank": 2
     }
   },
   {
     "rank": 3,
-    "nombre": "ESC FVT LittleBee BLHeli_S 20A DSHOT",
-    "descripcion_corta": "Controlador de velocidad compacto con soporte DSHOT para drones de carreras FPV de 2-4S.",
+    "nombre": "YSIDO nuevo F4 V3S PLUS Control de vuelo FC soporte…",
+    "descripcion_corta": "YSIDO nuevo F4 V3S PLUS Control de vuelo FC soporte BetaFlight/INAV BLS-45A/60A 4 en 1 ESC pila para RC Dron con visión en primera persona avión Quadcopter",
     "por_que_comprarlo": [
-      "Protocolo DSHOT garantiza respuesta ultrarrápida sin latencia en aceleración",
-      "Tamaño reducido ideal para frames pequeños y espacios limitados",
-      "BLHeli_S firmware permite sintonización avanzada y telemetría de rendimiento"
+      "Está entre lo más pedido de su categoría en AliExpress (1.000+ vendidos).",
+      "Calificación de 4.6/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$27–30",
     "imagen": "/img/fpv__motores-esc/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007038091583.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Amperaje",
-        "v": "20A"
-      },
-      {
-        "k": "Voltaje",
-        "v": "2-4S"
-      },
-      {
-        "k": "Protocolo",
-        "v": "DSHOT"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005595770342.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005007038091583",
-      "orders": 2000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007038091583.html",
-      "capturado": "2026-09-01",
+      "id": "1005005595770342",
+      "orders": 1000,
+      "rating": 4.6,
+      "url": "https://www.aliexpress.com/item/1005005595770342.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
   {
     "rank": 4,
-    "nombre": "ESC BLHeli sin escobillas 12A-80A con UBEC",
-    "descripcion_corta": "Controlador electrónico de velocidad modular disponible en múltiples amperajes con regulador integrado.",
+    "nombre": "ZTW Beatles G2 ESC 20A/30A/40A/50A/60A/80A/100A/120A 2-6S…",
+    "descripcion_corta": "ZTW Beatles G2 ESC 20A/30A/40A/50A/60A/80A/100A/120A 2-6S SBEC 5V/6V 8A Control de velocidad para avión RC de ala fija",
     "por_que_comprarlo": [
-      "Amplio rango de opciones (12A a 80A) para cualquier configuración",
-      "UBEC integrado para alimentar receptor sin cables extras",
-      "Precio ultra económico 2-3 USD, 1.000+ vendidos"
+      "Está entre lo más pedido de su categoría en AliExpress (493 vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$9–11",
     "imagen": "/img/fpv__motores-esc/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006457352568.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004272865388.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Amperaje",
-        "v": "12A / 20A / 30A / 40A / 50A / 60A / 80A"
-      },
-      {
-        "k": "Regulador",
-        "v": "UBEC integrado"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Cualquier tipo de aeronave"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005006457352568",
-      "orders": 1000,
+      "id": "1005004272865388",
+      "orders": 493,
       "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005006457352568.html",
-      "capturado": "2026-09-01",
-      "prevRank": 4
+      "url": "https://www.aliexpress.com/item/1005004272865388.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 5,
-    "nombre": "Motor RS2205 2300KV para racing FPV",
-    "descripcion_corta": "Motor estándar de racing con soporte bidireccional CW/CCW para cuadcópteros de 5 pulgadas.",
+    "nombre": "RC RS2205 2205 2300KV CW CCW Motor sin escobillas para 2-6s…",
+    "descripcion_corta": "RC RS2205 2205 2300KV CW CCW Motor sin escobillas para 2-6s 20A/30A/40A ESC 5045 hélice FPV RC QAV250 X210 Dron de carreras multicóptero",
     "por_que_comprarlo": [
-      "Compatibilidad inmediata con ESC 20A/30A/40A estándar",
-      "Soporta 2-6S para adaptarse a diferentes baterías",
-      "1.000+ vendidos, motor comprobado en competencias"
+      "Está entre lo más pedido de su categoría en AliExpress (710 vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–3",
     "imagen": "/img/fpv__motores-esc/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006553785454.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006458067282.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "KV",
-        "v": "2300KV"
-      },
-      {
-        "k": "Voltaje",
-        "v": "2-6S LiPo"
-      },
-      {
-        "k": "ESC compatible",
-        "v": "20A / 30A / 40A"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005006553785454",
-      "orders": 1000,
+      "id": "1005006458067282",
+      "orders": 710,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006553785454.html",
-      "capturado": "2026-09-01",
-      "prevRank": 5
+      "url": "https://www.aliexpress.com/item/1005006458067282.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 6,
-    "nombre": "Motor iFlight XING E Pro 2207 1800KV",
-    "descripcion_corta": "Set de 4 motores de alto rendimiento para multirrotor racing con opciones multi-voltaje.",
+    "nombre": "4 motores sin escobillas YSIDO 2004 1750KV 3000KV compatibles…",
+    "descripcion_corta": "4 motores sin escobillas YSIDO 2004 1750KV 3000KV compatibles con hélices de 3.5-5 pulgadas para drones de carreras FPV RC de largo alcance tipo Toothpick",
     "por_que_comprarlo": [
-      "Opciones de 1800KV (6S) y 2450/2750KV (4S) para máxima flexibilidad",
-      "Motores de competencia usados en profesionales FPV",
-      "1.000+ vendidos, rating 4.9, referente en la categoría"
+      "Está entre lo más pedido de su categoría en AliExpress (261 vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$45–55",
+    "precio_referencia": "$29–35",
     "imagen": "/img/fpv__motores-esc/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009524110745.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005199386587.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "KV",
-        "v": "1800KV / 2450KV / 2750KV"
-      },
-      {
-        "k": "Voltaje",
-        "v": "4S / 6S"
-      },
-      {
-        "k": "Tamaño",
-        "v": "2207"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005009524110745",
-      "orders": 1000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009524110745.html",
-      "capturado": "2026-09-01",
-      "prevRank": 6
+      "id": "1005005199386587",
+      "orders": 261,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005005199386587.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 7,
-    "nombre": "Cable paralelo XT60 14AWG de silicona",
-    "descripcion_corta": "Conectores paralelos doble/triple XT60 para baterías con cables de silicona de calidad.",
+    "nombre": "Conector de batería paralelo XT60",
+    "descripcion_corta": "Conector de batería paralelo XT60, Cable macho/hembra, doble extensión Y divisor/Cable de silicona de 3 vías 14AWG para Motor de batería RC",
     "por_que_comprarlo": [
-      "10.000+ vendidos, el accesorio más comprado de esta lista",
-      "Cables de silicona resistentes al calor y flexibles",
-      "Esencial para sistemas multi-batería o configuraciones paralelas"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
     "precio_referencia": "$2–4",
     "imagen": "/img/fpv__motores-esc/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006853589194.html",
-    "badge": null,
-    "specs": [
-      {
-        "k": "Conector",
-        "v": "XT60 macho/hembra"
-      },
-      {
-        "k": "Configuración",
-        "v": "Doble / Triple paralelo"
-      },
-      {
-        "k": "Calibre",
-        "v": "14AWG silicona"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008248157252.html",
+    "badge": "El más vendido",
+    "specs": [],
     "_src": {
-      "id": "1005006853589194",
+      "id": "1005008248157252",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006853589194.html",
-      "capturado": "2026-09-01",
-      "prevRank": 7
+      "url": "https://www.aliexpress.com/item/1005008248157252.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 8,
-    "nombre": "Combo Motor 3650 3900KV + ESC Impermeable 25A-120A",
-    "descripcion_corta": "Kit completo motor-ESC con protección IP67 para autos y barcos RC en ambientes mojados.",
+    "nombre": "Tarjeta de Programación LED ESC de Surpass Hobby para ESC sin…",
+    "descripcion_corta": "Tarjeta de Programación LED ESC de Surpass Hobby para ESC sin Escobillas a Prueba de Agua de 25A /35A /45A /60A /80A /120A",
     "por_que_comprarlo": [
-      "Impermeabilidad certificada permite uso en agua y condiciones extremas sin daño",
-      "Rango ESC 25A-120A cubre múltiples configuraciones de potencia en un solo producto",
-      "Incluye programador dedicado para ajuste preciso de parámetros sin software adicional"
+      "Está entre lo más pedido de su categoría en AliExpress (2.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$13–15",
+    "precio_referencia": "$5–6",
     "imagen": "/img/fpv__motores-esc/08.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006863872223.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860714783.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "KV",
-        "v": "3900"
-      },
-      {
-        "k": "Amperaje ESC",
-        "v": "25-120A"
-      },
-      {
-        "k": "Protección",
-        "v": "IP67 Impermeable"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005006863872223",
-      "orders": 1000,
+      "id": "1005006860714783",
+      "orders": 2000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006863872223.html",
-      "capturado": "2026-09-01",
+      "url": "https://www.aliexpress.com/item/1005006860714783.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
   {
     "rank": 9,
-    "nombre": "Motor T-MOTOR F1404 2900-4600KV 3-6S",
-    "descripcion_corta": "Motor ultraligero multiKV para drones cinewhoop y racing FPV de 2.5 a 4 pulgadas.",
+    "nombre": "Happymodel Mobula8 Drone/KIT de marco 1-2S 85mm Micro FPV…",
+    "descripcion_corta": "Happymodel Mobula8 Drone/KIT de marco 1-2S 85mm Micro FPV Whoop Quadcopter Drone 2,4G ELRS receptor X12 AIO Motor sin escobillas nuevo",
     "por_que_comprarlo": [
-      "Variantes KV múltiples (2900/3800/4600) en un mismo modelo adaptable a cada setup",
-      "Diseño extremadamente compacto optimizado para frames profesionales cinéticos",
-      "Rating perfecto 5/5 de usuarios que vuelan drones rápidos y acrobáticos"
+      "Está entre lo más pedido de su categoría en AliExpress (1.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$9–11",
+    "precio_referencia": "$115–140",
     "imagen": "/img/fpv__motores-esc/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008626701108.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006988231746.html",
     "badge": "Ticket alto",
-    "specs": [
-      {
-        "k": "KV",
-        "v": "2900-4600 según modelo"
-      },
-      {
-        "k": "Voltaje",
-        "v": "3-6S según KV"
-      },
-      {
-        "k": "Tamaño Marco",
-        "v": "2.5-4 pulgadas"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005008626701108",
-      "orders": 454,
-      "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005008626701108.html",
-      "capturado": "2026-09-01",
+      "id": "1005006988231746",
+      "orders": 1000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005006988231746.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
@@ -332,7 +241,7 @@
       "Acero inoxidable 304 resiste corrosión y oxidación",
       "3.000+ vendidos, rating 4.8, consumible esencial"
     ],
-    "precio_referencia": "$6–7",
+    "precio_referencia": "$5–6",
     "imagen": "/img/fpv__motores-esc/10.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008473715278.html",
     "badge": null,
@@ -355,7 +264,7 @@
       "orders": 3000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005008473715278.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 10
     }
   }

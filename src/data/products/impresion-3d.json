@@ -1,38 +1,25 @@
 [
   {
     "rank": 1,
-    "nombre": "Kit de luz LED ajustable para Bambu Lab A1",
-    "descripcion_corta": "Sistema de iluminación LED regulable para mejorar la visibilidad del área de impresión.",
+    "nombre": "Recambios de Filamento para Bolígrafo 3D",
+    "descripcion_corta": "Recambios de Filamento para Bolígrafo 3D, 32/15/10 Colores, PLA de 1.75mm, Cada Color 10 Pies (3m), Total 320/150/100 Pies (96/45/30m), Color Aleatorio",
     "por_que_comprarlo": [
-      "Visibilidad clara durante todo el proceso de impresión",
-      "Ajuste de intensidad según necesidad de trabajo",
-      "Compatible con modelos Bambu Lab A1"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$35–40",
+    "precio_referencia": "$3–4",
     "imagen": "/img/impresion-3d/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008942555693.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007171187424.html",
     "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Tipo",
-        "v": "LED ajustable"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Bambu Lab A1"
-      },
-      {
-        "k": "Control",
-        "v": "Regulable"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005008942555693",
+      "id": "1005007171187424",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005008942555693.html",
-      "capturado": "2026-09-01",
-      "prevRank": 1
+      "url": "https://www.aliexpress.com/item/1005007171187424.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
@@ -44,7 +31,7 @@
       "Compatibilidad directa con Bambu Lab A1",
       "Aumenta la precisión en impresiones complejas"
     ],
-    "precio_referencia": "$7–8",
+    "precio_referencia": "$1–2",
     "imagen": "/img/impresion-3d/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007217932479.html",
     "badge": null,
@@ -67,115 +54,76 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007217932479.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 2
     }
   },
   {
     "rank": 3,
-    "nombre": "Placa de construcción PEI para Bambu Lab A1",
-    "descripcion_corta": "Superficie de impresión de lámina lisa PEI compatible con Bambu Lab A1 y modelos similares.",
+    "nombre": "Placa de Construcción para Bambu Lab A1 P1P P1S",
+    "descripcion_corta": "Placa de Construcción para Bambu Lab A1 P1P P1S, Lámina de Acero de Resorte Lisa X1C, Placa de Carbono para Impresión 3D Bambu X2D P2S, Base para Bambu X1",
     "por_que_comprarlo": [
-      "Adhesión superior y liberación fácil de piezas impresas",
-      "Compatible con múltiples modelos Bambu Lab",
-      "Durabilidad extendida de la placa base"
+      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$12–14",
+    "precio_referencia": "$7–8",
     "imagen": "/img/impresion-3d/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007458990197.html",
-    "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Material",
-        "v": "PEI/PEO/PET"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "A1, P1P, P1S, P2S, X1, X1C"
-      },
-      {
-        "k": "Tipo",
-        "v": "Lámina lisa"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009356565432.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005007458990197",
+      "id": "1005009356565432",
       "orders": 5000,
       "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005007458990197.html",
-      "capturado": "2026-09-01",
-      "prevRank": 3
+      "url": "https://www.aliexpress.com/item/1005009356565432.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 4,
-    "nombre": "Kit hotend acero endurecido con boquillas múltiples",
-    "descripcion_corta": "Ensamblaje de hotend de acero con juego de 4 boquillas intercambiables para Bambu Lab A1.",
+    "nombre": "Kit de Hotend para Bambu Lab A1/A1 Mini/A2L",
+    "descripcion_corta": "Kit de Hotend para Bambu Lab A1/A1 Mini/A2L, conjunto de hotend de alta velocidad, boquilla de acero endurecido de 0,2/0,4/0,6/0,8 mm, pieza para impresora",
     "por_que_comprarlo": [
-      "Incluye boquillas de 0.2, 0.4, 0.6 y 0.8 mm para versatilidad",
-      "Acero endurecido resiste desgaste prolongado",
-      "Optimizado para impresión de alta velocidad"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$4–5",
+    "precio_referencia": "$1–3",
     "imagen": "/img/impresion-3d/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010285370925.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Material",
-        "v": "Acero endurecido"
-      },
-      {
-        "k": "Boquillas incluidas",
-        "v": "0.2, 0.4, 0.6, 0.8 mm"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "A1, A1 Mini"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006850870969.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005010285370925",
+      "id": "1005006850870969",
       "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010285370925.html",
-      "capturado": "2026-09-01",
-      "prevRank": 4
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005006850870969.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 5,
-    "nombre": "Cepillo de silicona para nozzle Bambu Lab A1",
-    "descripcion_corta": "Cepillo de silicona diseñado para limpiar la boquilla y depuradores de la impresora Bambu Lab A1.",
+    "nombre": "Funda de silicona negra para el bloque de calentamiento del…",
+    "descripcion_corta": "Funda de silicona negra para el bloque de calentamiento del Hotend Bambu Lab A1 Mini, calcetín de silicona para Bambulab A1 Mini, calcetín de silicona A1 M",
     "por_que_comprarlo": [
-      "Silicona resistente al calor que no daña la boquilla ni componentes sensibles",
-      "Compatible específicamente con Bambu Lab A1 y sus accesorios estándar",
-      "Precio accesible para mantenimiento básico de la impresora"
+      "Está entre lo más pedido de su categoría en AliExpress (3.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
     "precio_referencia": "$1–3",
     "imagen": "/img/impresion-3d/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007506016199.html",
-    "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Material",
-        "v": "Silicona"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Bambu Lab A1"
-      },
-      {
-        "k": "Rango de precio",
-        "v": "$1–3"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008482531502.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005007506016199",
-      "orders": 4000,
+      "id": "1005008482531502",
+      "orders": 3000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007506016199.html",
-      "capturado": "2026-09-01",
+      "url": "https://www.aliexpress.com/item/1005008482531502.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
@@ -188,7 +136,7 @@
       "Material PTFE de bajo rozamiento",
       "Facilita cambios de filamento sin obstrucciones"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–3",
     "imagen": "/img/impresion-3d/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966620068.html",
     "badge": null,
@@ -211,7 +159,7 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006966620068.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 6
     }
   },
@@ -224,7 +172,7 @@
       "Facilita el cambio rápido de materiales",
       "Optimiza el espacio de trabajo"
     ],
-    "precio_referencia": "$6–8",
+    "precio_referencia": "$3–4",
     "imagen": "/img/impresion-3d/07.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012588897317.html",
     "badge": null,
@@ -244,10 +192,10 @@
     ],
     "_src": {
       "id": "1005012588897317",
-      "orders": 282,
+      "orders": 428,
       "rating": 5,
       "url": "https://www.aliexpress.com/item/1005012588897317.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 7
     }
   },
@@ -283,79 +231,53 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006863893191.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 8
     }
   },
   {
     "rank": 9,
-    "nombre": "Kit de limpieza de boquillas de impresora",
-    "descripcion_corta": "Conjunto de herramientas especializadas para limpiar y desbloquear boquillas de impresión.",
+    "nombre": "Kit de limpieza de boquillas de impresora 3D",
+    "descripcion_corta": "Kit de limpieza de boquillas de impresora 3D, 0,2/0,25/0,3/0,35/0,4mm, limpiador de agujas de limpieza de boquillas de acero inoxidable para limpiaparabris",
     "por_que_comprarlo": [
-      "Previene atascos y prolongar vida del hotend",
-      "Herramientas precisas para limpieza eficiente",
-      "Esencial para mantenimiento regular"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–3",
     "imagen": "/img/impresion-3d/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006807029655.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005013255347599.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Tipo",
-        "v": "Kit limpieza boquillas"
-      },
-      {
-        "k": "Contenido",
-        "v": "Múltiples herramientas"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Impresoras 3D estándar"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005006807029655",
+      "id": "1005013255347599",
       "orders": 10000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006807029655.html",
-      "capturado": "2026-09-01",
-      "prevRank": 9
+      "url": "https://www.aliexpress.com/item/1005013255347599.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 10,
-    "nombre": "Caja secadora de filamentos con monitoreo",
-    "descripcion_corta": "Contenedor hermético con control de humedad en tiempo real para almacenar y secar filamentos 3D.",
+    "nombre": "Bolsa de Almacenamiento para Filamentos PLA",
+    "descripcion_corta": "Bolsa de Almacenamiento para Filamentos PLA, ABS, PETG, TPU, Nylon, Sellada, para Impresora 3D, con Bomba Secadora, Resistente a la Humedad, Accesorio para",
     "por_que_comprarlo": [
-      "Monitoreo hermético en tiempo real evita absorción de humedad en filamentos",
-      "Almacenamiento seguro y resistente protege material costoso de degradación",
-      "Compatible con sistemas de impresoras 3D Bambu Lab A1 y otras marcas"
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$22–26",
+    "precio_referencia": "$7–8",
     "imagen": "/img/impresion-3d/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009153869969.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Función",
-        "v": "Almacenamiento y secado de filamento"
-      },
-      {
-        "k": "Monitoreo",
-        "v": "Control de humedad en tiempo real"
-      },
-      {
-        "k": "Rango de precio",
-        "v": "$22–26"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012010969806.html",
+    "badge": "Ticket alto",
+    "specs": [],
     "_src": {
-      "id": "1005009153869969",
+      "id": "1005012010969806",
       "orders": 10000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005009153869969.html",
-      "capturado": "2026-09-01",
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005012010969806.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   }

@@ -1,38 +1,25 @@
 [
   {
     "rank": 1,
-    "nombre": "Controlador Betaflight Diatone MAMBA F405MK2",
-    "descripcion_corta": "Controlador de vuelo integrado con ESC 55A para drones FPV de carreras, soporta baterías 3-6S.",
+    "nombre": "Diatone MAMBA F405MK2 F405 MK2 Betaflight controlador de…",
+    "descripcion_corta": "Diatone MAMBA F405MK2 F405 MK2 Betaflight controlador de vuelo con F55A 55A 3-6S DSHOT600 ESC para modelos de Dron de carreras con visión en primera person",
     "por_que_comprarlo": [
-      "Stack completo F405 + ESC 55A en una sola placa",
-      "Rating 4.9 con más de 1.000 ventas verificadas",
-      "Compatible con Betaflight y soporta lipo 3-6S"
+      "Está entre lo más pedido de su categoría en AliExpress (327 vendidos).",
+      "Calificación de 4.7/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$50–60",
+    "precio_referencia": "$70–85",
     "imagen": "/img/fpv__fc-pila/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007476671684.html",
-    "badge": null,
-    "specs": [
-      {
-        "k": "Controlador",
-        "v": "F405MK2"
-      },
-      {
-        "k": "ESC integrado",
-        "v": "55A 3-6S"
-      },
-      {
-        "k": "Voltaje entrada",
-        "v": "3-6S Lipo"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008231418492.html",
+    "badge": "Ticket alto",
+    "specs": [],
     "_src": {
-      "id": "1005007476671684",
-      "orders": 1000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007476671684.html",
-      "capturado": "2026-09-01",
-      "prevRank": 1
+      "id": "1005008231418492",
+      "orders": 327,
+      "rating": 4.7,
+      "url": "https://www.aliexpress.com/item/1005008231418492.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
@@ -44,7 +31,7 @@
       "Solución todo en uno lista para instalar",
       "Precio competitivo en rango $24-29 USD"
     ],
-    "precio_referencia": "$24–29",
+    "precio_referencia": "$28–35",
     "imagen": "/img/fpv__fc-pila/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008710524456.html",
     "badge": null,
@@ -67,8 +54,8 @@
       "orders": 2000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008710524456.html",
-      "capturado": "2026-09-01",
-      "prevRank": 7
+      "capturado": "2026-10-01",
+      "prevRank": 2
     }
   },
   {
@@ -80,7 +67,7 @@
       "Incluye barómetro para estabilidad mejorada",
       "Compatible con Betaflight e INAV"
     ],
-    "precio_referencia": "$9–11",
+    "precio_referencia": "$9–10",
     "imagen": "/img/fpv__fc-pila/03.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009249412738.html",
     "badge": "Mejor calidad-precio",
@@ -100,10 +87,10 @@
     ],
     "_src": {
       "id": "1005009249412738",
-      "orders": 311,
+      "orders": 315,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005009249412738.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 3
     }
   },
@@ -137,46 +124,33 @@
     "_src": {
       "id": "1005006253894970",
       "orders": 1000,
-      "rating": 4.9,
+      "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005006253894970.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 4
     }
   },
   {
     "rank": 5,
-    "nombre": "Controlador F722 F745 H743 45-60A VTX",
-    "descripcion_corta": "Stack F722 con ESC 45-60A e integración VTX con cámara 1080P para FPV avanzado.",
+    "nombre": "Controlador de vuelo DAKEFPV H743 STM32H743 F7 FPV FC Dual…",
+    "descripcion_corta": "Controlador de vuelo DAKEFPV H743 STM32H743 F7 FPV FC Dual ICM42688 giroscopio y 8 UART para construcciones digitales HD FPV de largo alcance",
     "por_que_comprarlo": [
-      "VTX y cámara integrados en una placa",
-      "Procesador F7/F745 de último rendimiento",
-      "Soporte para video en tiempo real 1080P"
+      "Está entre lo más pedido de su categoría en AliExpress (38 vendidos).",
+      "Calificación de 4.5/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$21–24",
+    "precio_referencia": "$29–35",
     "imagen": "/img/fpv__fc-pila/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008279741542.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010638299841.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Controlador",
-        "v": "F722/F745/H743"
-      },
-      {
-        "k": "ESC integrado",
-        "v": "45-60A"
-      },
-      {
-        "k": "Cámara",
-        "v": "1080P integrada"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005008279741542",
-      "orders": 101,
-      "rating": 4.6,
-      "url": "https://www.aliexpress.com/item/1005008279741542.html",
-      "capturado": "2026-09-01",
-      "prevRank": 5
+      "id": "1005010638299841",
+      "orders": 38,
+      "rating": 4.5,
+      "url": "https://www.aliexpress.com/item/1005010638299841.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
@@ -188,7 +162,7 @@
       "Especificación de baja ESR para RF limpia",
       "Precio accesible entre $2-4 USD"
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$1–3",
     "imagen": "/img/fpv__fc-pila/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007791605536.html",
     "badge": null,
@@ -211,152 +185,100 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007791605536.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 6
     }
   },
   {
     "rank": 7,
-    "nombre": "Controlador vuelo F405/F7/F4 + ESC 60A 4en1",
-    "descripcion_corta": "Placa controladora de vuelo con ESC integrado 60A para drones FPV racer, soporta múltiples firmwares.",
+    "nombre": "Controlador de vuelo F405 F405HD",
+    "descripcion_corta": "Controlador de vuelo F405 F405HD / F7 F722 / F4 V3S Plus FC + 60A 4 en 1 BLheli_S ESC pilas 30,5*30,5mm para RC Dron Racer FPV",
     "por_que_comprarlo": [
-      "ESC 4 en 1 integrado reduce complejidad de cableado y peso total",
-      "Compatible con F405, F7 y F4, se adapta a varios proyectos y upgrades",
-      "Tamaño compacto 30.5x30.5mm ideal para frames de carreras ajustados"
+      "Está entre lo más pedido de su categoría en AliExpress (800+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$25–30",
+    "precio_referencia": "$28–35",
     "imagen": "/img/fpv__fc-pila/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007050011519.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007476998146.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Tamaño",
-        "v": "30.5 x 30.5 mm"
-      },
-      {
-        "k": "ESC integrado",
-        "v": "60A BLheli_S 4 en 1"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "F405/F405HD/F7/F722/F4 V3S"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005007050011519",
-      "orders": 900,
-      "rating": 4.7,
-      "url": "https://www.aliexpress.com/item/1005007050011519.html",
-      "capturado": "2026-09-01",
+      "id": "1005007476998146",
+      "orders": 800,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005007476998146.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
   {
     "rank": 8,
-    "nombre": "Receptor ELRS BETAFPV NANO 2.4GHz",
-    "descripcion_corta": "Receptor ExpressLRS 2.4GHz ultra compacto con actualización WiFi para drones FPV.",
+    "nombre": "Controlador de vuelo JHEMCU GHF435AIO V2 20A 2-4S con OSD…",
+    "descripcion_corta": "Controlador de vuelo JHEMCU GHF435AIO V2 20A 2-4S con OSD Baro Blackbox receptor ELRS 2,4G incorporado para Dron RC FPV Freestyle",
     "por_que_comprarlo": [
-      "10.000+ ventas, protocolo ELRS de baja latencia",
-      "Actualización por WiFi sin cables",
-      "Antena tipo T integrada, tamaño NANO"
+      "Está entre lo más pedido de su categoría en AliExpress (223 vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$5–6",
+    "precio_referencia": "$40–50",
     "imagen": "/img/fpv__fc-pila/08.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010228737836.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007942847361.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Protocolo",
-        "v": "ExpressLRS 2.4GHz"
-      },
-      {
-        "k": "Actualización",
-        "v": "WiFi"
-      },
-      {
-        "k": "Tamaño",
-        "v": "NANO compacto"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005010228737836",
-      "orders": 10000,
+      "id": "1005007942847361",
+      "orders": 223,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010228737836.html",
-      "capturado": "2026-09-01",
-      "prevRank": 8
+      "url": "https://www.aliexpress.com/item/1005007942847361.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 9,
-    "nombre": "Buscador VIFLY Finder 2 V2 con alarma",
-    "descripcion_corta": "Dispositivo localizador con zumbador integrado para encontrar drones perdidos, batería recargable incluida.",
+    "nombre": "VIFLY Finder 2 V2 zumbador rastreador modelo perdido alarma…",
+    "descripcion_corta": "VIFLY Finder 2 V2 zumbador rastreador modelo perdido alarma Beeper batería integrada para RC avión FPV Quadcopter Drone Racing",
     "por_que_comprarlo": [
-      "Alarma audible potente permite localizar drones en arbustos o zonas difíciles",
-      "Batería integrada recargable elimina necesidad de pilas adicionales",
-      "Peso mínimo no afecta el rendimiento del drone en competencia"
+      "Está entre lo más pedido de su categoría en AliExpress (942 vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$12–14",
+    "precio_referencia": "$11–12",
     "imagen": "/img/fpv__fc-pila/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007476782487.html",
-    "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Batería",
-        "v": "Integrada recargable"
-      },
-      {
-        "k": "Volumen alarma",
-        "v": "Según modelo"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Drones FPV racer y multicópteros"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006785748648.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005007476782487",
-      "orders": 1000,
+      "id": "1005006785748648",
+      "orders": 942,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007476782487.html",
-      "capturado": "2026-09-01",
+      "url": "https://www.aliexpress.com/item/1005006785748648.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
   {
     "rank": 10,
-    "nombre": "Conector XT60 Divisor Paralelo Y",
-    "descripcion_corta": "Cable de distribución XT60 macho/hembra con 3 vías y cable silicona 14AWG.",
+    "nombre": "4 Conectores XT60 Macho y Hembra para Batería",
+    "descripcion_corta": "4 Conectores XT60 Macho y Hembra para Batería - Cable de Silicona de 10cm 14AWG para Avión RC, Batería Lipo, ESC, Dron FPV",
     "por_que_comprarlo": [
-      "10.000+ ventas, estándar de la industria FPV",
-      "Cable grueso 14AWG reduce pérdidas",
-      "Conexión paralela para múltiples baterías"
+      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$2–4",
+    "precio_referencia": "$3–5",
     "imagen": "/img/fpv__fc-pila/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006853589194.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010487292725.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Conector",
-        "v": "XT60 macho/hembra"
-      },
-      {
-        "k": "Calibre cable",
-        "v": "14AWG silicona"
-      },
-      {
-        "k": "Configuración",
-        "v": "3 vías paralelo"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005006853589194",
-      "orders": 10000,
+      "id": "1005010487292725",
+      "orders": 5000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006853589194.html",
-      "capturado": "2026-09-01",
-      "prevRank": 10
+      "url": "https://www.aliexpress.com/item/1005010487292725.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   }
 ]

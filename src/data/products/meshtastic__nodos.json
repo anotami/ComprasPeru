@@ -8,7 +8,7 @@
       "Rating máximo con más de 3000 unidades vendidas",
       "Compatible con firmware Meshtastic y comunidad consolidada"
     ],
-    "precio_referencia": "$16–18",
+    "precio_referencia": "$15–18",
     "imagen": "/img/meshtastic__nodos/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32872078587.html",
     "badge": "El más vendido",
@@ -31,7 +31,7 @@
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/32872078587.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 1
     }
   },
@@ -44,7 +44,7 @@
       "Pantalla OLED incluida para monitoreo en tiempo real",
       "Rating 4.9 con miles de vendidos, tecnología probada"
     ],
-    "precio_referencia": "$30–40",
+    "precio_referencia": "$30–35",
     "imagen": "/img/meshtastic__nodos/02.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008430005435.html",
     "badge": null,
@@ -67,44 +67,44 @@
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005008430005435.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 2
     }
   },
   {
     "rank": 3,
-    "nombre": "LILYGO TTGO Meshtastic T-Echo",
-    "descripcion_corta": "Módulo inalámbrico compacto T-Echo para nodos Meshtastic portátiles con pantalla e-ink.",
+    "nombre": "LILYGO T-Beam V1.2 Multibanda GPS",
+    "descripcion_corta": "Nodo LoRa multibanda con GPS y batería recargable para aplicaciones móviles.",
     "por_que_comprarlo": [
-      "Pantalla e-ink de bajo consumo para portabilidad máxima",
-      "Forma compacta y peso reducido para llevar en bolsillo",
-      "Rating 4.8 con comunidad Meshtastic establecida"
+      "Soporta 4 bandas frecuencia (433/868/915/923MHz)",
+      "GPS de precisión y pantalla OLED integrada",
+      "Rating 4.9 con batería de mayor capacidad"
     ],
-    "precio_referencia": "$50–55",
+    "precio_referencia": "$28–35",
     "imagen": "/img/meshtastic__nodos/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005003026107533.html",
-    "badge": null,
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F4001178678568.html",
+    "badge": "Mejor calidad-precio",
     "specs": [
       {
-        "k": "Pantalla",
-        "v": "E-ink"
+        "k": "Procesador",
+        "v": "ESP32"
       },
       {
-        "k": "Frecuencia LoRa",
-        "v": "Según modelo regional"
+        "k": "Frecuencia",
+        "v": "433/868/915/923 MHz"
       },
       {
-        "k": "Conectividad",
-        "v": "LoRa, Bluetooth"
+        "k": "GPS",
+        "v": "Sí"
       }
     ],
     "_src": {
-      "id": "1005003026107533",
-      "orders": 2000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005003026107533.html",
-      "capturado": "2026-09-01",
-      "prevRank": 3
+      "id": "4001178678568",
+      "orders": 1000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/4001178678568.html",
+      "capturado": "2026-10-01",
+      "prevRank": 9
     }
   },
   {
@@ -116,7 +116,7 @@
       "Pantalla grande para visualización de mensajes y datos",
       "3000+ vendidos con rating 4.7, solución completa"
     ],
-    "precio_referencia": "$60–70",
+    "precio_referencia": "$70–80",
     "imagen": "/img/meshtastic__nodos/04.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007568074083.html",
     "badge": "Ticket alto",
@@ -139,7 +139,7 @@
       "orders": 3000,
       "rating": 4.7,
       "url": "https://www.aliexpress.com/item/1005007568074083.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 4
     }
   },
@@ -175,7 +175,7 @@
       "orders": 4000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005008760784706.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 5
     }
   },
@@ -188,7 +188,7 @@
       "Incluye todos los componentes necesarios para comenzar",
       "Rating 4.9, pensado específicamente para Meshtastic"
     ],
-    "precio_referencia": "$22–26",
+    "precio_referencia": "$19–22",
     "imagen": "/img/meshtastic__nodos/06.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006901039995.html",
     "badge": null,
@@ -211,7 +211,7 @@
       "orders": 2000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006901039995.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 6
     }
   },
@@ -224,7 +224,7 @@
       "Banda 868MHz ideal para Europa y compatibilidad global",
       "Precio accesible con 3000+ compras verificadas"
     ],
-    "precio_referencia": "$17–20",
+    "precio_referencia": "$14–16",
     "imagen": "/img/meshtastic__nodos/07.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007752194012.html",
     "badge": "El más vendido",
@@ -247,7 +247,7 @@
       "orders": 3000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005007752194012.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 7
     }
   },
@@ -260,7 +260,7 @@
       "Integra WiFi y Bluetooth además de LoRa",
       "Precio muy accesible para comenzar en Meshtastic"
     ],
-    "precio_referencia": "$9–11",
+    "precio_referencia": "$5–6",
     "imagen": "/img/meshtastic__nodos/08.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008094638318.html",
     "badge": "El más vendido",
@@ -283,80 +283,54 @@
       "orders": 3000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005008094638318.html",
-      "capturado": "2026-09-01",
-      "prevRank": null
+      "capturado": "2026-10-01",
+      "prevRank": 8
     }
   },
   {
     "rank": 9,
-    "nombre": "LILYGO T-Beam V1.2 Multibanda GPS",
-    "descripcion_corta": "Nodo LoRa multibanda con GPS y batería recargable para aplicaciones móviles.",
+    "nombre": "LILYGO® TTGO Meshtastic T-Beam V1.2 ESP32 LoRa 915MHz 433MHz…",
+    "descripcion_corta": "LILYGO® TTGO Meshtastic T-Beam V1.2 ESP32 LoRa 915MHz 433MHz 868MHz 923MHz WiFi BLE GPS con soporte de batería OLED 0,96 de 18650 pulgadas",
     "por_que_comprarlo": [
-      "Soporta 4 bandas frecuencia (433/868/915/923MHz)",
-      "GPS de precisión y pantalla OLED integrada",
-      "Rating 4.9 con batería de mayor capacidad"
+      "Está entre lo más pedido de su categoría en AliExpress (396 vendidos).",
+      "Calificación de 5/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$28–30",
+    "precio_referencia": "$35–40",
     "imagen": "/img/meshtastic__nodos/09.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F4001178678568.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Procesador",
-        "v": "ESP32"
-      },
-      {
-        "k": "Frecuencia",
-        "v": "433/868/915/923 MHz"
-      },
-      {
-        "k": "GPS",
-        "v": "Sí"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005003088139358.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "4001178678568",
-      "orders": 1000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/4001178678568.html",
-      "capturado": "2026-09-01",
-      "prevRank": 9
+      "id": "1005003088139358",
+      "orders": 396,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005003088139358.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 10,
-    "nombre": "Módulo LoRa LLCC68 E220 22dBm",
-    "descripcion_corta": "Módulo inalámbrico compacto de largo alcance para integración en proyectos personalizados.",
+    "nombre": "SX1276 SX1278 ESP32 LoRa 868MHz/915MHz/433MHz 0",
+    "descripcion_corta": "SX1276 SX1278 ESP32 LoRa 868MHz/915MHz/433MHz 0,96 pulgadas pantalla OLED azul Bluetooth WIFI Kit 32 Placa de desarrollo",
     "por_que_comprarlo": [
-      "Alcance hasta 5km con potencia 22dBm",
-      "Compatible con UART para fácil integración",
-      "Costo mínimo para expandir red mesh existente"
+      "Está entre lo más pedido de su categoría en AliExpress (3.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$5–6",
+    "precio_referencia": "$14–17",
     "imagen": "/img/meshtastic__nodos/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007299442856.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860809926.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Frecuencia",
-        "v": "868/915 MHz"
-      },
-      {
-        "k": "Potencia",
-        "v": "22 dBm"
-      },
-      {
-        "k": "Alcance",
-        "v": "Hasta 5 km"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005007299442856",
-      "orders": 2000,
+      "id": "1005006860809926",
+      "orders": 3000,
       "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007299442856.html",
-      "capturado": "2026-09-01",
-      "prevRank": 10
+      "url": "https://www.aliexpress.com/item/1005006860809926.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   }
 ]

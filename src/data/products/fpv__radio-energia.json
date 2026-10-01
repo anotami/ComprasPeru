@@ -8,7 +8,7 @@
       "EdgeTX firmware abierto con miles de personalizaciones",
       "Compatible con múltiples protocolos (CC2500, ELRS)"
     ],
-    "precio_referencia": "$50–60",
+    "precio_referencia": "$55–65",
     "imagen": "/img/fpv__radio-energia/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005005975423127.html",
     "badge": "El más vendido",
@@ -31,7 +31,7 @@
       "orders": 3000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005005975423127.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 1
     }
   },
@@ -67,79 +67,53 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005010228737836.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 2
     }
   },
   {
     "rank": 3,
-    "nombre": "Tattu R-Line 5.0 batería LiPo",
-    "descripcion_corta": "Batería LiPo de alta descarga (150C) para drones de carrera FPV con múltiples capacidades.",
+    "nombre": "Batería Lipo OVONIC 1300mAh 100C 22",
+    "descripcion_corta": "Batería Lipo OVONIC 1300mAh 100C 22,2 V con enchufe XT60 para helicóptero RC Quadcopter Dron de carreras con visión en primera persona piezas batería 6S",
     "por_que_comprarlo": [
-      "Tasa de descarga 150C soporta aceleraciones extremas",
-      "Disponible en capacidades 850–1550 mAh para variedad",
-      "Conectores XT30/XT60 compatible con equipos estándar"
+      "Está entre lo más pedido de su categoría en AliExpress (452 vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$20–23",
+    "precio_referencia": "$35–40",
     "imagen": "/img/fpv__radio-energia/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010503326388.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007951605375.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Química",
-        "v": "LiPo"
-      },
-      {
-        "k": "Descarga máx.",
-        "v": "150C"
-      },
-      {
-        "k": "Capacidad",
-        "v": "850–1550 mAh"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005010503326388",
-      "orders": 500,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005010503326388.html",
-      "capturado": "2026-09-01",
-      "prevRank": 3
+      "id": "1005007951605375",
+      "orders": 452,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007951605375.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
     "rank": 4,
-    "nombre": "ISDT BattAir - Gestor de batería Lipo con Bluetooth",
-    "descripcion_corta": "Controlador inteligente para baterías Lipo con carga, descarga y monitoreo por aplicación móvil vía Bluetooth.",
+    "nombre": "ISDT BattGo BG-8S Comprobador de batería inteligente…",
+    "descripcion_corta": "ISDT BattGo BG-8S Comprobador de batería inteligente Balanceador Receptor Probador de señal Función de carga rápida",
     "por_que_comprarlo": [
-      "Control remoto completo desde tu teléfono para monitorear voltaje y salud de la batería",
-      "Funciones de carga y descarga automáticas con protección contra sobrecarga y cortocircuito",
-      "Compatible con baterías Lipo estándar usadas en drones FPV y múltiples dispositivos"
+      "Está entre lo más pedido de su categoría en AliExpress (896 vendidos).",
+      "Calificación de 5/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$6–8",
+    "precio_referencia": "$27–30",
     "imagen": "/img/fpv__radio-energia/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007389695978.html",
-    "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Conexión",
-        "v": "Bluetooth 5.0"
-      },
-      {
-        "k": "Compatibilidad",
-        "v": "Baterías Lipo estándar"
-      },
-      {
-        "k": "Funciones",
-        "v": "Carga, descarga, monitoreo"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006860776547.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005007389695978",
-      "orders": 600,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007389695978.html",
-      "capturado": "2026-09-01",
+      "id": "1005006860776547",
+      "orders": 896,
+      "rating": 5,
+      "url": "https://www.aliexpress.com/item/1005006860776547.html",
+      "capturado": "2026-10-01",
       "prevRank": null
     }
   },
@@ -152,7 +126,7 @@
       "Tasa descarga 45C adecuada para vehículos RC y drones",
       "Conectores variados (T, XT30, XT60) máxima compatibilidad"
     ],
-    "precio_referencia": "$4–5",
+    "precio_referencia": "$5–6",
     "imagen": "/img/fpv__radio-energia/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009646549499.html",
     "badge": null,
@@ -172,47 +146,34 @@
     ],
     "_src": {
       "id": "1005009646549499",
-      "orders": 500,
+      "orders": 653,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005009646549499.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 5
     }
   },
   {
     "rank": 6,
-    "nombre": "Radiomaster Nomad Gemini módulo ELRS",
-    "descripcion_corta": "Módulo de transmisión dual-band ExpressLRS con LED RGB para controladores compatibles.",
+    "nombre": "Módulo Original EMAX oficial Aeris Link ExpressLRS ELRS Micro…",
+    "descripcion_corta": "Módulo Original EMAX oficial Aeris Link ExpressLRS ELRS Micro TX 2,4G 915MHz con pantalla OLED y ventilador de refrigeración para Dron RC FPV",
     "por_que_comprarlo": [
-      "Banda dual permite frecuencias alternativas sin reemplazo",
-      "LED RGB integrado para feedback visual en tiempo real",
-      "Adaptadores Nano/Micro incluidos para compatibilidad"
+      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
+      "Calificación de 5/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$45–50",
+    "precio_referencia": "$27–30",
     "imagen": "/img/fpv__radio-energia/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008089279744.html",
-    "badge": "Ticket alto",
-    "specs": [
-      {
-        "k": "Protocolo",
-        "v": "ExpressLRS dual-band"
-      },
-      {
-        "k": "Frecuencia",
-        "v": "Múltiple"
-      },
-      {
-        "k": "Conectividad",
-        "v": "Nano / Micro"
-      }
-    ],
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005012053012150.html",
+    "badge": null,
+    "specs": [],
     "_src": {
-      "id": "1005008089279744",
-      "orders": 3000,
+      "id": "1005012053012150",
+      "orders": 5000,
       "rating": 5,
-      "url": "https://www.aliexpress.com/item/1005008089279744.html",
-      "capturado": "2026-09-01",
-      "prevRank": 6
+      "url": "https://www.aliexpress.com/item/1005012053012150.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   },
   {
@@ -247,7 +208,7 @@
       "orders": 5000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006997630374.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 8
     }
   },
@@ -283,44 +244,31 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005006966322607.html",
-      "capturado": "2026-09-01",
+      "capturado": "2026-10-01",
       "prevRank": 9
     }
   },
   {
     "rank": 10,
-    "nombre": "IMAX B6 cargador balanceador 80W",
-    "descripcion_corta": "Cargador inteligente profesional 80W con balanceo para baterías 1-6 celdas.",
+    "nombre": "Cargador/Descargador de Baterías LiPo GEPRC W63 78W WooPower 3A*6",
+    "descripcion_corta": "Cargador/Descargador de Baterías LiPo GEPRC W63 78W WooPower 3A*6, 6 Puertos, 1S, para Baterías LiPo/LiHV/LiFe, Conector PH2.0/BT2.0, para Drones RC FPV",
     "por_que_comprarlo": [
-      "Balanceo automático extiende vida útil de baterías",
-      "Potencia 80W permite carga rápida eficiente",
-      "Interfaz LCD clara con múltiples modos de carga/descarga"
+      "Está entre lo más pedido de su categoría en AliExpress (600+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
     ],
-    "precio_referencia": "$20–24",
+    "precio_referencia": "$35–45",
     "imagen": "/img/fpv__radio-energia/10.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009609686432.html",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010266117326.html",
     "badge": null,
-    "specs": [
-      {
-        "k": "Potencia",
-        "v": "80W"
-      },
-      {
-        "k": "Celdas",
-        "v": "1–6S"
-      },
-      {
-        "k": "Función",
-        "v": "Carga / balanceo"
-      }
-    ],
+    "specs": [],
     "_src": {
-      "id": "1005009609686432",
-      "orders": 1000,
-      "rating": 4.6,
-      "url": "https://www.aliexpress.com/item/1005009609686432.html",
-      "capturado": "2026-09-01",
-      "prevRank": 10
+      "id": "1005010266117326",
+      "orders": 600,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005010266117326.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   }
 ]

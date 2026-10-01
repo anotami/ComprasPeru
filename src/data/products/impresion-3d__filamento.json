@@ -1,294 +1,6 @@
 [
   {
     "rank": 1,
-    "nombre": "Filamento PLA tricolor",
-    "descripcion_corta": "Carrete de PLA con tres colores en una misma bobina para piezas multicolores sin cambios manuales.",
-    "por_que_comprarlo": [
-      "Imprime piezas con tres colores sin intervención",
-      "PLA es fácil de imprimir y ecológico",
-      "Perfecto para modelos decorativos y artículos personalizados"
-    ],
-    "precio_referencia": "$13–15",
-    "imagen": "/img/impresion-3d__filamento/01.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009045299380.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Material",
-        "v": "PLA (ácido poliláctico)"
-      },
-      {
-        "k": "Presentación",
-        "v": "1 kg con 3 colores integrados"
-      },
-      {
-        "k": "Temperatura de impresión",
-        "v": "190–210 °C"
-      }
-    ],
-    "_src": {
-      "id": "1005009045299380",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005009045299380.html",
-      "capturado": "2026-09-01",
-      "prevRank": 5
-    }
-  },
-  {
-    "rank": 2,
-    "nombre": "Tubo PTFE para Bambu Lab P1P/A1",
-    "descripcion_corta": "Tubo de teflón de reemplazo para el extrusor de impresoras Bambu Lab, asegura flujo constante del filamento.",
-    "por_que_comprarlo": [
-      "Tubo original compatible con modelos P1P, A1 y mini",
-      "Mejora la precisión de extrusión y reduce atascos",
-      "Fácil de instalar y cambiar regularmente"
-    ],
-    "precio_referencia": "$2–4",
-    "imagen": "/img/impresion-3d__filamento/02.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006966620068.html",
-    "badge": null,
-    "specs": [
-      {
-        "k": "Compatibilidad",
-        "v": "Bambu Lab P1P, A1, mini"
-      },
-      {
-        "k": "Material",
-        "v": "PTFE (teflón)"
-      },
-      {
-        "k": "Diámetro interno",
-        "v": "2 mm (estándar MK8)"
-      }
-    ],
-    "_src": {
-      "id": "1005006966620068",
-      "orders": 10000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005006966620068.html",
-      "capturado": "2026-09-01",
-      "prevRank": 2
-    }
-  },
-  {
-    "rank": 3,
-    "nombre": "ERYONE PLA Mate Premium 1 kg",
-    "descripcion_corta": "Filamento PLA mate de calidad premium con múltiples opciones de color, bobina de 1kg de acabado anti-brillo.",
-    "por_que_comprarlo": [
-      "Acabado mate profesional que minimiza imperfecciones visuales",
-      "Amplio rango de colores disponibles para proyectos creativos",
-      "Bobina de 1kg proporciona mayor rendimiento y economía"
-    ],
-    "precio_referencia": "$40–45",
-    "imagen": "/img/impresion-3d__filamento/03.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007010493383.html",
-    "badge": null,
-    "specs": [
-      {
-        "k": "Material",
-        "v": "PLA Mate"
-      },
-      {
-        "k": "Diámetro",
-        "v": "1.75 mm"
-      },
-      {
-        "k": "Peso",
-        "v": "1 kg"
-      }
-    ],
-    "_src": {
-      "id": "1005007010493383",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007010493383.html",
-      "capturado": "2026-09-01",
-      "prevRank": 10
-    }
-  },
-  {
-    "rank": 4,
-    "nombre": "Filamento TPU 95A profesional",
-    "descripcion_corta": "Filamento flexible de poliuretano termoplástico para piezas elásticas, resistentes y duraderas en impresión 3D.",
-    "por_que_comprarlo": [
-      "TPU 95A ofrece balance entre flexibilidad y resistencia",
-      "Ideal para carcasas, sellos y piezas funcionales",
-      "Compatible con extrusores de filamentos blandos"
-    ],
-    "precio_referencia": "$18–21",
-    "imagen": "/img/impresion-3d__filamento/04.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005011865579583.html",
-    "badge": "Ticket alto",
-    "specs": [
-      {
-        "k": "Material",
-        "v": "TPU (poliuretano termoplástico)"
-      },
-      {
-        "k": "Dureza Shore",
-        "v": "95A (flexible-resistente)"
-      },
-      {
-        "k": "Temperatura de impresión",
-        "v": "210–230 °C"
-      }
-    ],
-    "_src": {
-      "id": "1005011865579583",
-      "orders": 1000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005011865579583.html",
-      "capturado": "2026-09-01",
-      "prevRank": 4
-    }
-  },
-  {
-    "rank": 5,
-    "nombre": "Filamento PLA multicolor brillante 1.75mm 250g",
-    "descripcion_corta": "Filamento PLA con efectos de color dual, triple o magic que cambia según el ángulo de visualización.",
-    "por_que_comprarlo": [
-      "Efectos visuales únicos que no logras con colores sólidos",
-      "Compatible con impresoras FDM estándar sin ajustes especiales",
-      "Presentación de 250g ideal para proyectos medianos"
-    ],
-    "precio_referencia": "$11–13",
-    "imagen": "/img/impresion-3d__filamento/05.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007038234241.html",
-    "badge": "El más vendido",
-    "specs": [
-      {
-        "k": "Material",
-        "v": "PLA brillante multicolor"
-      },
-      {
-        "k": "Diámetro",
-        "v": "1.75mm"
-      },
-      {
-        "k": "Peso",
-        "v": "250g (0.55 lbs)"
-      }
-    ],
-    "_src": {
-      "id": "1005007038234241",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007038234241.html",
-      "capturado": "2026-09-01",
-      "prevRank": null
-    }
-  },
-  {
-    "rank": 6,
-    "nombre": "Filamento PLA colores para bolígrafos 3D 1.75mm",
-    "descripcion_corta": "Filamento PLA seguro para bolígrafos de impresión 3D infantiles, disponible en múltiples longitudes.",
-    "por_que_comprarlo": [
-      "Formulación segura sin humo, ideal para uso con niños",
-      "Opciones de cargas desde 36M hasta 200M según necesidad",
-      "Precio accesible para consumibles escolares"
-    ],
-    "precio_referencia": "$2–3",
-    "imagen": "/img/impresion-3d__filamento/06.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007558056175.html",
-    "badge": "Mejor calidad-precio",
-    "specs": [
-      {
-        "k": "Material",
-        "v": "PLA seguro sin humo"
-      },
-      {
-        "k": "Diámetro",
-        "v": "1.75mm"
-      },
-      {
-        "k": "Longitud disponible",
-        "v": "36M a 200M según modelo"
-      }
-    ],
-    "_src": {
-      "id": "1005007558056175",
-      "orders": 5000,
-      "rating": 4.9,
-      "url": "https://www.aliexpress.com/item/1005007558056175.html",
-      "capturado": "2026-09-01",
-      "prevRank": null
-    }
-  },
-  {
-    "rank": 7,
-    "nombre": "Filamento PLA luminoso 1.75mm 200g brilla oscuro",
-    "descripcion_corta": "Filamento PLA que emite luz propia en la oscuridad, perfecto para proyectos decorativos DIY.",
-    "por_que_comprarlo": [
-      "Efecto luminiscente visible sin fuente de energía adicional",
-      "Compatible con la mayoría de impresoras FDM sin modificaciones",
-      "Ideal para piezas decorativas, juguetes o regalos temáticos"
-    ],
-    "precio_referencia": "$13–15",
-    "imagen": "/img/impresion-3d__filamento/07.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008706477749.html",
-    "badge": "Ticket alto",
-    "specs": [
-      {
-        "k": "Material",
-        "v": "PLA luminoso"
-      },
-      {
-        "k": "Diámetro",
-        "v": "1.75mm"
-      },
-      {
-        "k": "Peso",
-        "v": "200g (0.44 lbs)"
-      }
-    ],
-    "_src": {
-      "id": "1005008706477749",
-      "orders": 3000,
-      "rating": 4.3,
-      "url": "https://www.aliexpress.com/item/1005008706477749.html",
-      "capturado": "2026-09-01",
-      "prevRank": null
-    }
-  },
-  {
-    "rank": 8,
-    "nombre": "ESUN PLA Basic Alta Velocidad 1 kg",
-    "descripcion_corta": "Filamento PLA de alta velocidad compatible con Bambu Lab, bobina 1kg optimizado para impresión rápida.",
-    "por_que_comprarlo": [
-      "Especialmente optimizado para impresoras Bambu Lab A1",
-      "Formulación de alta velocidad que reduce tiempos de impresión",
-      "Calidad básica confiable con buena consistencia dimensional"
-    ],
-    "precio_referencia": "$22–25",
-    "imagen": "/img/impresion-3d__filamento/08.webp",
-    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006777858861.html",
-    "badge": null,
-    "specs": [
-      {
-        "k": "Material",
-        "v": "PLA Basic"
-      },
-      {
-        "k": "Diámetro",
-        "v": "1.75 mm"
-      },
-      {
-        "k": "Peso",
-        "v": "1 kg"
-      }
-    ],
-    "_src": {
-      "id": "1005006777858861",
-      "orders": 4000,
-      "rating": 4.8,
-      "url": "https://www.aliexpress.com/item/1005006777858861.html",
-      "capturado": "2026-09-01",
-      "prevRank": 8
-    }
-  },
-  {
-    "rank": 9,
     "nombre": "Lápiz de impresión 3D",
     "descripcion_corta": "Herramienta de dibujo 3D portátil para crear estructuras y diseños en el aire sin necesidad de impresora.",
     "por_que_comprarlo": [
@@ -297,7 +9,7 @@
       "Ideal para prototipos rápidos y proyectos educativos"
     ],
     "precio_referencia": "$3–4",
-    "imagen": "/img/impresion-3d__filamento/09.webp",
+    "imagen": "/img/impresion-3d__filamento/01.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007171187424.html",
     "badge": "El más vendido",
     "specs": [
@@ -319,12 +31,81 @@
       "orders": 10000,
       "rating": 4.9,
       "url": "https://www.aliexpress.com/item/1005007171187424.html",
-      "capturado": "2026-09-01",
-      "prevRank": 3
+      "capturado": "2026-10-01",
+      "prevRank": 9
     }
   },
   {
-    "rank": 10,
+    "rank": 2,
+    "nombre": "Bolsa para Filamento 3D",
+    "descripcion_corta": "Bolsa para Filamento 3D, Bolsa de Almacenamiento de Filamento Negra, Bolsa de Vacío para PLA, ABS, PETG, Bolsas de Sellado Resistentes a la Humedad, Mantie",
+    "por_que_comprarlo": [
+      "Está entre lo más pedido de su categoría en AliExpress (982 vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+    ],
+    "precio_referencia": "$4–5",
+    "imagen": "/img/impresion-3d__filamento/02.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010308747210.html",
+    "badge": null,
+    "specs": [],
+    "_src": {
+      "id": "1005010308747210",
+      "orders": 982,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005010308747210.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 3,
+    "nombre": "Bolsa de almacenamiento de filamentos para impresora 3D",
+    "descripcion_corta": "Bolsa de almacenamiento de filamentos para impresora 3D, bolsa de vacío PLA ABS PETG, secadora, bolsas de sellado resistentes a la humedad, mantiene el fil",
+    "por_que_comprarlo": [
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+    ],
+    "precio_referencia": "$2–4",
+    "imagen": "/img/impresion-3d__filamento/03.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007939312213.html",
+    "badge": null,
+    "specs": [],
+    "_src": {
+      "id": "1005007939312213",
+      "orders": 10000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007939312213.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 4,
+    "nombre": "Bolsas de Almacenamiento al Vacío para Filamento de Impresora…",
+    "descripcion_corta": "Bolsas de Almacenamiento al Vacío para Filamento de Impresora 3D PLA ABS TPU PETG de 1 kg, Mantienen el Material Seco, Evitan la Humedad, Bolsa Protectora ",
+    "por_que_comprarlo": [
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+    ],
+    "precio_referencia": "$1–3",
+    "imagen": "/img/impresion-3d__filamento/04.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005007984157055.html",
+    "badge": null,
+    "specs": [],
+    "_src": {
+      "id": "1005007984157055",
+      "orders": 10000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005007984157055.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 5,
     "nombre": "Filamento PLA para Bolígrafo 3D",
     "descripcion_corta": "Recambios de filamento PLA 1.75mm en múltiples colores para bolígrafos 3D, paquete económico de 3-32 colores.",
     "por_que_comprarlo": [
@@ -332,8 +113,8 @@
       "Disponible en sets de 10, 15 o 32 colores diferentes",
       "Longitud total de 96-320 pies según presentación elegida"
     ],
-    "precio_referencia": "$4–5",
-    "imagen": "/img/impresion-3d__filamento/10.webp",
+    "precio_referencia": "$5–7",
+    "imagen": "/img/impresion-3d__filamento/05.webp",
     "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006912448404.html",
     "badge": "Mejor calidad-precio",
     "specs": [
@@ -355,8 +136,136 @@
       "orders": 10000,
       "rating": 4.8,
       "url": "https://www.aliexpress.com/item/1005006912448404.html",
-      "capturado": "2026-09-01",
-      "prevRank": 7
+      "capturado": "2026-10-01",
+      "prevRank": 10
+    }
+  },
+  {
+    "rank": 6,
+    "nombre": "Nivel de entrada de impresora 3D EasyThreed compatible con…",
+    "descripcion_corta": "Nivel de entrada de impresora 3D EasyThreed compatible con filamento PLA TPU de 1,75 mm incluye adaptador de corriente.",
+    "por_que_comprarlo": [
+      "Está entre lo más pedido de su categoría en AliExpress (10.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+    ],
+    "precio_referencia": "$75–90",
+    "imagen": "/img/impresion-3d__filamento/06.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008429979494.html",
+    "badge": "Ticket alto",
+    "specs": [],
+    "_src": {
+      "id": "1005008429979494",
+      "orders": 10000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008429979494.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 7,
+    "nombre": "ESUN PLA Basic Alta Velocidad 1 kg",
+    "descripcion_corta": "Filamento PLA de alta velocidad compatible con Bambu Lab, bobina 1kg optimizado para impresión rápida.",
+    "por_que_comprarlo": [
+      "Especialmente optimizado para impresoras Bambu Lab A1",
+      "Formulación de alta velocidad que reduce tiempos de impresión",
+      "Calidad básica confiable con buena consistencia dimensional"
+    ],
+    "precio_referencia": "$25–29",
+    "imagen": "/img/impresion-3d__filamento/07.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005006777858861.html",
+    "badge": null,
+    "specs": [
+      {
+        "k": "Material",
+        "v": "PLA Basic"
+      },
+      {
+        "k": "Diámetro",
+        "v": "1.75 mm"
+      },
+      {
+        "k": "Peso",
+        "v": "1 kg"
+      }
+    ],
+    "_src": {
+      "id": "1005006777858861",
+      "orders": 4000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005006777858861.html",
+      "capturado": "2026-10-01",
+      "prevRank": 8
+    }
+  },
+  {
+    "rank": 8,
+    "nombre": "Filamento PLA para Impresora 3D ESUN",
+    "descripcion_corta": "Filamento PLA para Impresora 3D ESUN, 1.75mm, 1KG, Arcoíris Mate, Filamento PLA 3D para Bambu Lab, Material de Impresión 3D PLA Mate de Color Arcoíris",
+    "por_que_comprarlo": [
+      "Está entre lo más pedido de su categoría en AliExpress (2.000+ vendidos).",
+      "Calificación de 4.9/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+    ],
+    "precio_referencia": "$28–35",
+    "imagen": "/img/impresion-3d__filamento/08.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005008233549222.html",
+    "badge": null,
+    "specs": [],
+    "_src": {
+      "id": "1005008233549222",
+      "orders": 2000,
+      "rating": 4.9,
+      "url": "https://www.aliexpress.com/item/1005008233549222.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 9,
+    "nombre": "ESUN-filamento PLA para impresora 3D",
+    "descripcion_corta": "ESUN-filamento PLA para impresora 3D,High-Speed carrete de Material de impresión, precisión Dimensional de 1,75mm +/-0,03mm, 1KG (2,2 libras) Fast Printing",
+    "por_que_comprarlo": [
+      "Está entre lo más pedido de su categoría en AliExpress (5.000+ vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+    ],
+    "precio_referencia": "$26–30",
+    "imagen": "/img/impresion-3d__filamento/09.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005001298882187.html",
+    "badge": null,
+    "specs": [],
+    "_src": {
+      "id": "1005001298882187",
+      "orders": 5000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005001298882187.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
+    }
+  },
+  {
+    "rank": 10,
+    "nombre": "Lápiz de Impresión 3D",
+    "descripcion_corta": "Lápiz de Impresión 3D, Filamento PLA 3D de 1.75mm, 32 Colores con Varias Combinaciones de Set a Elegir para Material de Lápiz 3D",
+    "por_que_comprarlo": [
+      "Está entre lo más pedido de su categoría en AliExpress (3.000+ vendidos).",
+      "Calificación de 4.8/5 según los compradores.",
+      "Toca el botón para ver precio del día, fotos reales y opiniones antes de comprar."
+    ],
+    "precio_referencia": "$4–5",
+    "imagen": "/img/impresion-3d__filamento/10.webp",
+    "link_afiliado": "https://s.click.aliexpress.com/deep_link.htm?aff_short_key=_c4sIHNAn&dl_target_url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005010746472182.html",
+    "badge": null,
+    "specs": [],
+    "_src": {
+      "id": "1005010746472182",
+      "orders": 3000,
+      "rating": 4.8,
+      "url": "https://www.aliexpress.com/item/1005010746472182.html",
+      "capturado": "2026-10-01",
+      "prevRank": null
     }
   }
 ]
